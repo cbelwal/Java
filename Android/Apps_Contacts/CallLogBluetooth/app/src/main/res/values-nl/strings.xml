@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Call Log Bluetooth </string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">
+        Call Log Bluetooth is een app die u tijd en stress met haar krachtige bekijken en Bluetooth Transfer mogelijkheden bespaart.
+
+        Deze call log app is tevens voorzien van de handige functies zoals enkele tik kiezen en enkele Tik Google zoeken van eventuele number.\n\n The Call Log Bluetooth app kunt bekijken van de oproep logs door verschillende typen zoals duur en locatie. 100, 500 of alle opgeslagen kan worden weergegeven op elk gewenst moment vraaglogboeken. De app heeft ook krachtige filter mogelijkheden waarmee u kunt Zie oproepen logboeken sommige specifieke locatie of duur.
+    </string>
+</resources>

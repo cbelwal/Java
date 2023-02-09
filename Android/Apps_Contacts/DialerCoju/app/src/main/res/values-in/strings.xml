@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju Dialer</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">
+        Coju Dialer adalah terpadu dialer app yang menghemat waktu dan stres dengan panggilan yang kuat, melihat, ekspor/impor dan kemampuan berbagi. Ada tidak ada dialer app seperti Coju Dialer dan itu adalah suatu keharusan untuk setiap ponsel Android atau tablet.\n\n dialer ini juga dilengkapi dengan fitur-fitur berguna panggilan satu Tekan dan tekan satu pencarian Google dari setiap number.\n\n dialer app memungkinkan Anda untuk melihat log panggilan dengan jenis yang berbeda termasuk durasi dan lokasi. Ia bisa menampilkan 100, 500 atau semua disimpan log panggilan setiap saat. App juga memiliki kemampuan penyaring yang kuat yang memungkinkan Anda untuk melihat log panggilan dari lokasi tertentu atau durasi.
+    </string>
+</resources>

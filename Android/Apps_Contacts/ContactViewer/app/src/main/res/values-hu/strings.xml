@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Névjegyzék-nézet</string>
+  <string name="message_tellafriend">Ez app névjegyek szűréséhez, megoszthatja majd keresztül vCard, és frissítse beállítások, mint a \'Send Voicemail\ \".
+    Az app is azt mutatja, hogy hányszor hívott egy névjegyet, és mikor utoljára hívott (még akkor is, ha volt néhány évvel ezelőtt). Hívásokat a kapcsolattartó képre kattintva is elvégezheti.
+    Próbálja ki!</string>
+</resources>

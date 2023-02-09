@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Back-contacten</string>
+  <string name="message_backup_contacts">Wilt u nu een back-up voor alle contacten?</string>
+  <string name="message_tellafriend">
+        Uw contactpersonen zijn waarschijnlijk de belangrijkste informatie in uw telefoon, en het duurt een heleboel tijd om te bouwen tot een lijst met contactpersonen.
+        U wilt niet om ze te verliezen als uw telefoon verloren krijgt of u per ongeluk alle contactpersonen verwijdert.
+
+        Dit is waar dit app komt te spelen. Het kan back-up alle contactpersonen in een bestand en kunt u het back-upbestand plaatsen op je telefoon, of op het Internet in uw eigen privé e-mail of de wolk. Gebruik van de herstelfunctie van dit app, kan het back-upbestand om te herstellen van contacten in elk Android apparaat, op elk gewenst moment worden gebruikt.
+
+        Er zijn andere apps die er zijn die heffing u een jaarlijkse vergoedingen aan uw contacten opslaan in de cloud, maar je niet hoeft te betalen van de vergoeding, omdat je al gratis e-mail en cloud opslag met verschillende gratis aanbieders zoals Google, en dit app staat u toe
+        hefboomeffect uw gratis accounts.
+
+        Download deze app nu en krijg de gemoedsrust dat uw contactpersonen altijd veilig zal zijn!
+        </string>
+  <string name="message_backup_stored_freeversion">
+        Gratis versie kunt u alleen back-up van maximaal 90 contacten.
+        Contacten hebben is een back-up in een bestand:
+    </string>
+  <string name="message_help_startup">
+        Open het navigatiemenu in de linkerbovenhoek om Backup and Restore opties te bekijken
+    </string>
+</resources>

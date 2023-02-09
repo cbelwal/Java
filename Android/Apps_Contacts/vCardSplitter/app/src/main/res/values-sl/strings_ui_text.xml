@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Splošna</string>
+  <string name="nav_menu_group_help">pomoč</string>
+  <string name="display_options_refresh">Osveži</string>
+  <string name="nav_menu_group_views">Pogled</string>
+  <string name="nav_menu_rate_this_app">Povratne informacije</string>
+  <string name="nav_menu_upgrade">Vzpenjajoč se v zagovornik predloga prevod</string>
+  <string name="nav_menu_tellafriend">Povej prijatelju</string>
+  <string name="nav_menu_feedback">Obrnite Dasmic</string>
+  <string name="nav_menu_demovideo">Demonstracija televizija</string>
+  <string name="nav_menu_coju">Travnato gričevje Coju</string>
+</resources>

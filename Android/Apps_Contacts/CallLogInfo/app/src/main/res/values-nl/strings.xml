@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Call Log Manager </string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="message_tellafriend">
+        Call Log Manager is een geïntegreerde call log app die u bespaart tijd en stress met haar krachtige bekijken, back-up, export/import, delen, toevoegen en bewerken van mogelijkheden. Er is geen oproep log app zoals Call Log Manager en het is een must voor elke Android telefoon hebben of tablet.\n\n deze oproep log app is tevens voorzien van de handige functies van enkele tik kiezen en enkele Tik Google zoeken van eventuele number.\n\n The Call Log Manager app kunt bekijken van de oproep logs door verschillende typen zoals duur en locatie. 100, 500 of alle opgeslagen kan worden weergegeven op elk gewenst moment vraaglogboeken. De app heeft ook krachtige filter mogelijkheden waarmee u kunt Zie oproepen logboeken sommige specifieke locatie of duur.
+    </string>
+</resources>

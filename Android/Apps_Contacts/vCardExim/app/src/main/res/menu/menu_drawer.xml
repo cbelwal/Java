@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/nav_menu_group_views" android:visible="true">
+        <menu>
+            <item android:id="@+id/nav_view_unblocked_contacts"
+                android:title="@string/display_options_non_blocked"
+                android:icon="@drawable/ic_account_circle_black_48dp"
+                android:visible="false"/>
+            <item android:id="@+id/nav_view_blocked_contacts"
+                android:title="@string/display_options_blocked"
+                android:icon="@drawable/ic_block_black_48dp"
+                android:visible="false"/>
+            <item android:id="@+id/nav_view_lastcontacttime"
+            android:title="@string/display_options_all_last_contact"
+            android:icon="@drawable/ic_account_circle_black_48dp"
+            android:visible="false"/>
+        <item android:id="@+id/nav_view_timescontacted"
+            android:title="@string/display_options_all_TimesContacted"
+            android:icon="@drawable/ic_account_circle_black_48dp"
+            android:visible="false"/>
+        <item android:id="@+id/nav_view_all"
+            android:title="@string/display_options_all"
+            android:icon="@drawable/ic_account_circle_black_48dp"
+            android:visible="false"/>
+        <item android:id="@+id/nav_view_email"
+            android:title="@string/display_options_email"
+            android:icon="@drawable/ic_account_circle_black_48dp"
+            android:visible="false"/>
+        <item android:id="@+id/nav_view_phonenumber"
+            android:title="@string/display_options_phonenumber"
+            android:icon="@drawable/ic_account_circle_black_48dp"
+            android:visible="false"/>
+        <item android:id="@+id/nav_view_deleted"
+                android:title="@string/display_options_deleted"
+                android:icon="@drawable/ic_delete_black_48dp"
+                android:visible="false"/>
+         <item android:id="@+id/nav_view_filter"
+                android:title="@string/nav_menu_filter"
+                android:orderInCategory="11"
+                android:icon="@drawable/ic_filter_list_black_48dp"/>
+        <item android:id="@+id/nav_view_refresh"
+                android:title="@string/display_options_refresh"
+                android:icon="@drawable/ic_refresh_black_48dp"
+                android:visible="true"/>
+        </menu>
+    </item>
+
+
+    <item android:title="@string/nav_menu_group_viewoptions" android:visible="false">
+        <menu>
+            <item android:id="@+id/nav_view_duplicates"
+                android:title="@string/nav_menu_duplicates"
+                android:orderInCategory="15"
+                android:icon="@drawable/ic_group_work_black_48dp"
+                android:visible="true"/>
+        </menu>
+    </item>
+    <item android:title="@string/nav_menu_group_backup" android:visible="false">
+        <menu>
+            <item android:id="@+id/nav_view_backup_contacts"
+                android:title="@string/nav_menu_backup_contacts"
+                android:icon="@drawable/ic_settings_backup_restore_black_48dp"/>
+            <item android:id="@+id/nav_view_restore_contacts"
+                android:title="@string/nav_menu_restore_contacts"
+                android:icon="@drawable/ic_restore_black_48dp"/>
+        </menu>
+    </item>
+    <item android:title="@string/nav_menu_group_help">
+        <menu>
+            <item android:id="@+id/nav_view_demo_video"
+                android:title="@string/nav_menu_demovideo"
+                android:icon="@drawable/ic_ondemand_video_black_48dp"/>
+            <item android:id="@+id/nav_view_help_documentation"
+                android:title="@string/nav_menu_help_doc"
+                android:icon="@drawable/ic_help_black_48dp"/>
+        </menu>
+    </item>
+    <item android:title="@string/nav_menu_group_general">
+        <menu>
+            <item android:id="@+id/nav_view_coju_outlook"
+                android:title="@string/nav_menu_coju_outlook"
+                android:icon="@drawable/ic_email_black_48dp"/>
+            <item android:id="@+id/nav_view_coju"
+                android:title="@string/nav_menu_coju"
+                android:icon="@drawable/ic_link_black_48dp"/>
+            <item android:id="@+id/nav_view_tell_a_friend"
+                android:title="@string/nav_menu_tellafriend"
+                android:icon="@drawable/ic_link_black_48dp"/>
+            <item android:id="@+id/nav_view_rate_this_app"
+                android:title="@string/nav_menu_rate_this_app"
+                android:icon="@android:drawable/btn_star"/>
+            <item android:id="@+id/nav_view_feedback"
+                android:title="@string/nav_menu_feedback"
+                android:icon="@drawable/ic_feedback_black_48dp"/>
+            <item android:id="@+id/nav_view_upgrade_paid_version"
+                android:title="@string/nav_menu_upgrade"
+                android:icon="@drawable/ic_shop_black_48dp"
+                android:visible="true"
+                />
+        </menu>
+    </item>
+</menu>

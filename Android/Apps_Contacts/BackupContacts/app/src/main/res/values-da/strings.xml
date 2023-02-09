@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Sikkerhedskopi kontakter</string>
+  <string name="message_backup_contacts">Vil du Backup af alle kontakter nu?</string>
+  <string name="message_tellafriend">
+        Dine kontaktpersoner er sandsynligvis de vigtigste oplysninger i telefonen, og det tager en masse tid til at opbygge en liste over kontaktpersoner.
+        Du ønsker ikke at miste dem, hvis telefonen bliver tabt, eller du tilfældigvis fjerne alle dine kontakter.
+
+        Dette er, hvor denne app kommer til at spille. Det kan sikkerhedskopiere alle dine kontaktpersoner i en fil og tillader dig at placere sikkerhedskopien af filen på telefonen eller på internettet i din egen private e-mail eller cloud. Ved hjælp af funktionen Systemgendannelse i denne app, kan sikkerhedskopien af filen bruges til at gendanne kontaktpersoner i nogen Android-enhed, når som helst.
+
+        Der er andre apps derude at opkræver dig en årlige gebyrer til at gemme dine kontaktpersoner i skyen, men du ikke skal betale gebyr, da du allerede får gratis email og lagring i skyen med flere gratis udbydere som Google, og denne app giver dig mulighed for
+        at udnytte din gratis konti.
+
+        Download denne app nu og få ro i sindet, at dine kontakter vil altid være sikker!
+        </string>
+  <string name="message_backup_stored_freeversion">
+        Gratis version kun tillader backup af op til 90 kontakter.
+        Kontaktpersoner er blevet sikkerhedskopieret i filen:
+    </string>
+  <string name="message_help_startup">
+        Åbne menuen Navigation i øverste venstre til at få vist indstillinger for sikkerhedskopiering og gendannelse
+    </string>
+</resources>

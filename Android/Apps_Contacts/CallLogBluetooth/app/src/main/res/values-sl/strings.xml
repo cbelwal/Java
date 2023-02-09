@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Klic dnevnik Bluetooth </string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">
+        Klic dnevnik Bluetooth je app, ki vam prihrani čas in stresa s svojo močno ogled in prenos Bluetooth zmogljivosti.
+
+        Ta klic dnevnik app tudi prihaja z priročno funkcije, kot so enojni tap klicanje in enojni tap Google iskanje vse number.\n\n klic dnevnik Bluetooth app vam omogoča, da klic hlodi z različnih vrst, vključno s trajanjem in lokacijo. To moči izložba 100, 500 ali vse shranjene klic hlodi kadarkoli. App ima tudi močan filtrov zmogljivosti, ki vam omogočajo, da si oglejte dnevnike klicev nekaj posamezno lokacijo ali trajanje.
+    </string>
+</resources>

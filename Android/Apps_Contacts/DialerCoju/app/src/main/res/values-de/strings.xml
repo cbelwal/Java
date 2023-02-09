@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju Dialer</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">
+        Coju Dialer ist eine integrierte Dialer app, die spart Ihnen Zeit und Stress mit seiner mächtigen Dialing, Anzeige, Export/Import und sharing-Funktionen. Es gibt keine Dialer app wie Coju Dialer und es ist ein muss für jeden Android-Handy oder tablet.\n\n diese Dialer kommt auch mit den praktischen Funktionen des einzigen Fingertipp wählen und Fingertipp-Google-Suche von jeder number.\n\n die Dialer-app Sie Anrufprotokolle durch verschiedene Arten einschließlich Dauer und Ort anzeigen können haben. Es kann anzeigen, 100, 500 oder alle gespeicherten Protokolle jederzeit anrufen. Die app hat auch leistungsstarke Filterfunktionen können Anrufe Protokolle aus bestimmten Ort oder Dauer zu sehen.
+    </string>
+</resources>

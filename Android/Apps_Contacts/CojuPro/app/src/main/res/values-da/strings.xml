@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju</string>
+  <string name="startup_message">Kontakter med telefonnummer er i forskellige farver</string>
+  <string name="message_tellafriend">
+        Denne app kan backup/gendanne kontaktpersoner, dele kontaktpersoner via vCard samt Bluetooth og eksportere og importere dem via CSV eller vCard-filer.
+        Det tillader jer hen til sikkerhedskopi kontakter skyen eller på du enheden og kan gendanne dem når som helst i enhver enhed.
+
+        Det viser også, hvor mange gange du kaldes en kontaktperson, når du sidst kaldes (selvom det var flere år siden), og har avanceret filtrering muligheder.
+        Det leveres også med en værktøjskasse til at slette dubletter samt mulighed for at gendanne slettede kontakter.</string>
+</resources>

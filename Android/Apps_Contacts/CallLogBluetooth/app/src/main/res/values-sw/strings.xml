@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Wito logi Bluetooth </string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">
+        Wito logi Bluetooth ni app ambayo inakuokoa muda na mfadhaiko na kuonyesha nguvu zake na uwezo wa kuhamisha Bluetooth.
+
+        Programu hii ya logi wito pia huja na vipengele handy kama upigaji simu bomba moja na bomba moja ya Tafuta na Google App ya simu logi Bluetooth yoyote number.\n\n utapata kuona magogo wito kwa aina mbalimbali ikiwa ni pamoja na muda na mahali. Ni kuonyesha 100, 500 au kuhifadhiwa wote wito magogo wakati wowote. Programu pia ina uwezo wa kichujio nguvu ambazo zinawawezesha ninyi kuona wito magogo baadhi ya mahali maalum au muda.
+    </string>
+</resources>

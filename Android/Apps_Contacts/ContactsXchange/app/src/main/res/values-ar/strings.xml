@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Xchange جهات الاتصال</string>
+  <string name="message_tellafriend">هذا التطبيق يجعل من السهل جداً لنقل جهات الاتصال إلى مختلف الروبوت الهواتف/أقراص عن طريق البلوتوث.
+        \n\nIt لا ينقل كل التفاصيل الاتصال فحسب بل أيضا بنقل صورة لجهة الاتصال. \n</string>
+  <string name="message_initial_launch">حدد جهات اتصال لإرسال، ثم انقر على أيقونة البلوتوث في أعلى اليمين</string>
+</resources>

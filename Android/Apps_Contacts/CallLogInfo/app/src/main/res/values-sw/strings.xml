@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Meneja wa logi wito </string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="message_tellafriend">
+        Meneja wa logi wito ni app wa logi wito jumuishi kwamba inakuokoa muda na dhiki na yake kuonyesha nguvu, chelezo, Hamisha/Leta, kushiriki, akiongeza na kuhariri uwezo. Kuna programu hakuna logi wito kama wito logi meneja na ni lazima kwa kila simu ya Android au tablet.\n\n programu hii ya logi wito pia huja na vipengele handy ya upigaji simu bomba moja na bomba moja ya Tafuta na Google App ya simu logi Meneja yoyote number.\n\n utapata kuona magogo wito kwa aina mbalimbali ikiwa ni pamoja na muda na mahali. Ni kuonyesha 100, 500 au kuhifadhiwa wote wito magogo wakati wowote. Programu pia ina uwezo wa kichujio nguvu ambazo zinawawezesha ninyi kuona wito magogo baadhi ya mahali maalum au muda.
+    </string>
+</resources>

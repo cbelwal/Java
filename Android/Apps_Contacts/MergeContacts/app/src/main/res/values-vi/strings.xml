@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Nhập địa chỉ liên hệ</string>
+  <string name="display_options_all_last_contact">Kết hợp contact(s)</string>
+  <string name="display_options_all">Mở rộng contact(s)</string>
+  <string name="message_on_load_toast">Đang hiển thị mở rộng danh sách liên lạc</string>
+  <string name="message_on_load_dialog">Để nhập danh bạ, kiểm tra nhiều số liên lạc và chọn \'Merge Contacts\ \' tùy chọn từ trên bên phải. Tất cả danh bạ chọn sẽ được sáp nhập vào số liên lạc đã được chọn đầu tiên</string>
+  <string name="message_tellafriend">
+        Ứng dụng hữu ích này đơn giản hóa danh bạ bằng sáp nhập các thông tin chi tiết liên lạc như số điện thoại, địa chỉ email và địa chỉ bưu điện vào một trong những.
+
+        Điều này giúp bạn tiết kiệm rất nhiều thời gian như một chỉ cách khác là để di chuyển các chi tiết liên lạc bằng tay, và sau đó xóa các địa chỉ liên lạc khác.
+
+        Ngoài việc này, bạn cũng có thể thêm/chỉnh sửa số liên lạc, làm cuộc gọi, gửi tin nhắn và tìm kiếm các địa chỉ liên lạc.</string>
+</resources>

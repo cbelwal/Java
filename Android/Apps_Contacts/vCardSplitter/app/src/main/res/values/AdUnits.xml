@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Test Ad Unit Id: ca-app-pub-3940256099942544/6300978111-->
+    <!--Actual ca-app-pub-9753635985824736/5780318808-->
+    <string name="ActivityMain_banner_ad_unit_id" translatable="false">
+        ca-app-pub-9753635985824736/5780318808</string>
+    <string name="ad_main_is_id" translatable="false">
+        ca-app-pub-9753635985824736/2835750408</string>
+</resources>

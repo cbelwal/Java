@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Dubbletter för WhatsApp</string>
+  <string name="message_tellafriend">Med denna app kan du Visa dubbla WhatsApp kontakter, markera och radera dem. WhatsApp dubblettkontakter identifieras av ett unikt färgschema som hjälper dig att visa värdet master och dess associerade dubbletter. Alla dubbletter är auto-valts för radering, men du har valet av un-välja dem ifall du vill behålla några av kontakterna.
+        Denna app kommer också med en dialer som gör att du kan ringa till dina kontakter och har också funktioner för att lägga till nya kontakter och redigera befintliga.</string>
+</resources>

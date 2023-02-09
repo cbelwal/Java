@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Genel</string>
+  <string name="nav_menu_group_help">Yardım</string>
+  <string name="display_options_refresh">Yenileme</string>
+  <string name="nav_menu_group_views">Görünüm</string>
+  <string name="nav_menu_rate_this_app">Geri bildirim</string>
+  <string name="nav_menu_upgrade">Terfi ettirmek için yandaş yorum</string>
+  <string name="nav_menu_tellafriend">Tell a friend</string>
+  <string name="nav_menu_feedback">İletişim Dasmic</string>
+  <string name="nav_menu_demovideo">Demo Video</string>
+  <string name="nav_menu_coju">Coju indir</string>
+</resources>

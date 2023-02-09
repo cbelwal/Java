@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        이 app는 지금 콜 로그 및 연락처 데이터를 액세스 하는 권한을 요청 합니다.
+        이러한 사용 권한은 기본 다이얼 러로 작동 하도록이 응용 프로그램에 필요한 이며, 다른 방식으로 사용 하지 않습니다. 우리가 심각 하 게 개인 정보를 매우, 그리고 콜 로그 및 연락처 데이터는 coju.mobi™,이 애플 리 케이이 션의 발행인을 포함 한 어떠한 당사자와 공유 되지 않습니다.
+    </string>
+</resources>

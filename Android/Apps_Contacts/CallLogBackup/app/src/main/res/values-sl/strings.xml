@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Varnostna kopija dnevnika klicev </string>
+  <string name="app_folder">CallLogBackup</string>
+  <string name="message_tellafriend">
+        Klic poleno prislon je najbolj preprost app v prislon vaš dnevnik klicev, v telefon ali v računu e-pošte ali oblak. Ima tudi močan ogledovanje, dodajanje in urejanje zmogljivosti. Ta klic dnevnik app tudi priti s priročne funkcije klicanja enojni tap in enojni tap Google search poljuben number.\n\n to app je treba za vsak Android telefon ali tablet.\n\n app vam omogoča, da klic hlodi z različnih vrst, vključno s trajanjem in lokacijo. To moči izložba 100, 500 ali vse shranjene klic hlodi kadarkoli. App ima tudi močan filtrov zmogljivosti kateri omogučiti vi zagledati poziva dnevniki, ki temelji na določeni lokaciji, trajanje ali dan.
+    </string>
+</resources>

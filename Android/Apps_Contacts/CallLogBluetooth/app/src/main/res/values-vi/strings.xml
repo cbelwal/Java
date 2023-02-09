@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Gọi đăng nhập Bluetooth </string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">
+        Call Log Bluetooth là một ứng dụng giúp bạn tiết kiệm thời gian và căng thẳng với xem mạnh mẽ và khả năng chuyển giao Bluetooth.
+
+        Ứng dụng đăng nhập cuộc gọi này cũng đi kèm với các tính năng tiện dụng như quay số duy nhất khai thác và tìm kiếm của Google đơn tap của bất kỳ The Call Log Bluetooth number.\n\n app cho phép bạn xem các bản ghi cuộc gọi của các loại khác nhau bao gồm cả thời gian và địa điểm. Nó có thể hiển thị 100, 500 hoặc được lưu trữ tất cả Nhật ký cuộc gọi bất cứ lúc nào. Ứng dụng này cũng có khả năng mạnh mẽ lọc cho phép bạn xem các bản ghi cuộc gọi, một số vị trí cụ thể hoặc thời gian thực hiện.
+    </string>
+</resources>

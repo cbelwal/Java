@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Backup contatti</string>
+  <string name="message_backup_contacts">Vuoi eseguire il Backup di tutti i contatti in questo momento?</string>
+  <string name="message_tellafriend">
+        I contatti sono probabilmente le più importanti informazioni sul telefono, e ci vuole un sacco di tempo per costruire una lista di contatti.
+        Non volete perderli se il telefono si perde o si rimuove accidentalmente tutti i tuoi contatti.
+
+        Questo è dove questa app entra in gioco. Esso può back-up tutti i tuoi contatti in un file e consente di posizionare il file di backup sul telefono o su Internet nel vostro email privata o cloud. Utilizzando la funzionalità di ripristino di questa applicazione, il file di backup utilizzabile per ripristinare i contatti in qualsiasi dispositivo Android, in qualsiasi momento.
+
+        Ci sono altre applicazioni là fuori che fanno pagare un tasse annuali per memorizzare i tuoi contatti nel cloud, ma non è necessario pagare la tassa poiché avrete già libero email e cloud storage con diversi provider gratuito come Google, e questa app ti permette di
+        per sfruttare il vostro account gratuito.
+
+        Scarica questa applicazione e ottenere la pace della mente che i contatti saranno sempre al sicuri!
+        </string>
+  <string name="message_backup_stored_freeversion">
+        Versione gratuita consente solo il backup dei contatti fino a 90.
+        Contatti sono stati sottoposti a backup nel file:
+    </string>
+  <string name="message_help_startup">
+        Aprire il menu di navigazione in alto a sinistra per visualizzare le opzioni di Backup e ripristino
+    </string>
+</resources>

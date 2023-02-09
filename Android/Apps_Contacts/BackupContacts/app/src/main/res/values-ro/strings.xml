@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Backup contacte</string>
+  <string name="message_backup_contacts">Doriţi să Backup toate contactele acum?</string>
+  <string name="message_tellafriend">
+        Contactele sunt, probabil, cea mai importanta informatie din telefon, si este nevoie de o mulţime de timp pentru a construi o listă de contacte.
+        Nu vrei să le piardă în cazul în care telefonul este pierdut, sau eliminaţi accidental toate contactele.
+
+        Acest lucru este în cazul în care acest app vine pentru a juca. Se poate de back-up toate contactele într-un fişier şi vă permite să plasaţi fişierul copie de rezervă pe telefon sau pe Internet în propriul e-mail privat sau nor. Utilizând caracteristica restaurare de acest app, fişierul copie de rezervă poate fi folosit pentru a restaura contactele în orice dispozitiv Android, oricand.
+
+        Există alte aplicaţii de acolo, că taxa unei taxe anuale pentru stocarea contactelor în cloud, dar nu trebuie să plătească taxa, din moment ce ai deja gratuit e-mail şi nor de stocare cu mai mulţi furnizori de liber ca Google, şi acest app vă permite
+        să impulsioneze conturile dumneavoastră gratuit.
+
+        Descărcaţi acest app acum şi să obţină pacea de spirit ca persoanele de contact vor fi întotdeauna în condiţii de siguranţă!
+        </string>
+  <string name="message_backup_stored_freeversion">
+        Versiunea gratuita permite doar rezervă de până la 90 de persoane de contact.
+        Contacte au fost backup în fişier:
+    </string>
+  <string name="message_help_startup">
+        Deschide meniul de navigare din stânga-sus pentru a vizualiza opţiunile de Backup şi restaurare
+    </string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Rehber görünümü</string>
+  <string name="message_tellafriend">Bu app ile filtre kişiler, paylaşabilir o zaman vCard yolu ile ve \'Send gibi ayarlarını güncelleştirmek için Voicemail\'.
+    Belgili tanımlık app da kaç kez bir kişi olarak adlandırılan ve (birkaç yıl önce olsa bile) son aradığında gösterir. Kişi resmini tıklatarak da arama yapabilirsiniz.
+    Denemek o dışarı!</string>
+</resources>

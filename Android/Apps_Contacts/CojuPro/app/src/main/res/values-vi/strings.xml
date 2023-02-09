@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju</string>
+  <string name="startup_message">Liên hệ với số điện thoại trong màu sắc khác nhau</string>
+  <string name="message_tellafriend">
+        Ứng dụng này có thể sao lưu/khôi phục danh bạ, chia sẻ địa chỉ liên lạc qua vCard và Bluetooth, cũng như xuất khẩu và nhập khẩu cho họ thông qua tập tin CSV hoặc vCard.
+        Nó cho phép bạn sao lưu danh bạ trên mây hay trên bạn điện thoại và có thể khôi phục lại chúng bất cứ lúc nào trong bất kỳ thiết bị.
+
+        Nó cũng cho thấy bao nhiêu lần bạn được gọi là một số liên lạc khi bạn gọi là cuối (ngay cả khi nó đã một vài năm trước đây) và đã nâng cao lọc tùy chọn.
+        Nó cũng đi kèm với một bộ công cụ để xóa bản sao cũng như khả năng để khôi phục lại xóa số liên lạc.</string>
+</resources>

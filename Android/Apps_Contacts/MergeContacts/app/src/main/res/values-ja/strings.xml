@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">連絡先をマージします。</string>
+  <string name="display_options_all_last_contact">結合された連絡先</string>
+  <string name="display_options_all">拡張された連絡先</string>
+  <string name="message_on_load_toast">拡張された連絡先リストが表示</string>
+  <string name="message_on_load_dialog">マージ連絡先、複数の連絡先を確認し、\'Merge Contacts\ を選択する \' 右上からオプション。すべての連絡先を選択は、最初に選択した連絡先にマージされます。</string>
+  <string name="message_tellafriend">この便利なアプリは、電話番号、メール アドレス、住所などの連絡先詳細を 1 つにマージ連絡先リストを簡略化します。
+
+        これは手動で、連絡先の詳細を移動し、その他の連絡先を削除する唯一の方法は多くの時間を保存します。
+
+        このあなたから離れてすることも追加/編集連絡先電話、連絡先を検索してメッセージを送信します。</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Ehdot</string>
+  <string name="nav_menu_group_help">Apua</string>
+  <string name="display_options_refresh">Päivitä</string>
+  <string name="nav_menu_group_views">Näkymä</string>
+  <string name="nav_menu_rate_this_app">Palaute</string>
+  <string name="nav_menu_upgrade">Korottaa jotta ammattilainen käännös</string>
+  <string name="nav_menu_tellafriend">Kerro kaverille</string>
+  <string name="nav_menu_feedback">Ota yhteyttä Dasmic</string>
+  <string name="nav_menu_demovideo">Mielenosoitus televisio</string>
+  <string name="nav_menu_coju">Lataa Coju</string>
+</resources>

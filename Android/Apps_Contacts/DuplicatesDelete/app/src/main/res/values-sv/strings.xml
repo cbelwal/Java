@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Dubbletter Visa &amp; förstöra</string>
+  <string name="message_tellafriend">Med denna app kan du Visa dubbletter av kontakter, markera och ta bort dem. Dubblettkontakter identifieras av ett unikt färgschema som hjälper dig att Visa master värdet och dess associerade dubbletter. Alla dubbletter är auto-markerat för borttagning, men har du valet av un-välja dem ifall du vill behålla några av kontakterna.
+     Denna app också kommer med en dialer som gör att du kan ringa samtal till dina kontakter och har även funktioner för att lägga till nya kontakter och redigera befintliga.</string>
+</resources>

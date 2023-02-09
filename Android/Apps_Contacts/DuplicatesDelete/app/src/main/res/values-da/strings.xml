@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Dubletter Se &amp; ødelægge</string>
+  <string name="message_tellafriend">Med denne app kan du se dublerede kontakter, vælge og slette dem. Dublerede kontaktpersoner identificeres ved hjælp af en unik farveskema, som hjælper dig med at se den master værdi og dens tilknyttede dubletter. Alle dubletter er auto-valgt til sletning, men du har valget af un-vælge dem i tilfælde af at du ønsker at beholde nogle af kontakterne.
+     Denne app kommer også med en dialer, så du kan foretage opkald til kontakterne og også har funktioner til at tilføje nye kontakter og redigere eksisterende.</string>
+</resources>

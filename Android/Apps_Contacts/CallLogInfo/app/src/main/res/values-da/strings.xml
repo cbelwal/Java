@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Opkald Log Manager </string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="message_tellafriend">
+        Opkald Log Manager er en integreret opkald log app, der sparer dig tid og stress med sin kraftfulde visning, sikkerhedskopiering, eksport/import, deling, tilføjelse og redigering kapaciteter. Der er ingen opkald log app som Call Log Manager og det er et must have for hver Android telefon eller tablet.\n\n dette opkald log app leveres også med de smarte funktioner i enkelt tryk opkald og enkelt tryk Google ransage af hvilken som helst number.\n\n The Call Log Manager app kan du få vist kalde logs af forskellige typer, herunder varigheden og placering. Det kan vise 100, 500 eller alle gemte kalde logs til enhver tid. App\'en har også kraftfulde filter kapaciteter, som gør det muligt at se opkald logs nogle specifikke placering eller varighed.
+    </string>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Backup Contacts</string>
+    <string name="message_backup_contacts">Do you want to Backup all contacts now?</string>
+    <string name="message_tellafriend">
+        Your contacts are probably the most important information in your phone,
+        and it takes a lot of time to build up a contacts list.
+        You do not want to lose them if your phone gets lost, or you accidentally
+        remove all your contacts.
+
+        This is where this app comes in to play. It can back-up all
+        your contacts in a file and allows you to place the backup file on your phone, or
+        on the Internet in your own private email or cloud. Using the restore
+        feature of this app, the backup
+        file can be used to restore contacts in any Android device, anytime.
+
+        There are other apps out there that charge you an annual fees
+        to store your contacts in the cloud, but you do not need
+        to pay the fee since you already get free email and cloud storage
+        with several free providers like Google, and this app allows you
+        to leverage your free accounts.
+
+        Download this app now and get the peace of mind that your contacts
+        will always be safe!
+        </string>
+    <string name="message_backup_stored_freeversion">
+        Free version only allows backup of up to 90 contacts.
+        Contacts have been backed-up in file:
+    </string>
+    <string name="message_help_startup">
+        Open the Navigation menu in top-left to
+        view Backup and Restore options
+    </string>
+</resources>

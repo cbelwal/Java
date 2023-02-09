@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ActivityMain_banner_ad_unit_id">
+        ca-app-pub-9753635985824736/3179080001
+    </string>
+    <string name="ad_main_is_id" translatable="false">
+        ca-app-pub-9753635985824736/5687825204
+    </string>
+
+</resources>

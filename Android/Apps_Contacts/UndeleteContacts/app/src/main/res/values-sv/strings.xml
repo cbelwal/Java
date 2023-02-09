@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Outplåner kontakter</string>
+  <string name="message_tellafriend">Denna app kan undelete/återvinna borttagna kontakter från din enhet. Det kan du Visa borttagna kontakter och återställa dem.
+        Enda kontakter som sparas i ditt Google konto kan återställas, denna app kommer inte att kunna återställa dessa kontakter tas bort från SIM-kort eller din enhet.
+            Det kommer också med en dialer som visas när du klickar på en kontakt bild.
+        Dialekt kan du ringa/message någon av dina befintliga kontakter.</string>
+  <string name="message_initial_launch">Använd ikonen borttagna kontakter i navigeringsmeny för att Visa borttagna kontakter</string>
+  <string name="nav_view_all">Tillgängliga (outplåner) kontakter</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vCard Import Export</string>
+  <string name="message_tellafriend">
+        Dit is een zeer nuttige app om vCard-bestanden importeren en exporteren.
+        Het laat exporteren/importeren van zowel één als meerdere contactpersonen vCard-bestanden en ondersteunt vCard versie 2.1, 3,0 en 4.0.
+
+        Het ondersteunt ook een CSV-indeling voor importeren/exporteren geven u de flexibiliteit om te wijzigen de contacten bestanden in tools zoals Google blad, Microsoft Excel, enz.
+
+        Afgezien van deze u kunt ook contactpersonen toevoegen/bewerken, bellen, stuur bericht en zoeken naar contactpersonen.</string>
+</resources>

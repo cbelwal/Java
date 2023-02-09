@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">Split vCard fil</string>
+  <string name="message_importing_contacts">Importere kontaktpersoner...</string>
+  <string name="message_reading_import_file">Læser fil, kan dette tage flere minutter...</string>
+  <string name="button_Close">Luk</string>
+  <string name="button_browse">Gennemse</string>
+  <string name="button_Apply">Split</string>
+  <string name="text_selected_file_name">Valgte filnavn:</string>
+  <string name="text_selected_file_size">Valgte fil size(bytes):</string>
+  <string name="text_group_selected_file">Valgte vCard fildetaljer</string>
+  <string name="text_file_name">Navn:</string>
+  <string name="text_file_size">Size(bytes):</string>
+  <string name="text_file_contacts">Kontaktpersoner:</string>
+  <string name="text_unknown_file_size">Ukendt</string>
+  <string name="option_split_vcard">Split valgte vCard-fil i </string>
+  <string name="option_split_vcard_count">vCard fil(er)</string>
+  <string name="option_split_vcard_per_contact">Split til hver kontakt</string>
+  <string name="option_save_vcard">Gemme split vCard fil(er) </string>
+  <string name="option_save_vcard_external">Ekstern opbevaring</string>
+  <string name="option_save_vcard_share">Dele programmer (sky, email osv)</string>
+  <string name="message_other_permissions_missing">Ønskede tilladelser er nødvendige for denne app funktion til at arbejde.
+        Venligst give anmodede tilladelser, og prøv igen</string>
+  <string name="message_loading_files">Søger lokale mapper...</string>
+  <string name="message_import_invalid_file">Ikke en gyldig kontaktfil
+        </string>
+  <string name="message_split_ready">Kom klar til at opdele vCard-fil...
+        </string>
+  <string name="message_split_inprogress">Opdele vCard-fil...
+        </string>
+  <string name="message_select_file_first">
+        Vælg en vCard-fil opdele
+        </string>
+  <string name="message_split_number_invalid">
+        Antallet af opdelinger er ugyldig
+        </string>
+  <string name="message_split_freeversion">
+        I den GRATIS version er kun en splittelse i højst 10 filer tilladt
+        </string>
+  <string name="message_split_store_external">
+        Split vCard-filer er blevet placeret i eksterne mappe
+      </string>
+  <string name="message_error_splitting">
+        Fejl i opdele vCard-fil. Sørg for, at filen er gyldig.
+        </string>
+  <string name="message_error_contact_count">
+        Fejl i læsning antal kontakter fra vCard-filen. Sørg for, at filen er gyldig.
+        </string>
+</resources>

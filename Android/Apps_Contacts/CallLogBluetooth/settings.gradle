@@ -1,0 +1,5 @@
+include ':app'
+include ':support'
+include ':callloglib'
+project(':support').projectDir=new File("..\\..\\Libraries\\support\\support")
+project(':callloglib').projectDir=new File("..\\..\\Libraries\\callloglib\\app")

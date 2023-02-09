@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Spojiti stike</string>
+  <string name="display_options_all_last_contact">Kombinirani stike</string>
+  <string name="display_options_all">Razširjeni stike</string>
+  <string name="message_on_load_toast">Kazanje raztegniti imenik</string>
+  <string name="message_on_load_dialog">Spojiti stike, preverite več stikov in izberite v \'Merge Contacts\ \"predkupna pravica od zgoraj desno. Vsi stiki izberite spojijo v stik, ki je bil izbran prvi</string>
+  <string name="message_tellafriend">
+        To koristen app poenostavlja seznama stikov s spajanjem stikov podrobnosti, kot so telefonske številke, e-poštne naslove in poštne naslove v eno.
+
+        To vam prihrani veliko časa, kot le način je ročno premikati podrobnosti o kontaktnih osebah, in nato izbrišite druge stike.
+
+        Poleg tega boste tudi dodajanje/urejanje stikov, lahko klice, Pošlji sporočilo in Išči stike.</string>
+</resources>

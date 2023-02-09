@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">کارت مجازی تقسیم فایل</string>
+  <string name="message_importing_contacts">وارد کردن مخاطب (مخاطبین)...</string>
+  <string name="message_reading_import_file">خواندن فایل، این ممکن است چند دقیقه طول بکشد...</string>
+  <string name="button_Close">بستن</string>
+  <string name="button_browse">مرور</string>
+  <string name="button_Apply">اسپلیت</string>
+  <string name="text_selected_file_name">نام انتخاب شده:</string>
+  <string name="text_selected_file_size">پرونده انتخاب شده size(bytes):</string>
+  <string name="text_group_selected_file">انتخاب جزئیات پرونده vCard</string>
+  <string name="text_file_name">نام:</string>
+  <string name="text_file_size">Size(bytes):</string>
+  <string name="text_file_contacts">مخاطب (مخاطبین):</string>
+  <string name="text_unknown_file_size">ناشناخته</string>
+  <string name="option_split_vcard">تقسیم فایل های کارت مجازی انتخاب شده به </string>
+  <string name="option_split_vcard_count">پرونده های کارت ویزیت</string>
+  <string name="option_split_vcard_per_contact">برای هر مخاطب تقسیم</string>
+  <string name="option_save_vcard">ذخیره پرونده vCard تقسیم </string>
+  <string name="option_save_vcard_external">ذخیره سازی خارجی</string>
+  <string name="option_save_vcard_share">برنامه های کاربردی (ابر، ایمیل و غیره) به اشتراک بگذارید</string>
+  <string name="message_other_permissions_missing">درخواست مجوز برای استفاده از این ویژگی نرم افزار به کار مورد نیاز است.
+        دادن مجوز درخواست شده و دوباره سعی کنید</string>
+  <string name="message_loading_files">جستجوی پوشه های محلی...</string>
+  <string name="message_import_invalid_file">هنوز پرونده تماس معتبر
+        </string>
+  <string name="message_split_ready">آماده به تقسیم فایل کارت ویزیت...
+        </string>
+  <string name="message_split_inprogress">تقسیم فایل کارت ویزیت...
+        </string>
+  <string name="message_select_file_first">
+        لطفا فایل کارت ویزیت را به تقسیم را انتخاب کنید
+        </string>
+  <string name="message_split_number_invalid">
+        تعداد انشعابات نامعتبر است
+        </string>
+  <string name="message_split_freeversion">
+        در نسخه رایگان تنها تقسیم به حداکثر 10 فایل مجاز است
+        </string>
+  <string name="message_split_store_external">
+        تقسیم فایل های کارت مجازی در پوشه خارجی قرار داده شده
+      </string>
+  <string name="message_error_splitting">
+        خطا در تقسیم فایل کارت ویزیت. مطمئن شوید که پرونده معتبر است.
+        </string>
+  <string name="message_error_contact_count">
+        خطا در خواندن تعداد مخاطبین از فایل کارت ویزیت. مطمئن شوید که پرونده معتبر است.
+        </string>
+</resources>

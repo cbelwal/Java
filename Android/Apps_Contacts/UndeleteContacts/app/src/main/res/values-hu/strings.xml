@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Undelete kapcsolatok</string>
+  <string name="message_tellafriend">Ez app is undelete/talpra Törölt névjegyek az eszközről. Ez lehetővé teszi, hogy a Törölt névjegyek és visszaad őket.
+        Csak kapcsolatok, amelyeket a Google figyelembe vissza lehet állítani, ez app nem lesz képes-hoz visszaszerez törölt SIM-kártya vagy a készülék vagy a kapcsolattartókat.
+            Ez is jön-val egy tájszólás, ha rákattint egy kapcsolattartó kép látható.
+        A tárcsázó lehetővé teszi, hogy hívás/üzenet a meglévő kapcsolatok.</string>
+  <string name="message_initial_launch">Használja a Törölt névjegyek navigációs menü Törölt névjegyek</string>
+  <string name="nav_view_all">Rendelkezésre álló (törölt) kapcsolatok</string>
+</resources>

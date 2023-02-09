@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vCard Splitter</string>
+  <string name="message_tellafriend">
+        Büyük bildiğiniz gibi vCard dosyalarını Android telefonlar veya Microsoft Outlook gibi uygulamalar bile almak zor olabilir.
+        Birden fazla kişi ile büyük vCard dosyası aktarma veya ithalat kolayca birden çok daha küçük vCard dosyasına kırmak iyi olmaz mıydı?
+        VCard Splitter app şimdi yardım için burada.
+
+        Bu vCard Splitter app tek vCard dosyası birden çok vCard dosyasına bölerek olanak tanır ve içine bölmek için kaç vCard dosya belirtebilirsiniz. İlgili kişileri her dosya arasında eşit olarak bölünür.
+
+        Sen de kolayca kişileri Microsoft Outlook gibi birden fazla kişi ile vCard dosyalarını içe aktarmak mümkün olmayabilir programları almak izin her kişi kendi bireysel vCard dosyasına ayırabilirsiniz.
+        
+        Bu app bugün deneyin.
+        </string>
+</resources>

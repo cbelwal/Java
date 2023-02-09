@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vKadi Splitter</string>
+  <string name="message_tellafriend">
+        Kama unaweza kujua kubwa faili za vKadi inaweza kuwa vigumu kuleta katika simu za Android, au hata katika maombi kama Microsoft Outlook.
+        Si itakuwa nzuri kuvunja jalada la vKadi kubwa na wawasiliani kadhaa katika ndogo vKadi faili anuwai ambayo unaweza kuhamisha au kuagiza kwa urahisi?
+        VKadi Splitter programu ni sasa hapa kukusaidia na.
+
+        Programu hii vKadi Splitter utapata Baidisha jalada la vKadi moja faili za vKadi anuwai, na unaweza kubainisha faili vKadi wangapi Baidisha. Wawasiliani zitagawanywa sawa kati ya kila faili.
+
+        Wewe unaweza pia Baidisha kila mwasiliani katika faili yake vKadi binafsi, kuruhusu kwa urahisi Leta wawasiliani katika programu ambayo inaweza kuwa uwezo wa Leta faili za vKadi na mawasiliano anuwai, kama Microsoft Outlook.
+        
+        Kujaribu nje ya programu tumizi hii leo.
+        </string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Undelete wawasiliani</string>
+  <string name="message_tellafriend">Programu hii inaweza undelete/kuokoa wawasiliani vilivyofutwa kutoka kwenye kifaa chako. Utapata kuona wawasiliani vilivyofutwa na kurejesha yao.
+        Wawasiliani wa pekee ambao ni kuokolewa katika Google yako akaunti unaweza kurejeshwa, programu tumizi hii hawataweza kupata wawasiliani hao kufutwa kutoka kadi ya SIM au kifaa chako.
+            Pia inakuja na Kipigaji ambayo huonyeshwa wakati wewe bonyeza picha ya mwasiliani.
+        Kipigaji na utapata wito/ujumbe yoyote ya wawasiliani wako iliyopo.</string>
+  <string name="message_initial_launch">Tumia ikoni ya wawasiliani ya Vifutwa katika Menyu ya Uabiri ili kuona wawasiliani vilivyofutwa</string>
+  <string name="nav_view_all">Mawasiliano zilizopo (Undeleted)</string>
+</resources>

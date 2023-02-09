@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju</string>
+  <string name="startup_message">Kapcsolattartás telefonszám van különböző színű</string>
+  <string name="message_tellafriend">
+        Ez app is biztonsági másolat/visszaállítás kapcsolatok, megosztani a névjegyek vCard és Bluetooth, valamint a kiviteli és importálni CSV vagy vCard fájlokat keresztül.
+        Ez lehetővé teszi, hogy a felhő, vagy a biztonsági másolat kapcsolatok az eszköz, és vissza tudja állítani őket bármikor bármely eszköz.
+
+        Ez is azt mutatja, hogy hányszor hívják a kapcsolatot, amikor utoljára hívott (még akkor is, ha volt néhány évvel ezelőtt) és a fejlett szűrési lehetőségek.
+        Ez is jön-val egy szerszám-törli a duplikált elemek, valamint a képesség, hogy a törölt ismerősök helyreállítása.</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju</string>
+  <string name="startup_message">연락처 전화 번호와는 다른 색상으로</string>
+  <string name="message_tellafriend">
+        이 애플 리 케이이 션 수 백업/복원 연락처, 공유 연락처 vCard 블루투스, 뿐만 아니라 수출 하 고 CSV 또는 vCard 파일을 통해 그들을 가져올.
+        그것은 수 있도록 장치를 백업 연락처에서 또는 당신에 하 고 어떤 장치에 그들을 언제 든 지 복원할 수 있습니다.
+
+        그것은 또한 얼마나 많은 시간 당신은 마지막 (경우에 그것은 몇 년 전)을 호출 하면 연락처 라는 보여줍니다 필터링 옵션 고급 있다.
+        그것은 또한 복원 삭제 된 연락처 기능 중복을 삭제 하는 도구 키트와 함께 온다.</string>
+</resources>

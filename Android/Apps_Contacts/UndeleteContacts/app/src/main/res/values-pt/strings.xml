@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Undelete contatos</string>
+  <string name="message_tellafriend">Este app pode undelete/recuperar contatos excluídos do seu dispositivo. Ele permite que você ver os contatos excluídos e restaurá-los.
+        Únicos contatos que são salvos no seu Google conta pode ser restaurada, este app não será capaz de recuperar esses contatos excluídos do cartão SIM ou o dispositivo.
+            Ele também vem com um discador que é exibido quando você clicar em uma imagem de contato.
+        O discador permite que você chamar/mensagem qualquer um dos seus contatos existentes.</string>
+  <string name="message_initial_launch">Use o ícone de contatos excluídos no Menu de navegação para ver os contatos excluídos</string>
+  <string name="nav_view_all">Contactos disponíveis (recuperados)</string>
+</resources>

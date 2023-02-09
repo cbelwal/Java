@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">呼叫日志管理器</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="message_tellafriend">呼叫日志管理器是一个以其强大的查看，备份、 导出/导入，而节省你时间与应力的综合电话查询日志应用程序共享、 添加和编辑功能。还有没有呼叫日志应用程序像调用日志管理器中，它是必须有每个 Android 手机或者 tablet.\n\n 这个呼叫日志应用程序还附带一个水龙头拨号和单龙头谷歌搜索任何 number.\n\n 呼叫日志管理器应用程序的方便的功能允许您查看通话记录的不同类型，包括持续时间和位置。它可以显示 100，500 或所有存储在任何时间通话记录。应用程序还具有强大的筛选功能，允许您查看呼叫日志一些特定位置或持续时间。
+    </string>
+</resources>

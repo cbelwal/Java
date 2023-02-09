@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Duplicates for WhatsApp</string>
+    <string name="message_tellafriend">With this app you can view duplicate WhatsApp contacts,
+            select and delete them. Duplicate WhatsApp contacts are identified by a unique color
+        scheme which helps you to view the master value and its associated duplicates. All duplicates
+        are auto-selected for deletion, but you have the choice of un-selecting them in case
+        you wish to keep some of the contacts.
+        This app also comes with a dialer allowing you to make calls to your contacts and also has features to
+        add new contacts and edit existing ones.</string>
+</resources>

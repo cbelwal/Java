@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Przywrócić kontakty</string>
+  <string name="message_tellafriend">Ta aplikacja może unieważnić kasowanie/Odzyskaj usunięte kontakty z urządzenia. Pozwala wyświetlić usunięte kontakty i przywrócić je.
+        Tylko kontakty, które są zapisywane w Google można przywrócić konto, ta aplikacja nie będzie w stanie odzyskać te kontakty usuwane z karty SIM lub urządzenia.
+            Ono także przyjechał rezygnować dialer, który jest wyświetlany po kliknięciu na zdjęcie kontaktu.
+        Dialer umożliwia połączenia/wiadomości, żadnego z istniejących kontaktów.</string>
+  <string name="message_initial_launch">Wykorzystanie elementów usuniętych ikonę kontakty w Menu nawigacji, aby wyświetlić usunięte kontakty</string>
+  <string name="nav_view_all">Dostępne kontakty (nieusuniętych)</string>
+</resources>

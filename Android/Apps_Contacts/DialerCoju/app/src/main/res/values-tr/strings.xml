@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju çevirici</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">
+        Coju çevirici onun güçlü arama, görüntüleme, dışa aktarma/içe aktarma ve paylaşım yetenekleri ile zaman ve stres kaydeder bir tümleşik Çeviricisi app\'s. Hiçbir Çeviricisi app Coju Dialer gibi olduğunu ve bu bir zorunluluktur olan her Android telefon veya bu çevirici da gelmek kullanışlı tek musluk çevirme özelliklerini ve tek musluk Google arama Çeviricisi app bırakmak sen süresi ve konum dahil olmak üzere farklı türleri tarafından arama günlüklerini görüntülemek herhangi bir number.\n\n ile tablet.\n\n. 100, 500 veya tüm saklı görüntüleyebilirsiniz ara günlükleri herhangi bir zamanda. Belgili tanımlık app Ayrıca bkz: aramalar günlükleri, belirli konumdan veya süresi izin güçlü filtre yetenekleri vardır.
+    </string>
+</resources>

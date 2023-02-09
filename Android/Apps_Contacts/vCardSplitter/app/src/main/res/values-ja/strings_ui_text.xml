@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">一般的です</string>
+  <string name="nav_menu_group_help">ヘルプ</string>
+  <string name="display_options_refresh">更新</string>
+  <string name="nav_menu_group_views">ビュー</string>
+  <string name="nav_menu_rate_this_app">フィードバック</string>
+  <string name="nav_menu_upgrade">Pro にアップグレード版</string>
+  <string name="nav_menu_tellafriend">友達に教える</string>
+  <string name="nav_menu_feedback">連絡先 Dasmic</string>
+  <string name="nav_menu_demovideo">デモ ・ ビデオ</string>
+  <string name="nav_menu_coju">Coju をダウンロードします。</string>
+</resources>

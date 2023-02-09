@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Bluetooth Log panggilan </string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">
+        Panggilan Log Bluetooth adalah sebuah aplikasi yang menghemat waktu dan stres dengan melihat kuat dan kemampuan Bluetooth Transfer.
+
+        Aplikasi log panggilan ini juga dilengkapi dengan fitur-fitur berguna seperti panggilan satu Tekan dan tekan satu pencarian Google dari aplikasi Call Log Bluetooth number.\n\n memungkinkan Anda untuk melihat log panggilan dengan jenis yang berbeda termasuk durasi dan lokasi. Ia bisa menampilkan 100, 500 atau semua disimpan log panggilan setiap saat. App juga memiliki kemampuan penyaring yang kuat yang memungkinkan Anda untuk melihat log panggilan beberapa lokasi tertentu atau durasi.
+    </string>
+</resources>

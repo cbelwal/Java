@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">Сплит vCard файл</string>
+  <string name="message_importing_contacts">Импорт контакт(а)...</string>
+  <string name="message_reading_import_file">Чтение файла, это может занять несколько минут...</string>
+  <string name="button_Close">Закрыть</string>
+  <string name="button_browse">Обзор</string>
+  <string name="button_Apply">Сплит</string>
+  <string name="text_selected_file_name">Имя выбранного файла:</string>
+  <string name="text_selected_file_size">Выбранный файл size(bytes):</string>
+  <string name="text_group_selected_file">Выбранные сведения о файле vCard</string>
+  <string name="text_file_name">Имя:</string>
+  <string name="text_file_size">Size(bytes):</string>
+  <string name="text_file_contacts">Контакты:</string>
+  <string name="text_unknown_file_size">Неизвестно</string>
+  <string name="option_split_vcard">Разбить выбранные vCard файл в </string>
+  <string name="option_split_vcard_count">файлы vCard</string>
+  <string name="option_split_vcard_per_contact">Сплит для каждого контакта</string>
+  <string name="option_save_vcard">Сохранить файлы vCard Сплит </string>
+  <string name="option_save_vcard_external">Внешние накопители</string>
+  <string name="option_save_vcard_share">Совместно использовать приложения (облако, электронная почта etc)</string>
+  <string name="message_other_permissions_missing">Запрошенные разрешения необходимы для работы этой функции приложения.
+        Просьба предоставить запрошенные разрешения и повторите попытку</string>
+  <string name="message_loading_files">Поиск локальных папок...</string>
+  <string name="message_import_invalid_file">Не допустимый файл контакта
+        </string>
+  <string name="message_split_ready">Готовясь разделить файл vCard...
+        </string>
+  <string name="message_split_inprogress">Разделение файла vCard...
+        </string>
+  <string name="message_select_file_first">
+        Пожалуйста, выберите файл vCard для разбиения
+        </string>
+  <string name="message_split_number_invalid">
+        Количество разбиений является недопустимым
+        </string>
+  <string name="message_split_freeversion">
+        В БЕСПЛАТНОЙ версии допускается только Pinopsida на максимум 10 файлов
+        </string>
+  <string name="message_split_store_external">
+        Сплит файлы vCard были помещены в внешней папке
+      </string>
+  <string name="message_error_splitting">
+        Ошибка в расщеплении файл vCard. Убедитесь, что файл является допустимым.
+        </string>
+  <string name="message_error_contact_count">
+        Ошибка чтения количества контактов из файла vCard. Убедитесь, что файл является допустимым.
+        </string>
+</resources>

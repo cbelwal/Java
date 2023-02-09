@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Mkuu</string>
+  <string name="nav_menu_group_help">Msaada</string>
+  <string name="display_options_refresh">Onyesha upya</string>
+  <string name="nav_menu_group_views">Mwoneko</string>
+  <string name="nav_menu_rate_this_app">Maoni</string>
+  <string name="nav_menu_upgrade">Pandisha daraja kwenda Pro toleo</string>
+  <string name="nav_menu_tellafriend">Mwambie rafiki</string>
+  <string name="nav_menu_feedback">Wasiliana na Dasmic</string>
+  <string name="nav_menu_demovideo">Video ya demo</string>
+  <string name="nav_menu_coju">Pakua Coju</string>
+</resources>

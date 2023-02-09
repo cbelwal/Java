@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">Split File vCard</string>
+  <string name="message_importing_contacts">Importazione contatti...</string>
+  <string name="message_reading_import_file">Lettura di file, questo potrebbe richiedere alcuni minuti...</string>
+  <string name="button_Close">Chiudere</string>
+  <string name="button_browse">Sfoglia</string>
+  <string name="button_Apply">Split</string>
+  <string name="text_selected_file_name">Nome del file selezionato:</string>
+  <string name="text_selected_file_size">Size(bytes) file selezionato:</string>
+  <string name="text_group_selected_file">Dettagli file vCard selezionata</string>
+  <string name="text_file_name">Nome:</string>
+  <string name="text_file_size">Size(bytes):</string>
+  <string name="text_file_contacts">Contatto (s):</string>
+  <string name="text_unknown_file_size">Unknown</string>
+  <string name="option_split_vcard">Divide il file vCard selezionata in </string>
+  <string name="option_split_vcard_count">file vCard</string>
+  <string name="option_split_vcard_per_contact">Dividere per ogni contatto</string>
+  <string name="option_save_vcard">Salvare il file vCard di Spalato </string>
+  <string name="option_save_vcard_external">Archiviazione esterna</string>
+  <string name="option_save_vcard_share">Condividere le applicazioni (Cloud, e-mail, ecc)</string>
+  <string name="message_other_permissions_missing">Autorizzazioni richieste sono necessarie per utilizzare questa funzionalità di app.
+        Si prega di dare autorizzazioni richieste e riprovare</string>
+  <string name="message_loading_files">Ricerca cartelle locali...</string>
+  <string name="message_import_invalid_file">Non un valido file di contatto
+        </string>
+  <string name="message_split_ready">Sempre pronto a dividere file vCard...
+        </string>
+  <string name="message_split_inprogress">Divisione file vCard...
+        </string>
+  <string name="message_select_file_first">
+        Si prega di selezionare un file vCard per dividere
+        </string>
+  <string name="message_split_number_invalid">
+        Numero di divisioni è non valido
+        </string>
+  <string name="message_split_freeversion">
+        Nella versione GRATUITA è consentita solo una spaccatura in massimi 10 file
+        </string>
+  <string name="message_split_store_external">
+        Split file vCard file sono stati inseriti nella cartella esterna
+      </string>
+  <string name="message_error_splitting">
+        Errore nel dividere file vCard. Assicurarsi che il file è valido.
+        </string>
+  <string name="message_error_contact_count">
+        Errore nella lettura del numero di contatti da file vCard. Assicurarsi che il file è valido.
+        </string>
+</resources>

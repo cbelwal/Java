@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">Split vCard failu</string>
+  <string name="message_importing_contacts">Kontakts (i) importēšana...</string>
+  <string name="message_reading_import_file">Lasot failu, tas var ilgt vairākas minūtes...</string>
+  <string name="button_Close">Aizveriet</string>
+  <string name="button_browse">Pārlūkot</string>
+  <string name="button_Apply">Split</string>
+  <string name="text_selected_file_name">Atlasītā faila nosaukums:</string>
+  <string name="text_selected_file_size">Atlasīto failu size(bytes):</string>
+  <string name="text_group_selected_file">Izvēlēta vCard faila detaļas</string>
+  <string name="text_file_name">vārds:</string>
+  <string name="text_file_size">Size(bytes):</string>
+  <string name="text_file_contacts">Kontakts (i):</string>
+  <string name="text_unknown_file_size">Nezināms</string>
+  <string name="option_split_vcard">Split atlasīto vCard failu programmā </string>
+  <string name="option_split_vcard_count">vCard fails (i)</string>
+  <string name="option_split_vcard_per_contact">Sadalīt katram kontaktam</string>
+  <string name="option_save_vcard">Saglabāt sadalīt vCard failu (s) </string>
+  <string name="option_save_vcard_external">Ārējās atmiņas</string>
+  <string name="option_save_vcard_share">Koplietot lietojumprogrammas (Cloud, e-pasts u.c.)</string>
+  <string name="message_other_permissions_missing">Pieprasītais atļaujas ir nepieciešamas šo app līdzekli strādāt.
+        Lūdzu piešķirt pieprasītās atļaujas un mēģiniet vēlreiz</string>
+  <string name="message_loading_files">Lokālās mapes meklēšana...</string>
+  <string name="message_import_invalid_file">Nav derīgs kontaktpersonu fails
+        </string>
+  <string name="message_split_ready">Gatavojas sadalīt vCard failu...
+        </string>
+  <string name="message_split_inprogress">Sadalot vCard failu...
+        </string>
+  <string name="message_select_file_first">
+        Lūdzu, atlasiet vCard failu sadalīšana
+        </string>
+  <string name="message_split_number_invalid">
+        Izirst numurs nav derīgs
+        </string>
+  <string name="message_split_freeversion">
+        BEZMAKSAS versija ir atļauta tikai sadalīta maksimāli 10 attēli
+        </string>
+  <string name="message_split_store_external">
+        Split vCard failus ir ievietota ārējā mapē
+      </string>
+  <string name="message_error_splitting">
+        Sadalot vCard failu, radās kļūda. Pārliecinieties, vai fails ir derīgs.
+        </string>
+  <string name="message_error_contact_count">
+        Kontaktu no vCard faila lasīšanas skaitu, radās kļūda. Pārliecinieties, vai fails ir derīgs.
+        </string>
+</resources>

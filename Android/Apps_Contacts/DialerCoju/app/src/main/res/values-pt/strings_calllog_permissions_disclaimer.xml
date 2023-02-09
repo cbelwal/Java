@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        Este app agora irá solicitar permissões para acessar seus dados de contatos e registro de chamada.
+        Essas permissões são necessárias para que este app funciona como um discador padrão e não se destinam a ser usado de qualquer outra forma. Nós levamos sua privacidade muito a sério, e seus dados de log e contatos de chamada não serão compartilhados com qualquer festa, incluindo coju.mobi™, os editores deste app.
+    </string>
+</resources>

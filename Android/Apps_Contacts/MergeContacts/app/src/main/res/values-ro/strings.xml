@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Îmbinare contacte</string>
+  <string name="display_options_all_last_contact">Persoana de contact combinate</string>
+  <string name="display_options_all">Persoana de contact extins</string>
+  <string name="message_on_load_toast">Lista de contacte extinse care prezintă</string>
+  <string name="message_on_load_dialog">Îmbinare contacte, verifica mai multe contacte şi selectaţi \'Merge Contacts\' opţiune din dreapta-sus. Selectaţi toate contactele vor fi fuzionate în contact, care a fost ales primul</string>
+  <string name="message_tellafriend">
+        Acest app utile simplifică lista de contacte, prin fuzionarea contacte detalii cum ar fi numere de telefon, adrese de email şi adrese poştale într-o singură.
+
+        Aceasta salva o mulţime de timp ca numai altă modalitate este de a muta detalii contact manual, şi apoi ştergeţi celelalte contacte.
+
+        În afară de acest lucru vă poate, de asemenea, adăugaţi/edita contacte, apeluri, trimite mesaj şi caută contacte.</string>
+</resources>

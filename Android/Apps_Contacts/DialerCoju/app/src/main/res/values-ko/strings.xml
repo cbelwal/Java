@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju 전화</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">
+        Coju 전화 세이브 시간과 스트레스는 강력한 전화 걸기, 보기, 내보내기/가져오기 및 공유 기능 통합된 전화 애플 리 케이 션 이다. Coju 전화 처럼 아무 전화 애플 리 케이 션 이며 그것은 반드시 모든 안 드 로이드 전화 또는 tablet.\n\n이이 전화 또한 단일 탭 다이얼의 편리한 기능과 전화 걸기 응용 프로그램 기간 및 위치를 포함 하 여 다른 유형에 의해 호출 로그를 볼 수 있습니다 어떤 number.\n\n의 단일 탭 구글 검색 제공. 100, 500 또는 저장 된 모든 표시할 수 있습니다 언제 든 지 통화 기록. App는 또한 당신이 특정 위치 또는 기간에서 호출 로그를 볼 수 있게 하는 강력한 필터 기능을 있다.
+    </string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Slå sammen kontakter</string>
+  <string name="display_options_all_last_contact">Kombinert kontakt(er)</string>
+  <string name="display_options_all">Utvidede kontakter</string>
+  <string name="message_on_load_toast">Vise utvidede Kontakter-listen</string>
+  <string name="message_on_load_dialog">Slå sammen kontakter, kontrollere flere kontakter og velge \'Merge Contacts\' alternativ fra øverst til høyre. Alle velge kontaktene skal flettes inn i kontakten som ble valgt først</string>
+  <string name="message_tellafriend">
+        Denne nyttige app forenkler kontaktlisten ved å flette kontakter detaljer som postadresser, telefonnumre og e-postadresser i én.
+
+        Dette spare deg mye tid som den eneste andre måten er å flytte kontakter detaljer manuelt og deretter slette andre kontakter.
+
+        Bortsett fra dette du kan også legge til/redigere kontakter, ringe, sende meldingen og søk etter kontakter.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        Diese app wird nun Berechtigungen Zugriff auf Ihre Anruf-Log und Kontakte-Daten anfordern.
+        Diese Berechtigungen sind erforderlich für diese app als ein Standard-Dialer zu arbeiten und nicht in irgendeiner anderen Weise verwendet werden soll. Wir nehmen Ihre Privatsphäre sehr ernst, und Ihre Gesprächsdaten Log und Kontakte nicht mit irgendeiner Partei, einschließlich coju.mobi™, die Verlage dieser App weitergegeben.
+    </string>
+</resources>

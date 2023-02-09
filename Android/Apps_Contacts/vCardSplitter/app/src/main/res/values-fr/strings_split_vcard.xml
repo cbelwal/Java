@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">Split vCard File</string>
+  <string name="message_importing_contacts">Importation de contacts...</string>
+  <string name="message_reading_import_file">Lecture de fichier, cela peut prendre plusieurs minutes...</string>
+  <string name="button_Close">Fermer</string>
+  <string name="button_browse">Parcourir</string>
+  <string name="button_Apply">Split</string>
+  <string name="text_selected_file_name">Nom du fichier sélectionné :</string>
+  <string name="text_selected_file_size">Size(bytes) fichier sélectionné :</string>
+  <string name="text_group_selected_file">Détails du fichier vCard sélectionnés</string>
+  <string name="text_file_name">Nom :</string>
+  <string name="text_file_size">Size(bytes) :</string>
+  <string name="text_file_contacts">Contact (s) :</string>
+  <string name="text_unknown_file_size">Inconnu</string>
+  <string name="option_split_vcard">Split de fichiers vCard sélectionnés en </string>
+  <string name="option_split_vcard_count">ou les fichiers vCard</string>
+  <string name="option_split_vcard_per_contact">Diviser pour chaque contact</string>
+  <string name="option_save_vcard">Enregistrez les fichiers vCard split </string>
+  <string name="option_save_vcard_external">Stockage externe</string>
+  <string name="option_save_vcard_share">Partager des Applications (nuage, e-mail, etc.)</string>
+  <string name="message_other_permissions_missing">Autorisations demandées sont nécessaires pour cette fonctionnalité app.
+        S’il vous plaît donner les autorisations demandées et essayez à nouveau</string>
+  <string name="message_loading_files">La recherche des dossiers locaux...</string>
+  <string name="message_import_invalid_file">Pas un fichier valide de contact
+        </string>
+  <string name="message_split_ready">S’apprête à scinder le fichier vCard...
+        </string>
+  <string name="message_split_inprogress">Partage de fichier vCard...
+        </string>
+  <string name="message_select_file_first">
+        Veuillez sélectionner un fichier vCard à fractionner
+        </string>
+  <string name="message_split_number_invalid">
+        Nombre de divisions n’est pas valide
+        </string>
+  <string name="message_split_freeversion">
+        Dans la version GRATUITE est autorisée seulement une scission en maximum 10 fichiers
+        </string>
+  <string name="message_split_store_external">
+        Split vCard fichiers ont été placés dans le dossier externe
+      </string>
+  <string name="message_error_splitting">
+        Erreur dans le fichier vCard de fractionnement. Assurez-vous que le fichier est valide.
+        </string>
+  <string name="message_error_contact_count">
+        Erreur lecture nombre de contacts de fichier vCard. Assurez-vous que le fichier est valide.
+        </string>
+</resources>

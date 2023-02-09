@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju</string>
+  <string name="startup_message">Yhteystiedot puhelinnumero ovat erivärisiä</string>
+  <string name="message_tellafriend">
+        Tämä app taaksepäin/palauttaa yhteystiedot, jakaa yhteystietojen vCard ja Bluetooth sekä vienti ja tuoda ne kautta CSV- tai vCard-tiedostoja.
+        Sen avulla voit Backup yhteystiedot pilvi tai teitä laite ja palauttaa ne milloin tahansa laitetta.
+
+        Se osoittaa myös, kuinka monta kertaa olet kutsutaan yhteyttä, kun viimeksi kutsutaan (vaikka se oli useita vuosia sitten) ja on edennyt suodatusvaihtoehtoja.
+        Se kin johtua avulla työkalupakki poistaa kaksoiskappaleet ja valmiudet poistettujen yhteystietojen palauttaminen.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Phục hồi danh bạ</string>
+  <string name="message_tellafriend">Ứng dụng này có thể phục hồi/phục hồi danh bạ bị xóa từ thiết bị của bạn. Nó cho phép bạn xem danh bạ đã xóa và khôi phục chúng.
+        Chỉ số liên lạc đó sẽ được lưu trong Google của bạn tài khoản có thể được phục hồi, ứng dụng này sẽ không thể phục hồi những danh bạ bị xóa khỏi thẻ SIM hoặc thiết bị của bạn.
+            Nó cũng đi kèm với một trình quay số được thể hiện khi bạn nhấp vào một hình ảnh liên hệ.
+        Các dialer cho phép bạn gọi/tin nhắn trong danh bạ hiện có của bạn.</string>
+  <string name="message_initial_launch">Sử dụng biểu tượng danh bạ đã xóa trong dẫn hướng Menu để xem địa chỉ liên lạc đã xóa</string>
+  <string name="nav_view_all">Địa chỉ liên lạc (hoàn xóa) có sẵn</string>
+</resources>

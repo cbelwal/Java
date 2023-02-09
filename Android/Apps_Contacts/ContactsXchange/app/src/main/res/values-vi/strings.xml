@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Danh bạ Xchange</string>
+  <string name="message_tellafriend">Điều này ứng dụng làm cho nó rất dễ dàng để chuyển danh bạ sang Android khác điện thoại/máy tính bảng qua Bluetooth.
+        \n\nIt không chỉ chuyển mọi chi tiết liên hệ nhưng cũng có thể chuyển ảnh \n liên hệ.</string>
+  <string name="message_initial_launch">Chọn số liên lạc để gửi, sau đó bấm vào biểu tượng Bluetooth trong góc trên bên phải</string>
+</resources>

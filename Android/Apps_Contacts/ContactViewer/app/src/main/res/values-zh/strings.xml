@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">联系人视图</string>
+  <string name="message_tellafriend">使用这款应用可以筛选联系人，通过 vCard，然后共享和更新设置，比如 \'Send 到 Voicemail\'。
+    应用程序还显示多少次你打电话联系，当你上一次调用 （即使它是几年前）。您还可以通过点击联系人图片调用。
+    试试看 ！</string>
+</resources>

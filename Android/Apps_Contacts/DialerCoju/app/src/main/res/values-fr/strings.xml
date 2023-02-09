@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju Dialer</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">
+        Coju Dialer est une application Numéroteur intégré qui vous permet d’économiser temps et du stress avec sa puissante composition, regardé, import/export et capacités de partage. Il n’y a aucune application Numéroteur comme Coju Dialer et c’est une nécessité ont pour chaque téléphone Android ou tablet.\n\n ce composeur est également livré avec des fonctionnalités pratiques de composer un seul robinet et robinet simple recherche sur Google de toute number.\n\n l’appeleur app vous permet d’afficher des journaux d’appels de différents types, y compris la durée et l’emplacement. Il peut afficher 100, 500 ou mémoire appelle les journaux à tout moment. L’application dispose également des fonctionnalités de filtrage puissants qui vous permettent de voir les journaux d’appels depuis un emplacement spécifique ou la durée.
+    </string>
+</resources>

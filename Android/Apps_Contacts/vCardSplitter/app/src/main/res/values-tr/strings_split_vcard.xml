@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">Split vCard dosya</string>
+  <string name="message_importing_contacts">Kişileri alınıyor...</string>
+  <string name="message_reading_import_file">Dosya okuma, bu işlem birkaç dakika sürebilir...</string>
+  <string name="button_Close">Kapat</string>
+  <string name="button_browse">Gözat</string>
+  <string name="button_Apply">Split</string>
+  <string name="text_selected_file_name">Seçili dosya adı:</string>
+  <string name="text_selected_file_size">Seçili dosya boyutu(bayt):</string>
+  <string name="text_group_selected_file">Seçili vCard dosya ayrıntıları</string>
+  <string name="text_file_name">Adı:</string>
+  <string name="text_file_size">Boyutu(bayt):</string>
+  <string name="text_file_contacts">Kişileri:</string>
+  <string name="text_unknown_file_size">Bilinmiyor</string>
+  <string name="option_split_vcard">Split seçili vCard dosyasına </string>
+  <string name="option_split_vcard_count">vCard dosya (lar)</string>
+  <string name="option_split_vcard_per_contact">Her kişi için bölme</string>
+  <string name="option_save_vcard">Split vCard dosyaları kaydetmek </string>
+  <string name="option_save_vcard_external">Harici depolama</string>
+  <string name="option_save_vcard_share">Paylaşım uygulamaları (bulut, e-posta vb)</string>
+  <string name="message_other_permissions_missing">İstenen izinleri bu app özelliğinin çalışması için gereklidir.
+        Lütfen istenen izinleri vermek ve yeniden deneyin</string>
+  <string name="message_loading_files">Yerel klasörler aranıyor...</string>
+  <string name="message_import_invalid_file">Geçerli iletişim dosyası değil
+        </string>
+  <string name="message_split_ready">VCard dosyasını bölmek hazırlanıyor...
+        </string>
+  <string name="message_split_inprogress">VCard dosya bölme...
+        </string>
+  <string name="message_select_file_first">
+        Lütfen bölmek için bir vCard dosyası seçin
+        </string>
+  <string name="message_split_number_invalid">
+        Bölmeleri sayısı geçersiz
+        </string>
+  <string name="message_split_freeversion">
+        ÜCRETSİZ sürümünde sadece en fazla 10 resimler içine bir bölünmüş izin verilir
+        </string>
+  <string name="message_split_store_external">
+        Split vCard dosyalarını harici klasöre yerleştirilen
+      </string>
+  <string name="message_error_splitting">
+        VCard dosya bölme hatası. Dosyayı geçerli olduğundan emin olun.
+        </string>
+  <string name="message_error_contact_count">
+        VCard dosyasından ilgili kişilerin sayısını okuma hatası. Dosyayı geçerli olduğundan emin olun.
+        </string>
+</resources>

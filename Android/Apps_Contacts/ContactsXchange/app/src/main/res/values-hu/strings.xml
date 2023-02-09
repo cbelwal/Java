@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kapcsolatok Xchange</string>
+  <string name="message_tellafriend">Ez app teszi nagyon könnyen át kapcsolatok a különböző Android telefon/tabletta Bluetooth-on keresztül.
+        \n\nIt nem csak minden névjegyadatot transzferek, de is átadja a fénykép kapcsolattartó. \n</string>
+  <string name="message_initial_launch">Válasszuk a névjegyzék küldeni, majd koppintson a Bluetooth ikonra a jobb felső sarokban</string>
+</resources>

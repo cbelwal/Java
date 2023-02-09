@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Varmuuskopioida yhteystietoja</string>
+  <string name="message_backup_contacts">Haluatko varmuuskopioida kaikki yhteystiedot nyt?</string>
+  <string name="message_tellafriend">
+        Yhteystiedot ovat luultavasti tärkeimmät tiedot puhelimen ja se vie paljon aikaa rakentaa yhteystietoluettelon.
+        Et halua menettää niitä, jos puhelin katoaa tai vahingossa poistaa kaikki yhteystiedot.
+
+        Tämä on, jos tämä app tulee pelata. Se voi varmuuskopioida kaikki yhteystiedot tiedostoon ja voit sijoittaa varmuuskopiotiedosto puhelimeen tai Internetistä sähköpostin tai pilvi. Kohteleva palauttaa erikoisartikkeli nyt kuluva app, varmuuskopio voidaan palauttaa yhteystiedot kaikissa Android laite milloin tahansa.
+
+        Muut sovellukset siellä, jotka vuosimaksut Tallenna yhteystiedot pilvi, mutta ei tarvitse maksaa maksua, koska saat jo ilmainen sähköpostia ja pilvi varastointi useita ilmainen tarjoajat, kuten Google ja tämä app voit
+        hyödyntää ilmaiseksi tilit.
+
+        Lataa tämä app nyt ja saat mielenrauhan, että yhteystietosi ovat aina turvassa!
+        </string>
+  <string name="message_backup_stored_freeversion">
+        Ilmainen versio mahdollistaa vain varmuuskopio 90 yhteystiedot.
+        Yhteystiedot on ollut varmuuskopioitu tiedosto:
+    </string>
+  <string name="message_help_startup">
+        Avaa navigointivalikko vasemmassa voit tarkastella varmuuskopiointi ja palautus vaihtoehtoja
+    </string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Changanisha wawasiliani</string>
+  <string name="display_options_all_last_contact">Mwasiliani unayetaka pamoja</string>
+  <string name="display_options_all">Mwasiliani unayetaka kupanua</string>
+  <string name="message_on_load_toast">Kuonyesha kupanua orodha ya wawasiliani</string>
+  <string name="message_on_load_dialog">Changanisha wawasiliani, Kagua wawasiliani anuwai na Teua \'Merge Contacts\ ya \' chaguo kutoka juu-kulia. Wawasiliani wote Teua zitaunganishwa katika mwasiliani kwamba alikuwa kuchaguliwa kwanza</string>
+  <string name="message_tellafriend">
+        Programu tumizi hii muhimu simplifies orodha yako ya wawasiliani na kuchanganisha maelezo ya wawasiliani kama namba za simu, anwani za barua pepe na anwani ya posta katika moja.
+
+        Hii kukuokoa muda mwingi kama tu njia nyingine ni kuhamisha maelezo ya wawasiliani kwa mkono, na kisha Futa Wawasiliani wengine.
+
+        Mbali hii inaweza pia Ongeza/Hariri wawasiliani, kupiga simu, kutuma ujumbe na Tafutiza wawasiliani.</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Xchange for WhatsApp</string>
+    <string name="message_tellafriend">Xchange for WhatsApp allows you to easily
+        exchange or transfer WhatsApp contacts (including contact photo) to any
+        other Bluetooth enabled phone or tablet.
+
+        With this app’s easy to use interface transferring your contacts to a
+        different phone or tablet is as simple as selecting your contacts, clicking
+        on device name and pressing the ‘Send’ button. The other device should also
+        be running this app and have the Bluetooth screen open.\n\n
+
+        Try it out today !
+</string>
+</resources>

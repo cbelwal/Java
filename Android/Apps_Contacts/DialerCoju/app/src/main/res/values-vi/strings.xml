@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Trình quay số Coju</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">
+        Trình quay số Coju là một ứng dụng tích hợp dialer giúp bạn tiết kiệm thời gian và căng thẳng với quay số mạnh mẽ, xem, xuất khẩu, nhập khẩu và khả năng chia sẻ. Không không có ứng dụng quay số như quay số Coju, và nó là phải có cho mỗi điện thoại Android hoặc tablet.\n\n quay số này cũng đi kèm với các tính năng tiện dụng của quay số duy nhất khai thác và tìm kiếm của Google đơn tap của bất kỳ number.\n\n các ứng dụng quay số cho phép bạn xem các bản ghi cuộc gọi của các loại khác nhau bao gồm cả thời gian và địa điểm. Nó có thể hiển thị 100, 500 hoặc được lưu trữ tất cả Nhật ký cuộc gọi bất cứ lúc nào. Các ứng dụng này cũng có khả năng mạnh mẽ lọc cho phép bạn xem các cuộc gọi các bản ghi từ vị trí cụ thể hoặc thời gian.
+    </string>
+</resources>

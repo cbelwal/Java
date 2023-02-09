@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju Kipigaji</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">
+        Coju Kipigaji ni app Kipigaji jumuishi kwamba inakuokoa muda na mfadhaiko na upigaji simu nguvu yake, kuonyesha, Hamisha/Leta na uwezo wa kushiriki. Kuna programu hakuna Kipigaji kama Kipigaji Coju na ni lazima kwa kila simu ya Android au tablet.\n\n Kipigaji hii pia huja na makala handy ya upigaji simu bomba moja na bomba moja ya Tafuta na Google ya yoyote number.\n\n programu Kipigaji hukuruhusu kuangalia magogo wito kwa aina mbalimbali ikiwa ni pamoja na muda na mahali. Ni kuonyesha 100, 500 au kuhifadhiwa wote wito magogo wakati wowote. Programu pia ina uwezo wa kichujio nguvu ambazo zinawawezesha ninyi kuona wito magogo kutoka mahali maalum au muda.
+    </string>
+</resources>

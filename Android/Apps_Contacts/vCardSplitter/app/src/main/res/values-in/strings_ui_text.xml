@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Umum</string>
+  <string name="nav_menu_group_help">Tolong</string>
+  <string name="display_options_refresh">Refresh</string>
+  <string name="nav_menu_group_views">Pemandangan</string>
+  <string name="nav_menu_rate_this_app">Umpan balik</string>
+  <string name="nav_menu_upgrade">Upgrade ke Pro versi</string>
+  <string name="nav_menu_tellafriend">Beritahu teman</string>
+  <string name="nav_menu_feedback">Kontak Dasmic</string>
+  <string name="nav_menu_demovideo">Demo Video</string>
+  <string name="nav_menu_coju">Download Coju</string>
+</resources>

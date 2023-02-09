@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">Split-vCard Datei</string>
+  <string name="message_importing_contacts">Importieren Kontakte...</string>
+  <string name="message_reading_import_file">Lesen die Datei, kann dies einige Minuten dauern...</string>
+  <string name="button_Close">In der Nähe</string>
+  <string name="button_browse">Durchsuchen</string>
+  <string name="button_Apply">Split</string>
+  <string name="text_selected_file_name">Gewählte Dateiname:</string>
+  <string name="text_selected_file_size">Ausgewählte Datei size(bytes):</string>
+  <string name="text_group_selected_file">Details der ausgewählten vCard-Datei</string>
+  <string name="text_file_name">Name:</string>
+  <string name="text_file_size">Size(Bytes):</string>
+  <string name="text_file_contacts">Kontakte:</string>
+  <string name="text_unknown_file_size">Unbekannt</string>
+  <string name="option_split_vcard">Split-ausgewählte vCard-Datei in </string>
+  <string name="option_split_vcard_count">vCard-Dateien</string>
+  <string name="option_split_vcard_per_contact">Split für jeden Kontakt</string>
+  <string name="option_save_vcard">Split-vCard-Dateien speichern </string>
+  <string name="option_save_vcard_external">Externer Speicher</string>
+  <string name="option_save_vcard_share">Anwendungen Sie (Cloud, e-Mail etc.)</string>
+  <string name="message_other_permissions_missing">Angeforderte Berechtigungen sind erforderlich für dieses app-Feature funktioniert.
+        Bitte geben Sie angeforderte Berechtigungen und versuchen Sie es erneut</string>
+  <string name="message_loading_files">Suchen lokale Ordner...</string>
+  <string name="message_import_invalid_file">Keine gültige Kontaktdatei
+        </string>
+  <string name="message_split_ready">Immer bereit, vCard-Datei aufgeteilt...
+        </string>
+  <string name="message_split_inprogress">VCard-Datei aufteilen...
+        </string>
+  <string name="message_select_file_first">
+        Bitte wählen Sie eine vCard-Datei aufteilen
+        </string>
+  <string name="message_split_number_invalid">
+        Anzahl der Teilungen ist ungültig
+        </string>
+  <string name="message_split_freeversion">
+        In der KOSTENLOSEN Version ist nur eine Spaltung in maximal 10 Dateien erlaubt.
+        </string>
+  <string name="message_split_store_external">
+        Split-vCard-Dateien wurden in externen Ordner eingefügt
+      </string>
+  <string name="message_error_splitting">
+        Fehler im vCard-Datei aufteilen. Stellen Sie sicher, dass die Datei gültig ist.
+        </string>
+  <string name="message_error_contact_count">
+        Fehler beim Lesen vieler Kontakte von vCard-Datei. Stellen Sie sicher, dass die Datei gültig ist.
+        </string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">Сплит vCard файл</string>
+  <string name="message_importing_contacts">Импортиране на контакти...</string>
+  <string name="message_reading_import_file">Четене на файла, това може да отнеме няколко минути...</string>
+  <string name="button_Close">Затвори</string>
+  <string name="button_browse">Преглед</string>
+  <string name="button_Apply">Сплит</string>
+  <string name="text_selected_file_name">Избраният файл с име:</string>
+  <string name="text_selected_file_size">Избраният файл size(bytes):</string>
+  <string name="text_group_selected_file">Избрани vCard файл детайли</string>
+  <string name="text_file_name">Име:</string>
+  <string name="text_file_size">Size(Bytes):</string>
+  <string name="text_file_contacts">Контакти:</string>
+  <string name="text_unknown_file_size">Неизвестен</string>
+  <string name="option_split_vcard">Сплит избраните vCard файл в </string>
+  <string name="option_split_vcard_count">vCard файлове</string>
+  <string name="option_split_vcard_per_contact">Раздели за всеки контакт</string>
+  <string name="option_save_vcard">Запиши Сплит vCard файлове </string>
+  <string name="option_save_vcard_external">Външна памет</string>
+  <string name="option_save_vcard_share">Споделяне на приложения (облак, имейл и т.н.)</string>
+  <string name="message_other_permissions_missing">Исканият разрешения са необходими за тази ап функция да работи.
+        Моля, дайте исканите разрешения и опитайте отново</string>
+  <string name="message_loading_files">Търсене на локални папки...</string>
+  <string name="message_import_invalid_file">Не валиден файл с контакт
+        </string>
+  <string name="message_split_ready">Готвех се да разделите vCard файл...
+        </string>
+  <string name="message_split_inprogress">Разцепването vCard файл...
+        </string>
+  <string name="message_select_file_first">
+        Моля изберете vCard файл за разделяне
+        </string>
+  <string name="message_split_number_invalid">
+        Брой на шпагат е невалиден
+        </string>
+  <string name="message_split_freeversion">
+        В БЕЗПЛАТНАТА версия е позволено само разделно в максимално 10 файлове
+        </string>
+  <string name="message_split_store_external">
+        Сплит vCard файлове са били поставени във външни папка
+      </string>
+  <string name="message_error_splitting">
+        Грешка в разделяне vCard файл. Уверете се, че файлът е валиден.
+        </string>
+  <string name="message_error_contact_count">
+        Грешка при четене броя на контактите от vCard файл. Уверете се, че файлът е валиден.
+        </string>
+</resources>

@@ -1,0 +1,450 @@
+package com.dasmic.android.messagetranscript.Activity;
+
+import android.content.Intent;
+import android.content.res.Configuration;
+import android.os.Bundle;
+import android.provider.ContactsContract;
+import android.support.design.widget.NavigationView;
+import android.support.v4.view.GravityCompat;
+import android.support.v4.widget.DrawerLayout;
+import android.support.v7.app.ActionBarDrawerToggle;
+import android.util.Log;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
+import android.widget.CheckBox;
+import android.widget.ImageButton;
+import android.widget.ListView;
+import android.widget.SearchView;
+import android.widget.TextView;
+
+import com.dasmic.android.lib.support.Extension.ProgressDialogSpinner;
+import com.dasmic.android.lib.support.Feedback.Feedback;
+import com.dasmic.android.lib.support.Feedback.HelpMedia;
+import com.dasmic.android.lib.support.Feedback.RateThisApp;
+import com.dasmic.android.lib.support.Feedback.TellAFriend;
+import com.dasmic.android.lib.support.IAPUtil.IabResult;
+import com.dasmic.android.lib.support.InAppPurchase.InAppPurchases;
+import com.dasmic.android.lib.support.Static.SupportFunctions;
+import com.dasmic.android.lib.message.Activity.ActivityBaseMain;
+import com.dasmic.android.lib.message.Enum.AppOptions;
+import com.google.firebase.messaging.FirebaseMessaging;
+
+import java.util.ArrayList;
+
+
+public class ActivityMain extends ActivityBaseMain
+        implements NavigationView.OnNavigationItemSelectedListener{ //ActionBarActivity {
+
+    final String helpURL =
+            "http://www.coju.mobi/android/messagetranscript/faq/index.html";
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+
+        Log.d("CKIT", "ActivityMain is created");
+        setContentView(R.layout.ui_main);
+
+        //------------------------------------
+        _paid_version_sku_id =
+                "com.dasmic.android.messagetranscript.paidversion";
+        _base64EncodedPublicKey =
+                getContext().getText(R.string.license_one).toString() +
+                        getContext().getText(
+                                R.string.license_two).toString() +
+                        getContext().getText(
+                                R.string.license_three).toString() +
+                        getContext().getText(
+                                R.string.license_four).toString();
+        setupForInAppPurchase();
+        //------------------------------------
+        _ad_interstitial_id=getString(R.string.ad_main_is_id); //For Interstitial Ads
+
+        setLocalVariablesAndEventHandlers();
+        setDrawerMenu();
+        setActionBarTitle();
+        ReloadListView();
+        AppOptions.FILE_PROVIDER_AUTHORITY=
+                "com.dasmic.messagetranscript.FileProvider";
+        demo_video_id = "uvU71JUA0Q4";
+        HelpMedia.ShowDemoVideoDialog(this,demo_video_id);
+        //Subscribe to generic message to all apps
+        FirebaseMessaging.getInstance().subscribeToTopic("Updates.General");
+        setSortButton();
+    }
+
+    //----------- Added functions for Sorting
+
+    //This should also be moved to ActivityBaseMainLater
+    //Needs to be called only once
+    protected void setSortButton(){
+        ImageButton ib = (ImageButton) findViewById(
+                R.id.buttonImageSort);
+        /*ib.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                _vmMessages.changeSortOrder();
+                RefreshListView();
+                updateSortedImage();
+            }
+        });*/
+        updateSortedImage();
+    }
+
+    protected void updateSortedImage(){
+        ImageButton ib = (ImageButton) findViewById(
+                R.id.buttonImageSort);
+
+        if(_vmMessages.getCurrentSortOrder()) //Then Descending
+            ib.setBackgroundResource(R.drawable.ic_keyboard_arrow_down_black_48dp);
+        else
+            ib.setBackgroundResource(R.drawable.ic_keyboard_arrow_up_black_48dp);
+    }
+
+    //This is done specially in Coju due to sort functionality. When
+    //It has to be applied for all move into ActivityBaseMain
+    @Override
+    protected void setItemCountText(){
+        TextView textDisplayCount = (TextView) findViewById(
+                com.dasmic.android.lib.contacts.R.id.textDisplayCount);
+        textDisplayCount.setText(String.valueOf(_listAdapter.getCount()));
+    }
+
+    //-----------------------------------------------------
+
+    //This is very important since if Activity is restarted in
+    //screen change, there is a major conflict with ReloadListView
+    //This happens when ReloadListView is called along
+    //with ActivityLoad and happens when screen orientation
+    //is changed along with some update
+    @Override
+    public void onConfigurationChanged(Configuration newConfig) {
+        super.onConfigurationChanged(newConfig);
+    }
+
+    @Override
+    public void onDestroy() { //In App billing cleanup
+        super.onDestroy();
+        if (_inAppPurchases != null) _inAppPurchases.dispose();
+        _inAppPurchases = null;
+    }
+
+
+    private void setDrawerMenu(){
+        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+        _drawerToggle = new ActionBarDrawerToggle(
+                this,drawer ,R.string.action_Import,R.string.action_Import);
+        drawer.setDrawerListener(_drawerToggle);
+        _drawerToggle.syncState();
+
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setHomeButtonEnabled(true);
+
+        //Set Navigation View listener
+        NavigationView navigationView = (NavigationView)
+
+                findViewById(R.id.nav_view);
+        navigationView.setNavigationItemSelectedListener(this);
+    }
+
+    private void setActionBarTitle(){
+        try {
+            getSupportActionBar().setTitle(getContext().getText(
+                    R.string.app_name).toString());
+        }
+        catch(Exception ex){ //If ActionBar is not found
+            SupportFunctions.DebugLog("ActivityMain",
+                    "SetLabelText", "Error:" + ex.getMessage());
+        }
+    }
+
+
+    private void ShowCheckAll(){
+        CheckBox checkAll = (CheckBox) findViewById(R.id.checkSelectAll);
+        checkAll.setVisibility(CheckBox.VISIBLE);
+    }
+
+    private void HideCheckAll(){
+        CheckBox checkAll = (CheckBox) findViewById(R.id.checkSelectAll);
+        checkAll.setVisibility(CheckBox.INVISIBLE);
+    }
+
+    private void setButtonEventHandlers(){
+        CheckBox checkAll = (CheckBox) findViewById(R.id.checkSelectAll);
+        checkAll.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                onButtonCheckUncheck();
+            }
+        });
+    }
+
+    private void setLocalVariablesAndEventHandlers() {
+        _selectionCount=0;
+        _listView = (ListView) findViewById(R.id.listView);
+        //_displayOptionsSpinner = (Spinner) findViewById(R.id.spinnerViewData);
+        _vmMessages = ViewModelContactsDisplay.getInstance(this);
+        _vmMessages.changeSortOrder(); //Set to desc
+        _pdSpin = new ProgressDialogSpinner(this,
+                this.getResources().getText(R.string.progressbar_load_data).toString());
+
+        setButtonEventHandlers();
+    }
+
+
+    //Add Items to the action bar here
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.menu_main, menu);
+        MenuItem menuItem = menu.findItem(R.id.action_search);
+
+        final SearchView searchView = (SearchView) (menuItem.getActionView()).findViewById(R.id.textSearch);
+
+        searchView.setOnSearchClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                //Search view is expanded
+                ((SearchView) v).setMaxWidth(getSearchBoxWidth());
+
+                Log.i("CKIT", "ActivityMain::SearchExpanded");
+                HideCheckAll();
+            }
+        });
+        searchView.setOnCloseListener(new SearchView.OnCloseListener() {
+            @Override
+            public boolean onClose() {
+                //Search View is collapsed
+                Log.i("CKIT", "ActivityMain::SearchCollapsed");
+                ShowCheckAll();
+                return false;
+            }
+        });
+
+        searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
+                                              @Override
+                                              public boolean onQueryTextSubmit(String query) {
+                                                  searchView.clearFocus();
+                                                  Log.i("CKIT", "ActivityMain::setOnQueryTextListener");
+                                                  return false;
+                                              }
+
+                                              @Override
+                                              public boolean onQueryTextChange(String newText) {
+                                                  // Do something while user is entering text
+                                                  Log.i("CKIT", "ActivityMain::setOnQueryTextListener");
+                                                  if(_listAdapter != null)
+                                                      _listAdapter.getFilter().filter(newText);
+                                                  return false;
+                                              }
+                                          }
+
+        );
+
+        return true;
+    }
+
+    @Override
+    public boolean onNavigationItemSelected(MenuItem item) {
+        // Handle navigation view item clicks here.
+        int id = item.getItemId();
+        boolean refresh=false;
+        switch(id){
+            case R.id.nav_view_timescontacted:
+                _vmMessages.setCurrentDisplayOption(DisplayOptionsEnum.AllWithContactCount);
+                refresh=true;
+                break;
+            case R.id.nav_view_all:
+                _vmMessages.setCurrentDisplayOption(DisplayOptionsEnum.AllInformation);
+                refresh=true;
+                break;
+            case R.id.nav_view_lastcontacttime:
+                _vmMessages.setCurrentDisplayOption(DisplayOptionsEnum.AllWithLastContact);
+                refresh=true;
+                break;
+
+            case R.id.nav_view_rate_this_app:
+                ShowRateThisApp();
+                refresh=true;
+                break;
+            case R.id.nav_view_upgrade_paid_version:
+                purchasePaidVersion();
+                break;
+            case R.id.nav_view_action_filter:
+                Intent myIntent;
+                myIntent = new Intent(this, ActivityFilter.class);
+                this.startActivityForResult(myIntent, AppOptions.FILTER_ACTIVITY_REQUEST);
+                break;
+            case R.id.nav_view_feedback:
+                Feedback.SendFeedbackByEmail(this);
+                break;
+            case R.id.nav_view_tell_a_friend:
+                TellAFriend.TellAFriend(this,
+                        getString(R.string.message_tellafriend));
+                break;
+            case R.id.nav_view_action_operations:
+                if(!checkSelection()) break;
+
+                myIntent = new Intent(this, ActivityOperations.class);
+                this.startActivityForResult(myIntent, AppOptions.OPERATION_ACTIVITY_REQUEST);
+                break;
+            case R.id.nav_view_action_edit:
+                if(!checkSelection()) break;
+                if(_vmMessages.getCheckedItems().size() > 1){
+                    SupportFunctions.DisplayToastMessageLong(
+                            this, (String) this.getResources().getText(R.string.message_edit));
+                    break;
+                }
+                //Launch Activity
+                myIntent = new Intent(Intent.ACTION_EDIT);
+                myIntent.setDataAndType(_vmMessages.getCheckedItems().get(0).getContactUri(),
+                        ContactsContract.Contacts.CONTENT_ITEM_TYPE);
+                SupportFunctions.StartActivityForResult(this,
+                        myIntent,
+                        AppOptions.EDIT_ACTIVITY_REQUEST);
+                break;
+            case R.id.nav_view_action_add:
+                //Launch Activity
+                myIntent = new Intent(ContactsContract.Intents.Insert.ACTION);
+                // Sets the MIME type to match the Contacts Provider
+                myIntent.setType(ContactsContract.RawContacts.CONTENT_TYPE);
+                SupportFunctions.StartActivityForResult(this,
+                        myIntent,
+                        AppOptions.EDIT_ACTIVITY_REQUEST);
+                break;
+            case R.id.nav_view_action_refresh:
+                RefreshListView();
+                break;
+            case R.id.nav_view_demo_video:
+                HelpMedia.ShowDemoVideo(this,
+                        demo_video_id);
+                break;
+            case R.id.nav_view_coju:
+                openCojuLink();
+                break;
+            case R.id.nav_view_help_documentation:
+                HelpMedia.ShowWebURL(this, helpURL);
+                break;
+            case R.id.nav_view_backup_contacts:
+                BackupContacts();
+                break;
+            case R.id.nav_view_restore_contacts:
+                RestoreContacts();
+                break;
+            default:
+                break;
+
+        }
+
+        DrawerLayout drawer = (DrawerLayout)
+                findViewById(R.id.drawer_layout);
+        drawer.closeDrawer(GravityCompat.START);
+        if(refresh) {
+            ReloadListView();
+        }
+        return true;
+    }
+
+
+    private void PurchasePaidVersion(){
+        _inAppPurchases.PurchasePaidVersion(new
+                                                    InAppPurchases.OnIAPPurchaseFinishedListener() {
+                                                        public void onIAPPurchaseFinished(
+                                                                IabResult result,
+                                                                boolean isPaidVersion) {
+                                                            AppOptions.isFreeVersion = !isPaidVersion;
+                                                            // update UI accordingly
+                                                            setLocalVersionBasedUI();
+                                                        }
+                                                    });
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // Pass the event to ActionBarDrawerToggle, if it returns
+        // true, then it has handled the app icon touch event
+        if (_drawerToggle.onOptionsItemSelected(item)) {
+            return true;
+        }
+
+        // Handle action bar item clicks here. The action bar will
+        // automatically handle clicks on the Home/Up button, so long
+        // as you specify a parent activity in AndroidManifest.xml.
+        int id = item.getItemId();
+        int size=0;
+        Intent myIntent=null;
+        ArrayList<DataMessageDisplay> checkedItems= null;
+        //noinspection SimplifiableIfStatement
+        switch(id)
+        {
+            case R.id.action_delete:
+                onButtonDelete();
+                break;
+
+            case R.id.action_share:
+                if(!checkSelection()) break;
+                myIntent = new Intent(this, ActivityShare.class);
+                myIntent.putExtra(AppOptions.APP_NAME,
+                        getResources().getString(R.string.app_name_small));
+                SupportFunctions.StartActivityForResult(
+                        this,
+                        myIntent,
+                        AppOptions.EXPORT_ACTIVITY_REQUEST);
+                break;
+        }
+        return super.onOptionsItemSelected(item);
+    }
+
+    @Override
+    public void onActivityResult(int requestCode,
+                                 int resultCode,
+                                 Intent data) {
+
+        if (!_inAppPurchases.handleActivityResult(requestCode, resultCode, data)) {
+            super.onActivityResult(requestCode, resultCode, data);
+            /*switch (requestCode) {
+                case (AppOptions.FILTER_ACTIVITY_REQUEST):
+                    if (resultCode == Activity.RESULT_OK)
+                        RefreshListView();
+                    break;
+                case (AppOptions.OPERATION_ACTIVITY_REQUEST):
+                    if (resultCode == Activity.RESULT_OK)
+                        RefreshListView();
+                    break;
+                case (AppOptions.EXPORT_ACTIVITY_REQUEST):
+                    if (resultCode == Activity.RESULT_OK)
+                        UncheckAll(); //Just UnselectAll
+                    break;
+                case (AppOptions.IMPORT_ACTIVITY_REQUEST):
+                    if (resultCode == Activity.RESULT_OK)
+                        RefreshListView(); //New contact have been added
+                    break;
+                case (AppOptions.EDIT_ACTIVITY_REQUEST):
+                    RefreshListView();
+                    break;
+                case (AppOptions.BLUETOOTH_ACTIVITY_REQUEST):
+                    if (resultCode == Activity.RESULT_OK)
+                        RefreshListView(); //New contact have been added
+                    break;
+                case (AppOptions.CONTACTS_RESTORE_ACTIVITY_REQUEST):
+                    SupportFunctions.AsyncDisplayGenericDialog(this,
+                            getResources().getString(R.string.message_restore_refresh),
+                            getResources().getString(R.string.app_name_small));
+            }*/
+        }
+    }
+
+
+    //Construct color based on data
+    @Override
+    protected int getColor(DataMessageDisplay contact){
+        return _asf.getColor(this,
+                contact);
+    }
+
+
+    private void ShowRateThisApp(){
+        RateThisApp.ShowRateThisApp(this);
+    }
+
+}

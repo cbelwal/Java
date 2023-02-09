@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Stiki Xchange</string>
+  <string name="message_tellafriend">Ta app omogoča zelo enostavno prenašanje stikov različnih Android telefon/tablet preko Bluetooth.
+        \n\nIt ne samo prenese vse kontaktne podrobnosti, ampak tudi prenese fotografijo stika. \n</string>
+  <string name="message_initial_launch">Izberite imenik za pošiljanje, nato pa tapnite ikono Bluetooth v zgornjem desnem kotu</string>
+</resources>

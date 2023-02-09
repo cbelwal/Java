@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kontaktvyn</string>
+  <string name="message_tellafriend">Med denna app kan du filtrera kontakter, dela sedan via vCard och uppdatera inställningar som \'Send till Voicemail\ \".
+    Appen visar också hur många gånger du en kontakt när du senast kallas och (även om det var flera år sedan). Du kan också ringa genom att klicka på kontaktbilden.
+    Försök den ute!</string>
+</resources>

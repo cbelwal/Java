@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Backup del registro de llamadas </string>
+  <string name="app_folder">CallLogBackup</string>
+  <string name="message_tellafriend">
+        Call Log Backup es la aplicación más sencilla copia de seguridad de tu registro de llamadas en su teléfono o en tu cuenta de correo electrónico o cloud. También tiene potentes ver, agregar y capacidades de edición. Esta llamada registro app viene con las características útiles de marcado simple toque y solo toque búsqueda en Google de cualquier number.\n\n esta aplicación es una necesidad para cada teléfono Android o tablet.\n\n la aplicación te permite visualizar registros de llamadas de diferentes tipos incluyendo duración y ubicación. Puede exhibir 100, 500 o todos registros de llamadas en cualquier momento. La aplicación también tiene capacidades de filtro de gran alcance que le permiten ver llama registros basados en la ubicación específica, duración o día.
+    </string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Call Log Bluetooth </string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">
+        Call Log Bluetooth è un\'app che consente di risparmiare tempo e stress con la sua potente visione e capacità di trasferimento Bluetooth.
+
+        Questa chiamata registro applicazione viene fornito con le caratteristiche utili come singolo rubinetto telefonico e singolo rubinetto Google ricerca di qualsiasi applicazione di chiamare Log Bluetooth number.\n\n consente di visualizzare i registri delle chiamate di diversi tipi tra cui durata e posizione. E \' possibile visualizzare 100, 500 o tutti i registri delle chiamate in qualsiasi momento. L\'applicazione dispone anche di funzionalità potente filtro che consentono di vedere i registri chiamate alcune località specifica o la durata.
+    </string>
+</resources>

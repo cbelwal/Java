@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">일반</string>
+  <string name="nav_menu_group_help">도움말</string>
+  <string name="display_options_refresh">새로 고침</string>
+  <string name="nav_menu_group_views">보기</string>
+  <string name="nav_menu_rate_this_app">피드백</string>
+  <string name="nav_menu_upgrade">프로 업그레이드 버전</string>
+  <string name="nav_menu_tellafriend">친구에 게</string>
+  <string name="nav_menu_feedback">연락처 Dasmic</string>
+  <string name="nav_menu_demovideo">데모 비디오</string>
+  <string name="nav_menu_coju">Coju 다운로드</string>
+</resources>

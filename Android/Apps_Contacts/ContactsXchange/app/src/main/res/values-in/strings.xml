@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Xchange kontak</string>
+  <string name="message_tellafriend">App ini membuat sangat mudah untuk mentransfer kontak ke berbeda Android telepon/tablet melalui Bluetooth.
+        \n\nIt tidak hanya transfer setiap detail kontak tetapi juga transfer foto dari kontak. \n</string>
+  <string name="message_initial_launch">Pilih kontak untuk mengirim, kemudian ketuk ikon Bluetooth di kanan atas</string>
+</resources>

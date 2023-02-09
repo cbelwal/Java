@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju zvanītājprogramma</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">
+        Coju zvanītājprogramma ir integrēta zvanītājprogramma app, kas ietaupa jūsu laiku un stresu ar spēcīgu zvani, skatīšanās, eksporta/importa un koplietošanas iespējas. Nav nav numura sastādītājs app piemēram Coju Dialer un tai ir jābūt par katru Android telefons vai tablet.\n\n šo zvanītājprogramma arī nāk ar vienu pieskārienu numura sastādīšanas ērtus līdzekļus un vienu pieskārienu Google meklēšanu no jebkuras number.\n\n zvanītājprogramma app ļauj jums apskatīt zvanu žurnālus ar dažādiem tipiem, ieskaitot ilgumu un vietu. To var parādīt, 100, 500 vai visus saglabātos zvanu žurnālus, jebkurā laikā. App ir arī spēcīgs filtrēšanas iespējas, kuras ļauj jums redzēt zvanu žurnāliem no konkrētu atrašanās vietu vai ilgumu.
+    </string>
+</resources>

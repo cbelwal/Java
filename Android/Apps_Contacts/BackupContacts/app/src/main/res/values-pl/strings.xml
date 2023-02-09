@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kopię zapasową kontaktów</string>
+  <string name="message_backup_contacts">Czy chcesz teraz utworzyć kopię zapasową wszystkie kontakty?</string>
+  <string name="message_tellafriend">
+        Kontakty są prawdopodobnie najważniejsze informacje w telefonie, i zajmuje dużo czasu, aby zbudować listę kontaktów.
+        Nie chcesz ich stracić, jeśli telefon zostanie utracone lub przypadkowo usunąć wszystkie kontakty.
+
+        To gdzie ta aplikacja wkracza do gry. To można kopii zapasowej wszystkie kontakty w pliku i pozwala na umieszczenie pliku kopii zapasowej w telefonie lub w Internecie w swój własny prywatny e-mail lub chmury. Przy użyciu funkcji przywracania tej aplikacji, plik kopii zapasowej można przywrócić kontakty w urządzeniach z systemem Android, w każdej chwili.
+
+        Są tam inne aplikacje, które pobierać opłaty roczne, aby Twoje kontakty są przechowywane w chmurze, ale nie trzeba płacić opłaty, ponieważ już uwolnić e-mail w chmurze z kilku dostawców wolna jak Google i ta aplikacja pozwala
+        Aby wykorzystać swój wolny zestawienie rachunkowe.
+
+        Pobierz aplikację teraz i uzyskać pewność, że kontakty będą zawsze bezpieczne!
+        </string>
+  <string name="message_backup_stored_freeversion">
+        Darmowa wersja tylko pozwala na backup kontakty do 90.
+        Kontakty mają zostały kopii zapasowej w pliku:
+    </string>
+  <string name="message_help_startup">
+        Otwórz menu nawigacji w lewym górnym rogu aby wyświetlić opcje tworzenia kopii zapasowych i przywracania
+    </string>
+</resources>

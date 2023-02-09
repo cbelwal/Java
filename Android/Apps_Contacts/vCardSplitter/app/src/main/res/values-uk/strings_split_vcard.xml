@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">Спліт візитну картку файлу</string>
+  <string name="message_importing_contacts">Імпортування контактів...</string>
+  <string name="message_reading_import_file">Читання файлу, це може зайняти кілька хвилин...</string>
+  <string name="button_Close">Закрити</string>
+  <string name="button_browse">Огляд</string>
+  <string name="button_Apply">Спліт</string>
+  <string name="text_selected_file_name">Обраний ім\'я файлу:</string>
+  <string name="text_selected_file_size">Вибраний файл size(bytes):</string>
+  <string name="text_group_selected_file">Вибрані подробиці файлу vCard</string>
+  <string name="text_file_name">Ім\'я:</string>
+  <string name="text_file_size">Size(Bytes):</string>
+  <string name="text_file_contacts">Контакти:</string>
+  <string name="text_unknown_file_size">Невідомо</string>
+  <string name="option_split_vcard">Спліт вибраного візитну картку файлу в </string>
+  <string name="option_split_vcard_count">візитну картку файлу (ів)</string>
+  <string name="option_split_vcard_per_contact">Розділити до кожного контакту</string>
+  <string name="option_save_vcard">Збережіть файли vCard Спліт </string>
+  <string name="option_save_vcard_external">Зовнішнього зберігання</string>
+  <string name="option_save_vcard_share">Поділитися додатків (Хмара, email та ін)</string>
+  <string name="message_other_permissions_missing">Потрібні дозволи, необхідні для цієї функції app працювати.
+        Будь ласка дайте потрібні дозволи і повторіть спробу</string>
+  <string name="message_loading_files">Пошук локальних папок...</string>
+  <string name="message_import_invalid_file">Не є припустимим файлом контактів
+        </string>
+  <string name="message_split_ready">Початок готова розділити файл vCard...
+        </string>
+  <string name="message_split_inprogress">Розщеплення візитну картку файлу...
+        </string>
+  <string name="message_select_file_first">
+        Зі списку виберіть тип файлу vCard, щоб розділити
+        </string>
+  <string name="message_split_number_invalid">
+        Неприпустимий номер розпадається
+        </string>
+  <string name="message_split_freeversion">
+        У БЕЗКОШТОВНІЙ версії дозволяється тільки розкол на максимум 10 файлів
+        </string>
+  <string name="message_split_store_external">
+        Спліт-файлів vCard були поміщені в зовнішніх папки
+      </string>
+  <string name="message_error_splitting">
+        Помилка при розщепленні файлу vCard. Переконайтеся, що файл є припустимим.
+        </string>
+  <string name="message_error_contact_count">
+        Помилка читання кількість контактів із файлу vCard. Переконайтеся, що файл є припустимим.
+        </string>
+</resources>

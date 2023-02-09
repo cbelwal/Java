@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Összevonhatja a partnereket</string>
+  <string name="display_options_all_last_contact">Kombinált partner</string>
+  <string name="display_options_all">Bővített partner</string>
+  <string name="message_on_load_toast">Bemutató kibővített Névjegyek listája</string>
+  <string name="message_on_load_dialog">Összevonhatja a partnereket, több Névjegyalbum ellenőrzése, és válassza ki a \'Merge Contacts\' opciót a jobb felső sarkában. Minden select kapcsolatok bekerülnek a kapcsolattartó, először kiválasztott</string>
+  <string name="message_tellafriend">
+        Ez hasznos app leegyszerűsíti a Névjegyzék Névjegyzék részletek, mint a telefonszámok, e-mail címek és postai címek egyesítése egy.
+
+        Ez megment ön sok időt, mint az egyetlen mód az, hogy mozog a névjegyek adatait kézzel, és törölje a más kapcsolatok.
+
+        Ezen kívül is névjegyek hozzáadása/szerkesztése, hogy hív, küld üzenet és partnerek keresése.</string>
+</resources>

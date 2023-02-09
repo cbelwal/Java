@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Backup de Log de chamada </string>
+  <string name="app_folder">CallLogBackup</string>
+  <string name="message_tellafriend">
+        Backup de Log de chamada é o app mais simples para fazer backup de seu registro de chamadas em seu celular ou em sua conta de e-mail ou nuvem. Ele também tem a poderosa visualização, adicionando e editando recursos. Esta chamada app log também vem com as características úteis de discagem simples toque e toque Google busca de qualquer number.\n\n este app é um deve ter para cada telefone Android ou tablet.\n\n o app permite que você exibir logs de chamadas por diferentes tipos, incluindo duração e localização. Ele pode exibir 100, 500 ou tudo armazenado chamar registos a qualquer momento. O app também tem recursos de filtro poderoso que permitem que você veja chama registros com base no local específico, de duração ou de dia.
+    </string>
+</resources>

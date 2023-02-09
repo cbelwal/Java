@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Contactpersonen samenvoegen</string>
+  <string name="display_options_all_last_contact">Gecombineerde contact(en)</string>
+  <string name="display_options_all">Uitgebreide contact(en)</string>
+  <string name="message_on_load_toast">Met een uitgebreide contactenlijst</string>
+  <string name="message_on_load_dialog">Contactpersonen samenvoegen, controleren van meerdere contactpersonen en selecteer de \'Merge Contacts\' optie in de rechter bovenhoek. Alle contactpersonen selecteren zal worden samengevoegd met de contactpersoon die als eerste werd geselecteerd</string>
+  <string name="message_tellafriend">
+        Deze nuttige app vereenvoudigt uw lijst met contactpersonen door het samenvoegen van de contactpersonen details zoals postadressen, telefoonnummers en e-mailadressen in één.
+
+        Dit bespaart u veel tijd als de enige andere manier is om de details van de contactpersonen handmatig te verplaatsen, en verwijder de andere contacten.
+
+        Afgezien van deze u kunt ook contactpersonen toevoegen/bewerken, bellen, stuur bericht en zoeken naar contactpersonen.</string>
+</resources>

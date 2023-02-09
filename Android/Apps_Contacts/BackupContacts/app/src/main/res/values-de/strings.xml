@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Backup-Kontakte</string>
+  <string name="message_backup_contacts">Möchten Sie alle Kontakte jetzt sichern?</string>
+  <string name="message_tellafriend">
+        Ihre Kontakte sind wahrscheinlich die wichtigsten Informationen auf Ihrem Telefon, und es braucht viel Zeit, um eine Kontaktliste aufzubauen.
+        Sie wollen nicht, sie zu verlieren, wenn Ihr Telefon verloren geht oder versehentlich Sie alle Ihre Kontakte entfernen.
+
+        Dies ist, wo diese app kommt ins Spiel. Es kann Back-Up alle Ihre Kontakte in eine Datei und können Sie die backup-Datei auf Ihrem Telefon oder im Internet in Ihrem eigenen privaten e-Mail oder Wolke zu platzieren. Verwenden die Restore-Funktion dieser App, die backup-Datei lässt sich Kontakte in jedem Android-Gerät jederzeit wiederherstellen.
+
+        Gibt es andere apps gibt, die Ihnen eine jährliche Gebühren an Ihre Kontakte speichern in der Cloud, aber Sie nicht die Gebühr zu zahlen, da Sie bereits befreien müssen per e-Mail und Cloud-Speicher mit mehreren kostenlosen Anbietern wie Google und dieser app können Sie kostenlos
+        Ihre kostenlosen Konten nutzen.
+
+        Laden Sie diese app jetzt und erhalten Sie die beruhigende Gewissheit, dass Ihre Kontakte immer sicher sind!
+        </string>
+  <string name="message_backup_stored_freeversion">
+        Kostenlose Version erlaubt nur backup von bis zu 90 Kontakte.
+        Kontakte haben in Datei gesichert worden:
+    </string>
+  <string name="message_help_startup">
+        Öffnen Sie das Menü Navigation oben links, Backup- und Restore-Optionen anzeigen
+    </string>
+</resources>

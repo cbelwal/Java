@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Allmänna</string>
+  <string name="nav_menu_group_help">Hjälp</string>
+  <string name="display_options_refresh">Uppdatera</string>
+  <string name="nav_menu_group_views">Visa</string>
+  <string name="nav_menu_rate_this_app">Feedback</string>
+  <string name="nav_menu_upgrade">Uppgradera till Pro versionen</string>
+  <string name="nav_menu_tellafriend">Tipsa en vän</string>
+  <string name="nav_menu_feedback">Kontakta Dasmic</string>
+  <string name="nav_menu_demovideo">Demovideo</string>
+  <string name="nav_menu_coju">Hämta Coju</string>
+</resources>

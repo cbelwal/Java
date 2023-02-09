@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Backup del Log di chiamata </string>
+  <string name="app_folder">CallLogBackup</string>
+  <string name="message_tellafriend">
+        Chiamata Log Backup è l\'applicazione più semplice per eseguire il backup il registro chiamate nel telefono o nel tuo account e-mail o cloud. Ha anche potenti visualizzazione, aggiunta e funzionalità di editing. Questa chiamata registro app viene fornito con le utili funzionalità di composizione singolo rubinetto e rubinetto singolo Google search di qualsiasi number.\n\n questo app è un must per ogni telefono Android o tablet.\n\n l\'app consente di visualizzare i registri delle chiamate di diversi tipi tra cui durata e posizione. E \' possibile visualizzare 100, 500 o tutti i registri delle chiamate in qualsiasi momento. L\'applicazione ha anche la funzionalità di filtro potente che ti permettono di vedere chiama registri in base alle posizione specifica, la durata o la giornata.
+    </string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">呼び出しログ ブルートゥース</string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">呼び出しログ Bluetooth は、その強力な表示と Bluetooth 転送機能で時間とストレスを保存するアプリです。
+
+        この呼び出しログ アプリはシングル タップのダイヤルのような便利な機能でまた来ます、任意の number.\n\n の電話ログの Bluetooth アプリケーションのシングル タップ Google 検索では、期間や場所などの種類によって呼び出しログを表示することができます。100、500 またはすべてのストアドを表示することができます、いつでもログを呼び出します。アプリもいくつかの特定の場所または期間の呼び出しのログを参照してくださいできる強力なフィルター機能があります。
+    </string>
+</resources>

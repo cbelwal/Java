@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">VCard-bestand splitsen</string>
+  <string name="message_importing_contacts">Het importeren van contactpersonen die...</string>
+  <string name="message_reading_import_file">Het lezen van bestand, kan dit enkele minuten duren...</string>
+  <string name="button_Close">Sluiten</string>
+  <string name="button_browse">Bladeren</string>
+  <string name="button_Apply">Split</string>
+  <string name="text_selected_file_name">De naam van het geselecteerde bestand:</string>
+  <string name="text_selected_file_size">Geselecteerde bestand size(bytes):</string>
+  <string name="text_group_selected_file">Geselecteerde vCard bestandsdetails</string>
+  <string name="text_file_name">Naam:</string>
+  <string name="text_file_size">Size(bytes):</string>
+  <string name="text_file_contacts">Contact (s):</string>
+  <string name="text_unknown_file_size">Onbekend</string>
+  <string name="option_split_vcard">Split geselecteerde vCard-bestand in </string>
+  <string name="option_split_vcard_count">vCard-bestanden</string>
+  <string name="option_split_vcard_per_contact">Split voor elke contactpersoon</string>
+  <string name="option_save_vcard">Split vCard-bestanden opslaan </string>
+  <string name="option_save_vcard_external">Externe opslag</string>
+  <string name="option_save_vcard_share">Delen van toepassingen (Cloud, e-mail enz)</string>
+  <string name="message_other_permissions_missing">Gevraagde machtigingen zijn vereist voor de functie van deze app om te werken.
+        Geef de gevraagde machtigingen en probeer het opnieuw</string>
+  <string name="message_loading_files">Lokale mappen zoeken...</string>
+  <string name="message_import_invalid_file">Niet een geldig bestand is contact
+        </string>
+  <string name="message_split_ready">VCard-bestand op te splitsen in klaar te komen...
+        </string>
+  <string name="message_split_inprogress">VCard-bestand splitsen...
+        </string>
+  <string name="message_select_file_first">
+        Selecteer een vCard-bestand te splitsen
+        </string>
+  <string name="message_split_number_invalid">
+        Aantal splitsingen is ongeldig
+        </string>
+  <string name="message_split_freeversion">
+        In de GRATIS versie is alleen een splitsing in maximaal 10 bestanden toegestaan
+        </string>
+  <string name="message_split_store_external">
+        Split vCard-bestanden zijn in de externe map geplaatst
+      </string>
+  <string name="message_error_splitting">
+        Fout in het vCard-bestand splitsen. Controleer of dat het bestand geldig is.
+        </string>
+  <string name="message_error_contact_count">
+        Fout in lezing aantal contactpersonen uit een vCard-bestand. Controleer of dat het bestand geldig is.
+        </string>
+</resources>

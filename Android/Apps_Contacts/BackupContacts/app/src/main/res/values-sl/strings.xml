@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Varnostno kopiranje stikov</string>
+  <string name="message_backup_contacts">Ali želite zdaj Backup vse stike?</string>
+  <string name="message_tellafriend">
+        Stiki so verjetno najbolj pomembne informacije na telefon, in je potrebno veliko časa za izgradnjo seznam stikov.
+        Ne želite izgubiti, če izgubite telefon ali nenamerno odstranite vse stike.
+
+        To je, če to app pride igrati. To lahko varnostno vse stike v datoteko in vam omogoča, da postavite datoteko varnostne kopije na vaš telefon, ali na internetu v vaš lasten zaseben email ali oblak. S funkcijo za obnovitev tega app, varnostna kopija datoteke se lahko uporabijo za obnovitev stikov v vse naprave Android, kadarkoli.
+
+        Obstajajo drugi apps tam zunaj, ki zaračuna letne pristojbine za shranjevanje stikov v oblak, vendar vam ni treba plačati pristojbine, saj dobiš že prost email in oblak skladiščenja z več ponudniki brezplačno kot Google, in to app vam omogoča
+        Izkoristite vaš prost račun.
+
+        Travnato gričevje to app zdaj ter zaslužiti mir uma, da stiki bodo vedno varno!
+        </string>
+  <string name="message_backup_stored_freeversion">
+        Prost prevod samo omogoča varnostno kopiranje do 90 stikov.
+        Stiki so bile kopirane v datoteki:
+    </string>
+  <string name="message_help_startup">
+        Odpiranje menija v zgornjem levem razgledati možnosti varnostnega kopiranja in obnavljanja
+    </string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">連絡先を元に戻す</string>
+  <string name="message_tellafriend">このアプリではすることができますお使いのデバイスから連絡先を削除の元に戻す/回復を。それは、削除された連絡先を表示し、それらを復元することができます。
+        アカウントを復元することができます Google に保存されている連絡先だけ、このアプリは SIM カードまたはデバイスから削除の連絡先を回復することができるされません。
+            アドレス帳の画像をクリックしたときに表示されているダイヤラーも付属しています。
+        ダイヤラーでは、呼/メッセージあなたの既存の連絡先のいずれかすることができます。</string>
+  <string name="message_initial_launch">ナビゲーション メニューで削除された連絡先アイコンを使用して、削除された連絡先を表示するのには</string>
+  <string name="nav_view_all">(削除) 利用可能な連絡先</string>
+</resources>

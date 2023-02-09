@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Általános</string>
+  <string name="nav_menu_group_help">segítség</string>
+  <string name="display_options_refresh">Frissítés</string>
+  <string name="nav_menu_group_views">Nézet</string>
+  <string name="nav_menu_rate_this_app">Visszajelzés</string>
+  <string name="nav_menu_upgrade">Feljavít-hoz Profi változat</string>
+  <string name="nav_menu_tellafriend">Mondja el egy ismerősének</string>
+  <string name="nav_menu_feedback">Kapcsolattartó Dasmic</string>
+  <string name="nav_menu_demovideo">Tüntetés Video</string>
+  <string name="nav_menu_coju">Letöltés Coju</string>
+</resources>

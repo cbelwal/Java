@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju</string>
+  <string name="startup_message">Wasiliani mpangilio na namba ya simu ni katika rangi tofauti</string>
+  <string name="message_tellafriend">
+        Programu tumizi hii inaweza chelezo/rejeshi wawasiliani, Gawiza wasiliani kupitia vKadi na Bluetooth, kama vile kusafirisha na kuagiza yao kupitia faili ya CSV au vKadi.
+        Utapata kwenye chelezo wawasiliani kwenye wingu au juu ya kifaa na kurejesha yao wakati wowote katika kifaa chochote.
+
+        Pia inaonyesha mara ngapi wewe kuitwa mwasiliani, wakati wewe mwisho kuitwa (hata kama ilikuwa miaka kadhaa iliyopita) na ina pevu uchujaji Machaguo.
+        Pia inakuja na Toolkit ya uendeshaji ya kufuta nakala kama vile uwezo wa wawasiliani rejeshi ilifutwa.</string>
+</resources>

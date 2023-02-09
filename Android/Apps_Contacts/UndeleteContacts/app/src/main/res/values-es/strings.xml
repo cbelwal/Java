@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Recuperar contactos</string>
+  <string name="message_tellafriend">Esta aplicación puede recuperar o recuperar contactos eliminados de tu dispositivo. Permite ver contactos eliminados y restaurarlos.
+        Sólo, los contactos se guardan en tu Google cuenta puede restaurarse, esta aplicación no será capaz de recuperar los contactos borrados de la tarjeta SIM o dispositivo.
+            También viene con un marcador que se muestra al hacer clic en una imagen de contacto.
+        El marcador permite llamada/mensaje de alguno de sus contactos existentes.</string>
+  <string name="message_initial_launch">Utilice el icono de contactos de borrado en el menú de navegación para ver contactos eliminados</string>
+  <string name="nav_view_all">Contactos disponibles (sin eliminar)</string>
+</resources>

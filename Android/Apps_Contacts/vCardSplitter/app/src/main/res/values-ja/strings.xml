@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vCard スプリッター</string>
+  <string name="message_tellafriend">大きなご存じ vCard ファイルは Android 携帯電話に、あるいは Microsoft Outlook などのアプリケーションをインポートすることは困難することができます。
+        複数の連絡先との大規模な vCard ファイルを分割複数の小さい vCard ファイルを転送したり、簡単にインポートできればすばらしいと思いませんか。
+        VCard 分割アプリが今ここでお手伝いです。
+
+        この vCard 分割アプリでは、単一の vCard ファイル複数の vCard ファイルに分割することができに分割する vCard ファイルの数を指定することができます。連絡先は、各ファイル間均等に分割されます。
+
+        Microsoft Outlook のような複数の連絡先の vCard ファイルをインポートすることができない場合がありますプログラムで連絡先を簡単にインポートすることができます独自の個々 の vCard ファイルにそれぞれの連絡先を分割できます。
+        
+        今日このアプリを試してみる。
+        </string>
+</resources>

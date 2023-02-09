@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vCard 분배기</string>
+  <string name="message_tellafriend">
+        아시다시피 큰 vCard 파일 가져오기 안 드 로이드 폰, 또는 Microsoft Outlook 같은 응용 프로그램에도 어려울 수 있습니다.
+        여러 연락처와 큰 vCard 파일을 여러 개의 작은 vCard 파일을 전송 하거나 쉽게 가져올 수 있습니다 침입 좋지 않을까?
+        VCard 스플리터 애플 리 케이 션 지금 여기가 당신을 도울입니다.
+
+        이 vCard 스플리터 애플 리 케이 션을 사용 하면 여러 개의 vCard 파일로 단일 vCard 파일을 분할 하 고 분할 vCard 파일을 지정할 수 있습니다. 연락처 각 파일 사이 동등 하 게 분할 될 것입니다.
+
+        분할 수 있습니다 또한 그것의 자신의 개별 vCard 파일로 각 연락처 쉽게 Microsoft Outlook 같은 여러 연락처 vCard 파일을 가져올 수 없습니다 프로그램에서 연락처를 가져올 수 있습니다.
+        
+        오늘은이 애플 리 케이이 션 밖으로 보십시오.
+        </string>
+</resources>

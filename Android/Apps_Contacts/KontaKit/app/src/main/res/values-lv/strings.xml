@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju</string>
+  <string name="startup_message">Kontaktpersonas tālruņa numuru ir dažādās krāsās</string>
+  <string name="message_tellafriend">
+        Šo app var backup/atjaunot kontaktus, daļa kontaktus izmantojot vCard un Bluetooth, kā arī eksporta un importa tos caur CSV vai vCard failu.
+        Tas ļauj jums Backup Kontakti par mākonis vai jums ierīci un varat atjaunot jebkurā laikā no jebkuras ierīces.
+
+        Tas arī parāda, cik reižu jūs sauc par kontaktu, kad pēdējo sastādīto (pat ja tas bija pirms vairākiem gadiem) un ir papildu filtrēšanas opcijas.
+        Tas arī nāk ar rīkkopa, lai dzēstu kopijas, kā arī iespējām lai Dzēstās kontaktpersonas.</string>
+</resources>

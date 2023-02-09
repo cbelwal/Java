@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Undelete contatti</string>
+  <string name="message_tellafriend">Questa app può undelete/recuperare i contatti eliminati dal dispositivo. Consente di visualizzare i contatti eliminati e ripristinarli.
+        Solo i contatti che vengono salvati nel tuo Google account può essere ripristinato, è possibile che questa applicazione non sarà in grado di recuperare i contatti cancellati dalla scheda SIM o il dispositivo.
+            Inoltre è dotato di un dialer che viene mostrato quando si fa clic su un\'immagine di contatto.
+        Il dialer permette di chiamata/messaggio uno qualsiasi dei contatti esistenti.</string>
+  <string name="message_initial_launch">Utilizzare l\'icona contatti eliminati nel Menu di navigazione per visualizzare i contatti eliminati</string>
+  <string name="nav_view_all">Contatti (non eliminati) disponibili</string>
+</resources>

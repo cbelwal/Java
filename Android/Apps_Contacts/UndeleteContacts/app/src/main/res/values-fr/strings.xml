@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Restaurer les Contacts</string>
+  <string name="message_tellafriend">Cette application peut undelete/récupérer des contacts effacés de votre appareil. Il vous permet d’afficher les contacts supprimés et les restaurer.
+        Seul les contacts qui sont enregistrés dans votre Google compte peut être restauré, ce soft ne sera pas en mesure de récupérer ces contacts supprimés de la carte SIM ou de votre appareil.
+            Il est également livré avec un dialer qui s’affiche lorsque vous cliquez sur une image de contact.
+        L’appeleur permet des appels/message d’un de vos contacts existants.</string>
+  <string name="message_initial_launch">Utilisez l’icône de contacts supprimés dans le Menu de Navigation pour afficher les contacts supprimés</string>
+  <string name="nav_view_all">Contacts (restaurés) disponibles</string>
+</resources>

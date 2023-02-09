@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        Tämä app nyt pyytää oikeutta käyttää puhelun lokin ja yhteyshenkilöiden tietoja.
+        Nämä käyttöoikeudet tarvitaan app työhön ohjelmanasi ja ei ole tarkoitettu käytettäväksi millään muulla tavalla. Otamme yksityisyyden hyvin vakavasti, ja puhelun lokin ja yhteyshenkilöiden tietoja ei luovuteta tahansa puoluetta lukien coju.mobi™, tämä app julkaisijat.
+    </string>
+</resources>

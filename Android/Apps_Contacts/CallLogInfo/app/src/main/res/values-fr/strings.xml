@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Gestionnaire de journal d’appels </string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="message_tellafriend">
+        Gestionnaire de journal d’appels est une application de journal des appels intégré qui vous permet d’économiser temps et du stress avec son puissant affichage, sauvegarde, export/import de partage, d’ajouter et de modifier des fonctionnalités. Il n’y a aucune application de journal d’appel comme Call Log Manager et c’est un must pour tous les téléphones Android ou tablet.\n\n ce soft de journal d’appel est également livré avec les fonctionnalités pratiques de composition simple toucher et recherche Google seul robinet de n’importe quelle application de The Call Log Manager number.\n\n vous permet d’afficher des journaux d’appels de différents types, y compris la durée et l’emplacement. Il peut afficher 100, 500 ou mémoire appelle les journaux à tout moment. L’application dispose également des fonctionnalités de filtrage puissant qui vous permet de voir les journaux d’appels permettent à certains endroit précis ou la durée.
+    </string>
+</resources>

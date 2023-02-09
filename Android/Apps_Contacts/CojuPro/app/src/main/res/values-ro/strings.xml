@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju</string>
+  <string name="startup_message">Contacte cu numărul de telefon sunt în culori diferite</string>
+  <string name="message_tellafriend">
+        Acest app poate backup/restaurare contacte, partajaţi contacte prin intermediul vCard şi Bluetooth, precum şi de export şi să le importaţi prin CSV sau vCard fişiere.
+        Acesta vă permite Backup contactelor nor sau pe tine aparat şi le puteţi restaura oricând în orice dispozitiv.
+
+        De asemenea, Arată cât de multe ori aţi sunat o persoană de contact, atunci când ai sunat ultima (chiar în cazul în care a fost acum câţiva ani) şi a avansat opţiuni de filtrare.
+        De asemenea, vine cu un set de instrumente pentru a şterge duplicate, precum şi capacitatea de a restabili şters contacte.</string>
+</resources>

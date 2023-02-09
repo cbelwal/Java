@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">العام</string>
+  <string name="nav_menu_group_help">تعليمات</string>
+  <string name="display_options_refresh">قم بتحديث</string>
+  <string name="nav_menu_group_views">طريقة العرض</string>
+  <string name="nav_menu_rate_this_app">التغذية المرتدة</string>
+  <string name="nav_menu_upgrade">إصدار الترقية للمحترفين</string>
+  <string name="nav_menu_tellafriend">أخبر صديق</string>
+  <string name="nav_menu_feedback">اتصل داسميك</string>
+  <string name="nav_menu_demovideo">عرض الفيديو</string>
+  <string name="nav_menu_coju">تحميل كوجو</string>
+</resources>

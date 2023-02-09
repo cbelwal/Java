@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Zvanu žurnāls Bluetooth </string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">
+        Zvanu žurnāls Bluetooth ir app, kas ietaupa jūsu laiku un stresu ar spēcīgu apskatei un Bluetooth pārraides iespējām.
+
+        Šo zvanu žurnālu app nāk arī ar programmas parocīgajiem līdzekļiem, piemēram, vienreiz pieskaroties izsaukumus un vienu pieskārienu Google meklēšanu jebkurā number.\n\n zvanu žurnālu Bluetooth app ļauj jums apskatīt zvanu žurnālus ar dažādiem tipiem, ieskaitot ilgumu un vietu. To var parādīt, 100, 500 vai visus saglabātos zvanu žurnālus, jebkurā laikā. App ir arī spēcīgs filtra iespējas, kas ļauj jums redzēt, zvanu žurnālus, kādu konkrētu atrašanās vietu vai ilgumu.
+    </string>
+</resources>

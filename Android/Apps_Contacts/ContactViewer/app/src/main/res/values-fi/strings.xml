@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kontaktit-näkymässä</string>
+  <string name="message_tellafriend">Tämän app voit suodattaa yhteystietoja, jakaa sitten vCard ja päivittää asetuksia, kuten \'Send Voicemail\ \".
+    App osoittaa myös, kuinka monta kertaa olet soittanut yhteystiedon ja olet viimeksi maksanut (vaikka se oli useita vuosia sitten). Voit myös soittaa valitsemalla yhteystiedon kuvaa.
+    Kokeile sitä!</string>
+</resources>

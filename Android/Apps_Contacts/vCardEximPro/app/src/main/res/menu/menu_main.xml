@@ -1,0 +1,45 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:title="Search"
+        app:showAsAction="always"
+        app:actionLayout="@layout/ui_searchview"
+        android:orderInCategory="1"/>
+    <item android:id="@+id/action_delete" android:title="@string/action_delete"
+        android:orderInCategory="3" app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_delete" />
+    <item android:id="@+id/action_share" android:title="@string/action_share"
+        android:orderInCategory="5" app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_share" android:visible="false" />
+    <item android:id="@+id/menu_dts_overflow"
+        android:icon="@drawable/abc_ic_menu_overflow_material"
+        android:orderInCategory="6"
+        app:showAsAction="always"
+        android:title="overflow">
+        <!-- android:icon="@drawable/abc_ic_menu_overflow_material" -->
+        <menu>
+    <item android:id="@+id/action_add" android:title="@string/action_add"
+        android:orderInCategory="7" app:showAsAction="always"
+        android:icon="@drawable/ic_person_add_black_48dp"/>
+    <item android:id="@+id/action_edit" android:title="@string/action_edit"
+        android:orderInCategory="9" app:showAsAction="always"
+        android:icon="@drawable/ic_person_black_48dp"/>
+    <item android:id="@+id/action_operations" android:title="@string/action_Operations"
+        android:orderInCategory="13" app:showAsAction="always"
+        android:icon="@drawable/ic_contacts_black_48dp" android:visible="false"/>
+    <item android:id="@+id/action_export" android:title="@string/action_Export"
+                android:orderInCategory="15" app:showAsAction="always"
+                android:icon="@drawable/ic_archive_black_48dp"/>
+    <item android:id="@+id/action_import" android:title="@string/action_Import"
+                android:orderInCategory="17" app:showAsAction="always"
+            android:icon="@drawable/ic_import_contacts_black_48dp"/>
+    <item android:id="@+id/action_bluetooth"
+                    android:title="@string/action_bluetooth"
+                    android:orderInCategory="19" app:showAsAction="always"
+                    android:icon="@drawable/ic_bluetooth_black_48dp"
+                android:visible="false"/>
+
+</menu>
+        </item>
+    </menu>

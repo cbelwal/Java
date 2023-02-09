@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju Dialer</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">
+        Coju Dialer è un\'applicazione di connessione telefonica integrata che consente di risparmiare tempo e stress con il suo potente composizione, visualizzazione, esportazione/importazione e funzionalità di condivisione. Non c\'è nessuna app di dialer come Coju Dialer ed è un must per ogni telefono Android o tablet.\n\n questo dialer è anche dotato di utili funzionalità di composizione singolo rubinetto e rubinetto singolo Google search di qualsiasi number.\n\n il dialer app consente di visualizzare i registri delle chiamate di diversi tipi tra cui durata e posizione. E \' possibile visualizzare 100, 500 o tutti i registri delle chiamate in qualsiasi momento. L\'applicazione dispone anche di funzionalità di filtro potente che ti permettono di vedere i registri di chiamate da posizione specifica o durata.
+    </string>
+</resources>

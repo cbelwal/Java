@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kişileri birleştirmek</string>
+  <string name="display_options_all_last_contact">Kombine kişileri</string>
+  <string name="display_options_all">Genişletilmiş kişileri</string>
+  <string name="message_on_load_toast">Gösteren Genişletilmiş Kişiler listesi</string>
+  <string name="message_on_load_dialog">Kişileri birleştirmek, birden fazla kişi kontrol ve \'Merge Contacts\ seçmek için \' seçme hakkı--dan sağ üst. Tüm seçkin kişileri ilk seçilen kişiye birleştirilir</string>
+  <string name="message_tellafriend">
+        Bu yararlı app kişiler listenizdeki birine telefon numaraları, e-posta adresleri ve posta adresleri gibi kişiler ayrıntıları birleştirerek basitleştirir.
+
+        Bu tasarruf size çok fazla zaman kişiler ayrıntıları el ile taşır ve diğer kişileri silmek için sadece başka bir yol olduğu gibi.
+
+        Bu dışında da Ekle/Düzenle kişiler, yapabileceğiniz aramalar, göndermek mesaj ve kişileri ara.</string>
+</resources>

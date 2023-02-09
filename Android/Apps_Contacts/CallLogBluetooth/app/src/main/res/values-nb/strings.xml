@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Samtale Logg Bluetooth </string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">
+        Samtale Logg Bluetooth er en app som sparer deg tid og stress med kraftig visning og Bluetooth dataoverføringshastigheten.
+
+        Denne samtalen logge app kommer også med de praktiske funksjonene som enkelttapp ringer og enkelttapp Google-søk på noen number.\n\n kaller Logg Bluetooth app lar deg vise Anropslister av forskjellige typer, inkludert varighet og plassering. Det kan vise 100, 500 eller alle lagrede ringe loggbøker når som helst. Programmet har også kraftig filter funksjoner som lar deg se kall logger noen spesifikk plassering eller varighet.
+    </string>
+</resources>

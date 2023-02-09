@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Chamar o Gerenciador de Log </string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="message_tellafriend">
+        Chamada Log Manager é um aplicativo de registro de chamada integrado que você economiza tempo e esforço com sua poderosa visão, backup, exportação e importação, partilha, adicionando e editando recursos. Não há nenhum app log de chamada como Gerenciador de Log de chamadas e é um deve ter para todos os telefones Android ou tablet.\n\n este app log de chamada também vem com os recursos úteis de discagem simples toque e toque Google busca de qualquer number.\n\n The Call Log Manager app permite que você exibir logs de chamadas por diferentes tipos, incluindo a duração e a localização. Ele pode exibir 100, 500 ou tudo armazenado chamar registos a qualquer momento. O app também tem recursos de filtro poderoso que permitem que você consulte os logs de chamadas, um local específico ou duração.
+    </string>
+</resources>

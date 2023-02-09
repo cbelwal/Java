@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kopia zapasowa dziennika połączeń </string>
+  <string name="app_folder">CallLogBackup</string>
+  <string name="message_tellafriend">
+        Wywołanie dziennika kopia zapasowa jest najbardziej prosta aplikacja do tworzenia kopii zapasowych rejestru połączeń w telefonie lub na koncie e-mail lub chmury. Posiada również zaawansowane wyświetlanie, Dodawanie i możliwości edycji. To wywołanie dziennika aplikacji również pochodzi z przydatnych funkcji wybierania jednego kranu i jednego kranu wyszukiwania Google wszelkie number.\n\n ta aplikacja to musi mieć każdy telefon z systemem Android lub tablet.\n\n aplikacja pozwala na przeglądanie dzienników połączeń przez różnych typów, w tym czas trwania i miejsce. Ono puszka metalowa wystawa 100, 500 lub wszystkie zapisane Dzienniki połączeń w dowolnym momencie. Aplikacja posiada również filtr potężne możliwości pozwalają zobaczyć wywołuje dzienników na podstawie określonej lokalizacji, czas trwania lub dzień.
+    </string>
+</resources>

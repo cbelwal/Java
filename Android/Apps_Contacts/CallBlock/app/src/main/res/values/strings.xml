@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Call Block</string>
+    <string name="startup_message">Contact block/unblock options are in top right menu</string>
+    <string name="message_tellafriend">
+       Ever wanted calls from certain contacts in your phone book to never ring?
+        You now have a solution with this Call Block app.
+
+        The Call Block app has two views one for unblocked and another for
+        blocked contacts. The unblocked contacts view displays all your stored
+        contacts whose calls are not blocked, while the blocked view displays
+        stored contacts calls from whom are blocked. To block one or contacts,
+        you simply go to the unblocked view and selected the contacts you want
+        to block. Then using the block option you can block calls from all those
+        contacts with a single tap.
+</string>
+</resources>

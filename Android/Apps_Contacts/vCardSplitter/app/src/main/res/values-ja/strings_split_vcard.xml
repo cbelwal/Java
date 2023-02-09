@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">VCard ファイルを分割します。</string>
+  <string name="message_importing_contacts">連絡先をインポートする.</string>
+  <string name="message_reading_import_file">ファイルを読んで、これは数分をかかることがあります.</string>
+  <string name="button_Close">閉じる</string>
+  <string name="button_browse">[参照]</string>
+  <string name="button_Apply">分割</string>
+  <string name="text_selected_file_name">選択したファイル名:</string>
+  <string name="text_selected_file_size">選択したファイルのサイズ (バイト):</string>
+  <string name="text_group_selected_file">選択した vCard ファイルの詳細</string>
+  <string name="text_file_name">名前:</string>
+  <string name="text_file_size">サイズ (バイト):</string>
+  <string name="text_file_contacts">連絡先:</string>
+  <string name="text_unknown_file_size">不明</string>
+  <string name="option_split_vcard">選択した vCard ファイルを分割</string>
+  <string name="option_split_vcard_count">vCard ファイル</string>
+  <string name="option_split_vcard_per_contact">連絡先ごとに分割します。</string>
+  <string name="option_save_vcard">分割 vCard ファイルを保存します。</string>
+  <string name="option_save_vcard_external">外部ストレージ</string>
+  <string name="option_save_vcard_share">共有アプリケーション (クラウド、電子メール等)</string>
+  <string name="message_other_permissions_missing">要求されたアクセス許可は、このアプリの機能を動作させるために必要です。
+        要求されたアクセス許可を与える、やり直してください。</string>
+  <string name="message_loading_files">ローカル フォルダーを検索しています.</string>
+  <string name="message_import_invalid_file">有効な連絡先ファイルではありません。</string>
+  <string name="message_split_ready">VCard ファイルを分割する準備ができて取得しています.</string>
+  <string name="message_split_inprogress">VCard ファイルを分割.</string>
+  <string name="message_select_file_first">分割する vCard ファイルを選択してください。</string>
+  <string name="message_split_number_invalid">分割数が有効</string>
+  <string name="message_split_freeversion">無料版でのみ最大 10 ファイルに分割を許可します。</string>
+  <string name="message_split_store_external">VCard ファイルの分割は外部フォルダーに配置されています。</string>
+  <string name="message_error_splitting">VCard ファイルを分割のエラーです。ファイルが有効かどうかを確認します。
+        </string>
+  <string name="message_error_contact_count">VCard ファイルから連絡先の読書数のエラーです。ファイルが有効かどうかを確認します。
+        </string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Vispārējā</string>
+  <string name="nav_menu_group_help">palīgā</string>
+  <string name="display_options_refresh">Atsvaidzināt</string>
+  <string name="nav_menu_group_views">Skats</string>
+  <string name="nav_menu_rate_this_app">Atsauksmes</string>
+  <string name="nav_menu_upgrade">Jaunināšanas uz Pro versiju</string>
+  <string name="nav_menu_tellafriend">Pastāsti draugam</string>
+  <string name="nav_menu_feedback">Kontakti Dasmic</string>
+  <string name="nav_menu_demovideo">Demonstrācijas Video</string>
+  <string name="nav_menu_coju">Lejupielādēt Coju</string>
+</resources>

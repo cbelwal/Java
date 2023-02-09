@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Cadangan Log panggilan </string>
+  <string name="app_folder">CallLogBackup</string>
+  <string name="message_tellafriend">
+        Panggilan Log cadangan adalah app paling sederhana untuk cadangan panggilan Anda log di telepon atau di account email atau internet. Ini juga memiliki kuat melihat, menambahkan dan kemampuan mengedit. Ini panggilan log app juga dilengkapi dengan fitur-fitur berguna panggilan satu Tekan dan tekan satu pencarian Google dari setiap number.\n\n aplikasi ini adalah harus memiliki untuk setiap ponsel Android atau tablet.\n\n app memungkinkan Anda untuk melihat log panggilan dengan jenis yang berbeda termasuk durasi dan lokasi. Ia bisa menampilkan 100, 500 atau semua disimpan log panggilan setiap saat. App juga memiliki kemampuan penyaring yang kuat yang memungkinkan Anda untuk melihat panggilan log berdasarkan lokasi tertentu, durasi atau hari.
+    </string>
+</resources>

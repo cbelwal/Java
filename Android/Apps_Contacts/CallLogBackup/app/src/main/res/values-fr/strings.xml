@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Sauvegarde du journal des appels </string>
+  <string name="app_folder">CallLogBackup</string>
+  <string name="message_tellafriend">
+        Call Log sauvegarde est la plus simple application pour sauvegarder votre journal d’appel sur votre téléphone ou dans votre compte de courriel ou de nuage. Il a aussi puissant, d’ajouter et de capacités d’édition. Cet appel journal app est également livré avec des fonctionnalités pratiques de composer un seul robinet et robinet simple recherche sur Google de toute number.\n\n ce soft est une nécessité ont pour chaque téléphone Android ou tablet.\n\n l’app vous permet d’afficher des journaux d’appels de différents types, y compris la durée et l’emplacement. Il peut afficher 100, 500 ou mémoire appelle les journaux à tout moment. L’app a également des fonctionnalités de filtrage puissant qui vous permettent de voir appelle journaux basés sur un emplacement spécifique, de durée ou de jour.
+    </string>
+</resources>

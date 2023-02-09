@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Pogled za stike</string>
+  <string name="message_tellafriend">S tem app lahko filtrirate, delež nato preko vCard in posodobiti nastavitve kot \'Send Voicemail\ \".
+    App tudi kaže, kolikokrat ti stik in kdaj ste nazadnje imenuje (tudi če je bilo pred nekaj leti). Klice lahko tudi s klikom na sliko stika.
+    Preizkusite!</string>
+</resources>

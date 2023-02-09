@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Ligar Bluetooth Log </string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">
+        Chamada Log Bluetooth é um app que você economiza tempo e esforço com a sua visão poderosa e capacidades de transferência Bluetooth.
+
+        Este app log de chamada também vem com as características úteis como discagem por toque único e simples toque Google busca de qualquer app de chamar Log Bluetooth number.\n\n permite-lhe ver os registos de chamadas por diferentes tipos, incluindo duração e localização. Ele pode exibir 100, 500 ou tudo armazenado chamar registos a qualquer momento. O app também tem recursos de filtro poderoso que permitem que você consulte os logs de chamadas, um local específico ou duração.
+    </string>
+</resources>

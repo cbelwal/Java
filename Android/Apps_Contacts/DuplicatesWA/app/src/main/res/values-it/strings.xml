@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Duplicati per WhatsApp</string>
+  <string name="message_tellafriend">Con questa applicazione che è possibile visualizzare duplicare contatti WhatsApp, selezionare ed eliminarli. Contatti WhatsApp duplicati sono identificati da uno schema di colore unico che consente di visualizzare il valore di master e suoi duplicati associati. Tutti i duplicati sono auto-selezionato per l\'eliminazione, ma avete la scelta di non-selezione loro nel caso in cui si desidera mantenere alcuni dei contatti.
+        Questa applicazione viene inoltre fornito con un dialer che permette di effettuare chiamate ai contatti ed inoltre ha caratteristiche di aggiungere nuovi contatti e modificare quelli esistenti.</string>
+</resources>

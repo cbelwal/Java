@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Opkald Log Backup </string>
+  <string name="app_folder">CallLogBackup</string>
+  <string name="message_tellafriend">
+        Opkald Log Backup er den mest simple app til at sikkerhedskopiere din opkaldsloggen i telefonen eller i din e-mail eller cloud-konto. Det har også kraftfulde visning, tilføjelse og redigering kapaciteter. Dette opkald log app også kommer med de smarte funktioner i enkelt tryk opkald og enkelt tryk Google søgning af nogen number.\n\n denne app er et must have for alle Android-telefon eller tablet.\n\n app kan du få vist kalde logs af forskellige typer, herunder varigheden og placering. Det kan vise 100, 500 eller alle gemte kalde logs til enhver tid. App\'en også har effektive filter funktioner som gør det muligt at se opkald logs baseret på specifikke placering, varighed eller dag.
+    </string>
+</resources>

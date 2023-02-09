@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        Dit app zal nu aanvragen voor machtigingen voor toegang tot uw aanroepgegevens log en contacten.
+        Deze machtigingen zijn vereist voor dit app om te werken als een standaard-kiezer en zijn niet bedoeld om te worden gebruikt op een andere manier. Wij nemen uw privacy zeer serieus en uw aanroepgegevens log en contacten zullen niet worden gedeeld met derden, met inbegrip van coju.mobi™, de uitgevers van dit app.
+    </string>
+</resources>

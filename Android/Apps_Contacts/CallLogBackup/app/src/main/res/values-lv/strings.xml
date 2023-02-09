@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Zvanu Log Backup </string>
+  <string name="app_folder">CallLogBackup</string>
+  <string name="message_tellafriend">
+        Zvanu Log Backup ir visvienkāršākā app backup jūsu zvanu urnāls, tālruni vai e-pastu vai mākonis pārskatā. Tas ir arī spēcīgs apskate, pievienojot un rediģēšanas iespējas. Šo zvanu žurnālu app nāk arī ar vienu pieskārienu numura sastādīšanas ērtus līdzekļus un vienu pieskārienu Google meklēšanu no jebkuras number.\n\n šis app ir jābūt par katru Android tālruni vai tablet.\n\n app ļauj jums apskatīt zvanu žurnālus ar dažādiem tipiem, ieskaitot ilgumu un vietu. To var parādīt, 100, 500 vai visus saglabātos zvanu žurnālus, jebkurā laikā. App ir arī spēcīgs filtrēšanas iespējas, kas ļauj redzēt zvanu žurnālus, pamatojoties uz konkrētu vietu, ilgumu vai dienu.
+    </string>
+</resources>

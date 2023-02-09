@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Duplikat Lihat &amp; menghancurkan</string>
+  <string name="message_tellafriend">Dengan aplikasi ini Anda dapat melihat kontak duplikat, pilih dan menghapusnya. Kontak duplikat diidentifikasi oleh skema warna yang unik yang akan membantu Anda untuk melihat nilai master dan duplikat yang terkait. Semua duplikat auto-dipilih untuk penghapusan tetapi Anda memiliki pilihan un memilih mereka jika Anda ingin menyimpan beberapa kontak.
+     Aplikasi ini juga dilengkapi dengan dialer yang memungkinkan Anda untuk membuat panggilan ke kontak Anda dan juga memiliki fitur untuk menambahkan kontak baru dan mengedit yang sudah ada.</string>
+</resources>

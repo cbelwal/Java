@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kontakter-visning</string>
+  <string name="message_tellafriend">Med dette programmet kan du filtrere kontakter, dele deretter via vCard, og Oppdater innstillinger som \'Send til Voicemail\'.
+    Programmet viser også hvor mange ganger du kalt en kontakt og når du sist ringte (selv om det var flere år siden). Du kan også ringe ved å klikke på kontaktbildet.
+    Prøv det.</string>
+</resources>

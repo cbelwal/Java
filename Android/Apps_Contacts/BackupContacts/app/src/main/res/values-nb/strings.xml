@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Sikkerhetskopien kontakter</string>
+  <string name="message_backup_contacts">Vil du sikkerhetskopiere alle kontaktene nå?</string>
+  <string name="message_tellafriend">
+        Kontaktene dine er sannsynligvis den viktigste informasjonen i telefonen, og det tar mye tid å bygge opp en kontaktliste.
+        Du ønsker ikke å miste dem hvis telefonen går tapt eller du tilfeldigvis fjerne alle kontaktene.
+
+        Det er hvor denne app kommer å spille. Det kan sikkerhetskopiere alle kontaktene i en fil, og lar deg plassere sikkerhetskopien på telefonen eller Internett i din egen privat e-post eller skyen. Bruke gjenopprettingsfunksjonen av denne app, kan sikkerhetskopien brukes til å gjenopprette kontakter i en Android-enhet, når som helst.
+
+        Det er andre programmer der ute som tar du en årsavgift lagre kontaktene i skyen, men du ikke trenger betale avgiften siden du allerede får gratis e Skylagring med flere gratis leverandører som Google og denne
+        å utnytte din gratis kontoer.
+
+        Last ned denne app nå og få fred i sinnet at kontaktene vil alltid være trygg!
+        </string>
+  <string name="message_backup_stored_freeversion">
+        Gratisversjonen kan bare backup av opptil 90 kontakter.
+        Kontakter har blitt sikkerhetskopiert i filen:
+    </string>
+  <string name="message_help_startup">
+        Åpne navigasjonsmenyen i topp venstre for å vise alternativer for sikkerhetskopiering og gjenoppretting
+    </string>
+</resources>

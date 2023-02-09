@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju 拨号程序</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">Coju 拨号器是一个综合的拨号程序应用程序，以其强大的拨号、 查看、 导出/导入和共享功能节省你时间与应力。还有像 Coju 拨号程序没有拨号程序和这是一个必须有每个 Android 手机或 tablet.\n\n 此拨号程序还带有一个水龙头拨号方便的功能和任何拨号程序的应用程序允许您查看呼叫日志由包括持续时间和位置的不同类型的 number.\n\n 单龙头谷歌搜索。它可以显示 100，500 或所有存储在任何时间通话记录。应用程序还具有强大的筛选功能，允许您查看呼叫日志从特定位置或持续时间。
+    </string>
+</resources>

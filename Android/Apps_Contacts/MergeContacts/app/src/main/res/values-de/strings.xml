@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kontakte zusammenführen</string>
+  <string name="display_options_all_last_contact">Kombinierte Kontakte</string>
+  <string name="display_options_all">Erweiterte Kontakte</string>
+  <string name="message_on_load_toast">Zeigt erweiterte Kontaktliste</string>
+  <string name="message_on_load_dialog">Kontakte zusammenführen, überprüfen mehrere Kontakte und wählen die \'Merge Contacts\ \"Option von oben rechts. Alle ausgewählten Kontakte werden in den Kontakt zusammengeführt werden, die zuerst ausgewählt wurde</string>
+  <string name="message_tellafriend">
+        Dieses nützliche app vereinfacht durch die Zusammenlegung von Kontaktdaten wie Postanschriften, Telefonnummern und e-Mail-Adressen in eine Kontaktliste.
+
+        Dadurch sparen Sie viel Zeit, da die einzige andere Möglichkeit ist es, die Kontaktdaten manuell verschieben, und löschen Sie die anderen Kontakte.
+
+        Abgesehen von dieser Sie auch telefonieren Kontakte hinzufügen/bearbeiten, senden Sie Nachrichten und Kontakten suchen.</string>
+</resources>

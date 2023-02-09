@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju</string>
+  <string name="startup_message">Kontak dengan nomor telepon yang dalam warna berbeda</string>
+  <string name="message_tellafriend">
+        Aplikasi ini dapat backup/restore kontak, berbagi kontak melalui vCard dan Bluetooth, serta ekspor dan impor mereka melalui file CSV atau vCard.
+        Ini memungkinkan Anda untuk cadangan kontak di atas awan atau pada Anda perangkat dan dapat memulihkan mereka kapan saja di perangkat.
+
+        Hal ini juga menunjukkan berapa kali Anda dipanggil kontak, saat Anda terakhir disebut (bahkan jika itu beberapa tahun yang lalu) dan telah maju pilihan penyaringan.
+        Itu juga datang dengan sebuah toolkit untuk menghapus duplikat serta kemampuan untuk mengembalikan dihapus kontak.</string>
+</resources>

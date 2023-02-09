@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Weergave contacten</string>
+  <string name="message_tellafriend">Met deze app kunt u het filteren van contactpersonen, delen vervolgens via vCard, en update instellingen zoals \'Send naar Voicemail\'.
+    De app toont ook hoeveel keer u genoemd een contact en wanneer u laatst genoemd (zelfs als het was enkele jaren geleden). U kunt ook bellen door te klikken op de afbeelding van de contactpersoon.
+    Probeer het uit!</string>
+</resources>

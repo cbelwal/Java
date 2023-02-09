@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Izbris stikov</string>
+  <string name="message_tellafriend">Ta app lahko neodložen/zopet prejeti izbrisati stike iz vaše naprave. To omogoča ogled izbrisani stiki in obnovijo.
+        Le stike, ki so shranjene v vaš Google račun, lahko obnovite, to app ne bo zmožen v zopet prejeti teh stikov, izbrisati s SIM kartico ali napravo.
+            Prav tako prihaja z narečje, ki je pokazala, ko boste kliknili na sliko stika.
+        Lahko izbirnik omogoča klic/sporočilo, katerega koli od že obstoječih stikov.</string>
+  <string name="message_initial_launch">Uporabite ikono izbrisanih stikov v navigacijski meni razgledati izbrisani stiki</string>
+  <string name="nav_view_all">Na voljo (izbrisana) stike</string>
+</resources>

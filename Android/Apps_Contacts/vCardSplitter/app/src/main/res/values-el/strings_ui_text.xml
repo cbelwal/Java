@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Γενικά</string>
+  <string name="nav_menu_group_help">Βοήθεια</string>
+  <string name="display_options_refresh">Ανανέωση</string>
+  <string name="nav_menu_group_views">Προβολή</string>
+  <string name="nav_menu_rate_this_app">Ανατροφοδότηση</string>
+  <string name="nav_menu_upgrade">Αναβάθμιση σε Pro έκδοση</string>
+  <string name="nav_menu_tellafriend">Πείτε το σε ένα φίλο</string>
+  <string name="nav_menu_feedback">Επικοινωνήστε με Dasmic</string>
+  <string name="nav_menu_demovideo">Βίντεο επίδειξης</string>
+  <string name="nav_menu_coju">Λήψη Coju</string>
+</resources>

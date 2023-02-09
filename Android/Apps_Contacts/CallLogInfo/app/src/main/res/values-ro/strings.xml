@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Managerul de jurnal apeluri </string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="message_tellafriend">
+        Call Log Manager este un app jurnal de apel integrat care vă economiseşte timp şi stres cu său puternic de vizualizare, backup, export/import, partajarea, adăugând şi capabilităţi de editare. Nu există nici o app jurnal apel ca Call Log Manager si este o necesitate pentru fiecare telefon Android sau tablet.\n\n acest app jurnal de apel, de asemenea, vine cu caracteristici la îndemână de apelare singur robinet şi singur robinet Google căutare de orice number.\n\n Call Log Manager app vă permite să vizualizaţi jurnalele de apeluri, de diferite tipuri, inclusiv durata şi locaţie. Acesta poate afişa 100, 500 sau stocate toate jurnalele de apel, în orice moment. App are, de asemenea, capabilităţi de filtru puternic, care vă permite să vedeţi jurnalele de apeluri de o anumită locaţie sau durata.
+    </string>
+</resources>

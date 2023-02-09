@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Sao lưu danh bạ</string>
+  <string name="message_backup_contacts">Bạn có muốn sao lưu danh bạ tất cả bây giờ?</string>
+  <string name="message_tellafriend">
+        Danh bạ của bạn có thể là các thông tin quan trọng nhất trong điện thoại của bạn, và phải mất rất nhiều thời gian để xây dựng một danh sách liên lạc.
+        Bạn không muốn mất họ nếu điện thoại của bạn bị mất, hoặc bạn vô tình loại bỏ tất cả các liên hệ của bạn.
+
+        Đây là nơi ứng dụng này đi chơi. Nó có thể sao lưu tất cả các liên hệ của bạn trong một tập tin và cho phép bạn đặt các tập tin sao lưu trên điện thoại của bạn, hoặc trên Internet ở riêng email hoặc đám mây của riêng bạn. Sử dụng tính năng khôi phục lại ứng dụng này, các tập tin sao lưu có thể được sử dụng để khôi phục lại địa chỉ liên lạc trong bất kỳ thiết bị Android, bất cứ lúc nào.
+
+        Có những ứng dụng khác ra khỏi đó mà phí gửi email cho bạn một khoản phí hàng năm để lưu trữ danh bạ của bạn trong các đám mây, nhưng bạn không cần phải trả phí kể từ khi bạn đã nhận được miễn phí lưu trữ đám mây với một số nhà cung cấp miễn phí như Google và ứng dụng này cho phép bạn
+        để tận dụng tài khoản miễn phí của bạn.
+
+        Tải ứng dụng này ngay bây giờ và nhận được sự an tâm rằng danh bạ của bạn sẽ luôn luôn được an toàn!
+        </string>
+  <string name="message_backup_stored_freeversion">
+        Phiên bản miễn phí chỉ cho phép sao lưu địa chỉ liên lạc lên đến 90.
+        Địa chỉ liên hệ đã được đã sao lưu trong tập tin:
+    </string>
+  <string name="message_help_startup">
+        Mở trình đơn điều hướng ở trên bên trái để xem các tùy chọn sao lưu và khôi phục
+    </string>
+</resources>

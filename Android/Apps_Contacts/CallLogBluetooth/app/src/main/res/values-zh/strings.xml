@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">呼叫日志蓝牙</string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">呼叫日志蓝牙是一个应用程序，以其强大的查看和蓝牙传输能力而节省你时间与应力。
+
+        这个调用日志应用程序还配有方便的功能，像一个水龙头拨号和单龙头谷歌搜索的任何 number.\n\n 调用日志蓝牙应用程序允许您查看通话记录的不同类型，包括持续时间和位置。它可以显示 100，500 或所有存储在任何时间通话记录。应用程序还具有强大的筛选功能，允许您查看呼叫日志一些特定位置或持续时间。
+    </string>
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:title="@string/nav_menu_group_views_cl">
+        <menu><item android:id="@+id/nav_view_all_cl"
+            android:title="@string/nav_view_all_cl"
+            android:icon="@drawable/ic_call_merge_black_48dp"/>
+        <item android:id="@+id/nav_view_incomingcalls_cl"
+            android:title="@string/nav_view_incomingcalls_cl"
+            android:icon="@drawable/ic_call_received_black_48dp"/>
+        <item android:id="@+id/nav_view_missedcalls_cl"
+            android:title="@string/nav_view_missedcalls_cl"
+            android:icon="@drawable/ic_call_missed_black_48dp"/>
+        <item android:id="@+id/nav_view_outgoingcalls_cl"
+            android:title="@string/nav_view_outgoingcalls_cl"
+            android:icon="@drawable/ic_call_made_black_48dp"/>
+        <item android:id="@+id/nav_view_call_duration_cl"
+            android:title="@string/nav_view_callduration_cl"
+            android:icon="@drawable/ic_access_time_black_48dp"/>
+        <item android:id="@+id/nav_view_geocoded_location_cl"
+                android:title="@string/nav_view_geocoded_location_cl"
+                android:icon="@drawable/ic_access_time_black_48dp"/>
+        <item android:id="@+id/nav_view_refresh_cl"
+                android:title="@string/nav_view_refresh_cl"
+                android:icon="@drawable/ic_refresh_black_48dp"/>
+            <item android:id="@+id/nav_view_filter"
+                android:title="@string/nav_menu_filter_cl"
+                android:icon="@drawable/ic_filter_list_black_48dp"/>
+        </menu>
+        </item>
+    <item android:title="@string/nav_menu_group_log_length">
+        <menu>
+            <item android:id="@+id/nav_view_100_records_cl"
+                android:title="@string/nav_view_100_records"
+                android:orderInCategory="15"
+                android:icon="@drawable/ic_info_black_48dp"/>
+            <item android:id="@+id/nav_view_500_records_cl"
+                android:title="@string/nav_view_500_records"
+                android:orderInCategory="17"
+                android:icon="@drawable/ic_info_black_48dp"/>
+            <item android:id="@+id/nav_view_all_records_cl"
+                android:title="@string/nav_view_all_records"
+                android:orderInCategory="19"
+                android:icon="@drawable/ic_info_black_48dp"/>
+
+        </menu>
+    </item>
+    <item android:title="@string/nav_menu_group_backup_cl">
+        <menu>
+            <item android:id="@+id/nav_view_backup_contacts_cl"
+                android:title="@string/nav_menu_backup_contacts_cl"
+                android:icon="@drawable/ic_settings_backup_restore_black_48dp"/>
+            <item android:id="@+id/nav_view_restore_contacts_cl"
+                android:title="@string/nav_menu_restore_contacts_cl"
+                android:icon="@drawable/ic_restore_black_48dp"/>
+        </menu>
+    </item>
+    <item android:title="@string/nav_menu_group_help_cl">
+        <menu>
+            <item android:id="@+id/nav_view_demo_video_cl"
+                android:title="@string/nav_menu_demovideo_cl"
+                android:icon="@drawable/ic_ondemand_video_black_48dp"/>
+            <item android:id="@+id/nav_view_help_documentation_cl"
+                android:title="@string/nav_menu_help_doc"
+                android:icon="@drawable/ic_help_black_48dp"/>
+        </menu>
+    </item>
+    <item android:title="@string/nav_menu_group_general_cl">
+        <menu>
+            <item android:id="@+id/nav_view_tell_a_friend_cl"
+                android:title="@string/nav_menu_tellafriend_cl"
+                android:icon="@drawable/ic_link_black_48dp"/>
+            <item android:id="@+id/nav_view_rate_this_app_cl"
+                android:title="@string/nav_menu_rate_this_app_cl"
+                android:icon="@android:drawable/btn_star"/>
+            <item android:id="@+id/nav_view_feedback_cl"
+                android:title="@string/nav_menu_feedback_cl"
+                android:icon="@drawable/ic_feedback_black_48dp"/>
+            <item android:id="@+id/nav_view_upgrade_paid_version_cl"
+                android:title="@string/nav_menu_upgrade_cl"
+                android:icon="@drawable/ic_shop_black_48dp"
+                android:visible="true"
+                />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Gọi đăng nhập quản lý </string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="message_tellafriend">
+        Gọi đăng nhập quản lý là một ứng dụng Nhật ký cuộc gọi tích hợp giúp bạn tiết kiệm thời gian và căng thẳng với của nó mạnh mẽ xem, sao lưu, xuất khẩu, nhập khẩu, chia sẻ, thêm và chỉnh sửa khả năng. Không không có cuộc gọi đăng nhập ứng dụng như gọi đăng nhập trình quản lý và nó là phải có cho mỗi điện thoại Android hoặc tablet.\n\n ứng dụng Nhật ký cuộc gọi này cũng đi kèm với các tính năng tiện dụng quay số duy nhất khai thác và tìm kiếm của Google đơn tap của bất kỳ number.\n\n các cuộc gọi đăng nhập trình quản lý ứng dụng cho phép bạn xem các bản ghi cuộc gọi của các loại khác nhau bao gồm cả thời gian và địa điểm. Nó có thể hiển thị 100, 500 hoặc được lưu trữ tất cả Nhật ký cuộc gọi bất cứ lúc nào. Ứng dụng này cũng có khả năng mạnh mẽ lọc cho phép bạn xem các bản ghi cuộc gọi, một số vị trí cụ thể hoặc thời gian thực hiện.
+    </string>
+</resources>

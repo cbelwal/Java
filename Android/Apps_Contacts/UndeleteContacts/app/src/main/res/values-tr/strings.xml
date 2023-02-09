@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kişileri silmeyi geri alma</string>
+  <string name="message_tellafriend">Bu app/cihazınızdan Silinen kişiler yeniden elde etmek undelete. Silinen kişileri görüntülemek ve geri yükleme yapmanızı sağlar.
+        Senin Google hesabı geri kaydedilir tek kişiler bu app kişileri SIM kart veya aygıtınız silinmiş kurtarmak mümkün olmayacaktır.
+            Ayrıca kişi bir resme bağlandığınızda gösterilen bir çevirici ile geliyor.
+        Çevirici çağrı/mesaj herhangi bir varolan kişiye izin verir.</string>
+  <string name="message_initial_launch">Silinen kişileri görüntülemek için gezinme menüsü Silinen kişiler simgesini kullanın</string>
+  <string name="nav_view_all">Kullanılabilir (silinmeyen) kişiler</string>
+</resources>

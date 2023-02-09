@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="opaque_red">#f00</color>
+    <color name="translucent_red">#80ff0000</color>
+    <color name="LightGray">#b7b7b7</color>
+    <color name="DarkGray">#a7a7a7</color>
+    <color name="ContactListRed">#D00000</color>
+    <color name="ContactListGreen">#009C00</color>
+    <color name="ContactListBlue">#0000A8</color>
+    <color name="ContactListAlpha">#79000000</color>
+    <color name="InfoBackgroundColor">#99BB99</color>
+    <color name="NavBackgroundColor">@color/InfoBackgroundColor</color>
+    <color name="white">#FFFFFF</color>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">联系人 Xchange</string>
+  <string name="message_tellafriend">此应用程序使它很容易将联系人转移到不同的安卓手机/平板电脑通过蓝牙。
+        \n\nIt 不仅传输每一个接触的细节，同时转移的照片 \n 接触。</string>
+  <string name="message_initial_launch">选择的联系人发送，然后点击右上角的蓝牙图标</string>
+</resources>

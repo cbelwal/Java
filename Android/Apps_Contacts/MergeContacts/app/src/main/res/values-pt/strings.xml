@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Mesclar contatos</string>
+  <string name="display_options_all_last_contact">Contato (s) combinada</string>
+  <string name="display_options_all">Contato (s) expandido</string>
+  <string name="message_on_load_toast">Lista de contatos expandido apresentando</string>
+  <string name="message_on_load_dialog">Para mesclar contatos, verificar vários contatos e selecione o \'Merge Contacts\' opção do canto superior direito. Todos os contatos selecionados serão mesclados no contato selecionado primeiro</string>
+  <string name="message_tellafriend">
+        Este app útil simplifica sua lista de contatos, mesclando-se detalhes de contatos como números de telefone, endereços de e-mail e endereços postais em um.
+
+        Isto conservá-lo muito tempo como o outro caminho é mover os detalhes de contatos manualmente e exclua os outros contatos.
+
+        Aparte isso, você também pode adicionar ou editar contatos, fazer chamadas, enviar mensagens e busca de contatos.</string>
+</resources>

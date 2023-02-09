@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vCard Splitter</string>
+  <string name="message_tellafriend">
+        Mint te május tud, nagy vCard fájlokat lehet bonyolult-hoz Android telefon, vagy akár alkalmazások, mint például a Microsoft Outlook import.
+        Nem lenne szép, hogy egy nagy vCard-fájlt több kapcsolattartók betörni több kisebb vCard fájlokat átvinni, vagy egyszerűen importálni?
+        A vCard Splitter app most itt, hogy segít.
+
+        A vCard Splitter app lehetővé teszi, hogy egyetlen vCard fájl osztva több vCard-fájlokat, és megadhatja, hogy hány vCard fájlokat-hoz hasít-ba. A partnerek egyenlő részben elosztják között minden fájlt.
+
+        Is feloszthat minden kapcsolatot a saját egyéni vCard-fájlt, lehetővé teszi, hogy könnyen importálni a névjegyeket, amely nem lehet képes importálni vCard fájlokat kapcsolatokat több, mint a Microsoft Outlook programban.
+        
+        Kipróbál ez app ma.
+        </string>
+</resources>

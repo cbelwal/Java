@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Çağrı günlük yedeği </string>
+  <string name="app_folder">CallLogBackup</string>
+  <string name="message_tellafriend">
+        Çağrı günlüğü yedekleme arama kaydını telefon veya e-posta veya bulut hesabınızı yedekleme için en basit uygulaması var. Ayrıca güçlü görüntüleme, ekleme ve düzenleme yetenekleri vardır. Bu günlük uygulama da geliyor tek musluk çevirme kullanışlı özellikleri ve herhangi bir number.\n\n tek musluk Google arama ile bu app çağrı bir zorunluluktur olan her Android telefon veya tablet.\n\n app arama kayıtlarını süresi ve konum dahil olmak üzere farklı türleri tarafından görüntülemenize olanak sağlar. 100, 500 veya tüm saklı görüntüleyebilirsiniz ara günlükleri herhangi bir zamanda. Belgili tanımlık app, Ayrıca güçlü filtre yetenekleri vardır görmek izin belirli konum, süre veya gün temel günlükleri çağırır.
+    </string>
+</resources>

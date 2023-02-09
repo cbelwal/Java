@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Çağrı günlük Yöneticisi </string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="message_tellafriend">
+        Çağrı günlüğü onun güçlü görüntüleme, yedekleme, verme/alma, ile zaman ve stres kaydeder bir entegre çağrı günlük uygulama paylaşımı, ekleme ve düzenleme özellikleri yöneticisidir. Hiçbir çağrı günlük uygulaması gibi arama günlük Yöneticisi ve bu bir zorunluluktur her Android telefon veya tablet.\n\n Bu çağrı günlük app de tek musluk çevirme ve tek musluk Google arama herhangi bir number.\n\n arama günlük Yöneticisi app kullanışlı özellikleri ile birlikte gelir arama kayıtlarını süresi ve konum dahil olmak üzere farklı türleri tarafından görüntülemenize olanak sağlar. 100, 500 veya tüm saklı görüntüleyebilirsiniz ara günlükleri herhangi bir zamanda. Belgili tanımlık app Ayrıca bkz: aramalar günlükleri yapmanızı sağlayan bazı belirli konum veya süre güçlü filtre yetenekleri vardır.
+    </string>
+</resources>

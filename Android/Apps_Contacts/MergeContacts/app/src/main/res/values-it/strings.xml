@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Unire i contatti</string>
+  <string name="display_options_all_last_contact">Contatto combinato (s)</string>
+  <string name="display_options_all">Espanso contatto (s)</string>
+  <string name="message_on_load_toast">Visualizza l\'elenco contatti espansi</string>
+  <string name="message_on_load_dialog">Per unire i contatti, controllare più contatti e selezionare la \'Merge Contacts\' opzione dall\'alto a destra. Selezionare tutti i contatti saranno fusi nel contatto che è stato selezionato per primo</string>
+  <string name="message_tellafriend">
+        Questa utile applicazione semplifica il tuo elenco di contatti unendo dettagli contatti come numeri di telefono, indirizzi e-mail e indirizzi postali in uno.
+
+        Questo risparmiare un sacco di tempo come l\'unico altro modo è quello di spostare i dettagli contatti manualmente e quindi eliminare gli altri contatti.
+
+        Oltre a questo si può anche Add/Edit contatti, effettuare chiamate, inviare messaggio e cercare contatti.</string>
+</resources>

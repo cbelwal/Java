@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kontaktu skats</string>
+  <string name="message_tellafriend">Ar šo app var filtrēt kontaktpersonas, pēc tam dalīties izmantojot vCard un atjaunināt iestatījumus, piemēram, \'Send Voicemail\'.
+    Arī app liecina, cik reizes jūs sauc kontaktu un kad pēdējo sastādīto (pat ja tas bija pirms vairākiem gadiem). Varat arī zvanīt, noklikšķinot uz kontaktpersonas attēlu.
+    Izmēģiniet to!</string>
+</resources>

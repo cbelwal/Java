@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Giao diện danh bạ</string>
+  <string name="message_tellafriend">Với ứng dụng này bạn có thể lọc địa chỉ liên lạc, chia sẻ sau đó qua vCard và cập nhật các cài đặt như \'Send để Voicemail\'.
+    Các ứng dụng cũng cho thấy bao nhiêu lần bạn gọi là một số liên lạc và khi bạn cuối gọi là (ngay cả khi nó đã một vài năm trước). Bạn cũng có thể thực hiện cuộc gọi bằng cách bấm vào các hình ảnh liên hệ.
+    Hãy thử nó!</string>
+</resources>

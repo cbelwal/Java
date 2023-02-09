@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju narečje</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">
+        Coju narečje je integrirano narečje app, ki vam prihrani čas in stresa s svojo močno sončna ura, ogled, izvoz/uvoz ter črepina capabilities. Je app brez narečje kot Coju narečje, in je treba za vsak Android telefon ali tablet.\n\n to narečje tudi priti s priročne funkcije klicanja enojni tap in enojni tap Google iskanje vse number.\n\n narečje app vam omogoča, da klic hlodi z različnih vrst, vključno s trajanjem in lokacijo. To moči izložba 100, 500 ali vse shranjene klic hlodi kadarkoli. App ima tudi močan filtrov zmogljivosti, ki omogočajo, da si ogledate dnevnike klicev iz določene lokacije ali trajanje.
+    </string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts Xchange</string>
+    <string name="message_tellafriend">This app makes it very easy to transfer
+    contacts to different Android phones/tablets via Bluetooth.
+        \n\nIt not only transfers every contact detail but also transfers
+        the photo of the contact.\n</string>
+    <string name="message_initial_launch">Select contacts to send, then
+                    tap the Bluetooth icon in top right</string>
+</resources>

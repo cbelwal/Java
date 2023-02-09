@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Puhelun lokin Bluetooth </string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">
+        Puhelun lokin Bluetooth on ohjelma, joka säästää aikaa ja stressi voimakas katselu ja Bluetooth tiedonsiirto-ominaisuudet.
+
+        Tämän puhelun lokin sovelluksen mukana tulee myös käteviä ominaisuuksia, kuten yhdellä napautuksella numerot ja yhdellä napautuksella Google-haun number.\n\n Soita loki Bluetooth app voit tarkastella puhelulokit jotka eri kesto ja sijainti. Se näyttää 100, 500 tai kaikki tallennetut puhelulokit milloin tahansa. App on myös tehokkaan suodattimen ominaisuuksia, joiden avulla voit nähdä puhelut lokit tiettyyn paikkaan tai kesto.
+    </string>
+</resources>

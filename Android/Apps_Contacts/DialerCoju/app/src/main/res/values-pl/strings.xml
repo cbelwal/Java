@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju Dialer</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">
+        Coju Dialer jest aplikacja wbudowany dialer, który oszczędzi Ci czasu i stresu z jego potężny wybieranie, oglądanie, eksportu/importu i możliwości podziału. Nie jest żadna aplikacja dialer jak Coju Dialer i to musi mieć każdy telefon z systemem Android lub tablet.\n\n ten telefon także przyjechał rezygnować przydatne funkcje wybierania jednego kranu i jednego kranu wyszukiwania Google wszelkie number.\n\n aplikacji dialer umożliwia wyświetlanie dzienników połączeń przez różnych typów, w tym długość i lokalizacji. Ono puszka metalowa wystawa 100, 500 lub wszystkie zapisane Dzienniki połączeń w dowolnym momencie. Aplikacja posiada również filtr potężne możliwości, które pozwalają zobaczyć logi połączeń z określonej lokalizacji lub czas trwania.
+    </string>
+</resources>

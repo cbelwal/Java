@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Загальні</string>
+  <string name="nav_menu_group_help">Допомога</string>
+  <string name="display_options_refresh">Оновити</string>
+  <string name="nav_menu_group_views">Подання</string>
+  <string name="nav_menu_rate_this_app">Зворотній зв\'язок</string>
+  <string name="nav_menu_upgrade">Оновлення до Pro версія</string>
+  <string name="nav_menu_tellafriend">Розповісти другу</string>
+  <string name="nav_menu_feedback">Зв\'язатися з Dasmic</string>
+  <string name="nav_menu_demovideo">Демо-відео</string>
+  <string name="nav_menu_coju">Завантажити Coju</string>
+</resources>

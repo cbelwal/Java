@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Menedżer dziennika połączeń </string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="message_tellafriend">
+        Wywołanie Log Manager jest zintegrowane połączenie dziennika aplikacji, która oszczędza czas i stres z jego potężny przeglądania, tworzenia kopii zapasowych, eksport/import, dzielenie, Dodawanie i możliwości edycji. Tam jest nie wywołania dziennika aplikacji jak Call Log Manager i to musi mieć dla każdego telefonu Android lub tablet.\n\n tego wywołania dziennika aplikacji jest również wyposażony w przydatne funkcje wybierania jednego kranu i jednego kranu wyszukiwania Google z dowolnej aplikacji Call Log Manager number.\n\n umożliwia wyświetlanie dzienników połączeń przez różnych typów, w tym czas trwania i miejsce. Ono puszka metalowa wystawa 100, 500 lub wszystkie zapisane Dzienniki połączeń w dowolnym momencie. Aplikacja posiada również filtr potężne możliwości, które pozwalają zobaczyć logi połączeń niektóre określonej lokalizacji lub czas trwania.
+    </string>
+</resources>

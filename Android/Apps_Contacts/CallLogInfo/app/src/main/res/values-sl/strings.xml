@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Upravitelj dnevnika klicev </string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="message_tellafriend">
+        Upravitelj dnevnika klicev je integrirano klicni dnevnik app, ki vam prihrani čas in stresa s svojo močno ogled, backup, izvoz/uvoz, delitev, dodajanje in urejanje zmogljivosti. Je dnevnik app ni klic kot klic upravitelj dnevnika in je treba za vsak Android telefon ali tablet.\n\n to app dnevnik klicev tudi priti s priročne funkcije enojni tap klicanje in enojni tap varljiva žoga preiskava app poljuben number.\n\n klic dnevnik Manager vam omogoča, da klic hlodi z različnih vrst, vključno s trajanjem in lokacijo. To moči izložba 100, 500 ali vse shranjene klic hlodi kadarkoli. App ima tudi močan filtrov zmogljivosti, ki vam omogočajo, da si oglejte dnevnike klicev nekaj posamezno lokacijo ali trajanje.
+    </string>
+</resources>

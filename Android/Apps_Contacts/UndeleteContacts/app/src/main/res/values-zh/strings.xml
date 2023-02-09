@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">撤消删除联系人</string>
+  <string name="message_tellafriend">这个应用程序可以撤消删除/恢复删除的联系人，从您的设备。它允许您查看已删除的联系人并将其还原。
+        保存在您的谷歌帐户可以恢复的唯一联系人，这个应用程序将不能恢复从 SIM 卡或您的设备中删除这些联系人。
+            它还配有一个拨号器，表明当你点击一个接触的形象。
+        拨号程序允许您调用/消息任何现有的联系人。</string>
+  <string name="message_initial_launch">使用导航菜单中删除联系人图标查看已删除的联系人</string>
+  <string name="nav_view_all">可用的 （未删除） 联系人</string>
+</resources>

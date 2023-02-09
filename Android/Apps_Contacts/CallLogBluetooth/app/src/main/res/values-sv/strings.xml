@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Samtal Log Bluetooth </string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">
+        Samtal Log Bluetooth är en app som sparar tid och stress med dess kraftfulla visning och Bluetooth dataöverföringskapaciteten.
+
+        Detta samtal log app kommer också med de praktiska funktionerna som enda tryck uppringning och enda tryck Google sökning av någon number.\n\n Call Log Bluetooth app kan du Visa samtalsloggar av olika typer inklusive varaktighet och läge. Det kan visa 100, 500 eller alla sparade loggar samtal när som helst. Appen har också kraftfulla filterfunktioner som låter dig se samtal loggar vissa specifika läge eller varaktighet.
+    </string>
+</resources>

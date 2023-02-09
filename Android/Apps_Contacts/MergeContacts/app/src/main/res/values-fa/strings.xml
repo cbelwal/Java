@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">ادغام مخاطبین</string>
+  <string name="display_options_all_last_contact">ترکیب مخاطب (مخاطبین)</string>
+  <string name="display_options_all">گسترده مخاطب (مخاطبین)</string>
+  <string name="message_on_load_toast">نمایش لیست تماس های گسترده</string>
+  <string name="message_on_load_dialog">برای ادغام مخاطبین، بررسی چندین مخاطب و \'Merge Contacts\ را انتخاب کنید \' گزینه از بالا سمت راست. همه مخاطبین را انتخاب کنید را به ادغام مخاطب اول انتخاب شد</string>
+  <string name="message_tellafriend">
+        این برنامه مفید لیست مخاطبین خود را با تماس با ما جزئیات مانند شماره تلفن، آدرس ایمیل و آدرس را در یکی ادغام ساده.
+
+        این صرفه جویی شما زمان زیادی است که تنها راه برای جزئیات تماس با ما به حرکت دستی و سپس حذف تماس های دیگر.
+
+        جدا از این شما می توانید همچنین افزودن/ویرایش مخاطبین را تماس، ارسال پیام و جستجوی مخاطبین بپردازید.</string>
+</resources>

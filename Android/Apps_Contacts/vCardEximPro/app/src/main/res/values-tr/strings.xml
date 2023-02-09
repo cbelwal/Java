@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vCard ithalat ihracat</string>
+  <string name="message_tellafriend">
+        VCard dosyalarını almak ve vermek için bir çok yararlı uygulaması bu.
+        Verme/alma hem tek hem de birden fazla kişileri vCard dosyalarını sağlar ve vCard sürüm 2.1, 3.0 ve 4.0 destekler.
+
+        O da alma/verme araçları Google sayfası, Microsoft Excel, vb gibi kişiler dosyaları değiştirmek için esneklik veren CSV biçimini destekler.
+
+        Bu dışında da Ekle/Düzenle kişiler, yapabileceğiniz aramalar, göndermek mesaj ve kişileri ara.</string>
+</resources>

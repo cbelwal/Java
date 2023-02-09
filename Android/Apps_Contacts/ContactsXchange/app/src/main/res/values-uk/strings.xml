@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Контакти Xchange</string>
+  <string name="message_tellafriend">Це app робить його дуже легко перенести контакти в різних Android телефонів/планшетів через Bluetooth.
+        \n\nIt не лише переказів кожному контактної деталь, а також передає фотографію контакту. \n</string>
+  <string name="message_initial_launch">Виберіть адреси для надсилання, а потім натисніть значок Bluetooth у верхньому правому кутку</string>
+</resources>

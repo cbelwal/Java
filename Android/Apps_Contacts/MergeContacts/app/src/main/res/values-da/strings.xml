@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Flet kontakter</string>
+  <string name="display_options_all_last_contact">Kombinerede kontaktperson(er)</string>
+  <string name="display_options_all">Udvidet kontaktperson(er)</string>
+  <string name="message_on_load_toast">Viser udvidet kontaktliste</string>
+  <string name="message_on_load_dialog">Flet kontakter, tjekke flere kontakter og vælge \'Merge Contacts\' indstilling fra øverst til højre. Alle vælge kontakter vil flettes med den kontakt, som blev valgt første gang</string>
+  <string name="message_tellafriend">
+        Denne nyttige app forenkler din liste over kontaktpersoner ved at flette kontakter oplysninger som telefonnumre, e-mail-adresser og postadresser til én.
+
+        Dette spare dig en masse tid som andre måde er at flytte kontaktpersoner oplysninger manuelt, og derefter slette de andre kontakter.
+
+        Bortset fra denne du kan også tilføje og redigere kontaktpersoner, foretage opkald, sende besked og søge efter kontaktpersoner.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Call Log Bluetooth </string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">
+        Call Log Bluetooth egy app, hogy takarít meg időt és a stressz a erős megtekintése és a Bluetooth átvitel képességek.
+
+        A hívás log app is jön-val a praktikus funkciókkal, mint egyetlen koppintással tárcsázás és egyetlen koppintással Google keresés, a number.\n\n a hív fatörzs Bluetooth app lehetővé teszi, hogy hívás naplók különböző típusú, beleértve az időtartamot és a helyszín. Tud bemutatás 100, 500, vagy az összes tárolt hívja naplók, bármikor. Az app is birtokol erős szűrő képességek, amely lehetővé teszi, hogy hívás naplók, bizonyos meghatározott helyre vagy időtartama.
+    </string>
+</resources>

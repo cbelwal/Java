@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju</string>
+  <string name="startup_message">Contacten met telefoonnummer zijn in verschillende kleuren</string>
+  <string name="message_tellafriend">
+        Dit app kan back-up/restore contacten, delen van contactpersonen via vCard en Bluetooth, evenals export en importeer ze via CSV of vCard-bestanden.
+        Het laat je aan contactpersonen van de back-up op de cloud of op je apparaat en hen op elk gewenst moment in elk apparaat kunt herstellen.
+
+        Het laat ook zien hoe vaak u een contact, aangeroepen wanneer u laatst genoemd (zelfs als het was enkele jaren geleden) en beschikt over Geavanceerde filteropties.
+        Het komt ook met een toolkit voor het verwijderen van duplicaten evenals het vermogen om te herstellen verwijderde contacten.</string>
+</resources>

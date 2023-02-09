@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kontaktpersonas Xchange</string>
+  <string name="message_tellafriend">Šajā app padara to ļoti ērti pārsūtīt kontaktus ar dažādām Android telefoni/tabletes pa Bluetooth.
+        \n\nIt ne tikai pārsūta kontaktpersonas sīkumos, bet arī pārsūta kontaktpersonas. \n foto</string>
+  <string name="message_initial_launch">Atlasiet kontaktpersonas, kurām nosūtīt un pēc tam pieskarieties Bluetooth ikonu augšējā labajā stūrī</string>
+</resources>

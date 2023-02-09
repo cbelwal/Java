@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Merge Contacts</string>
+    <string name="display_options_all_last_contact">Combined contact(s)</string>
+    <string name="display_options_all">Expanded contact(s)</string>
+    <string name="message_on_load_toast">Showing expanded contacts list</string>
+    <string name="message_on_load_dialog">To merge contacts, check multiple
+    contacts and select the \'Merge Contacts\' option from top-right. All select contacts
+    will be merged into the contact that was selected first</string>
+    <string name="message_tellafriend">
+        This useful app simplifies your contacts list by merging contacts details
+        like phone numbers, email addresses and postal addresses into one.
+
+        This save you a lot of time as the only other way is
+        to move the contacts details manually, and then delete the other contacts.
+
+        Apart from this you can also Add/Edit contacts, make calls, send message
+        and search for contacts.</string>
+</resources>

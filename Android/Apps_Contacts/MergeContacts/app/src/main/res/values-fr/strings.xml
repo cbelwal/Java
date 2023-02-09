@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Fusionner les Contacts</string>
+  <string name="display_options_all_last_contact">Contact (s) combiné</string>
+  <string name="display_options_all">Contact (s) expansé</string>
+  <string name="message_on_load_toast">Liste de contacts élargi d’affichage</string>
+  <string name="message_on_load_dialog">Fusionner les contacts, de vérifier plusieurs contacts et de sélectionner le \'Merge Contacts\' option de haut-droite. Sélectionner tous les contacts seront fusionnés dans le contact qui a été sélectionné en premier</string>
+  <string name="message_tellafriend">
+        Cette application utile simplifie votre liste de contacts en fusionnant les détails de contacts comme des numéros de téléphone, adresses e-mail et adresses postales en un seul.
+
+        Cela vous faire économiser beaucoup de temps comme la seule autre façon consiste à déplacer les détails de contacts manuellement et puis supprimez les autres contacts.
+
+        En dehors de cela, vous pouvez également ajouter/modifier des contacts, faire des appels, envoyer message et recherche de contacts.</string>
+</resources>

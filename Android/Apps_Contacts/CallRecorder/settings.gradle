@@ -1,0 +1,5 @@
+include ':app'
+include ':support'
+include ':lib.callrecorder'
+project(':support').projectDir=new File("..\\..\\Libraries\\support\\support")
+project(':lib.callrecorder').projectDir=new File("..\\..\\Libraries\\lib.callrecorder\\app")

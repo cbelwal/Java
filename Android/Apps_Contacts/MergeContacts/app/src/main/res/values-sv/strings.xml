@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Sammanfoga kontakter</string>
+  <string name="display_options_all_last_contact">Kombinerade kontakter</string>
+  <string name="display_options_all">Utökade kontakter</string>
+  <string name="message_on_load_toast">Visar utökad kontaktlista</string>
+  <string name="message_on_load_dialog">Att sammanfoga kontakter, markera flera kontakter och välj \'Merge Contacts\' alternativet från övre högra. Alla Välj kontakter att slås ihop med den kontakten som valdes först</string>
+  <string name="message_tellafriend">
+        Denna användbar app förenklar din kontaktlista genom att sammanfoga kontakter uppgifter som telefonnummer, e-postadresser och postadresser till en.
+
+        Detta Spara en massa tid som de enda andra sättet är att flytta kontakter Detaljer manuellt och ta bort andra kontakter.
+
+        Bortsett från denna du kan också Lägg till/redigera kontakter, ringa samtal, skicka meddelanden och Sök efter kontakter.</string>
+</resources>

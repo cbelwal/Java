@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kontakter Xchange</string>
+  <string name="message_tellafriend">Dette app gør det meget nemt at overføre kontaktpersoner til forskellige Android-telefoner/tabletter via Bluetooth.
+        \n\nIt ikke blot overfører alle kontakt detaljer men også overfører foto kontakt. \n</string>
+  <string name="message_initial_launch">Vælg kontaktpersoner at sende, så tryk på Bluetooth-ikonet i øverste højre</string>
+</resources>

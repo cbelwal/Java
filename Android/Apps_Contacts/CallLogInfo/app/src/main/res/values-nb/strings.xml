@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Samtale Logg Manager </string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="message_tellafriend">
+        Samtale Logg Manager er en integrert Logg app som sparer du tid og stress med sin kraftige visning, sikkerhetskopien, eksport/import, deler, legge til og redigere bort evnene. Det er ingen samtale Logg app som kaller loggbehandling og det er en må ha for hver Android telefon eller tablet.\n\n denne samtalen logge app kommer også med de praktiske funksjonene i enkelttapp ringer og enkelttapp Google-søk på noen number.\n\n The Ring loggbehandling app lar deg vise Anropslister av forskjellige typer, inkludert varighet og plassering. Det kan vise 100, 500 eller alle lagrede ringe loggbøker når som helst. Programmet har også kraftig filter funksjoner som lar deg se kall logger noen spesifikk plassering eller varighet.
+    </string>
+</resources>

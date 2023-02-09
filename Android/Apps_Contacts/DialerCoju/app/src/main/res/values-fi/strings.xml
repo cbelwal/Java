@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju kellotaulu</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">
+        Coju kellotaulu on integroitu dialer app, joka säästää aikaa ja stressi voimakas numerot, katselu, vienti/tuonti ja jakaminen kyvykkyys. Ei ole dialer app kuin Coju soitto-ohjelma ja se on jokaisen Android Puhelin tai tablet.\n\n tämä dialer tulee myös käteviä ominaisuuksia yhdellä napautuksella numerot ja yhdellä napautuksella Google-haku on jokin number.\n\n dialer app voit tarkastella puhelulokit jotka eri kesto ja sijainti. Se näyttää 100, 500 tai kaikki tallennetut puhelulokit milloin tahansa. App on myös tehokkaan suodattimen ominaisuuksia, joiden avulla voit nähdä puhelut lokit tiettyyn paikkaan tai kesto.
+    </string>
+</resources>

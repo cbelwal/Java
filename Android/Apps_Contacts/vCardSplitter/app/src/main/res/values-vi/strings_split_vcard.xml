@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">Split vCard tập tin</string>
+  <string name="message_importing_contacts">Nhập khẩu Contact(s)...</string>
+  <string name="message_reading_import_file">Đọc tập tin, điều này có thể mất vài phút...</string>
+  <string name="button_Close">Đóng</string>
+  <string name="button_browse">Trình duyệt</string>
+  <string name="button_Apply">Split</string>
+  <string name="text_selected_file_name">Tên tập tin được chọn:</string>
+  <string name="text_selected_file_size">Tệp đã chọn size(bytes):</string>
+  <string name="text_group_selected_file">Chọn chi tiết tập tin vCard</string>
+  <string name="text_file_name">Tên:</string>
+  <string name="text_file_size">Size(Bytes):</string>
+  <string name="text_file_contacts">Contact(s):</string>
+  <string name="text_unknown_file_size">Chưa biết</string>
+  <string name="option_split_vcard">Tách tập tin vCard đã chọn vào </string>
+  <string name="option_split_vcard_count">(các) tệp vCard</string>
+  <string name="option_split_vcard_per_contact">Chia cho mỗi liên lạc</string>
+  <string name="option_save_vcard">Lưu tệp vCard split </string>
+  <string name="option_save_vcard_external">Lưu trữ bên ngoài</string>
+  <string name="option_save_vcard_share">Chia sẻ ứng dụng (Cloud, email vv)</string>
+  <string name="message_other_permissions_missing">Yêu cầu cấp phép được yêu cầu cho ứng dụng tính năng này để làm việc.
+        Xin vui lòng cung cấp cho quyền được yêu cầu và thử lại</string>
+  <string name="message_loading_files">Đang tìm kiếm cặp cục bộ...</string>
+  <string name="message_import_invalid_file">Không phải là một tệp liên hệ hợp lệ
+        </string>
+  <string name="message_split_ready">Sẵn sàng để split tập tin vCard...
+        </string>
+  <string name="message_split_inprogress">Chia tách tập tin vCard...
+        </string>
+  <string name="message_select_file_first">
+        Vui lòng chọn một tệp vCard để chia
+        </string>
+  <string name="message_split_number_invalid">
+        Số lượng chia tách là không hợp lệ
+        </string>
+  <string name="message_split_freeversion">
+        Trong phiên bản miễn PHÍ chỉ một sự chia rẽ vào tối đa 10 tệp được cho phép
+        </string>
+  <string name="message_split_store_external">
+        Split vCard tập tin đã được đặt trong thư mục bên ngoài
+      </string>
+  <string name="message_error_splitting">
+        Lỗi trong tách tập tin vCard. Đảm bảo rằng các tập tin hợp lệ.
+        </string>
+  <string name="message_error_contact_count">
+        Lỗi ở đọc số liên lạc từ tập tin vCard. Đảm bảo rằng các tập tin hợp lệ.
+        </string>
+</resources>

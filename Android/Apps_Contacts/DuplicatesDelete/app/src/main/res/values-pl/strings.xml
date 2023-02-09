@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Duplikaty Zobacz &amp; zniszczyć</string>
+  <string name="message_tellafriend">Dzięki tej aplikacji można wyświetlić zduplikowane kontakty, zaznacz i usuń je. Zduplikowane kontakty są identyfikowane przez unikalną kolorystykę, która pozwala wyświetlić wartość mistrza i jego skojarzony duplikaty. Wszystkie duplikaty są automatycznie wybierane do usunięcia, ale mają do wyboru Wyświetlaj je w przypadku, gdy chcesz zachować niektóre kontakty.
+     Ta aplikacja dialer, co pozwala wykonywać połączenia do kontaktów jest również wyposażony i posiada również funkcje, aby dodać nowe kontakty i edytować istniejące.</string>
+</resources>

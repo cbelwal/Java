@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju tájszólás</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">
+        Coju tájszólás egy integrált tárcsázó app, amely takarít meg időt és a stressz, erős tárcsázás, megtekintés, export/import és cserépdarab képességek. Nincs tárcsázó app-mint Coju tájszólás, és egy must volna minden Android telefon, vagy a tárcsázó is jön-val hasznos jellegét meghatározza-ból egyetlen koppintással tárcsázás és egyetlen koppintással Google keresés bármilyen number.\n\n a tárcsázó alkalmazás lehetővé teszi, hogy hívás naplók különböző típusú, beleértve az időtartamot és a helyét a tablet.\n\n. Tud bemutatás 100, 500, vagy az összes tárolt hívja naplók, bármikor. Az app is birtokol erős szűrő képességek, amely lehetővé teszi, hogy a hívások naplók, meghatározott helyről vagy időtartama.
+    </string>
+</resources>

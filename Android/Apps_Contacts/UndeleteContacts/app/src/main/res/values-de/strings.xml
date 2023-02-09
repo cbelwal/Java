@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Undelete Kontakte</string>
+  <string name="message_tellafriend">Diese app kann undelete/gelöschte Kontakte von Ihrem Gerät wiederherstellen. Es können Sie gelöschte Kontakte anzeigen und wiederherstellen.
+        Nur Kontakte, die in Ihrem Google-Konto wiederhergestellt werden kann gespeichert werden, diese app nicht in der Lage, diese Kontakte von SIM-Karte oder Ihrem Gerät gelöscht wiederherstellen werden.
+            Es kommt auch mit einem Dialer, die angezeigt wird, wenn Sie auf einen Kontakt Bild klicken.
+        Der Dialer können Sie Anruf/Nachricht an Ihre bestehenden Kontakte.</string>
+  <string name="message_initial_launch">Verwenden Sie das gelöschte Kontakte-Symbol im Menü \"Navigation\", um gelöschte Kontakte anzeigen</string>
+  <string name="nav_view_all">Zur Verfügung (nicht gelöschten) Kontakte</string>
+</resources>

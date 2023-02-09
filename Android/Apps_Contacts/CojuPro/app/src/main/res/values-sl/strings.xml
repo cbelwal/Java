@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju</string>
+  <string name="startup_message">Stike s telefonsko številko so v različnih barvah</string>
+  <string name="message_tellafriend">
+        Ta app lahko varnostno kopiranje/Obnovitev stikov, delež stike preko vCard in Bluetooth ter izvoz in uvoziti prek datoteke CSV ali vCard.
+        To vam omogoča varnostno kopiranje stikov na oblak ali na vas naprava in lahko obnovijo kadarkoli v napravo.
+
+        Prav tako kaže, kolikokrat vi ti stik, ko zadnjih klicanih (tudi če je bilo pred nekaj leti) in je napredno filtriranje možnosti.
+        To tudi priti s a orodje v izbrisati podvojene, kot tudi sposobnost, da obnovitev izbrisanih stikov.</string>
+</resources>

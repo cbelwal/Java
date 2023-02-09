@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">VCard 파일을 분하시오</string>
+  <string name="message_importing_contacts">연락처 가져오기...</string>
+  <string name="message_reading_import_file">파일을 읽고, 몇 분 정도 걸릴 수 있습니다...</string>
+  <string name="button_Close">닫기</string>
+  <string name="button_browse">찾아보기</string>
+  <string name="button_Apply">분할</string>
+  <string name="text_selected_file_name">선택한 파일 이름:</string>
+  <string name="text_selected_file_size">선택 된 파일 size(bytes).</string>
+  <string name="text_group_selected_file">선택한 vCard 파일 세부 사항</string>
+  <string name="text_file_name">이름:</string>
+  <string name="text_file_size">Size(bytes):</string>
+  <string name="text_file_contacts">연락처:</string>
+  <string name="text_unknown_file_size">알 수 없는</string>
+  <string name="option_split_vcard">분할 된 vCard 파일에 </string>
+  <string name="option_split_vcard_count">vCard 파일</string>
+  <string name="option_split_vcard_per_contact">각 연락처에 대 한 분하시오</string>
+  <string name="option_save_vcard">분할 vCard 파일을 저장 </string>
+  <string name="option_save_vcard_external">외장 스토리지</string>
+  <string name="option_save_vcard_share">응용 프로그램 공유 (구름, 이메일 등)</string>
+  <string name="message_other_permissions_missing">요청 된 권한은이 애플 리 케이 션 기능이 작동 하려면 필요 합니다.
+        요청 된 권한을 부여 하 고 다시 시도 하십시오</string>
+  <string name="message_loading_files">로컬 폴더를 검색...</string>
+  <string name="message_import_invalid_file">아닙니다 유효한 연락처 파일
+        </string>
+  <string name="message_split_ready">VCard 파일 분할을 준비 하 고...
+        </string>
+  <string name="message_split_inprogress">VCard 파일을 분할...
+        </string>
+  <string name="message_select_file_first">
+        VCard 파일 분할을 선택 하십시오
+        </string>
+  <string name="message_split_number_invalid">
+        분할 수가 유효 하지 않습니다.
+        </string>
+  <string name="message_split_freeversion">
+        무료 버전에만 최대 10 파일로 분할 허용
+        </string>
+  <string name="message_split_store_external">
+        분할 vCard 파일 외부 폴더에 배치 되었습니다.
+      </string>
+  <string name="message_error_splitting">
+        VCard 파일을 분할에서 오류가 발생 했습니다. 파일이 유효한 지 확인 합니다.
+        </string>
+  <string name="message_error_contact_count">
+        연락처에서 vCard 파일 읽기 수 오류가 발생 했습니다. 파일이 유효한 지 확인 합니다.
+        </string>
+</resources>

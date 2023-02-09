@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju</string>
+  <string name="startup_message">与电话号码的联系人都在不同的颜色</string>
+  <string name="message_tellafriend">这个应用程序可以备份/恢复联系人，共享联系人通过蓝牙，电子名片以及出口和通过 CSV 或 vCard 文件导入它们。
+        它允许您备份联系人或在你上云设备和可以在任何设备，随时随地还原它们。
+
+        它也显示了多少次你当你上一次调用 （即使它是几年前） 时调用一个联系人，并拥有先进的筛选选项。
+        不仅如此，公司还配有一个工具箱来删除重复项，以及还原已删除的联系人的功能。</string>
+</resources>

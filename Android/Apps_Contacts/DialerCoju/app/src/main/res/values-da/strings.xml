@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju Dialer</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">
+        Coju Dialer er en integreret Opkaldsstyring app, der sparer dig tid og stress med sin kraftfulde opkald, visning, eksport/import og deling kapaciteter. Der er ingen Opkaldsstyring app som Coju Dialer og det er et must have for alle Android-telefon eller tablet.\n\n denne dialer leveres også med de smarte funktioner i enkelt tryk opkald og enkelt tryk Google søgning af enhver number.\n\n dialer app kan du få vist kalde logs af forskellige typer, herunder varigheden og placering. Det kan vise 100, 500 eller alle gemte kalde logs til enhver tid. App\'en har også kraftfulde filter kapaciteter, som gør det muligt at se opkald logs fra specifikke placering eller varighed.
+    </string>
+</resources>

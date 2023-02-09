@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Duplikater for WhatsApp</string>
+  <string name="message_tellafriend">Med dette programmet kan du vise WhatsApp duplikatkontakter, velge og slette dem. WhatsApp duplikatkontakter identifiseres med en unik farge ordningen som hjelper deg å vise master verdien og dens tilknyttede duplikater. Alle duplikater er auto-merket for sletting, men du har valget mellom un velge dem i tilfelle du ønsker å beholde noen av kontaktene.
+        Denne app likeledes kommer med en dialer slik at du kan lage telefonsamtalene å kontaktene og har også funksjoner for å legge til nye kontakter og redigere eksisterende.</string>
+</resources>

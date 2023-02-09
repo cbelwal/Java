@@ -1,0 +1,4 @@
+<resources>
+    <string name="nav_app_name">@string/app_name</string>
+    <string name="app_name_small">DuplicateViewDestroy</string>
+</resources>

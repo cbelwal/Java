@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Backup Kontak</string>
+  <string name="message_backup_contacts">Apakah Anda ingin cadangan semua kontak sekarang?</string>
+  <string name="message_tellafriend">
+        Kontak yang mungkin informasi yang paling penting di telepon, dan tidak memakan banyak waktu untuk membangun sebuah daftar kontak.
+        Anda tidak ingin kehilangan mereka jika telepon Anda tersesat, atau Anda tidak sengaja menghapus semua kontak Anda.
+
+        Ini adalah di mana aplikasi ini datang untuk bermain. Ini dapat cadangan semua kontak Anda dalam file dan memungkinkan Anda untuk menempatkan file cadangan pada telepon Anda, atau pada Internet Anda sendiri email pribadi atau awan. Menggunakan fitur mengembalikan aplikasi ini, file cadangan dapat digunakan untuk memulihkan kontak di perangkat Android mana pun, Kapan saja.
+
+        Ada aplikasi lain di luar sana yang mengisi Anda biaya tahunan untuk menyimpan kontak di awan, tapi Anda tidak perlu membayar biaya karena Anda sudah mendapatkan gratis email dan penyimpanan cloud dengan beberapa penyedia gratis seperti Google, dan app ini memungkinkan Anda
+        untuk memanfaatkan akun gratis.
+
+        Download aplikasi ini sekarang dan mendapatkan ketenangan pikiran bahwa kontak Anda akan selalu aman!
+        </string>
+  <string name="message_backup_stored_freeversion">
+        Versi gratis hanya memungkinkan cadangan hingga 90 kontak.
+        Kontak telah telah didukung dalam file:
+    </string>
+  <string name="message_help_startup">
+        Buka menu navigasi di kiri atas untuk melihat pilihan Backup dan Restore
+    </string>
+</resources>

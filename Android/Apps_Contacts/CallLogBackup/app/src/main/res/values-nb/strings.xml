@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Ringe sikkerhetskopiering </string>
+  <string name="app_folder">CallLogBackup</string>
+  <string name="message_tellafriend">
+        Samtale Logg Backup er den mest enkle app å sikkerhetskopien samtaleloggen i telefonen eller kontoen e-post eller skyen. Det har også kraftig vise, legge til og redigere bort evnene. Denne Logg ca leveres også med de praktiske funksjonene enkelttapp oppringingsmetoden og enkelttapp Google-søk på noen number.\n\n dette programmet er en må ha for hver Android telefon eller tablet.\n\n app lar deg vise Anropslister av forskjellige typer, inkludert varighet og plassering. Det kan vise 100, 500 eller alle lagrede ringe loggbøker når som helst. Programmet har også kraftig filter funksjoner som lar deg se kaller logger basert på lokasjonen, varigheten eller dag.
+    </string>
+</resources>

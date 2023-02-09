@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">संपर्क Xchange</string>
+  <string name="message_tellafriend">यह विभिन्न Android के लिए संपर्कों को स्थानांतरित करने के लिए बहुत आसान फोन ब्लूटूथ के माध्यम से दवाई इस app बनाता है।
+        \n\nIt न केवल प्रत्येक संपर्क विवरण स्थानान्तरण पर भी संपर्क. \n की तस्वीर स्थानान्तरण</string>
+  <string name="message_initial_launch">भेजने के लिए संपर्क का चयन करें, फिर ऊपरी दाएँ कोने में ब्लूटूथ चिह्न को टैप करें</string>
+</resources>

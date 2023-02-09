@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Soita tietokantalokin varmuuskopiointi </string>
+  <string name="app_folder">CallLogBackup</string>
+  <string name="message_tellafriend">
+        Puhelun lokin varmuuskopiointi on yksinkertainen app varmuuskopioida puhelulokissa puhelimella tai sähköpostitse tai cloud tililtään. Se on myös tehokas katselu, lisääminen ja editointi ominaisuudet. Tämän puhelun lokin sovelluksen mukana tulee myös käteviä ominaisuuksia yhdellä napautuksella numerot ja yhdellä napautuksella Google etsiä mitään number.\n\n Tämä sovellus on pakkohankinta jokaisen Android Puhelin tai tablet.\n\n app voit tarkastella puhelulokit jotka eri kesto ja sijainti. Se näyttää 100, 500 tai kaikki tallennetut puhelulokit milloin tahansa. App on myös voimakas siivilöityä kyvykkyys joka avulla voit nähdä vaatii lokit tiettyyn paikkaan, kesto tai päivä.
+    </string>
+</resources>

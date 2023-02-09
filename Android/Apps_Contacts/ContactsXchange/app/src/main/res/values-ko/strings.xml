@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">연락처 체인 지</string>
+  <string name="message_tellafriend">이 애플 리 케이 션은 만든다 아주 쉽게 다른 안 드 로이드로 전송 연락처 전화/태블릿 블루투스를 통해.
+        \n\nIt 뿐만 아니라 모든 연락처 세부 정보를 전송 하지만 연락처. \n의 사진 전송</string>
+  <string name="message_initial_launch">를 보내려면 연락처를 선택한 다음 오른쪽 상단에 있는 블루투스 아이콘을 누릅니다</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Sapludināt kontaktpersonas</string>
+  <string name="display_options_all_last_contact">Kombinētās kontakts (i)</string>
+  <string name="display_options_all">Paplašinātas kontakts (i)</string>
+  <string name="message_on_load_toast">Rāda paplašinātā kontaktpersonu sarakstu</string>
+  <string name="message_on_load_dialog">Sapludināt kontaktpersonu, pārbaudiet vairākas kontaktpersonas un izvēlieties \'Merge Contacts\ \"variants, no augšējās labās puses. Izvēlieties visas kontaktpersonas tiks sapludināti to kontaktpersonu, uz kuru tika izvēlēta pirmā</string>
+  <string name="message_tellafriend">
+        Šis noderīgs app vienkāršo kontaktpersonu sarakstu, sapludinot kontaktpersonas detaļas, piemēram, tālruņu numurus, e-pasta adreses un pasta adreses vienā.
+
+        Tas ietaupīt daudz laika, kā vienīgā izeja ir manuāli pārvietot kontaktpersonas detaļas un pēc tam izdzēsiet citus kontaktus.
+
+        Ne tikai tas jums var arī pievienot/rediģēt kontaktus, veikt zvanus, sūtīt ziņas un meklēt kontaktus.</string>
+</resources>

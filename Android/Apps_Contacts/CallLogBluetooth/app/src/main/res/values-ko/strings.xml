@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">전화 로그 블루투스 </string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">
+        전화 로그 블루투스의 강력한 보기 및 블루투스 전송 기능으로 시간과 스트레스 저장 하는 app 이다.
+
+        이 호출 로그 애플 리 케이 션 또한 단일 탭 전화 걸기 같은 편리한 기능을 함께 제공 하 고 어떤 number.\n\n 호출 로그 블루투스 애플 리 케이 션의 단일 탭 구글 검색 기간 및 위치를 포함 하 여 다른 유형에 의해 호출 로그를 볼 수 있습니다. 100, 500 또는 저장 된 모든 표시할 수 있습니다 언제 든 지 통화 기록. App는 또한 일부 특정 위치 또는 기간 호출 로그를 볼 수 있는 강력한 필터 기능을 있다.
+    </string>
+</resources>

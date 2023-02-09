@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Tổng quát</string>
+  <string name="nav_menu_group_help">Trợ giúp</string>
+  <string name="display_options_refresh">Làm mới</string>
+  <string name="nav_menu_group_views">Xem</string>
+  <string name="nav_menu_rate_this_app">Thông tin phản hồi</string>
+  <string name="nav_menu_upgrade">Phiên bản nâng cấp cho Pro</string>
+  <string name="nav_menu_tellafriend">Nói cho một người bạn</string>
+  <string name="nav_menu_feedback">Liên hệ Dasmic</string>
+  <string name="nav_menu_demovideo">Demo Video</string>
+  <string name="nav_menu_coju">Tải về Coju</string>
+</resources>

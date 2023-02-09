@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kişiler Xchange</string>
+  <string name="message_tellafriend">Bu kişiler için farklı Android aktarmak çok kolay telefon/tablet Bluetooth ile bu app yapar.
+        \n\nIt sadece iletişim detayları aktarır ama aynı zamanda fotoğraf temas. \n aktarır</string>
+  <string name="message_initial_launch">Göndermek için rehber seçeneğini belirleyin ve ardından Bluetooth simgesini sağ üst dokunun</string>
+</resources>

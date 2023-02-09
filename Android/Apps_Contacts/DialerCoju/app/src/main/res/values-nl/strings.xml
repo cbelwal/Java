@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju Dialer</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">
+        Coju Dialer is een geïntegreerd dialer-app die u tijd en stress zijn krachtige kiezen, weergeven, exporteren/importeren en delen mogelijkheden bespaart. Er is geen dialer-app zoals Coju Dialer en het is een must voor elke Android telefoon of tablet.\n\n deze dialer komt ook met de handige functies van enkele tik kiezen en enkele Tik Google zoektocht voor elk number.\n\n de dialer-app kunt u bekijken oproep logs door verschillende typen zoals duur en locatie hebben. 100, 500 of alle opgeslagen kan worden weergegeven op elk gewenst moment vraaglogboeken. De app heeft ook krachtige filter mogelijkheden waarmee u kunt zien van gesprekken logs van specifieke locatie of duur.
+    </string>
+</resources>

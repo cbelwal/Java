@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">รวมรายชื่อ</string>
+  <string name="display_options_all_last_contact">ผู้ติดต่อที่รวม</string>
+  <string name="display_options_all">ผู้ติดต่อที่ขยาย</string>
+  <string name="message_on_load_toast">ขยายแสดงราย</string>
+  <string name="message_on_load_dialog">รวมรายชื่อ ตรวจสอบหลายราย และเลือก \'Merge Contacts\' เลือกจากด้านบนขวา รายชื่อทั้งหมดเลือกที่จะผสานลงในติดต่อที่เลือกไว้ก่อน</string>
+  <string name="message_tellafriend">
+        App นี้มีประโยชน์ช่วยราย ด้วยการผสานรายละเอียดผู้ติดต่อเช่นหมายเลขโทรศัพท์ ที่อยู่อีเมล และที่อยู่เข้า
+
+        ซึ่งบันทึกคุณเวลามากเท่านั้นวิธีการอื่น ๆ เพื่อ ย้ายรายละเอียดผู้ติดต่อด้วยตนเอง และลบรายชื่อติดต่ออื่น ๆ
+
+        นอกจากนี้คุณ ยังสามารถเพิ่ม/แก้ไขรายชื่อ ทำโทร ส่งข้อความและค้นหาผู้ติดต่อด้วย</string>
+</resources>

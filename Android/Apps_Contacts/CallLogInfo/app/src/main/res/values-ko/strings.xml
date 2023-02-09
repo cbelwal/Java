@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">전화 로그 관리자 </string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="message_tellafriend">
+        전화 로그 관리자는 세이브 시간과 스트레스의 강력한 보기, 백업, 내보내기/가져오기와 함께 통합 된 전화 로그 응용 프로그램 공유, 추가 및 편집 기능. 아무 전화 로그 응용 프로그램 호출 로그 관리자 처럼 이며 그것은 반드시 모든 안 드 로이드 전화에 대 한 또는 tablet.\n\n이 호출 로그 애플 리 케이 션 또한 단일 탭 전화 걸기 및 number.\n\n 호출 로그 관리자 응용 프로그램의 단일 탭 구글 검색의 편리한 기능을 함께 제공 기간 및 위치를 포함 하 여 다른 유형에 의해 호출 로그를 볼 수 있습니다. 100, 500 또는 저장 된 모든 표시할 수 있습니다 언제 든 지 통화 기록. App는 또한 일부 특정 위치 또는 기간 호출 로그를 볼 수 있는 강력한 필터 기능을 있다.
+    </string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vCard Splitter</string>
+  <string name="message_tellafriend">
+        Zoals u grote weet wellicht kunnen vCard-bestanden worden moeilijk te importeren in Android-telefoons, of zelfs in toepassingen zoals Microsoft Outlook.
+        Zou het niet leuk zijn om een grote vCard-bestand met meerdere contactpersonen opsplitsen in meerdere kleinere vCard-bestanden die u kunt overbrengen of gemakkelijk importeren?
+        De vCard Splitter app is nu hier om u te helpen mee.
+
+        Dit vCard Splitter app kunt u een enkele vCard-bestand opgesplitst in meerdere vCard-bestanden, en u kunt opgeven hoeveel vCard-bestanden te splitsen in. De contacten zal gelijkelijk worden verdeeld tussen elk bestand.
+
+        U kunt ook splitsen elke contactpersoon in haar eigen afzonderlijke vCard-bestand, zodat u gemakkelijk de om contactpersonen te importeren in programma\'s die mogelijk niet importeren vCard-bestanden met meerdere contactpersonen, zoals Microsoft Outlook.
+        
+        Probeer dit app vandaag.
+        </string>
+</resources>

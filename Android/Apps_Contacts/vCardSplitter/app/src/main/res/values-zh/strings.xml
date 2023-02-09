@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">拆分器的电子名片</string>
+  <string name="message_tellafriend">正如你可能知道大 vCard 文件很难在 Android 手机，或甚至在像 Microsoft Outlook 应用程序中导入。
+        不是很高兴与多个联系人大 vCard 文件分成多个较小的 vCard 文件，您可以转让或轻松地导入？
+        VCard 拆分应用程序现在是在这里来帮助你的。
+
+        这 vCard 拆分应用程序允许您将单个 vCard 文件拆分成多个 vCard 文件，并且可以指定多少要拆分成的 vCard 文件。联系人将每个文件之间均分。
+
+        你还可以拆分每个接触到它自己的个人电子名片文件，使您可以轻松地导入程序，可能不能导入 vCard 文件与多个联系人，像 Microsoft Outlook 中的联系人。
+        
+        今天试试这个应用程序。
+        </string>
+</resources>

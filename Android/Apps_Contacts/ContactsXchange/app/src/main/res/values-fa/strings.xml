@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">تماس با ما تبادل</string>
+  <string name="message_tellafriend">این app می سازد آن را بسیار آسان برای انتقال مخاطبین به اندیشه های مختلف گوشی های/از طریق بلوتوث قرص.
+        \n\nIt نه تنها تمام جزئیات تماس را انتقال می دهد اما همچنین نقل و انتقالات عکس تماس. \n</string>
+  <string name="message_initial_launch">انتخاب مخاطب ارسال و سپس شیر آیکون بلوتوث در بالا و سمت راست</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju</string>
+  <string name="startup_message">連絡先の電話番号とは別の色、します。</string>
+  <string name="message_tellafriend">このアプリ連絡先のバックアップ/復元、輸出と同様、vCard と Bluetooth 経由で連絡先を共有でき CSV または vCard ファイルからインポートします。
+        デバイスがバックアップ連絡先雲の上または上にでき、いつでも任意のデバイスでそれらを復元することができます。
+
+        Contact (たとえ数年前だった)、最後に呼び出されたときか、何回も説明は高度なオプションをフィルターと。
+        また、[連絡先を削除復元する能力と同様に、重複を削除するのには、ツールキットが付属しています。</string>
+</resources>

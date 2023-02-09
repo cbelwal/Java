@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Ring säkerhetskopiering </string>
+  <string name="app_folder">CallLogBackup</string>
+  <string name="message_tellafriend">
+        Samtal Log Backup är den mest enkla app till backningen din samtalslogg i din telefon eller i din e-post eller cloud-konto. Det har också kraftfulla Visa, lägga till och redigeringsfunktioner. Detta samtal log app kommer också med de praktiska funktionerna enda tryck uppringningsmetod och enda tryck Google sökning av någon number.\n\n denna app är en måste har för varje Android-telefon eller tablet.\n\n appen kan du Visa samtalsloggar av olika typer inklusive varaktighet och läge. Det kan visa 100, 500 eller alla sparade loggar samtal när som helst. Appen har också kraftfulla filterfunktioner som gör det möjligt för dig att se kallar loggarna baserat på viss plats, varaktighet eller dag.
+    </string>
+</resources>

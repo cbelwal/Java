@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Visualizzazione contatti</string>
+  <string name="message_tellafriend">Con questa applicazione si possono filtrare i contatti, condividere quindi via vCard e aggiornare le impostazioni come \'Send per Voicemail\'.
+    L\'app mostra anche quante volte hai chiamato un contatto e quando ultimo chiamato (anche se era parecchi anni fa). È anche possibile effettuare chiamate facendo clic sull\'immagine del contatto.
+    Provalo!</string>
+</resources>

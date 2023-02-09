@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">Baidisha Faili KADIV</string>
+  <string name="message_importing_contacts">Inaleta mwasiliani unayetaka...</string>
+  <string name="message_reading_import_file">Kusoma faili, hii inaweza kuchukua dakika kadhaa...</string>
+  <string name="button_Close">Funga</string>
+  <string name="button_browse">Vinjari</string>
+  <string name="button_Apply">Baidisha</string>
+  <string name="text_selected_file_name">Jina la faili teuliwa:</string>
+  <string name="text_selected_file_size">Size(bytes) faili teuliwa:</string>
+  <string name="text_group_selected_file">Maelezo ya faili vKadi teuliwa</string>
+  <string name="text_file_name">Jina:</string>
+  <string name="text_file_size">Size(bytes):</string>
+  <string name="text_file_contacts">Mwasiliani unayetaka:</string>
+  <string name="text_unknown_file_size">Haijulikani</string>
+  <string name="option_split_vcard">Baidisha vKadi teuliwa faili katika </string>
+  <string name="option_split_vcard_count">Faili KADIV</string>
+  <string name="option_split_vcard_per_contact">Baidisha kwa kila mwasiliani</string>
+  <string name="option_save_vcard">Hifadhi faili vKadi wa mgawanyiko </string>
+  <string name="option_save_vcard_external">Hifadhi ya nje</string>
+  <string name="option_save_vcard_share">Kushiriki maombi (wingu, barua pepe n.k)</string>
+  <string name="message_other_permissions_missing">Ruhusa iliyoombwa zinahitajika kwa kipengele hiki programu kufanya kazi.
+        Tafadhali kutoa ruhusa iliyoombwa na jaribu tena</string>
+  <string name="message_loading_files">Inatafutiza kabrasha ndani...</string>
+  <string name="message_import_invalid_file">Si halali mawasiliano faili
+        </string>
+  <string name="message_split_ready">Kupata tayari Baidisha jalada la vCard...
+        </string>
+  <string name="message_split_inprogress">Kubaidisha jalada la vCard...
+        </string>
+  <string name="message_select_file_first">
+        Tafadhali teua jalada la vKadi kubaidisha
+        </string>
+  <string name="message_split_number_invalid">
+        Idadi ya kugawanyika ni batili
+        </string>
+  <string name="message_split_freeversion">
+        Katika toleo la BURE tu mgawanyiko katika faili juu 10 anaruhusiwa
+        </string>
+  <string name="message_split_store_external">
+        Faili za vKadi Baidisha wamewekwa katika kabrasha nje
+      </string>
+  <string name="message_error_splitting">
+        Kosa katika kubaidisha faili vKadi. Hakikisha faili ni halali.
+        </string>
+  <string name="message_error_contact_count">
+        Kosa katika kusoma idadi ya wawasiliani kutoka faili vKadi. Hakikisha faili ni halali.
+        </string>
+</resources>

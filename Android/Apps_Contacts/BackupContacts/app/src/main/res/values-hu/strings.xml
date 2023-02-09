@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Biztonsági másolatok készítése</string>
+  <string name="message_backup_contacts">Biztonsági mentés most minden kapcsolatot szeretne?</string>
+  <string name="message_tellafriend">
+        A kapcsolatok talán a legfontosabb információkat a telefon, és tart egy csomó időt, hogy létrejöjjön egy kapcsolatok oldalra dől.
+        Nem akarja elveszíteni azokat, ha a telefon eltéved, illetve véletlenül eltávolít minden-a kapcsolatok.
+
+        Ez az, ahol ez app jön játszani. Ez lehet hát-megjelöl minden-a kapcsolatok-fájlban, és lehetővé teszi, hogy a biztonságimásolat-fájl a telefonon vagy az interneten a saját privát e-mailben vagy a felhő. Használ a visszaad vonás, ez app, a biztonságimásolat-fájl visszaállítása kapcsolatok minden Android készülék, bárhol használható.
+
+        Vannak más apps odakinn, hogy a díj egy éves díjak kapcsolatok tárolása a felhőben, de akkor nem kell fizetnie a díjat, mert már kap szabad elektronikus levél felhő raktározás-val több szabad szolgáltatók, mint a Google, és ez az app lehetővé teszi
+        képes mozgósítani a szabad számlák.
+
+        Töltsd le most, és kap a nyugalmat, hogy a kapcsolatok mindig lesz biztos!
+        </string>
+  <string name="message_backup_stored_freeversion">
+        Ingyenes verzió csak lehetővé teszi, hogy hát-ból valameddig 90 kapcsolatok.
+        Kapcsolatok van már mentett fájl:
+    </string>
+  <string name="message_help_startup">
+        Nyissa meg a navigációs menü a bal felső sarokban biztonsági mentési és visszaállítási lehetőségek megtekintéséhez
+    </string>
+</resources>

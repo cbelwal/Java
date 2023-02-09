@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Genopretter kontakter</string>
+  <string name="message_tellafriend">Denne app kan genopretter/inddrive slettede kontakter fra din enhed. Det giver dig mulighed at se slettede kontakter og gendanne dem.
+        Kun kontakter, der er gemt i din Google-konto kan blive genoprettet, dette app vil ikke være stand til at inddrive de kontaktpersoner, der er slettet fra SIM-kortet eller enheden.
+            Det leveres også med en dialer, som vises, når du klikker på en kontakt billede.
+        Dialer tillader dig at opkald/meddelelse, nogen af dine eksisterende kontakter.</string>
+  <string name="message_initial_launch">Brug ikonet slettede kontakter i navigationsmenuen til at få vist slettede kontakter</string>
+  <string name="nav_view_all">Tilgængelige (gendannes) kontakter</string>
+</resources>

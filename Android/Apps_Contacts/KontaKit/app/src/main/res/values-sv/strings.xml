@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju</string>
+  <string name="startup_message">Kontakter med telefonnummer finns i olika färg</string>
+  <string name="message_tellafriend">
+        Denna app kan säkerhetskopiera/återställa kontakter, dela kontakter via vCard och Bluetooth, samt exportera och importera dem via CSV- eller vCard-filer.
+        Det gör att du kan säkerhetskopiera kontakter antingen i molnet eller på dig enheten och kan återställa dem när som helst i vilken enhet som helst.
+
+        Det visar också hur många gånger du kallas en kontakt när du ringde senast (även om det var flera år sedan) och har avancerade filtreringsalternativ.
+        Det kommer också med en verktygslåda att radera dubbletter samt förmågan att återställa borttagna kontakter.</string>
+</resources>

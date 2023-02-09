@@ -1,0 +1,7 @@
+include ':app'
+include ':support'
+include ':contacts'
+project(':support').projectDir=new File("..\\..\\Libraries\\support\\support")
+project(':contacts').projectDir=new File("..\\..\\Libraries\\contacts\\contacts")
+
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju Dialer</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">
+        Coju Dialer este un dialer integrat app care vă economiseşte timp şi stres puternic apelare, vizionare, export/import şi capabilităţi de partajare. Nu există nici un dialer app ca Coju Dialer şi este un must have pentru fiecare telefon Android sau tablet.\n\n acest dialer, de asemenea, vine cu caracteristici la îndemână de apelare singur robinet şi singur robinet Google căutare de orice number.\n\n dialer app vă permite să vizualizaţi jurnalele de apeluri, de diferite tipuri, inclusiv durata şi locaţie. Acesta poate afişa 100, 500 sau stocate toate jurnalele de apel, în orice moment. App are, de asemenea, capabilităţi de filtru puternic, care vă permite să vedeţi jurnalele de apeluri la locaţie specifică sau durata.
+    </string>
+</resources>

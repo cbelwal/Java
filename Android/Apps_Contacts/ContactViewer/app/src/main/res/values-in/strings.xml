@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Tampilan kontak</string>
+  <string name="message_tellafriend">Dengan aplikasi ini Anda dapat menyaring kontak, kemudian berbagi melalui vCard dan memperbarui pengaturan seperti \'Send untuk Voicemail\'.
+    App juga menunjukkan berapa kali Anda dipanggil kontak dan Kapan Anda terakhir disebut (bahkan jika itu beberapa tahun yang lalu). Anda juga dapat membuat panggilan dengan mengklik pada gambar kontak.
+    Coba!</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Wawasiliani chelezo</string>
+  <string name="message_backup_contacts">Unataka kucheleza wawasiliani wote sasa?</string>
+  <string name="message_tellafriend">
+        Wawasiliani wako pengine ni habari muhimu katika simu yako, na inachukua muda kujenga orodha ya wawasiliani mwingi.
+        Hutaki kupoteza kama simu yako itapotea, au bahati mbaya utaondoa waasiliani wako wote.
+
+        Hii ni pale ambapo programu tumizi hii huja kucheza. Ni inaweza nyuma-up waasiliani wako wote katika faili na utapata kuweka faili chelezo kwenye simu yako, au kwenye mtandao katika barua pepe binafsi yako mwenyewe au wingu. Kutumia kipengele cha Rejesha wa programu hii, faili chelezo inaweza kutumiwa kurejesha mawasiliano katika kifaa chochote Android, wakati wowote.
+
+        Kuna programu nyingine huko nje ambayo malipo, ada ya kila mwaka ili kuhifadhi wawasiliani wako katika wingu, lakini hawahitaji kulipa ada ya tangu tayari kupata bure email na uhifadhi wa wingu na watoa kadhaa huru kama Google, na programu tumizi hii utapata
+        ili kuhamasisha akaunti zako bure.
+
+        Pakua programu tumizi hii sasa na kupata amani ya akili wawasiliani wako daima kuwa salama!
+        </string>
+  <string name="message_backup_stored_freeversion">
+        Toleo la bure tu inaruhusu chelezo ya wawasiliani 90 hadi.
+        Wawasiliani kuwa wamekuwa wakisaidiwa-hadi katika faili:
+    </string>
+  <string name="message_help_startup">
+        Fungua Menyu ya Uabiri katika juu-kushoto na Onyesha Machaguo ya chelezo na rejeshi
+    </string>
+</resources>

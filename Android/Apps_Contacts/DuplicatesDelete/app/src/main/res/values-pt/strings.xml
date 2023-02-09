@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Duplicatas Ver os &amp; destruir</string>
+  <string name="message_tellafriend">Com este app você pode ver os contatos duplicados, selecione e exclua-os. Contatos duplicados são identificados por um esquema de cor única que ajuda você a ver o valor do mestre e seus associadas duplicatas. Todas as duplicatas são auto-selecionada para exclusão, mas você tem a escolha de un-selecionando-os no caso de desejar manter alguns dos contatos.
+     Este aplicativo também vem com um discador, permitindo-lhe fazer chamadas para seus contatos e também possui recursos para adicionar novos contatos e editar os já existentes.</string>
+</resources>

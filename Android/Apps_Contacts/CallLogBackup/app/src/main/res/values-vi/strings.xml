@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Sao lưu Nhật ký cuộc gọi </string>
+  <string name="app_folder">CallLogBackup</string>
+  <string name="message_tellafriend">
+        Call Log Backup là các ứng dụng đơn giản nhất để sao lưu Nhật ký cuộc gọi của bạn trong điện thoại của bạn hoặc trong tài khoản email hoặc đám mây của bạn. Nó cũng có mạnh mẽ xem, thêm và chỉnh sửa khả năng. Này gọi đăng nhập ứng dụng cũng đi kèm với các tính năng tiện dụng của quay số duy nhất khai thác và tìm kiếm của Google đơn tap của number.\n\n bất kỳ ứng dụng này là phải có cho mỗi điện thoại Android hoặc tablet.\n\n các ứng dụng cho phép bạn xem các bản ghi cuộc gọi của các loại khác nhau bao gồm cả thời gian và địa điểm. Nó có thể hiển thị 100, 500 hoặc được lưu trữ tất cả Nhật ký cuộc gọi bất cứ lúc nào. Các ứng dụng cũng có khả năng mạnh mẽ lọc cho phép bạn xem các cuộc gọi bản ghi dựa trên vị trí cụ thể, thời gian hoặc ngày.
+    </string>
+</resources>

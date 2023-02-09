@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Ismétlődések Nézd &amp; elpusztítani</string>
+  <string name="message_tellafriend">Ez app ismétlődő névjegyek, jelölje ki és törölje őket. Ismétlődő névjegyek azonosítja egy egyedi színséma, melyik segít ön-hoz kilátás a mester és a kapcsolódó ismétlődések. Minden ismétlődő auto-jelölve törlésre, de megvan a választás a kicsi kiválasztása őket abban az esetben szeretné megtartani az ügyfeleket.
+     Ez app is jön-val egy tájszólás, helyeslés ön-hoz csinál hív-hoz-a kapcsolatok, és is jellegét meghatározza-hoz összead új kapcsolatok, és szerkesztheti a meglévőket.</string>
+</resources>

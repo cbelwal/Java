@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Registro de llamada Bluetooth </string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">
+        Registro de llamada Bluetooth es una aplicación que te ahorra tiempo y esfuerzo con su poderosa visión y capacidades de transferencia de Bluetooth.
+
+        Esta aplicación de registro de llamada también viene con características útiles como simple toque marcación y búsqueda en Google solo toque de cualquier aplicación de la llamada registro Bluetooth de number.\n\n le permite ver registros de llamadas de diferentes tipos incluyendo duración y ubicación. Puede exhibir 100, 500 o todos registros de llamadas en cualquier momento. La aplicación también tiene capacidades de filtro de gran alcance que le permiten ver registros de llamadas ubicación específica alguna duración.
+    </string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Call Log Manager </string>
+    <string name="app_folder">CallLogManager</string>
+    <string name="message_tellafriend">
+        Call Log Manager is an integrated call log app that saves you time
+        and stress with its powerful viewing, backup, export/import, sharing,
+        adding and editing capabilities. There is no call log app like Call Log
+        Manager and it is a must have for every Android phone or tablet.\n\n
+
+        This call log app also comes with the handy features of single tap dialing
+        and single tap Google search of any number.\n\n
+
+        The Call Log Manager app allows you to view call logs by different types
+        including duration and location. It can display 100,
+        500 or all stored call logs at any time. The app also has powerful
+        filter capabilities which allow you to see calls logs from
+        specific location or duration.
+    </string>
+</resources>

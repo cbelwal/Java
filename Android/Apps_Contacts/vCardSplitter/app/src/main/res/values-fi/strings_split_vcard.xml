@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">Split-vCard-tiedosto</string>
+  <string name="message_importing_contacts">Tuodaan yhteystiedot...</string>
+  <string name="message_reading_import_file">Tiedoston lukemisen tämä saattaa kestää useita minuutteja...</string>
+  <string name="button_Close">Sulje</string>
+  <string name="button_browse">Selaa</string>
+  <string name="button_Apply">Split</string>
+  <string name="text_selected_file_name">Valitun tiedostonimi:</string>
+  <string name="text_selected_file_size">Valitun tiedoston size(bytes):</string>
+  <string name="text_group_selected_file">Valitun vCard tiedot</string>
+  <string name="text_file_name">Nimi:</string>
+  <string name="text_file_size">Size(bytes):</string>
+  <string name="text_file_contacts">Yhteystiedot:</string>
+  <string name="text_unknown_file_size">Tuntematon</string>
+  <string name="option_split_vcard">Jakaa valitun vCard-tiedosto </string>
+  <string name="option_split_vcard_count">vCard-tiedostot</string>
+  <string name="option_split_vcard_per_contact">Jaettu jokaiseen yhteystietoon</string>
+  <string name="option_save_vcard">Tallenna jaettu vCard-tiedostot </string>
+  <string name="option_save_vcard_external">Ulkonaiset seikat muisti</string>
+  <string name="option_save_vcard_share">Jakaa sovelluksia (pilvi, sähköposti jne)</string>
+  <string name="message_other_permissions_missing">Pyydetyt oikeudet tarvitaan tämän app-ominaisuuden käyttäminen.
+        Antakaa pyydetyt oikeudet ja yritä uudelleen</string>
+  <string name="message_loading_files">Etsitään paikallisia kansioita...</string>
+  <string name="message_import_invalid_file">Ei voimassa yhteystietotiedosto
+        </string>
+  <string name="message_split_ready">Lähdössä jakaa vCard-tiedostoon...
+        </string>
+  <string name="message_split_inprogress">Halkaisu vCard-tiedostoon...
+        </string>
+  <string name="message_select_file_first">
+        Valitse vCard-tiedosto jakaa
+        </string>
+  <string name="message_split_number_invalid">
+        Useita halkeamia ei kelpaa
+        </string>
+  <string name="message_split_freeversion">
+        ILMAINEN versio voi vain jakaa enintään 10 tiedostoja
+        </string>
+  <string name="message_split_store_external">
+        Split vCard-tiedostot on sijoitettu ulkoinen
+      </string>
+  <string name="message_error_splitting">
+        Virhe jakaminen vCard-tiedoston. Varmista, että tiedosto on kelvollinen.
+        </string>
+  <string name="message_error_contact_count">
+        Virhe käsittelyssä useita yhteystietoja vCard-tiedoston. Varmista, että tiedosto on kelvollinen.
+        </string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Geral</string>
+  <string name="nav_menu_group_help">Ajuda</string>
+  <string name="display_options_refresh">Atualização</string>
+  <string name="nav_menu_group_views">Modo de exibição</string>
+  <string name="nav_menu_rate_this_app">Gabarito</string>
+  <string name="nav_menu_upgrade">Versão de atualização para o Pro</string>
+  <string name="nav_menu_tellafriend">Indique a um amigo</string>
+  <string name="nav_menu_feedback">Entre em contato com Dasmic</string>
+  <string name="nav_menu_demovideo">Vídeo de demonstração</string>
+  <string name="nav_menu_coju">Baixar Coju</string>
+</resources>

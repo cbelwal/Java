@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Sauvegarde Contacts</string>
+  <string name="message_backup_contacts">Voulez vous sauvegarder tous les contacts maintenant ?</string>
+  <string name="message_tellafriend">
+        Vos contacts sont probablement l’information la plus importante dans votre téléphone, et il faut beaucoup de temps pour bâtir une liste de contacts.
+        Vous ne voulez pas les perdre si votre téléphone est perdu, ou vous supprimez par mégarde tous vos contacts.
+
+        C’est là qu’intervient ce soft pour jouer. Il peut sauvegarder tous vos contacts dans un fichier et vous permet de placer le fichier de sauvegarde sur votre téléphone ou sur Internet dans votre propre courriel privé ou les nuages. À l’aide de la fonctionnalité de restauration de cette application, le fichier de sauvegarde peut servir pour restaurer des contacts dans n’importe quel appareil Android, n’importe quand.
+
+        Il y a là-bas d’autres applications qui chargent vous un frais annuel pour stocker vos contacts dans le nuage, mais vous n’avez pas besoin de payer les frais, puisque vous avez déjà obtenir gratuitement email et stockage en nuage avec plusieurs fournisseurs gratuits comme Google, et cette application vous permet de
+        pour tirer parti de vos comptes gratuits.
+
+        Télécharger cette application maintenant et obtenez la tranquillité d’esprit que vos contacts sera toujours en sécurité !
+        </string>
+  <string name="message_backup_stored_freeversion">
+        Version gratuite seulement permet la sauvegarde des contacts jusqu\'à 90.
+        Contacts ont été sauvegardés dans le fichier :
+    </string>
+  <string name="message_help_startup">
+        Ouvrez le menu de Navigation en haut à gauche pour afficher les options de sauvegarde et de restauration
+    </string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Backup Kontakti</string>
+  <string name="message_backup_contacts">Vai vēlaties tūlīt dublēsit visus kontaktus</string>
+  <string name="message_tellafriend">
+        Kontaktpersonām, iespējams, vissvarīgākā informācija tavā tālrunī, un tas aizņem daudz laika, lai izveidotu kontaktpersonu sarakstu.
+        Jūs nevēlaties, lai tās pazaudēt, ja jūsu tālrunis kļūst par nozaudētām vai nejauši noņemat visus savus kontaktus.
+
+        Šī ir vieta, kur šo app nāk spēlēt. Tas var palpildlīdzekli visu kontaktpersonu failā un ļauj jums izvietot dublējuma failu tālrunī vai internetā savu privāto e-pastu vai mākonis. Izmantojot šo app funkciju atjaunošana, dublējuma failu var izmantot, lai atjaunotu kontaktus no jebkuras Android ierīces, jebkurā laikā.
+
+        Ir arī citas progr, kas tur, kas maksas jums ikgadējos maksājumus, lai saglabātu kontaktus mākonis, bet nevajag maksāt nodevu, jo jums jau saņemt bezmaksas e-pastu un mākonis uzglabāšanas vairākas bezmaksas pakalpojumu sniedzēji, piemēram, Google un šo app ļauj jums
+        lai piesaistītu savu bezmaksas kontu.
+
+        Lejupielādēt šo app tagad un iegūt dvēseles mieru, jūsu kontaktpersonas vienmēr būs drošībā!
+        </string>
+  <string name="message_backup_stored_freeversion">
+        Bezmaksas versija ļauj tikai dublējuma līdz 90 kontakti.
+        Kontakti ir bijuši dublētos failā:
+    </string>
+  <string name="message_help_startup">
+        Atvērt navigācijas izvēlnes augšā pa kreisi, lai skatītu dublēšanas un atjaunošanas iespējas
+    </string>
+</resources>

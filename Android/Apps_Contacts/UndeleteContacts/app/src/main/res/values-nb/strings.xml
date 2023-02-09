@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Gjenopprette kontakter</string>
+  <string name="message_tellafriend">Dette programmet kan gjenopprette/gjenopprette slettede kontakter fra enheten. Den lar deg se slettede kontakter og gjenopprette dem.
+        Bare kontakter som er lagret i Google konto kan gjenopprettes, denne app vil ikke kunne gjenopprette disse kontaktene slettet fra SIM-kortet eller enheten.
+            Det kommer også med en oppringing som vises når du klikker på en kontakt.
+        Oppringingen kan du ring/Send melding noen av dine eksisterende kontakter.</string>
+  <string name="message_initial_launch">Bruke ikonet slettede kontakter i navigasjonsmenyen vise slettede kontakter</string>
+  <string name="nav_view_all">Tilgjengelige (uslettede) kontakter</string>
+</resources>

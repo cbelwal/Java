@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        Ce soft vous demandera maintenant des autorisations pour accéder à vos données de contacts et journal des appels.
+        Ces autorisations sont requises pour ce soft travailler comme un composeur par défaut et ne visent pas à utiliser de toute autre manière. Nous prenons votre vie privée très au sérieux, et vos données de contacts et journal d’appel ne seront pas partagées avec toute partie, y compris les coju.mobi™, les éditeurs de ce soft.
+    </string>
+</resources>

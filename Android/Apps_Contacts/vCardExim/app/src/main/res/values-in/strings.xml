@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Ekspor impor vCard</string>
+  <string name="message_tellafriend">
+        Ini adalah aplikasi yang sangat berguna untuk ekspor dan impor vCard file.
+        Hal ini memungkinkan ekspor/impor kontak tunggal maupun beberapa file vCard dan mendukung vCard versi 2.1, 3,0 dan 4.0.
+
+        Ini juga mendukung CSV format untuk impor/ekspor memberikan Anda fleksibilitas untuk memodifikasi file kontak dalam alat-alat seperti Google lembar, Microsoft Excel, dll.
+
+        Selain ini, Anda juga dapat Add/Edit kontak, membuat panggilan, mengirim pesan dan mencari kontak.</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vCard Import/Export</string>
+  <string name="message_tellafriend">
+        Dies ist eine sehr nützliche app vCard-Dateien importieren und exportieren.
+        Es kann sowohl einzelne als auch mehrere Kontakte exportieren/importieren vCard-Dateien und unterstützt vCard Versionen 2.1, 3,0 und 4,0.
+
+        Es unterstützt auch eine CSV-Format für Import/Export gibt Ihnen die Flexibilität, die Kontakte-Dateien in Tools wie Google Blatt, Microsoft Excel usw. zu ändern.
+
+        Abgesehen von dieser Sie auch telefonieren Kontakte hinzufügen/bearbeiten, senden Sie Nachrichten und Kontakten suchen.</string>
+</resources>

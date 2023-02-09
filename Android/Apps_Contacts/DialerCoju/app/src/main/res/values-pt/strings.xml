@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju Dialer</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">
+        Coju Dialer é um app de discador integrado que você economiza tempo e esforço com o seu poderosa discagem, visualização, exportação e importação e compartilhamento de recursos. Não há nenhum app do discador como Coju discador e é um deve ter para cada telefone Android ou tablet.\n\n este discador também vem com as características úteis de discagem simples toque e toque Google busca de qualquer number.\n\n o discador app permite que você exibir logs de chamadas por diferentes tipos, incluindo duração e localização. Ele pode exibir 100, 500 ou tudo armazenado chamar registos a qualquer momento. O app também tem capacidades de poderoso filtro que permite que você consulte os logs de chamadas de um local específico ou duração.
+    </string>
+</resources>

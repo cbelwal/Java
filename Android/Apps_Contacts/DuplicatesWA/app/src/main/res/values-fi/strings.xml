@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">WhatsApp kaksoiskappaleet</string>
+  <string name="message_tellafriend">Tämä app voit tarkastella WhatsApp kontaktien, valitse ja poista ne. WhatsApp kontaktien tunnistetaan ainutlaatuinen värimalli, jonka avulla voit tarkastella master arvo ja niihin liittyvät kopiot. Kaikki Toistot ovat automaattisesti valittuna poistamista varten, mutta voit halutessasi YK valitsemalla ne, jos haluat säilyttää on yhteystietoja.
+        Tämä sovellus mukana soitto-ohjelma, jonka avulla voit tehdä puhelinsoittoja ja on ominaisuuksia lisätä uusia yhteystietoja ja muokata nykyisiä.</string>
+</resources>

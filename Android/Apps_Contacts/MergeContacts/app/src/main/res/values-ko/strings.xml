@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">연락처 병합</string>
+  <string name="display_options_all_last_contact">결합 된 연락처</string>
+  <string name="display_options_all">확장 된 연락처</string>
+  <string name="message_on_load_toast">표시 된 연락처 목록</string>
+  <string name="message_on_load_dialog">연락처 병합 여러 연락처를 확인 하 고 선택 하는 \'Merge Contacts\를 \' 상단 오른쪽에서 옵션. 모든 선택 연락처 먼저 선택 된 연락처에 병합 될 것 이다</string>
+  <string name="message_tellafriend">
+        이 유용한 응용 프로그램 중 하나에 전화 번호, 이메일 주소 및 우편 주소와 같은 연락처 정보를 병합 하 여 귀하의 연락처 목록을 단순화 합니다.
+
+        이 저장 많은 시간 다른 방법 연락처 세부 정보를 수동으로 이동한 다음 다른 연락처를 삭제 하는 것입니다.
+
+        이 외에도 만들 수 있습니다 또한 추가/편집 연락처, 전화, 메시지와 연락처에 대 한 검색.</string>
+</resources>

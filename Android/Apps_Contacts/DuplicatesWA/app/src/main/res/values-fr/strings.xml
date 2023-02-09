@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Doublons pour WhatsApp</string>
+  <string name="message_tellafriend">Avec cette application, vous pouvez afficher en double contacts WhatsApp, sélectionner et supprimez-les. Contacts de WhatsApp identiques sont identifiés par une palette de couleurs unique qui vous permet d’afficher la valeur de maître et ses doublons associés. Tous les doublons sont sélectionnés automatiquement pour la suppression, mais vous avez le choix de la non sélection eux au cas où vous souhaitez conserver certains des contacts.
+        Ce soft est également livré avec un composeur vous permettant d’effectuer des appels à vos contacts et dispose également de fonctionnalités pour ajouter de nouveaux contacts et de modifier celles qui existent déjà.</string>
+</resources>

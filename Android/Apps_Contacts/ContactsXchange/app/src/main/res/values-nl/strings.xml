@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Contactpersonen Xchange</string>
+  <string name="message_tellafriend">Deze app maakt het zeer gemakkelijk contacten overzetten naar andere Android telefoons/tablets via Bluetooth.
+        \n\nIt niet alleen elk contact detail transfers maar ook transfers van de foto van de contactpersoon. \n</string>
+  <string name="message_initial_launch">Selecteer contactpersonen te verzenden, en tik op het Bluetooth-pictogram in de rechterbovenhoek</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vCard のインポート/エクスポート</string>
+  <string name="message_tellafriend">これをエクスポートおよびインポートする vCard ファイルに非常に便利なアプリです。
+        それは両方のシングルだけでなく、複数の連絡先のエクスポート/インポートする vCard ファイルをことができます、vCard バージョン 2.1、3.0、および 4.0 をサポートしています。
+
+        インポート/エクスポート Google シート、Microsoft Excel などのツールで連絡先ファイルを変更する柔軟性を与えるための CSV 形式もサポートしています。
+
+        このあなたから離れてすることも追加/編集連絡先電話、連絡先を検索してメッセージを送信します。</string>
+</resources>

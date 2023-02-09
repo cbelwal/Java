@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Samtal Log Manager </string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="message_tellafriend">
+        Samtal Log Manager är en integrerad samtal log app som sparar tid och stress med dess kraftfulla visning, backup, export/import, delning, lägga till och redigera funktioner. Det finns ingen samtal log app som Call Log Manager och det är ett måste för varje Android-telefon eller tablet.\n\n detta samtal log app också kommer med praktiska funktioner som enda tryck uppringning och enda tryck Google-sökning av någon number.\n\n The Call Log Manager-appen kan du Visa samtalsloggar av olika typer inklusive varaktighet och läge. Det kan visa 100, 500 eller alla sparade loggar samtal när som helst. Appen har också kraftfulla filterfunktioner som låter dig se samtal loggar vissa specifika läge eller varaktighet.
+    </string>
+</resources>

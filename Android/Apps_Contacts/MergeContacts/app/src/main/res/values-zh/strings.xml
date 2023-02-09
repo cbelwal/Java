@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">合并联系人</string>
+  <string name="display_options_all_last_contact">合并的联系人</string>
+  <string name="display_options_all">扩大的联系人</string>
+  <string name="message_on_load_toast">显示扩展的联系人名单</string>
+  <string name="message_on_load_dialog">合并联系人，检查多个联系人，请选择 \'Merge Contacts\' 从右上角的选项。所有选择联系人会合并到第一次被选的联系人</string>
+  <string name="message_tellafriend">这个有用的应用程序合并成一份联系人的详细信息，如电话号码、 电子邮件地址和邮政地址，从而简化了您的联系人名单。
+
+        这为您节省大量的时间，因为其他的方式是手动，移动联系人的详细信息，然后删除其他联系人。
+
+        除了这个你也添加/编辑的联系人，可以调用，发送邮件和搜索联系人。</string>
+</resources>

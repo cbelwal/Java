@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Bản sao xem &amp; tiêu diệt</string>
+  <string name="message_tellafriend">Với ứng dụng này bạn có thể xem địa chỉ liên hệ trùng lặp, chọn và xóa chúng. Địa chỉ liên hệ trùng lặp được xác định bởi một bảng màu độc đáo giúp bạn xem các giá trị tổng thể và tính trùng liên quan của nó. Tất cả bản sao tự động chọn để xoá, nhưng bạn có sự lựa chọn của bỏ chọn chúng trong trường hợp bạn muốn giữ một số trong các số liên lạc.
+     Ứng dụng này cũng đi kèm với một trình quay số cho phép bạn thực hiện các cuộc gọi đến số liên lạc của bạn và cũng có các tính năng thêm số liên lạc mới và chỉnh sửa những cái hiện có.</string>
+</resources>

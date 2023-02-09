@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        Ta aplikacja będzie teraz poprosić o uprawnienia dostępu do danych dziennika i kontakty wywołanie.
+        Te uprawnienia są wymagane dla tej aplikacji do pracy jako domyślny dialer i nie są przeznaczone do wykorzystania w inny sposób. Bardzo poważnie traktujemy Twoją prywatność i dane dziennika i kontakty wywołanie nie będą udostępniane stronom, w tym coju.mobi™, wydawcy tej aplikacji.
+    </string>
+</resources>

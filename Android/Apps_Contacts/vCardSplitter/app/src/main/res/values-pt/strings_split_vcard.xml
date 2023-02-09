@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">Split vCard arquivo</string>
+  <string name="message_importing_contacts">Contato (s) de importação...</string>
+  <string name="message_reading_import_file">Arquivo de leitura, isto pode levar alguns minutos...</string>
+  <string name="button_Close">Fechar</string>
+  <string name="button_browse">Procurar</string>
+  <string name="button_Apply">Split</string>
+  <string name="text_selected_file_name">Nome do arquivo selecionado:</string>
+  <string name="text_selected_file_size">Arquivo selecionado tamanho (bytes):</string>
+  <string name="text_group_selected_file">Detalhes do arquivo selecionado vCard</string>
+  <string name="text_file_name">Nome:</string>
+  <string name="text_file_size">Tamanho (bytes):</string>
+  <string name="text_file_contacts">Contato (s):</string>
+  <string name="text_unknown_file_size">Desconhecido</string>
+  <string name="option_split_vcard">Dividir arquivo vCard selecionado em </string>
+  <string name="option_split_vcard_count">vCard ficheiro (s)</string>
+  <string name="option_split_vcard_per_contact">Dividir para cada contato</string>
+  <string name="option_save_vcard">Salvar a divisão vCard ficheiro (s) </string>
+  <string name="option_save_vcard_external">Armazenamento externo</string>
+  <string name="option_save_vcard_share">Compartilhar aplicativos (nuvem, e-mail etc)</string>
+  <string name="message_other_permissions_missing">Permissões solicitadas são necessárias para esse recurso de app trabalhar.
+        Por favor, dê permissões solicitadas e tente novamente</string>
+  <string name="message_loading_files">Pesquisando pastas locais...</string>
+  <string name="message_import_invalid_file">Não é um válido arquivo contato
+        </string>
+  <string name="message_split_ready">Preparando-se dividir arquivo vCard...
+        </string>
+  <string name="message_split_inprogress">Dividir arquivo vCard...
+        </string>
+  <string name="message_select_file_first">
+        Por favor, selecione um arquivo vCard para dividir
+        </string>
+  <string name="message_split_number_invalid">
+        Número de divisões é inválido
+        </string>
+  <string name="message_split_freeversion">
+        Na versão GRATUITA é permitida apenas uma divisão no máximos 10 arquivos
+        </string>
+  <string name="message_split_store_external">
+        Dividir arquivos vCard foram colocados na pasta externa
+      </string>
+  <string name="message_error_splitting">
+        Erro em dividir arquivo vCard. Verifique se que o arquivo é válido.
+        </string>
+  <string name="message_error_contact_count">
+        Erro na leitura de número de contatos de um arquivo vCard. Verifique se que o arquivo é válido.
+        </string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Yhteystiedot</string>
+  <string name="display_options_all_last_contact">Yhdistetty yhteystiedot</string>
+  <string name="display_options_all">Laajennettu yhteystiedot</string>
+  <string name="message_on_load_toast">Osoittaa laajennetun yhteystietoluetteloon</string>
+  <string name="message_on_load_dialog">Yhteystiedot, tarkista yhteyshenkilöt ja valitse \'Merge Contacts\ \"vaihtoehto oikeassa yläkulmassa. Valitse yhteystiedot yhdistetään ensin valittu yhteyshenkilö</string>
+  <string name="message_tellafriend">
+        Hyödyllinen sovellus helpottaa yhteystietoluetteloon yhdistämällä yhteystiedot kuten puhelinnumerot, sähköpostiosoitteet ja postiosoitteet yhdeksi.
+
+        Tämä säästää paljon aikaa, ainoa tapa on siirtää yhteyshenkilön tiedot manuaalisesti ja poista muut yhteystiedot.
+
+        Lisäksi tämä myös Lisää/Muokkaa yhteystietoja, soittaa, lähettää viestin ja etsiä yhteystietoja.</string>
+</resources>

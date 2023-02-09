@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Chelezo ya faili logi ya wito </string>
+  <string name="app_folder">CallLogBackup</string>
+  <string name="message_tellafriend">
+        Wito logi chelezo ni programu rahisi zaidi chelezo logi yako mwito katika simu yako au katika akaunti yako ya barua pepe au wingu. Pia ina nguvu kuonyesha, kuongeza na kuhariri uwezo. Huu mwito logi programu pia huja na makala handy ya upigaji simu bomba moja na bomba moja ya Tafuta na Google ya number.\n\n yoyote programu tumizi hii ni lazima kwa kila simu ya Android au tablet.\n\n programu hukuruhusu kuangalia magogo wito kwa aina mbalimbali ikiwa ni pamoja na muda na mahali. Ni kuonyesha 100, 500 au kuhifadhiwa wote wito magogo wakati wowote. Programu pia ina uwezo wa kichujio nguvu ambayo hukuwezesha kuona wito magogo kulingana na mahali maalum, muda au siku.
+    </string>
+</resources>

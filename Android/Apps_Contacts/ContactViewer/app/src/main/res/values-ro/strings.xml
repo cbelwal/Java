@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Vezi contact</string>
+  <string name="message_tellafriend">Cu acest app poate filtra contacte, distribuie apoi prin vCard şi actualiza setările ca \'Send la Voicemail\'.
+    App, de asemenea, Arată de câte ori ai sunat o persoană de contact şi când ai sunat ultima (chiar în cazul în care a fost acum cativa ani). De asemenea, puteţi efectua apeluri făcând clic pe imaginea de contact.
+    Încercaţi-l!</string>
+</resources>

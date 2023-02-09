@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts View</string>
+    <string name="message_tellafriend">With this app you can
+            filter contacts,
+            share then via vCard, and update settings like \'Send to Voicemail\'.
+    The app also shows how many times you called a contact and when you last called (even
+    if it was several years ago). You can also make calls by clicking on the contact picture.
+    Try it out !</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Widok kontaktów</string>
+  <string name="message_tellafriend">Dzięki tej aplikacji można filtrować kontakty, następnie Podziel się za pomocą vCard i zaktualizować ustawienia jak \'Send do Voicemail\'.
+    Aplikacja pokazuje również, jak wiele razy o nazwie kontaktu i kiedy ostatnio nazywa (nawet jeśli to było kilka lat temu). Możesz również dzwonić klikając na obraz kontaktu.
+    Go wypróbować!</string>
+</resources>

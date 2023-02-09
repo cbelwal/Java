@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">सामान्य</string>
+  <string name="nav_menu_group_help">मदद</string>
+  <string name="display_options_refresh">ताज़ा करें</string>
+  <string name="nav_menu_group_views">दृश्य</string>
+  <string name="nav_menu_rate_this_app">प्रतिक्रिया</string>
+  <string name="nav_menu_upgrade">नवीनीकरण करने के लिए प्रो संस्करण</string>
+  <string name="nav_menu_tellafriend">एक मित्र को बताएँ</string>
+  <string name="nav_menu_feedback">संपर्क Dasmic</string>
+  <string name="nav_menu_demovideo">डेमो वीडियो</string>
+  <string name="nav_menu_coju">Coju डाउनलोड</string>
+</resources>

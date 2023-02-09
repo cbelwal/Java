@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">一般</string>
+  <string name="nav_menu_group_help">帮助</string>
+  <string name="display_options_refresh">刷新</string>
+  <string name="nav_menu_group_views">视图</string>
+  <string name="nav_menu_rate_this_app">反馈</string>
+  <string name="nav_menu_upgrade">升级至 Pro 版</string>
+  <string name="nav_menu_tellafriend">告诉你的朋友</string>
+  <string name="nav_menu_feedback">联系 Dasmic</string>
+  <string name="nav_menu_demovideo">演示视频</string>
+  <string name="nav_menu_coju">下载 Coju</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Call Log Bluetooth </string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">
+        Call Log Bluetooth ist eine app, die spart Ihnen Zeit und Stress mit seiner mächtigen anzeigen und Bluetooth-Übertragung Fähigkeiten.
+
+        Diese Call Log app kommt auch mit praktischen Funktionen wie einfaches Tippen wählen und Fingertipp-Google-Suche von number.\n\n das Call Log Bluetooth-app können Sie Anrufprotokolle durch verschiedene Arten einschließlich Dauer und Ort anzeigen. Es kann anzeigen, 100, 500 oder alle gespeicherten Protokolle jederzeit anrufen. Die app hat auch leistungsstarke Filterfunktionen die Anrufe Protokolle sehen Sie einige bestimmte Position oder Dauer ermöglichen.
+    </string>
+</resources>

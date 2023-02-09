@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Xchange kontakty</string>
+  <string name="message_tellafriend">Ta aplikacja ułatwia to bardzo łatwo przenieść kontakty do różnych Android telefony i tablety via Bluetooth.
+        \n\nIt nie tylko przekazuje każdy szczegół kontaktu ale również transfery zdjęcie kontaktu. \n</string>
+  <string name="message_initial_launch">Wybierz kontakty do wysłania, a następnie stuknij ikonę Bluetooth w prawym górnym rogu</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Copia de seguridad contactos</string>
+  <string name="message_backup_contacts">¿Quieres copia de seguridad de todos los contactos ahora?</string>
+  <string name="message_tellafriend">
+        Sus contactos son probablemente la información más importante en su teléfono, y tarda mucho tiempo para construir una lista de contactos.
+        No quiere perderlos si su teléfono se pierde o accidentalmente eliminas todos tus contactos.
+
+        Esto es donde esta aplicación para jugar. Puede copia de seguridad todos tus contactos en un archivo y permite colocar el archivo de copia de seguridad en su teléfono o en Internet en su propio correo electrónico privado o en la nube. Usando la característica de restauración de esta aplicación, el archivo de copia de seguridad puede utilizarse para restaurar los contactos en cualquier dispositivo Android, en cualquier momento.
+
+        Hay otras aplicaciones por ahí que cobran una cuota anual para almacenar tus contactos en la nube, pero no es necesario pagar la cuota desde ya obtienes gratis por correo electrónico y almacenamiento en la nube con varios proveedores gratuitos como Google y esta aplicación le permite
+        aprovechar sus cuentas gratuitas.
+
+        ¡Descarga esta aplicación y obtener la tranquilidad de que tus contactos siempre será seguros!
+        </string>
+  <string name="message_backup_stored_freeversion">
+        Versión gratuita sólo permite backup de contactos hasta 90.
+        Contactos han sido respaldados en archivo:
+    </string>
+  <string name="message_help_startup">
+        Abrir el menú de navegación en la parte superior izquierda para ver opciones de Backup y Restore
+    </string>
+</resources>

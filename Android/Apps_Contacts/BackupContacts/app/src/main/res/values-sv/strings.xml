@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Säkerhetskopiera kontakter</string>
+  <string name="message_backup_contacts">Vill du säkerhetskopiera alla kontakter nu?</string>
+  <string name="message_tellafriend">
+        Dina kontakter är förmodligen den viktigaste informationen i telefonen, och det tar en massa tid att bygga upp en kontaktlista.
+        Du vill inte förlora dem om telefonen försvinner eller om du råkar ta bort alla dina kontakter.
+
+        Här kommer denna app att spela. Det kan säkerhetskopiera alla dina kontakter i en fil och gör att du kan placera säkerhetskopian på din telefon eller på Internet i din egen privata e-post eller i molnet. Använda funktionen för återställning av denna app, kan säkerhetskopian användas för att återställa kontakter i valfri Android-enhet, när som helst.
+
+        Det finns andra apps där ute som laddar du en årliga avgifter för att lagra dina kontakter i molnet, men du inte behöver betala avgift eftersom du redan få gratis e-post och molnlagring med flera Gratis postleverantörer som Google, och denna app kan du
+        att utnyttja din gratis konton.
+
+        Ladda ner denna app nu och få sinnesro att kontakterna kommer alltid att vara säker!
+        </string>
+  <string name="message_backup_stored_freeversion">
+        Gratisversionen tillåter endast backup av upp till 90 kontakter.
+        Kontakter har varit säkerhetskopierade i filen:
+    </string>
+  <string name="message_help_startup">
+        Öppna navigering-menyn i övre vänstra Visa alternativ för säkerhetskopiering och återställning
+    </string>
+</resources>

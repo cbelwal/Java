@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">ติดต่อ Xchange</string>
+  <string name="message_tellafriend">นี้ app ทำให้มันง่ายมากที่จะถ่ายโอนรายชื่อไปหุ่นยนต์ต่าง ๆ โทรศัพท์มือถือ/แท็บเล็ตผ่าน Bluetooth
+        \n\nIt ไม่เพียงโอนทุกรายละเอียดที่ติดต่อ แต่ยัง โอนภาพของติดต่อ \n</string>
+  <string name="message_initial_launch">เลือกรายชื่อการส่ง แล้วแตะไอคอน Bluetooth ด้านขวาบน</string>
+</resources>

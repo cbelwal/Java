@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        Ứng dụng này bây giờ sẽ yêu cầu quyền truy cập vào dữ liệu cuộc gọi đăng nhập và địa chỉ liên lạc của bạn.
+        Các cấp phép được yêu cầu cho ứng dụng này làm việc như một dialer mặc định và không được dự định sẽ được sử dụng trong bất kỳ cách nào khác. Chúng tôi rất coi trọng sự riêng tư của bạn, và dữ liệu cuộc gọi đăng nhập và địa chỉ liên lạc của bạn sẽ không được chia sẻ với bất kỳ bên bao gồm cả coju.mobi™, nhà xuất bản của ứng dụng này.
+    </string>
+</resources>

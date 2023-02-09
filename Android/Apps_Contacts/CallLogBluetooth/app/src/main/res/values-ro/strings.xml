@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Call Log Bluetooth </string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">
+        Call Log Bluetooth este o app care vă economiseşte timp şi stres puternic de vizualizare şi capabilităţi Bluetooth de Transfer.
+
+        Acest app jurnal de apel, de asemenea, vine cu caracteristici la îndemână ca singur robinet apelare şi singur robinet Google căutare de orice number.\n\n Call Log Bluetooth app vă permite să vizualizaţi jurnalele de apeluri, de diferite tipuri, inclusiv durata şi locaţie. Acesta poate afişa 100, 500 sau stocate toate jurnalele de apel, în orice moment. App are, de asemenea, capabilităţi de filtru puternic, care vă permite să vedeţi jurnalele de apeluri de o anumită locaţie sau durata.
+    </string>
+</resources>

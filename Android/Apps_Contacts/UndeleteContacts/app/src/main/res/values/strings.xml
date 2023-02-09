@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Undelete Contacts</string>
+    <string name="message_tellafriend">This app can undelete/recover
+        deleted contacts from your device. It allows you to view deleted contacts and restore them.
+        Only contacts which are saved in your
+        Google account can be restored, this app will not be able to recover those contacts deleted from SIM
+        card or your device.
+            It also comes with a dialer which is shown when you click on a contact image.
+        The dialer allows you to call/message any of your existing contacts.</string>
+    <string name="message_initial_launch">Use the Deleted contacts icon in Navigation
+        Menu to view deleted contacts</string>
+    <string name="nav_view_all">Available (Undeleted) Contacts</string>
+</resources>

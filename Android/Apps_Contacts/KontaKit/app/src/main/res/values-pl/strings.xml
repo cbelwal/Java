@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju</string>
+  <string name="startup_message">Kontakty z numer telefonu są w innym kolorze</string>
+  <string name="message_tellafriend">
+        Ta aplikacja może kopia zapasowa/Przywracanie kontaktów, udostępnianie kontaktów za pomocą vCard i Bluetooth, a także wywóz i zaimportować je za pośrednictwem plików CSV lub vCard.
+        Umożliwia kopii zapasowej kontaktów w chmurze lub na Ciebie urządzenie i przywrócić je zawsze i w każdym urządzeniu.
+
+        To też pokazuje, ile razy kontakt, wywoływana, gdy użytkownik ostatnio (nawet jeśli to było kilka lat temu) i posiada zaawansowane opcje filtrowania.
+        To również pochodzi z zestaw narzędzi do usuwania duplikatów, a także możliwość Przywracanie usuniętych kontaktów.</string>
+</resources>

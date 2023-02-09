@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">Split vCard File</string>
+  <string name="message_importing_contacts">Mengimpor Contact(s)...</string>
+  <string name="message_reading_import_file">Membaca file, ini mungkin memakan waktu beberapa menit...</string>
+  <string name="button_Close">Tutup</string>
+  <string name="button_browse">Jelajahi</string>
+  <string name="button_Apply">Split</string>
+  <string name="text_selected_file_name">Nama file yang dipilih:</string>
+  <string name="text_selected_file_size">Size(bytes) file yang dipilih:</string>
+  <string name="text_group_selected_file">Dipilih vCard file rincian</string>
+  <string name="text_file_name">Nama:</string>
+  <string name="text_file_size">Size(bytes):</string>
+  <string name="text_file_contacts">Contact(s):</string>
+  <string name="text_unknown_file_size">Unknown</string>
+  <string name="option_split_vcard">Split dipilih vCard file ke </string>
+  <string name="option_split_vcard_count">vCard file</string>
+  <string name="option_split_vcard_per_contact">Split untuk setiap kontak</string>
+  <string name="option_save_vcard">Simpan file vCard split </string>
+  <string name="option_save_vcard_external">Penyimpanan eksternal</string>
+  <string name="option_save_vcard_share">Berbagi aplikasi (awan, email dll)</string>
+  <string name="message_other_permissions_missing">Diminta izin diperlukan untuk fitur aplikasi ini untuk bekerja.
+        Silakan memberikan izin yang diminta dan coba lagi</string>
+  <string name="message_loading_files">Mencari folder lokal...</string>
+  <string name="message_import_invalid_file">Tidak berlaku file kontak
+        </string>
+  <string name="message_split_ready">Bersiap-siap untuk membagi vCard file...
+        </string>
+  <string name="message_split_inprogress">Membelah vCard file...
+        </string>
+  <string name="message_select_file_first">
+        Pilih seorang file vCard untuk membagi
+        </string>
+  <string name="message_split_number_invalid">
+        Jumlah perpecahan tidak valid
+        </string>
+  <string name="message_split_freeversion">
+        Dalam versi GRATIS hanya dibagi menjadi maksimum 10 file diperbolehkan
+        </string>
+  <string name="message_split_store_external">
+        Split vCard file telah ditempatkan dalam folder eksternal
+      </string>
+  <string name="message_error_splitting">
+        Kesalahan dalam membelah vCard file. Pastikan file valid.
+        </string>
+  <string name="message_error_contact_count">
+        Kesalahan dalam membaca jumlah kontak dari vCard file. Pastikan file valid.
+        </string>
+</resources>

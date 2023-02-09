@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vCard Splitter</string>
+  <string name="message_tellafriend">
+        Som du måske ved store kan vCard-filer være svært at importere i Android-telefoner, eller endda programmer som Microsoft Outlook.
+        Ville det ikke være rart at opdele en stor vCard-fil med flere kontakter i flere mindre vCard-filer, som du kan overføre eller importere nemt?
+        VCard Splitter app er nu her til at hjælpe dig med at.
+
+        Denne vCard Splitter app gør det muligt at opdele en enkelt vCard-fil i flere vCard-filer, og du kan angive, hvor mange vCard-filer til at splitte i. Kontakter vil være ligeligt mellem hver fil.
+
+        Du kan også opdele hver kontakt til sin egen individuelle vCard-fil, så du kan nemt importere kontaktpersonerne i programmer, som ikke muligvis importere vCard filer med flere kontakter, ligesom Microsoft Outlook.
+        
+        Afprøve denne app i dag.
+        </string>
+</resources>

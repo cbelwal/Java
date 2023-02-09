@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vCard, importēšanas un eksportēšanas</string>
+  <string name="message_tellafriend">
+        Tas ir ļoti noderīgs app eksportēt un importēt vCard failus.
+        Tas pieļauj eksporta/importa, gan vienā, kā arī vairāku kontaktpersonu vCard failus un atbalsta vCard 2.1, 3,0 un 4.0 versiju.
+
+        Tā arī atbalsta CSV formātā importa eksporta, sniedzot jums elastīgumu, lai modificētu kontaktpersonu faili rīkiem kā Google lapā, Microsoft Excel, utt.
+
+        Ne tikai tas jums var arī pievienot/rediģēt kontaktus, veikt zvanus, sūtīt ziņas un meklēt kontaktus.</string>
+</resources>

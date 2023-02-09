@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Palauta yhteystiedot</string>
+  <string name="message_tellafriend">Tämä sovellus voi Kumoa/takaisin poistetut yhteyshenkilöt laitteesta. Voit tarkastella poistetut yhteyshenkilöt ja palauttaa ne.
+        Vain yhteystiedot, jotka tallennetaan Google tili voidaan palauttaa tämä sovellus ei voi palauttaa nämä yhteystiedot poistetaan SIM-kortti tai laite.
+            Se kin johtua avulla kellotaulu, joka näkyy, kun valitset yhteyshenkilön kuva.
+        Kellotaulu voit ilmoitus, mitään yhteystietoja.</string>
+  <string name="message_initial_launch">Tarkastele poistetut yhteyshenkilöt käyttämällä navigointivalikko poistetut yhteystiedot-kuvaketta</string>
+  <string name="nav_view_all">Käytettävissä (poistamattomien) yhteystiedot</string>
+</resources>

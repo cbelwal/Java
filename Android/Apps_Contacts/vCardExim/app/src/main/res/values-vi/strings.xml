@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vCard xuất nhập khẩu</string>
+  <string name="message_tellafriend">
+        Đây là một ứng dụng rất hữu ích để xuất khẩu, nhập khẩu vCard tập tin.
+        Nó cho phép xuất khẩu, nhập khẩu của cả đơn cũng như nhiều địa chỉ liên lạc tập tin vCard và hỗ trợ phiên bản vCard 2.1, 3,0 và 4.0.
+
+        Nó cũng hỗ trợ định dạng CSV để nhập khẩu đem lại cho bạn sự linh hoạt để chỉnh sửa các tập tin danh bạ trong các công cụ như Google Sheet, Microsoft Excel, etc.
+
+        Ngoài việc này, bạn cũng có thể thêm/chỉnh sửa số liên lạc, làm cuộc gọi, gửi tin nhắn và tìm kiếm các địa chỉ liên lạc.</string>
+</resources>

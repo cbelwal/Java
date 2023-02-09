@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Call Log Manager </string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="message_tellafriend">
+        Call Log Manager egy egységbe rendezett hív fatörzs app, hogy takarít meg időt és a stressz a erős vizuális, hát, export/import, megosztása, hozzátéve és szerkesztés képességek. Nincs hívás log app mint Call Log Manager, és egy must volna részére minden Android telefon, vagy tablet.\n\n a hívás log app is jön-val a hasznos jellegét meghatározza-ból egyetlen koppintással tárcsázás és egyetlen koppintással Google keresés bármilyen number.\n\n a napló híváskezelő app lehetővé teszi, hogy hívás naplók különböző típusú, beleértve az időtartamot és a helyét. Tud bemutatás 100, 500, vagy az összes tárolt hívja naplók, bármikor. Az app is birtokol erős szűrő képességek, amely lehetővé teszi, hogy hívás naplók, bizonyos meghatározott helyre vagy időtartama.
+    </string>
+</resources>

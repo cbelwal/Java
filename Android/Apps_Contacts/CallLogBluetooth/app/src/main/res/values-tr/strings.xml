@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Çağrı günlüğü Bluetooth </string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">
+        Arama günlüğü Bluetooth Bluetooth aktarım olanaklarına ve güçlü görüntüleme ile zaman ve stres kaydeder bir app\'s.
+
+        Bu çağrı günlük uygulama da tek musluk çevirme gibi kullanışlı özellikleri ile geliyor ve tek musluk Google arama herhangi bir number.\n\n ara günlük Bluetooth app arama kayıtlarını süresi ve konum dahil olmak üzere farklı türleri tarafından görüntülemenize olanak verir. 100, 500 veya tüm saklı görüntüleyebilirsiniz ara günlükleri herhangi bir zamanda. Belgili tanımlık app Ayrıca bkz: aramalar günlükleri yapmanızı sağlayan bazı belirli konum veya süre güçlü filtre yetenekleri vardır.
+    </string>
+</resources>

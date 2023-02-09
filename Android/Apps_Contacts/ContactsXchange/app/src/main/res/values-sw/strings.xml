@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Wawasiliani Xchange</string>
+  <string name="message_tellafriend">Hufanya hii programu ni rahisi sana kuhamisha mawasiliano kwa Android tofauti simu/tableti kupitia Bluetooth.
+        \n\nIt si tu uhamisho kila undani mawasiliano lakini pia uhamisho wa picha ya mwasiliani. \n</string>
+  <string name="message_initial_launch">Teua Wawasiliani kupeleka, kisha bonyeza ikoni ya Bluetooth juu kulia</string>
+</resources>

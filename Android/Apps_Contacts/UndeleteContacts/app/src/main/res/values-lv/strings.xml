@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Atjaunot kontakti</string>
+  <string name="message_tellafriend">Šajā app var atsaukšanu/atgūt svītrots kontaktus no ierīces. Tas ļauj skatīt dzēsto kontaktus un atjaunot tos.
+        Tikai kontaktpersonas, kas saglabātas jūsu Google kontu, var atjaunot, šī app nevarēs atgūt šos kontaktus izdzēsta no SIM karte vai ierīce.
+            Tas arī nāk ar zvanītājprogramma, kas tiek parādīts, noklikšķinot uz kontaktpersonas attēlu.
+        Numura sastādītājs ļauj jums zvana/paziņojums kādu no esošajām kontaktpersonām.</string>
+  <string name="message_initial_launch">Izmantot uz Izdzēsto kontaktpersonu ikonas navigācijas izvēlni, lai apskatītu Izdzēsto kontaktpersonu</string>
+  <string name="nav_view_all">Pieejams (neizdzēsti) kontaktpersonas</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">Split αρχείο vCard</string>
+  <string name="message_importing_contacts">Εισαγωγή επαφών...</string>
+  <string name="message_reading_import_file">Ανάγνωση αρχείου, αυτό μπορεί να διαρκέσει αρκετά λεπτά...</string>
+  <string name="button_Close">Κλείστε</string>
+  <string name="button_browse">Αναζήτηση</string>
+  <string name="button_Apply">Σπλιτ</string>
+  <string name="text_selected_file_name">Επιλεγμένες όνομα του αρχείου:</string>
+  <string name="text_selected_file_size">Επιλεγμένο αρχείο size(bytes):</string>
+  <string name="text_group_selected_file">Επιλεγμένη καταχώρηση αρχείου vCard</string>
+  <string name="text_file_name">Όνομα:</string>
+  <string name="text_file_size">Size(bytes):</string>
+  <string name="text_file_contacts">Επαφές:</string>
+  <string name="text_unknown_file_size">Άγνωστο</string>
+  <string name="option_split_vcard">Αρχείο επιλεγμένων vCard split σε </string>
+  <string name="option_split_vcard_count">vCard File (s)</string>
+  <string name="option_split_vcard_per_contact">Σπλιτ για κάθε επαφή</string>
+  <string name="option_save_vcard">Αποθηκεύστε αρχεία vCard Σπλιτ </string>
+  <string name="option_save_vcard_external">Εξωτερική συσκευή αποθήκευσης</string>
+  <string name="option_save_vcard_share">Κοινή χρήση εφαρμογών (Cloud, e-mail κλπ)</string>
+  <string name="message_other_permissions_missing">Ζητήσει τα δικαιώματα που απαιτούνται για να λειτουργεί αυτή η δυνατότητα app.
+        Παρακαλώ δώστε τα απαιτούμενα δικαιώματα και προσπαθήστε ξανά</string>
+  <string name="message_loading_files">Αναζήτηση τοπικών φακέλων...</string>
+  <string name="message_import_invalid_file">Δεν ενός έγκυρου αρχείου επαφής
+        </string>
+  <string name="message_split_ready">Ετοιμάζεται να χωρίσει το αρχείο vCard...
+        </string>
+  <string name="message_split_inprogress">Διαχωρισμός αρχείου vCard...
+        </string>
+  <string name="message_select_file_first">
+        Παρακαλώ επιλέξτε ένα αρχείο vCard να χωρίσει
+        </string>
+  <string name="message_split_number_invalid">
+        Αριθμός των διαιρέσεων δεν είναι έγκυρη
+        </string>
+  <string name="message_split_freeversion">
+        Η ΔΩΡΕΆΝ έκδοση επιτρέπεται μόνο μια διαίρεση σε μέγιστο 10 αρχεία
+        </string>
+  <string name="message_split_store_external">
+        Split αρχεία vCard έχουν τοποθετηθεί στο εξωτερικό φάκελο
+      </string>
+  <string name="message_error_splitting">
+        Σφάλμα στη διάσπαση αρχείο vCard. Βεβαιωθείτε ότι το αρχείο είναι έγκυρο.
+        </string>
+  <string name="message_error_contact_count">
+        Σφάλμα ανάγνωσης αριθμού επαφών από αρχείο vCard. Βεβαιωθείτε ότι το αρχείο είναι έγκυρο.
+        </string>
+</resources>

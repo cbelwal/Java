@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Scalanie kontaktów</string>
+  <string name="display_options_all_last_contact">Połączone kontakty</string>
+  <string name="display_options_all">Rozszerzone kontakty</string>
+  <string name="message_on_load_toast">Wyświetlono rozwiniętej listy kontaktów</string>
+  <string name="message_on_load_dialog">Scalanie kontaktów, sprawdź wiele kontaktów i wybierz \'Merge Contacts\' opcja od prawej. Wybierz wszystkie kontakty zostaną scalone w kontakt, który został wybrany po raz pierwszy</string>
+  <string name="message_tellafriend">
+        Ta przydatna aplikacja upraszcza listy kontaktów przez scalanie kontaktów szczegóły, takie jak numery telefonów, adresy e-mail i adresów pocztowych w jednym.
+
+        To zaoszczędzić dużo czasu jak tylko sposobem jest ręczne przesuwanie szczegóły kontaktów, a następnie usuń innych kontaktów.
+
+        Oprócz tego można również dodawać i edytować kontakty, dzwonić, wysyłać wiadomości i wyszukiwanie kontaktów.</string>
+</resources>

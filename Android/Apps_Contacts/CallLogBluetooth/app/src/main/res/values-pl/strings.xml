@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Połączenie Bluetooth dziennika </string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">
+        Wywołanie Log Bluetooth to aplikacja, która oszczędzi Ci czasu i stresu z jego potężny oglądania i możliwości transferu Bluetooth.
+
+        Ta aplikacja dziennika połączeń jest również wyposażony w przydatne funkcje, takie jak wybieranie jednego kranu i jednego kranu wyszukiwania Google z dowolnej aplikacji Call Log Bluetooth number.\n\n umożliwia wyświetlanie dzienników połączeń przez różnych typów, w tym długość i lokalizacji. Ono puszka metalowa wystawa 100, 500 lub wszystkie zapisane Dzienniki połączeń w dowolnym momencie. Aplikacja posiada również filtr potężne możliwości, które pozwalają zobaczyć logi połączeń niektóre określonej lokalizacji lub czas trwania.
+    </string>
+</resources>

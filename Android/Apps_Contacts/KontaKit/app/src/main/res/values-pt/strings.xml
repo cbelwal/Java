@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju</string>
+  <string name="startup_message">Contatos com número de telefone estão em cor diferente</string>
+  <string name="message_tellafriend">
+        Este app pode fazer backup/restaurar contatos, compartilhar contatos via vCard e Bluetooth, bem como a exportação e importá-los através de arquivos CSV ou vCard.
+        Permite aos contatos de Backup na nuvem ou em dispositivo e pode restaurá-los a qualquer momento em qualquer dispositivo.
+
+        Ele também mostra quantas vezes você ligou um contato, quando o último chamado (mesmo que tenha sido há vários anos) e tem avançado opções de filtragem.
+        Ele também vem com um kit de ferramentas para excluir duplicatas, bem como a capacidade de contatos suprimidos restore.</string>
+</resources>

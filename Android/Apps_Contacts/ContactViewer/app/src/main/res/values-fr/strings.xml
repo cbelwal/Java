@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Affichage des contacts</string>
+  <string name="message_tellafriend">Avec cette application vous pouvez filtrer les contacts, partager ensuite par l’intermédiaire de vCard et mettre à jour les paramètres comme \'Send à Voicemail\'.
+    L’app montre aussi combien de fois vous avez appelé un contact et lorsque vous avez appelé dernière (même si c’était il y a plusieurs années). Vous pouvez aussi faire des appels en cliquant sur l’image du contact.
+    L’essayer !</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vCard Splitter</string>
+  <string name="message_tellafriend">
+        Như bạn đã biết lớn tập tin vCard có thể được khó khăn để nhập vào điện thoại Android, hoặc ngay cả trong các ứng dụng như Microsoft Outlook.
+        Nó sẽ không được tốt đẹp để phá vỡ một tập tin vCard lớn với nhiều địa chỉ liên hệ thành nhiều file vCard nhỏ hơn mà bạn có thể chuyển hoặc nhập một cách dễ dàng?
+        VCard Splitter app bây giờ là ở đây để giúp bạn với điều đó.
+
+        Ứng dụng Splitter vCard này cho phép bạn chia một tập tin vCard đơn vào tập tin vCard nhiều, và bạn có thể xác định có bao nhiêu tập tin vCard để chia. Các số liên lạc sẽ được chia đều giữa mỗi tập tin.
+
+        Bạn cũng có thể chia ra từng số liên lạc vào tập tin vCard cá nhân riêng của mình, cho phép bạn dễ dàng chuyển nhập liên hệ trong các chương trình mà không thể nhập khẩu vCard tập tin với nhiều số liên lạc, như Microsoft Outlook.
+        
+        Hãy thử ứng dụng này vào ngày hôm nay.
+        </string>
+</resources>

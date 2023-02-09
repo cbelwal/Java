@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Menggabungkan kontak</string>
+  <string name="display_options_all_last_contact">Gabungan contact(s)</string>
+  <string name="display_options_all">Diperluas contact(s)</string>
+  <string name="message_on_load_toast">Menampilkan daftar kontak yang diperluas</string>
+  <string name="message_on_load_dialog">Untuk menggabungkan kontak, memeriksa beberapa kontak dan pilih \'Merge Contacts\ \' pilihan dari kanan. Semua pilih kontak akan digabung ke kontak yang dipilih pertama</string>
+  <string name="message_tellafriend">
+        Aplikasi ini berguna menyederhanakan daftar kontak dengan penggabungan rincian kontak seperti nomor telepon, alamat email dan alamat pos menjadi satu.
+
+        Ini menghemat banyak waktu adalah satu-satunya cara lain untuk memindahkan rincian kontak secara manual, dan kemudian menghapus kontak lainnya.
+
+        Selain ini, Anda juga dapat Add/Edit kontak, membuat panggilan, mengirim pesan dan mencari kontak.</string>
+</resources>

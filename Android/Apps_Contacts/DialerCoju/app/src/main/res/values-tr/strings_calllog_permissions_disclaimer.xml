@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        Bu app şimdi arama günlüğü ve kişiler veri erişim izni ister.
+        Bu izinleri varsayılan çevirici çalışmak bu app için gereklidir ve diğer herhangi bir şekilde kullanılmaya yönelik değildir. Gizliliğinizi çok ciddiye alıyoruz ve arama günlüğü ve rehber verilerinizi coju.mobi™, bu app yayıncıları dahil şahıslarla paylaşılmaz.
+    </string>
+</resources>

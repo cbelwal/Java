@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Undelete contacten</string>
+  <string name="message_tellafriend">Dit app kan undelete/recover verwijderde contactpersonen uit uw apparaat. U kunt verwijderde contacten bekijken en herstellen ze.
+        Alleen contactpersonen die zijn opgeslagen in uw Google-account kan worden hersteld, dit app zal niet zitten kundig voor herstellen die contacten van de SIM-kaart of uw apparaat verwijderd.
+            Het komt ook met een dialer die wordt weergegeven wanneer u op een contact beeld klikt.
+        De kiezer kun je oproep/bericht om het even welk van uw bestaande contacten.</string>
+  <string name="message_initial_launch">Gebruik het pictogram contactpersonen verwijderd in het navigatiemenu aan de verwijderde contactpersonen weergeven</string>
+  <string name="nav_view_all">Beschikbare (hersteld) contacten</string>
+</resources>

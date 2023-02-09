@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">备份联系人</string>
+  <string name="message_backup_contacts">是否要立即备份所有联系人？</string>
+  <string name="message_tellafriend">您的联系人可能是您手机中最重要的信息, 需要花费大量时间来建立联系人列表。
+        如果您的手机丢失, 或者您不小心删除了所有的联系人, 您就不想丢失它们。
+
+        这是这个应用程序来发挥。它可以备份您的所有联系人在一个文件, 并允许您将备份文件放在您的手机上, 或在互联网上您自己的私人电子邮件或云。使用此应用程序的恢复功能, 备份文件可以用来恢复任何 Android 设备中的联系人, 任何时候。
+
+        还有其他的应用程序, 收取您的年费, 以存储您的联系在云中, 但你不需要支付费用, 因为你已经得到免费的电子邮件和云存储与几个免费提供商, 如谷歌, 这个应用程序允许你
+        利用您的免费帐户。
+
+        现在下载这个应用程序, 并获得安心, 您的联系将永远是安全的!
+        </string>
+  <string name="message_backup_stored_freeversion">免费版本只允许备份多达90联系人。
+        已在文件中备份联系人:
+    </string>
+  <string name="message_help_startup">打开左上的导航菜单以查看备份和还原选项</string>
+</resources>

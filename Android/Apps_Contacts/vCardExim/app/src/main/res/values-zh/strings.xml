@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vCard 导入导出</string>
+  <string name="message_tellafriend">这是一个非常有用的应用程序导出和导入的 vCard 文件。
+        它允许两个单以及多个联系人导出/导入 vCard 文件，并支持 vCard 版本 2.1，3，0 和 4.0。
+
+        它还让您能够灵活地修改谷歌工作表、 Microsoft Excel 等工具中的联系人文件的导入/导出支持 CSV 格式。
+
+        除了这个你也添加/编辑的联系人，可以调用，发送邮件和搜索联系人。</string>
+</resources>

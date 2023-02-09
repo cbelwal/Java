@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Opkald Log Bluetooth </string>
+  <string name="app_folder">CallLogBluetooth</string>
+  <string name="message_tellafriend">
+        Opkald Log Bluetooth er en app, der sparer dig tid og stress med sin kraftfulde visning og Bluetooth overførsel kapaciteter.
+
+        Dette opkald log app leveres også med de handy funktioner som enkelt tryk opkald og enkelt tryk Google ransage af hvilken som helst number.\n\n kalder Log Bluetooth app kan du få vist kalde logs af forskellige typer, herunder varigheden og placering. Det kan vise 100, 500 eller alle gemte kalde logs til enhver tid. App\'en har også kraftfulde filter kapaciteter, som gør det muligt at se opkald logs nogle specifikke placering eller varighed.
+    </string>
+</resources>

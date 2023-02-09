@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Call Log Backup </string>
+    <string name="app_folder">CallLogBackup</string>
+    <string name="message_tellafriend">
+        Call Log Backup is the most simple app to backup your call log in your phone or in
+        your email or cloud account. It also has
+        powerful viewing, adding and editing capabilities.This call log app also comes with the handy features of single tap dialing
+        and single tap Google search of any number.\n\n
+
+        This app is a must have for every Android phone or tablet.\n\n
+
+        The app allows you to view call logs by different types
+        including duration and location. It can display 100,
+        500 or all stored call logs at any time. The app also has powerful
+        filter capabilities which allow you to see calls logs based on
+        specific location,duration or day.
+    </string>
+</resources>

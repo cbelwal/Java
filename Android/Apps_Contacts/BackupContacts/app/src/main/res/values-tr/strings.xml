@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Yedekleme Rehber</string>
+  <string name="message_backup_contacts">Şimdi tüm rehber yedekleme istiyor musunuz?</string>
+  <string name="message_tellafriend">
+        Kişilerinizi Muhtemelen telefonunuz en önemli bilgileri, ve bunu bir kişiler listesi oluşturmak için zaman bir sürü alır.
+        Telefonunuz kaybolursa veya tüm kişileri yanlışlıkla kaldırırsanız kaybetmek istemiyorum.
+
+        Bu bu app oynamak için devreye giriyor. Bu dosyadaki tüm kişileri yedekleme ve yedekleme dosyasını telefonunuza veya Internet üzerinde kendi özel e-posta veya bulut yerleştirmenize olanak sağlar. Bu app geri yükleme özelliğini kullanarak, yedek dosyası herhangi bir Android cihaz kişilerde her zaman geri yüklemek için kullanılabilir.
+
+        Sen bulut, ama sen kişileri depolamak için bir yıllık ücretler zaten ücretsiz olsun bu yana ücreti ödemeniz gerek yok e-posta ve bulut depolama ile birkaç ücretsiz sağlamak gibi Google ve bu app sağlar şarj diğer apps orada vardır
+        Ücretsiz hesaplar kaldıraç için.
+
+        Şimdi bu app indirebilir ve kişileri her zaman güvenli olacaktır huzuru!
+        </string>
+  <string name="message_backup_stored_freeversion">
+        Ücretsiz sürümü sadece 90 rehber yedekleme sağlar.
+        Kişiler dosyasında yedeği:
+    </string>
+  <string name="message_help_startup">
+        Yedekleme ve geri yükleme seçeneklerini görüntülemek için sol üst içinde gezinti menüsünü açın
+    </string>
+</resources>

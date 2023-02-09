@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">VCard फ़ाइल को विभक्त करें</string>
+  <string name="message_importing_contacts">संपर्कों को आयात करने...</string>
+  <string name="message_reading_import_file">फ़ाइल को पढ़ने, यह कई मिनट ले सकता है...</string>
+  <string name="button_Close">बंद करें</string>
+  <string name="button_browse">ब्राउज़ करें</string>
+  <string name="button_Apply">विभक्त करें</string>
+  <string name="text_selected_file_name">चयनित फ़ाइल नाम:</string>
+  <string name="text_selected_file_size">चयनित फ़ाइल size(bytes):</string>
+  <string name="text_group_selected_file">चयनित vCard फ़ाइल विवरण</string>
+  <string name="text_file_name">नाम:</string>
+  <string name="text_file_size">Size(bytes):</string>
+  <string name="text_file_contacts">संपर्कों:</string>
+  <string name="text_unknown_file_size">अज्ञात</string>
+  <string name="option_split_vcard">विभक्त करें चयनित vCard फ़ाइल में </string>
+  <string name="option_split_vcard_count">vCard फ़ाइल (फ़ाइलें)</string>
+  <string name="option_split_vcard_per_contact">प्रत्येक संपर्क के लिए विभाजित करें</string>
+  <string name="option_save_vcard">सहेजने vCard फ़ाइल (फ़ाइलें) विभाजन </string>
+  <string name="option_save_vcard_external">बाह्य भंडारण</string>
+  <string name="option_save_vcard_share">साझा अनुप्रयोगों (बादल, ईमेल आदि)</string>
+  <string name="message_other_permissions_missing">अनुरोध की गई अनुमतियाँ इस app सुविधा के लिए काम करने के लिए आवश्यक हैं।
+        कृपया अनुरोध अनुमति दें और पुन: प्रयास करें</string>
+  <string name="message_loading_files">स्थानीय फ़ोल्डर खोज रहा है...</string>
+  <string name="message_import_invalid_file">नहीं कोई मान्य संपर्क फ़ाइल
+        </string>
+  <string name="message_split_ready">VCard फ़ाइल को विभाजित करने के लिए तैयार हो रही...
+        </string>
+  <string name="message_split_inprogress">VCard फ़ाइल बंटवारे...
+        </string>
+  <string name="message_select_file_first">
+        कृपया एक vCard फ़ाइल को विभाजित करने के लिए का चयन करें
+        </string>
+  <string name="message_split_number_invalid">
+        विभाजन की संख्या अमान्य है
+        </string>
+  <string name="message_split_freeversion">
+        नि: शुल्क संस्करण में केवल एक विभाजन में अधिकतम 10 फाइलें की अनुमति दी है
+        </string>
+  <string name="message_split_store_external">
+        विभक्त करें vCard फ़ाइलें बाहरी फ़ोल्डर में रखा गया है
+      </string>
+  <string name="message_error_splitting">
+        VCard फ़ाइल विभाजन में त्रुटि। सुनिश्चित करें कि फ़ाइल मान्य है।
+        </string>
+  <string name="message_error_contact_count">
+        VCard फ़ाइल से संपर्क का नंबर पढ़ने में त्रुटि। सुनिश्चित करें कि फ़ाइल मान्य है।
+        </string>
+</resources>

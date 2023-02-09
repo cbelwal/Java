@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        Questa app sarà ora richiedere le autorizzazioni per accedere ai dati di registro e contatti di chiamata.
+        Queste autorizzazioni sono necessarie per questo app per funzionare come dialer predefinito e non sono destinate a essere utilizzati in qualsiasi altro modo. Prendiamo molto seriamente la privacy e i dati di registro e contatti di chiamata non essere condivise con terzi tra cui coju.mobi™, gli editori di questa app.
+    </string>
+</resources>

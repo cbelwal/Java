@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vCard sadalītājs</string>
+  <string name="message_tellafriend">
+        Kā jūs zināt, liels vCard failus var būt grūti importēt Android telefonu, vai pat lietojumiem, piemēram, Microsoft Outlook.
+        Tas nebūtu patīkami ielauzties vairākus mazākus vCard failus, kas var pārnest vai ērti importēt lielu vCard faila ar vairākiem kontaktiem
+        VCard sadalītāja app tagad ir šeit, lai palīdzētu jums ar to.
+
+        Šo vCard sadalītāja app ļauj sadalīt vienu vCard fails vairākus vCard failus un var norādīt, cik vCard failus to sadalīt. Kontaktpersonas tiks vienlīdzīgi sadalīts starp katru failu.
+
+        Varat arī sadalīt katram kontaktam savu individuālo vCard failā, ļauj ērti importējiet kontaktpersonas no programmas, kas, iespējams, nevarēs importēt vCard failus ar vairākām kontaktpersonām, piemēram, Microsoft Outlook.
+        
+        Izmēģināt šo app šodien.
+        </string>
+</resources>

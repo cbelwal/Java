@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">Split vCard datoteke</string>
+  <string name="message_importing_contacts">Uvozite stike...</string>
+  <string name="message_reading_import_file">Branje datoteke, to lahko traja nekaj minut...</string>
+  <string name="button_Close">Blizu</string>
+  <string name="button_browse">Prebrskaj</string>
+  <string name="button_Apply">Split</string>
+  <string name="text_selected_file_name">Ime izbrane datoteke:</string>
+  <string name="text_selected_file_size">Izbrano datoteko size(bytes):</string>
+  <string name="text_group_selected_file">Izbrane podrobnosti datoteke vCard</string>
+  <string name="text_file_name">ime:</string>
+  <string name="text_file_size">Size(bytes):</string>
+  <string name="text_file_contacts">Stike:</string>
+  <string name="text_unknown_file_size">Neznano</string>
+  <string name="option_split_vcard">Split izbrano vizitko vCard v </string>
+  <string name="option_split_vcard_count">datoteke vCard</string>
+  <string name="option_split_vcard_per_contact">Za vsak stik po delih</string>
+  <string name="option_save_vcard">Shranite datoteke vCard split </string>
+  <string name="option_save_vcard_external">Zunanji Storage</string>
+  <string name="option_save_vcard_share">Delež aplikacije (oblak, email itd)</string>
+  <string name="message_other_permissions_missing">Zahtevana dovoljenja so potrebna za delovanje te app funkcije.
+        Prosim izročiti zahtevanih dovoljenj in poskusite znova</string>
+  <string name="message_loading_files">Iskanje lokalne mape...</string>
+  <string name="message_import_invalid_file">Ni veljavna datoteka stika
+        </string>
+  <string name="message_split_ready">Že pripravljen razdeliti datoteko vCard...
+        </string>
+  <string name="message_split_inprogress">Razdelitev datoteke vCard...
+        </string>
+  <string name="message_select_file_first">
+        Izberite datoteko vCard razdeliti
+        </string>
+  <string name="message_split_number_invalid">
+        Število razpok ni veljavna
+        </string>
+  <string name="message_split_freeversion">
+        V PROST prevod je dovoljeno samo razdeljeno na največ 10 datotek
+        </string>
+  <string name="message_split_store_external">
+        Split vCard datoteke je bilo dano v zunanji mapo
+      </string>
+  <string name="message_error_splitting">
+        Napaka v razdelitev datoteke vCard. Poskrbite, da datoteka je veljaven.
+        </string>
+  <string name="message_error_contact_count">
+        Napaka pri branju število stikov iz datoteke vCard. Poskrbite, da datoteka je veljaven.
+        </string>
+</resources>

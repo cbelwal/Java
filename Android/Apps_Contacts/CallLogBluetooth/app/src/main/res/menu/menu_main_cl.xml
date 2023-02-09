@@ -1,0 +1,43 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:title="Search"
+        app:showAsAction="always"
+        app:actionLayout="@layout/ui_searchview_cl"
+        android:orderInCategory="1"/>
+    <item android:id="@+id/action_delete" android:title="@string/menu_delete_cl"
+        android:orderInCategory="3" app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_delete" />
+    <item android:id="@+id/action_share" android:title="@string/menu_share_cl"
+        android:orderInCategory="5" app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_share" />
+    <item android:id="@+id/menu_dts_overflow" android:title="overflow"
+        android:icon="@drawable/ic_more_vert_black_24dp"
+        android:orderInCategory="6"
+        app:showAsAction="always">
+        <menu>
+        <item android:id="@+id/action_add" android:title="@string/menu_add_cl"
+            android:orderInCategory="7" app:showAsAction="always|withText"
+            android:icon="@drawable/ic_person_add_black_48dp"
+            android:visible="false"/>
+        <item android:id="@+id/action_edit" android:title="@string/menu_edit_cl"
+            android:orderInCategory="9" app:showAsAction="always|withText"
+            android:icon="@drawable/ic_person_black_48dp"
+            android:visible="false"/>
+        <item android:id="@+id/action_export" android:title="@string/menu_export_cl"
+            android:orderInCategory="15" app:showAsAction="always|withText"
+            android:icon="@drawable/ic_archive_black_48dp"
+            android:visible="false" />
+        <item android:id="@+id/action_import" android:title="@string/menu_import_cl"
+            android:orderInCategory="17" app:showAsAction="always|withText"
+            android:icon="@drawable/ic_import_contacts_black_48dp"
+            android:visible="false"/>
+        <item android:id="@+id/action_bluetooth"
+               android:title="@string/menu_bluetooth_cl"
+               android:orderInCategory="19" app:showAsAction="always|withText"
+               android:icon="@drawable/ic_bluetooth_black_48dp"/>
+        </menu>
+    </item>
+</menu>
+

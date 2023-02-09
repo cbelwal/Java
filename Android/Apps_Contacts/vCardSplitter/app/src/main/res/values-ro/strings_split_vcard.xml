@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">Split vCard File</string>
+  <string name="message_importing_contacts">Importa contactele pe care...</string>
+  <string name="message_reading_import_file">Citirea fişierului, acest lucru poate dura câteva minute...</string>
+  <string name="button_Close">Închide</string>
+  <string name="button_browse">Răsfoire</string>
+  <string name="button_Apply">Split</string>
+  <string name="text_selected_file_name">Numele fişierului selectat:</string>
+  <string name="text_selected_file_size">Size(bytes) de fișier selectat:</string>
+  <string name="text_group_selected_file">Detalii de fişier selectat vCard</string>
+  <string name="text_file_name">nume:</string>
+  <string name="text_file_size">Size(bytes):</string>
+  <string name="text_file_contacts">Persoana de contact:</string>
+  <string name="text_unknown_file_size">Necunoscut</string>
+  <string name="option_split_vcard">Split fişier vCard selectate în </string>
+  <string name="option_split_vcard_count">vCard fişiere</string>
+  <string name="option_split_vcard_per_contact">Split pentru fiecare persoană de contact</string>
+  <string name="option_save_vcard">Salvați fișierele de vCard split </string>
+  <string name="option_save_vcard_external">Stocare externă</string>
+  <string name="option_save_vcard_share">Partajaţi aplicaţii (Cloud, e-mail etc)</string>
+  <string name="message_other_permissions_missing">Solicitat permisiuni sunt necessre pentru această caracteristică de app la locul de muncă.
+        Vă rugăm să da permisiuni solicitate și încercați din nou</string>
+  <string name="message_loading_files">Căutare dosare locale...</string>
+  <string name="message_import_invalid_file">Nu un fişier valid contact
+        </string>
+  <string name="message_split_ready">««Noţiuni de bază gata să împartă fişier vCard...
+        </string>
+  <string name="message_split_inprogress">Divizare fişier vCard...
+        </string>
+  <string name="message_select_file_first">
+        Vă rugăm să selectaţi un fişier vCard să împartă
+        </string>
+  <string name="message_split_number_invalid">
+        Numărul de desparte este nevalid
+        </string>
+  <string name="message_split_freeversion">
+        În versiunea GRATUITĂ este permisă numai o ruptură în maxim 10 fişiere
+        </string>
+  <string name="message_split_store_external">
+        Split vCard fişiere au fost plasate în folderul externe
+      </string>
+  <string name="message_error_splitting">
+        Eroare în divizare fişier vCard. Asiguraţi-vă că fișierul este valid.
+        </string>
+  <string name="message_error_contact_count">
+        Eroare la citirea numărului de contacte din fişier vCard. Asiguraţi-vă că fișierul este valid.
+        </string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vCard de Import/Export</string>
+  <string name="message_tellafriend">
+        Aceasta este o aplicatie foarte utila pentru export şi de import vCard fişiere.
+        Acesta permite exportul/importul atât singur cât și mai multe contacte vCard fişiere şi acceptă versiunile vCard 2.1, 3,0 și 4.0.
+
+        Aceasta susţine, de asemenea, un format CSV de import/export, oferindu-vă flexibilitatea de a modifica fişiere de contacte în instrumente cum ar fi foaie de Google, Microsoft Excel, etc.
+
+        În afară de acest lucru vă poate, de asemenea, adăugaţi/edita contacte, apeluri, trimite mesaj şi caută contacte.</string>
+</resources>

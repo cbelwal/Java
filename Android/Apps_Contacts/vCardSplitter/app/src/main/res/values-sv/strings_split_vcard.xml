@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">Split vCard fil</string>
+  <string name="message_importing_contacts">Importera kontakter...</string>
+  <string name="message_reading_import_file">Läsa filen, kan detta ta flera minuter...</string>
+  <string name="button_Close">Stäng</string>
+  <string name="button_browse">Bläddra</string>
+  <string name="button_Apply">Split</string>
+  <string name="text_selected_file_name">Valda filnamn:</string>
+  <string name="text_selected_file_size">Markerade filen size(bytes):</string>
+  <string name="text_group_selected_file">Valda vCard Fildetaljer</string>
+  <string name="text_file_name">Namn:</string>
+  <string name="text_file_size">Size(bytes):</string>
+  <string name="text_file_contacts">Kontakter:</string>
+  <string name="text_unknown_file_size">Okänd</string>
+  <string name="option_split_vcard">Split valda vCard-fil till </string>
+  <string name="option_split_vcard_count">vCard fil(er)</string>
+  <string name="option_split_vcard_per_contact">Dela för varje kontakt</string>
+  <string name="option_save_vcard">Spara split vCard fil(er) </string>
+  <string name="option_save_vcard_external">Extern lagring</string>
+  <string name="option_save_vcard_share">Dela program (Cloud, e-post etc)</string>
+  <string name="message_other_permissions_missing">Önskade behörigheter som krävs för denna app funktionen ska fungera.
+        Vänligen ge önskade behörigheter och försök igen</string>
+  <string name="message_loading_files">Söker lokala mappar...</string>
+  <string name="message_import_invalid_file">Inte en giltig kontaktfilen
+        </string>
+  <string name="message_split_ready">Redo att dela vCard fil...
+        </string>
+  <string name="message_split_inprogress">Dela vCard fil...
+        </string>
+  <string name="message_select_file_first">
+        Vänligen välj en vCard-fil till split
+        </string>
+  <string name="message_split_number_invalid">
+        Antal splittringar är ogiltig
+        </string>
+  <string name="message_split_freeversion">
+        I den FRIA versionen tillåts endast en uppdelning i maximalt 10 filer
+        </string>
+  <string name="message_split_store_external">
+        Split vCard-filer har placerats i externa mapp
+      </string>
+  <string name="message_error_splitting">
+        Fel i dela vCard fil. Kontrollera att filen är giltig.
+        </string>
+  <string name="message_error_contact_count">
+        Fel i behandlingen antal kontakter från vCard-fil. Kontrollera att filen är giltig.
+        </string>
+</resources>

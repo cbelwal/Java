@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">[連絡先] ビュー</string>
+  <string name="message_tellafriend">このアプリで連絡先をフィルター、vCard を介して、共有して Voicemail\ に \'Send のように設定を更新 \'。
+    アプリケーションは、どのように何回もあなたは連絡先と呼ばれ、(たとえ数年前だった) が前回呼び出したときにも示しています。連絡先の画像をクリックして通話をすることも。
+    それを試してみる!</string>
+</resources>

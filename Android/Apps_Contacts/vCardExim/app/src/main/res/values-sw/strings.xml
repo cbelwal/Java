@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vKadi Leta Hamisha</string>
+  <string name="message_tellafriend">
+        Hii ni programu muhimu sana Hamisha na Leta faili vKadi.
+        Inaruhusu Hamisha/Leta ya wawasiliani wote moja kama vile anuwai faili za vKadi na inasaidia matoleo vKadi 2.1, 3,0 na 4.0.
+
+        Pia inasaidia umbizo CSV kwa Upelekaji wa Vipendwa kutoa kubadilika kurekebisha faili wawasiliani katika zana kama karatasi ya Google, Microsoft Excel, nk.
+
+        Mbali hii inaweza pia Ongeza/Hariri wawasiliani, kupiga simu, kutuma ujumbe na Tafutiza wawasiliani.</string>
+</resources>

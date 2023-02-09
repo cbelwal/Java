@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vCard importálása és exportálása</string>
+  <string name="message_tellafriend">
+        Ez egy nagyon hasznos app-hoz export és import vCard fájlokat.
+        Ez lehetővé teszi mind a egyetlen, valamint az több Névjegyalbum-exportálási vCard fájlokat, és támogatja a vCard változat 2.1, 3,0 és 4,0.
+
+        Az importálási/exportálási giving ön a hajlékonyság-hoz módosít a kapcsolatok fájlokat-ban eszközök, mint a Google munkalap, Microsoft Excel, stb a CSV formátumot is támogatja.
+
+        Ezen kívül is névjegyek hozzáadása/szerkesztése, hogy hív, küld üzenet és partnerek keresése.</string>
+</resources>

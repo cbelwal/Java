@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju</string>
+  <string name="startup_message">Telefon numarası olan kişileri farklı renkte vardır</string>
+  <string name="message_tellafriend">
+        Bu app rehber yedekleme/geri yükleme, vCard ve Bluetooth gibi ihracat ile paylaşma ve onları üzerinden CSV veya vCard dosya içe aktarabilirsiniz.
+        Bu aygıt için yedekleme rehber bulut veya size izin verir ve bunları istediğiniz zaman herhangi bir cihazda geri yükleyebilirsiniz.
+
+        Ayrıca son aradığında (birkaç yıl önce olsa bile) bir kişi olarak adlandırılan kaç kez gösterir ve filtreleme seçenekleri ilerlemiştir.
+        Ayrıca geri yükleme silindi kişiler yeteneği yanı sıra çoğaltmaları silmek için bir araç seti ile geliyor.</string>
+</resources>

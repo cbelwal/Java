@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Call Log Manager </string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="message_tellafriend">
+        Call Log Manager è un\'applicazione di registro chiamate integrata che consente di risparmiare tempo e stress con il suo potente visualizzazione, backup, esportazione/importazione, condivisione, aggiunta e modifica di funzionalità. Non c\'è nessuna chiamata registro app come Call Log Manager ed è un must have per ogni telefono Android o tablet.\n\n questa chiamata registro applicazione viene fornito con le utili funzionalità di composizione singolo rubinetto e rubinetto singolo Google search di qualsiasi number.\n\n The Call Log Manager app consente di visualizzare i registri delle chiamate di diversi tipi tra cui durata e posizione. E \' possibile visualizzare 100, 500 o tutti i registri delle chiamate in qualsiasi momento. L\'applicazione dispone anche di funzionalità potente filtro che consentono di vedere i registri chiamate alcune località specifica o la durata.
+    </string>
+</resources>

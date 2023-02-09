@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_split">Osztani, vCard-fájl</string>
+  <string name="message_importing_contacts">Partner importálása...</string>
+  <string name="message_reading_import_file">Fájl olvasása, ez több percig is eltarthat...</string>
+  <string name="button_Close">Zár</string>
+  <string name="button_browse">Tallózás</string>
+  <string name="button_Apply">Split</string>
+  <string name="text_selected_file_name">Kijelölt fájl neve:</string>
+  <string name="text_selected_file_size">Kijelölt fájl size(bytes):</string>
+  <string name="text_group_selected_file">Kijelölt vCard-fájl adatai</string>
+  <string name="text_file_name">név:</string>
+  <string name="text_file_size">Size(bytes):</string>
+  <string name="text_file_contacts">Partner:</string>
+  <string name="text_unknown_file_size">Ismeretlen</string>
+  <string name="option_split_vcard">Split a kijelölt vCard-fájlt </string>
+  <string name="option_split_vcard_count">vCard fájl</string>
+  <string name="option_split_vcard_per_contact">Split minden névjegyhez</string>
+  <string name="option_save_vcard">Split vCard-fájl mentése </string>
+  <string name="option_save_vcard_external">Külső tároló</string>
+  <string name="option_save_vcard_share">Ossza meg az alkalmazások (felhő, e-mail stb.)</string>
+  <string name="message_other_permissions_missing">Ez app vonás-hoz dolgozik kért engedélyek szükségesek.
+        Kérjük adja meg a kért engedélyeket, majd próbálkozzon újra</string>
+  <string name="message_loading_files">Helyi mappák keresése...</string>
+  <string name="message_import_invalid_file">Nem egy érvényes kapcsolat-fájl
+        </string>
+  <string name="message_split_ready">Felkészülnek arra, hogy osztani, vCard-fájlt...
+        </string>
+  <string name="message_split_inprogress">VCard fájl megosztáshoz...
+        </string>
+  <string name="message_select_file_first">
+        Kérjük, válassza ki a vCard-fájlt split
+        </string>
+  <string name="message_split_number_invalid">
+        Érvénytelen számú felbomlik
+        </string>
+  <string name="message_split_freeversion">
+        A SZABAD változat csak egy split a 10 fájlok maximális megengedett
+        </string>
+  <string name="message_split_store_external">
+        Split vCard fájlokat elhelyezett külső mappában
+      </string>
+  <string name="message_error_splitting">
+        Hiba történt a felosztása a vCard-fájlt. Győződjön meg arról, hogy a fájl érvényes.
+        </string>
+  <string name="message_error_contact_count">
+        Hiba az olvasó szám-ból kapcsolatok a vCard-fájlt. Győződjön meg arról, hogy a fájl érvényes.
+        </string>
+</resources>

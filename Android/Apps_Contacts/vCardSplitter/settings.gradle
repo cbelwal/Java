@@ -1,0 +1,6 @@
+include ':app'
+include ':support'
+project(':support').projectDir=new File("..\\..\\Libraries\\support\\support")
+
+
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju</string>
+  <string name="startup_message">Kontakte mit Telefonnummer sind in verschiedenen Farben</string>
+  <string name="message_tellafriend">
+        Diese app kann Sicherung/Wiederherstellung Kontakte, Kontakte per vCard und Bluetooth, sowie Export freigeben und per CSV- oder vCard-Dateien zu importieren.
+        Es ermöglicht es Ihnen, Kontakte Backup in der Cloud oder auf Sie Gerät und können sie jederzeit auf jedem Gerät wiederherstellen.
+
+        Es zeigt auch, wie oft Sie aufgerufen einen Kontakt, wenn Sie nach dem letzten Aufruf (auch wenn es vor einigen Jahren war) und hat Erweiterte Filteroptionen.
+        Es kommt auch mit einem Toolkit, Duplikate sowie die Möglichkeit, gelöschte Kontakte zu löschen.</string>
+</resources>

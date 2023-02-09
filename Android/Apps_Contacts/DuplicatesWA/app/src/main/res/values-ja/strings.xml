@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">WhatsApp の重複</string>
+  <string name="message_tellafriend">このアプリで WhatsApp の重複する連絡先を表示、選択し、削除することができます。WhatsApp 連絡先の重複は、マスターの値およびその関連付けられた重複を表示することができますユニークな配色によって識別されます。すべての複製、削除、自動選択しますが、選択解除選択連絡先の一部を保存しておきたい場合にそれら。
+        このアプリはまたことができますようにあなたの連絡先に電話ダイヤラーが付属して、新しい連絡先を追加し、既存のものを編集する機能も備えて.</string>
+</resources>

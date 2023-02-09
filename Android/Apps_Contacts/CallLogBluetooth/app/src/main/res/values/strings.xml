@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Call Log Bluetooth </string>
+    <string name="app_folder">CallLogBluetooth</string>
+    <string name="message_tellafriend">
+        Call Log Bluetooth is an app that saves you time
+        and stress with its powerful viewing and Bluetooth Transfer
+        capabilities.
+
+        This call log app also comes with the handy features like single tap dialing
+        and single tap Google search of any number.\n\n
+
+        The Call Log Bluetooth app allows you to view call logs by different types
+        including duration and location. It can display 100,
+        500 or all stored call logs at any time. The app also has powerful
+        filter capabilities which allow you to see calls logs some
+        specific location or duration.
+    </string>
+</resources>

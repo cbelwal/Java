@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Επαφές Xchange</string>
+  <string name="message_tellafriend">Αυτό το app κάνει πολύ εύκολο να μεταφέρετε τις επαφές σε διαφορετικές ανδροειδές τηλέφωνα/ταμπλέτες μέσω Bluetooth.
+        \n\nIt όχι μόνο μεταφέρει κάθε επαφή λεπτομέρεια αλλά επίσης μεταφέρει τη φωτογραφία από την επαφή. \n</string>
+  <string name="message_initial_launch">Επιλέξτε επαφές για την αποστολή και, στη συνέχεια, πατήστε το εικονίδιο Bluetooth στο επάνω δεξιά</string>
+</resources>

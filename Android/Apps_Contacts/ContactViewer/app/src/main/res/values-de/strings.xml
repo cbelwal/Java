@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kontaktansicht</string>
+  <string name="message_tellafriend">Mit dieser app können Sie Kontakte Filtern, dann via vCard teilen und aktualisieren Sie die Einstellungen wie \'Send, Voicemail\'.
+    Die app zeigt auch, wie viele Male Sie einen Kontakt angerufen und wann Sie zuletzt aufgerufen (auch wenn es vor einigen Jahren war). Sie können auch Anrufe tätigen, indem Sie auf das Kontaktbild.
+    Probieren Sie es aus!</string>
+</resources>

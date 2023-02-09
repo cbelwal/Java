@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Marcador de Coju</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">
+        Coju Dialer es una aplicación de marcador integrado que le ahorra tiempo y esfuerzo con su marcado de gran alcance, visualización, exportación/importación y compartir. No hay ninguna aplicación dialer Dialer Coju y es una necesidad para cada teléfono Android o tablet.\n\n este marcador también viene con las características útiles de marcado simple toque y solo toque búsqueda en Google de cualquier number.\n\n la aplicación de marcador permite visualizar registros de llamadas de diferentes tipos incluyendo duración y ubicación. Puede exhibir 100, 500 o todos registros de llamadas en cualquier momento. La aplicación también tiene capacidades de filtro de gran alcance que le permiten ver registros de llamadas de ubicación específica o duración.
+    </string>
+</resources>

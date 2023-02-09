@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vCard-kortin jakaja</string>
+  <string name="message_tellafriend">
+        Kuten tiedätte suuri vCard-tiedostoja voi olla vaikeaa tuoda Android-puhelimissa, tai edes sovelluksia, kuten Microsoft Outlook.
+        Eikö olisi mukavaa rikkoa suuri vCard-tiedoston, useita yhteyksiä useaan pienempään vCard-tiedostoon, joka siirtää tai tuoda helposti?
+        VCard Splitter app on nyt täällä auttaa sinua siinä.
+
+        Tämä vCard Splitter app voit jakaa yksi vCard-tiedoston useita vCard-tiedostoja ja voit määrittää, kuinka monta vCard-tiedostoja jakaa. Kontaktit jaetaan tasan kunkin tiedoston välillä.
+
+        Voit myös jakaa kunkin yhteyttä omiin yksittäisten vCard-tiedoston, jonka avulla voit helposti tuoda ohjelmia, joita ei voi tuoda vCard-tiedostoja useita yhteyksiä, kuten Microsoft Outlookin Yhteystiedot.
+        
+        Kokeile tämän app tänään.
+        </string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Undelete contacte</string>
+  <string name="message_tellafriend">Acest app puteţi undelete/recupera contacte sterse de pe aparat. Acesta vă permite să Vezi contacte şterse şi restaurarea lor.
+        Numai contacte care sunt salvate în Google cont poate fi restaurat, acest app nu va fi capabil de a recupera aceste contacte şterse de pe cartela SIM sau aparatul dvs.
+            De asemenea, vine cu un dialer care apare când faceţi clic pe o imagine de contact.
+        Dialer vă permite să apel/mesaj, oricare dintre contacte existente.</string>
+  <string name="message_initial_launch">Utiliza pictograma de contacte şterse în meniul de navigare pentru a vizualiza contactele sterse</string>
+  <string name="nav_view_all">Persoane de contact disponibile (anulată)</string>
+</resources>

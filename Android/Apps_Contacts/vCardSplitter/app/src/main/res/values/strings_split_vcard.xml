@@ -1,0 +1,58 @@
+<resources>
+
+    <string name="activity_split">Split vCard File</string>
+    <string name="message_importing_contacts">Importing Contact(s) ...</string>
+    <string name="message_reading_import_file">Reading file, this may take several minutes ...</string>
+    <string name="button_Close">Close</string>
+    <string name="button_browse">Browse</string>
+    <string name="button_Apply">Split</string>
+
+    <string name="text_selected_file_name">Selected file name:</string>
+    <string name="text_selected_file_size">Selected file size(bytes):</string>
+    <string name="text_group_selected_file">Selected vCard file details</string>
+    <string name="text_file_name">Name:</string>
+    <string name="text_file_size">Size(bytes):</string>
+    <string name="text_file_contacts">Contact(s):</string>
+    <string name="text_unknown_file_size">Unknown</string>
+
+    <string name="option_split_vcard">Split selected vCard file into </string>
+    <string name="option_split_vcard_count">vCard file(s)</string>
+    <string name="option_split_vcard_per_contact">Split for each contact</string>
+    <string name="option_save_vcard">Save split vCard file(s) </string>
+    <string name="option_save_vcard_external">External Storage</string>
+    <string name="option_save_vcard_share">Share Applications (Cloud, email etc)</string>
+
+    <string name="message_other_permissions_missing">Requested permissions
+    are required for this app feature to work.
+        Please give requested permissions and try again</string>
+
+    <string name="message_loading_files">Searching local folders ...</string>
+    <string name="message_import_invalid_file">Not a valid contact file
+        </string>
+    <string name="message_split_ready">Getting ready to split vCard file ...
+        </string>
+    <string name="message_split_inprogress">Splitting vCard file ...
+        </string>
+    <string name="message_select_file_first">
+        Please select a vCard file to split
+        </string>
+     <string name="message_split_number_invalid">
+        Number of splits is invalid
+        </string>
+    <string name="message_split_freeversion">
+        In the FREE version only a split into maximum 10 files is allowed
+        </string>
+      <string name="message_split_store_external">
+        Split vCard files have been placed in External folder
+      </string>
+    <string name="message_error_splitting">
+        Error in splitting vCard file. Make sure the file is valid.
+        </string>
+    <string name="message_error_contact_count">
+        Error in reading number of contacts from vCard file. Make sure the file is valid .
+        </string>
+    <string name="message_no_vcard_files">
+        No vCard file could be found in this device
+        </string>
+
+</resources>

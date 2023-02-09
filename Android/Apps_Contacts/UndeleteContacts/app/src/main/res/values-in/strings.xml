@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Membatalkan penghapusan kontak</string>
+  <string name="message_tellafriend">Aplikasi ini dapat hapusan/pulih kontak hilang dihapus dari perangkat Anda. Hal ini memungkinkan Anda untuk melihat kontak yang dihapus dan mengembalikannya.
+        Hanya kontak yang disimpan dalam Google akun dapat dipulihkan, aplikasi ini tidak akan dapat memulihkan kontak-kontak yang dihapus dari kartu SIM atau perangkat Anda.
+            Ini juga disertai dengan dialer yang ditampilkan bila Anda klik pada kontak gambar.
+        Dialer memungkinkan Anda untuk panggilan/pesan kontak Anda yang ada.</string>
+  <string name="message_initial_launch">Gunakan ikon kontak dihapus dalam Menu navigasi untuk melihat kontak hilang dihapus</string>
+  <string name="nav_view_all">Kontak (terhapus) yang tersedia</string>
+</resources>

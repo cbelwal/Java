@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">連絡先 Xchange</string>
+  <string name="message_tellafriend">このアプリは Bluetooth 経由で携帯電話/タブレットそれは異なる Android に連絡先を転送する非常に簡単になります。
+        \n\nIt だけでなくすべての連絡先の詳細を転送、また連絡します。 \n の写真を転送</string>
+  <string name="message_initial_launch">送るには、連絡先を選択し、右上の Bluetooth アイコンをタップ</string>
+</resources>

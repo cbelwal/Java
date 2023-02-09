@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Generelt</string>
+  <string name="nav_menu_group_help">hjelp</string>
+  <string name="display_options_refresh">Oppdater</string>
+  <string name="nav_menu_group_views">Vis</string>
+  <string name="nav_menu_rate_this_app">Tilbakemeldinger</string>
+  <string name="nav_menu_upgrade">Oppgradere til Pro versjon</string>
+  <string name="nav_menu_tellafriend">Fortell en venn</string>
+  <string name="nav_menu_feedback">Kontakt Dasmic</string>
+  <string name="nav_menu_demovideo">Demonstrasjon Video</string>
+  <string name="nav_menu_coju">Last ned Coju</string>
+</resources>

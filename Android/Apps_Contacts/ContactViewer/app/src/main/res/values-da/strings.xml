@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kontaktvisning</string>
+  <string name="message_tellafriend">Med denne app kan du filtrere kontaktpersoner, dele derefter via vCard og opdatere indstillinger som \'Send at Voicemail\'.
+    Appen viser også hvor mange gange du har ringet til en kontakt, og hvornår du sidst kaldes (selvom det var flere år siden). Du kan også foretage opkald ved at klikke på kontaktpersonbilledet.
+    Prøv det!</string>
+</resources>

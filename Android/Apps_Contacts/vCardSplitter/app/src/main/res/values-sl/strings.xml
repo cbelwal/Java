@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">vCard Splitter</string>
+  <string name="message_tellafriend">
+        Kot morda veste veliko vCard datoteke lahko težje uvoziti v Android telefonov, ali celo v aplikacijah kot so Microsoft Outlook.
+        Ali ne bi bilo lepo vdreti velike vCard datoteke z več stiki v več manjših datotek vCard, ki lahko prenese ali preprosto uvoz?
+        VCard cepilec app je zdaj tukaj, da vam pomaga s tem.
+
+        Ta vCard cepilec app omogoča, da razdelite več vCard datoteke vCard, ki z eno, in določite, koliko vCard datoteke, da razdelite. Stike bo enako razdeljena med posamezne datoteke.
+
+        Razdelite lahko tudi vsak stik v svojo datoteko posameznih vCard, kar vam omogoča preprosto Uvažanje stikov v programe, ki morda ne boste mogli uvoz vCard datoteke z več stiki, kot so Microsoft Outlook.
+        
+        Preizkusite to app danes.
+        </string>
+</resources>

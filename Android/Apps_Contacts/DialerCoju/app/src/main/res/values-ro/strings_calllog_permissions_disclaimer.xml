@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        Acest app acum va solicita permisiunea de a accesa datele de jurnal şi contacte apel.
+        Aceste permisiuni sunt necesare pentru acest app pentru a lucra ca un dialer implicit şi nu sunt destinate a fi utilizate în orice alt mod. Luăm confidenţialitatea dumneavoastră foarte în serios, şi apelul jurnal şi contacte datele nu vor fi partajate cu orice partid, inclusiv coju.mobi™, editorii de acest app.
+    </string>
+</resources>

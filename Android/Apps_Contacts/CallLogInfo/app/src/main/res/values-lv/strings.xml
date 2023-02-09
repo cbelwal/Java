@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Zvanu žurnālu pārvaldnieks </string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="message_tellafriend">
+        Zvanu žurnālu pārvaldnieks ir integrēts zvanu žurnālu app, kas ietaupa jūsu laiku un stresu ar tās spēcīgs apskatei, dublēšanu, eksporta/importa, daloties, pievienojot un rediģēšanas iespējas. Nav neviena zvanu žurnālu app kā zvanu žurnālu pārvaldnieks un tai ir jābūt par katru Android telefons vai tablet.\n\n šo zvanu žurnālu app nāk arī ar parocīgiem iezīmes vienu pieskārienu numura sastādīšanas un vienu pieskārienu Google meklēšanu jebkurā number.\n\n zvanu žurnālu pārvaldnieks app ļauj jums apskatīt zvanu žurnālus ar dažādiem tipiem, ieskaitot ilgumu un vietu. To var parādīt, 100, 500 vai visus saglabātos zvanu žurnālus, jebkurā laikā. App ir arī spēcīgs filtra iespējas, kas ļauj jums redzēt, zvanu žurnālus, kādu konkrētu atrašanās vietu vai ilgumu.
+    </string>
+</resources>

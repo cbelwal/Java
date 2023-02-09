@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Yhteystiedot Xchange</string>
+  <string name="message_tellafriend">Tämä app tekee erittäin helppo siirtää yhteystiedot eri Android puhelimet/tabletit Bluetooth.
+        \n\nIt ei vain siirtää kaikki yhteystiedot mutta myös siirrot valokuva contact. \n</string>
+  <string name="message_initial_launch">Valitse käyttäjät voivat lähettää ja napauta Bluetooth-kuvaketta oikeassa yläkulmassa</string>
+</resources>

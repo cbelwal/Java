@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">呼叫日志备份</string>
+  <string name="app_folder">CallLogBackup</string>
+  <string name="message_tellafriend">呼叫日志备份是最简单的应用程序，以备份您的电话记录在您的手机或在您的电子邮件或云帐户。它还具有强大查看、 添加和编辑功能。此调用日志应用程序还带有一个水龙头拨号方便的功能和任何 number.\n\n 单龙头谷歌搜索这个应用程序是一个必须有每个 Android 手机或 tablet.\n\n 应用程序允许您查看通话记录的不同类型，包括持续时间和位置。它可以显示 100，500 或所有存储在任何时间通话记录。应用程序还具有强大的筛选功能，允许您查看调用日志基于特定位置、 持续时间或一天。
+    </string>
+</resources>

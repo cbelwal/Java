@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Puhelun lokin hallinta </string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="message_tellafriend">
+        Puhelun Lokinhallinta on integroitu call log app, joka säästää aikaa ja stressi kanssa sen voimakas katsella, varmuuskopiointi, tuonti tai vienti, jakaminen, lisääminen ja painos kyvykkyys. Ei ole puhelun lokin app. kuten soittaa Lokinhallinta ja se on on jokaiselle Android puhelimen tai tablet.\n\n tämän puhelun lokin sovelluksen mukana tulee myös käteviä ominaisuuksia yhdellä napautuksella valitseminen ja yhdellä napautuksella Google-haun number.\n\n loki soitonhallinnalta app voit tarkastella puhelulokit jotka eri kesto ja sijainti. Se näyttää 100, 500 tai kaikki tallennetut puhelulokit milloin tahansa. App on myös tehokkaan suodattimen ominaisuuksia, joiden avulla voit nähdä puhelut lokit tiettyyn paikkaan tai kesto.
+    </string>
+</resources>

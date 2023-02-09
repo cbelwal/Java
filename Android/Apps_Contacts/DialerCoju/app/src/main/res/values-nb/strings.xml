@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Coju Dialer</string>
+  <string name="app_folder">DialerCoju</string>
+  <string name="message_tellafriend">
+        Coju Dialer er en integrert urskiven app som sparer deg tid og stress med kraftig oppringing, visning, eksport/import og deling evner. Det er ingen urskiven app som Coju Dialer og det er en må ha for hver Android telefon eller tablet.\n\n denne oppringingen leveres også med de praktiske funksjonene enkelttapp oppringingsmetoden og enkelttapp Google-søk på noen number.\n\n dialer app lar deg vise Anropslister av forskjellige typer, inkludert varighet og plassering. Det kan vise 100, 500 eller alle lagrede ringe loggbøker når som helst. Programmet har også kraftig filter funksjoner som lar deg se samtaler loggene fra lokasjonen eller varighet.
+    </string>
+</resources>
