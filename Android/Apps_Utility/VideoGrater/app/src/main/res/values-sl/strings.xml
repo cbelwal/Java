@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video Rende</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">Če nekaj videoposnetkov ni vidna, poskusite drugo možnost iskanja iz levega menija</string>
+  <string name="message_tellafriend">Coju.mobi Video Rende app lahko še citat slike (v PNG formatu) iz katere koli video datoteke (MP4, 3GP in WEBM formati so podprti). To je preprost uporabniški vmesnik išče vse video datoteke v napravi in jih prikažete v premikate pogled. Nato lahko izberete video datoteke in določite, kaj čas v video želite Izvleček slike. Tako, da določite število slik in časovne ločitve med njimi, lahko ekstrahirate tudi več slik hkrati.
+
+        Citat še slike lahko shranite v napravo za shranjevanje ali lahko delijo z drugimi z uporabo e-pošte ali besedilo sporočila. Shranite lahko tudi citat slike v oblaku.
+    </string>
+</resources>

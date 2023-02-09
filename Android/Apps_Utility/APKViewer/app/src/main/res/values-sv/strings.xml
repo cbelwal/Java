@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_tellafriend">Med denna app kan du Visa installerade apps efter storlek, installerat datum, uppdaterad datum etc.
+            Du kan också kontrollera säkerhetsbehörigheter för varje app i din enhet inklusive de pre-installerat vid Google och enheten manufacturer.\n\nThrough denna app kan du skicka den installerade app till vänner via meddelande, e-post eller moln och de kan sedan installera det på sina enheter. Denna app också genererar en detaljerad rapport om varje app installerat i enheten.</string>
+</resources>

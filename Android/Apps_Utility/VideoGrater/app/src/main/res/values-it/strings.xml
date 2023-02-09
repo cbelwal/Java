@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video grattugia</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">Se alcuni video non è visibili, provare un\'altra opzione di ricerca dal menu a sinistra</string>
+  <string name="message_tellafriend">L\'app di Video grattugia coju.mobi può estrarre ancora immagini (in formato PNG) da qualsiasi file video (MP4, 3GP e WEBM sono supportati). È interfaccia utente semplice cercando tutti i file video nel dispositivo e li elenca in visualizzazione scorrevole. Si può quindi selezionare un file video e specificare da che ora nel video che si desidera estrarre le immagini. È inoltre possibile estrarre più immagini alla volta, specificando il numero di immagini e tempo separazione tra di loro.
+
+        Le immagini ancora estratte possono essere salvate nella memoria del dispositivo o può essere condiviso con altri utenti tramite posta elettronica o SMS. È anche possibile memorizzare le immagini estratte nel cloud.
+    </string>
+</resources>

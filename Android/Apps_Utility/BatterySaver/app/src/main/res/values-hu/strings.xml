@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Sürgősségi elem megmentő</string>
+  <string name="message_share_link_suffix">Keresztül Dasmic akkumulátor Saver app</string>
+  <string name="message_tellafriend">Ez app automatikusan megáll minden futó alkalmazások, és le fogja tiltani, WiFi és Bluetooth, energiát takarít meg a készülék.
+        Ez app is nézet telepített alkalmazásokat, méret, dátum telepítve, frissített dátum stb.
+            Ön is ellenőrizheti a biztonsági engedélyek minden app a készülék, beleértve a előtti-beiktatott mellett a Google és az eszköz manufacturer.\n\nThrough ez app a telepített alkalmazást küldhet üzenetet, e-mailben vagy a felhő meg, és ők majd telepítsd a készülék. Ez app is generál egy részletes jelentést mindegyik app készülékre telepített.</string>
+</resources>

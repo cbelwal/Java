@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Audio-Reibe</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="startup_message">Wenn einige Audio-Dateien nicht sichtbar sind, versuchen Sie eine andere Suchoption aus dem linken Menü</string>
+  <string name="message_tellafriend">Coju.mobi™ Audio Reibe app erstellt kleinere Audio-Dateien (im M4A Format) aus jeder große Audiodatei (MP3, WAV, M4A und OGG Formate werden unterstützt). Es ist einfach zu bedienendes Interface sucht alle audio-Dateien auf Ihrem Gerät und listet sie in einem bildlauffähigen Ansicht. Sie können dann wählen Sie eine Audiodatei und geben Sie die Startzeit und Dauer jedes kleinere audio Dateien gewünschte erstellte. Diese app erstellt dann automatisch die kleinere Audio-Dateien unter einem anderen Namen je nach der Startzeit (in Sekunden), dass kleinere Audiodatei.
+    </string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kid-O-désinstaller</string>
+  <string name="progressbar_load_data">Chargement des apps...</string>
+  <string name="message_share_link_suffix">Envoyé par Kid-O-désinstaller</string>
+  <string name="message_tellafriend">Si vous avez des enfants, vous savez ce qui se passe lorsque nous leur donnons notre téléphone ou comprimés. Il vont télécharger un jeu dont ils utilisent une seule fois et puis passer à la partie suivante qui est téléchargée trop, cette façon encombrer la mémoire de l’appareil avec des jeux et de leurs icônes. \n ce soft vous permet de regarder du tout nouvellement installés apps, puis désinstallez-les en une seule fois (vous devez confirmer chacune désinstaller individuellement).
+     Allez-y, essayer et ne pas avoir peur de donner votre appareil à vos enfants plus.</string>
+</resources>

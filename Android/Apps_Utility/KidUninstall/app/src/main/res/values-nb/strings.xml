@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kid-O-Uninstall</string>
+  <string name="progressbar_load_data">Laster programmer...</string>
+  <string name="message_share_link_suffix">Sendt via Kid-O-Uninstall</string>
+  <string name="message_tellafriend">Hvis du har barn, vet du hva som skjer når vi gir dem vår telefon eller tabletter. De vil laste ned et spill som de bruker bare én gang og deretter de gå videre til neste spill som lastes ned også, på denne måten bruke enhetsminnet med spill og sine ikoner. \n denne app hjelper deg med å se på alle nylig installerte programmer, og avinstallerer dem på en gang (du må bekrefte hver avinstallere individuelt).
+     Gå videre og prøve dette ut, ikke vær redd for å gi enheten til barna lenger.</string>
+</resources>

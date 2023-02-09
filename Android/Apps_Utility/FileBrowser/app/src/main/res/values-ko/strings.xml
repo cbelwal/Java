@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">파일 브라우저</string>
+  <string name="activity_main">파일 브라우저</string>
+  <string name="message_tellafriend">이 coju.mobi 파일 브라우저는 안 드 로이드 파일 브라우저에서 원했던 모든 기능이 있다. 그것의 사용 하기 쉬운 인터페이스 파일을 구분 하 게 되며 폴더 읽기 액세스 없이 파일/폴더와 다른 배경 색상으로 빨간색 배경. \n 응용 프로그램을 사용 하면 여러 개의 파일/폴더를 선택 하 고 삭제 함께 단일 탭 합니다. 선택한 파일 및 폴더 또한 공유할 수 있습니다 친구와 함께 이메일, 그들을 보내거나 Google 클라우드에서. 당신은 또한 하나의 ZIP 파일에 여러 개의 파일 및 폴더를 퍼 팅 하 고 이메일을 통해 그들을 보내는의 선택권이 있다.
+</string>
+</resources>

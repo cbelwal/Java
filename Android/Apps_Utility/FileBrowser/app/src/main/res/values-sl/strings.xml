@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Datoteko brskalnik</string>
+  <string name="activity_main">Datoteko brskalnik</string>
+  <string name="message_tellafriend">Ta coju.mobi datoteko brskalnik ima vse zmožnosti, ki ste želeli v Android pila obrv. Je enostaven za uporabo vmesnika razlikuje med datoteke in mape z različne barve ozadja z datoteke/mape brez bralni dostop v rdeče ozadje. \n app vam omogoča, da izberete več datotek/map in zbrisati z enim samim tapom. Izbrane datoteke in mape lahko delijo tudi s prijateljem s pošiljanjem po e-pošti, ali ga je dala v Google oblak. Imate tudi možnost prenos več datotek in map v eno datoteko ZIP in jih pošljete preko e-pošte.
+</string>
+</resources>

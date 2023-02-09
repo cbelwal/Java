@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">File Browser</string>
+  <string name="activity_main">File Browser</string>
+  <string name="message_tellafriend">Questo browser di file coju.mobi ha tutte le capacità che sempre desiderato in un browser di file Android. È facile da usare interfaccia fa una distinzione tra file e cartelle con colori di sfondo diversi con file e cartelle senza accesso in lettura sono in un rosso sfondo. \n che l\'app consente di selezionare più file/cartelle ed eliminarli con un solo tocco. Cartella e file selezionati possono essere condivisi anche con amico inviando loro tramite e-mail, o metterlo nel cloud di Google. Hai anche la possibilità di mettere più file e cartelle in un unico file ZIP e inviarli via e-mail.
+</string>
+</resources>

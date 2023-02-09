@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">비상 배터리 세이버</string>
+  <string name="message_share_link_suffix">Dasmic 배터리 통해 보호기 애플 리 케이 션</string>
+  <string name="message_tellafriend">이 애플 리 케이이 션 자동으로 모든 실행 중인 응용 프로그램을 중지 하 고 WiFi와 블루투스 장치에 배터리 전원 절약 비활성화 됩니다.
+        이 애플 리 케이이 션 또한 수 보기 크기에 의해 애플 리 케이 션을 설치, 설치 날짜, 날짜 등을 업데이트.
+            또한 포함 하는 장치에서 각 응용 프로그램의 보안 사용 권한을 사전 설치 된 Google과 장치 manufacturer.\n\nThrough에 의해이 애플 리 케이이 션을 확인할 수 있습니다 메시지, 이메일 또는 구름을 통해 친구에 게 설치 된 애플 리 케이 션을 보낼 수 있습니다 그리고 그들은 다음 그들의 장치에 그것을 설치할 수 있습니다. 이 애플 리 케이이 션은 또한 귀하의 장치에 설치 된 각 응용 프로그램에 대 한 자세한 보고서를 생성 합니다.</string>
+</resources>

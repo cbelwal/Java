@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Râpe à vidéo</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">Si certaines vidéos ne sont pas visibles, essayez une autre option de recherche dans le menu de gauche</string>
+  <string name="message_tellafriend">L’app de râpe vidéo coju.mobi peut extraire toujours photos (au format PNG) à partir de n’importe quel fichier vidéo (MP4, 3GP et WEBM formats sont supportés). Il est recherche interface utilisateur simple pour tous les fichiers vidéo sur votre appareil et les répertorie en mode défilement. Vous pouvez ensuite sélectionner un fichier vidéo et spécifier à quel moment dans la vidéo vous souhaitez extraire les images. Vous pouvez également extraire plusieurs images à la fois en spécifiant le nombre de photos et de la séparation temporelle entre eux.
+
+        Les images fixes extraites peuvent être enregistrés dans le stockage de l’appareil ou peut être partagés avec d’autres à l’aide de messages texte ou e-mail. Vous pouvez également stocker les images extraites dans le nuage.
+    </string>
+</resources>

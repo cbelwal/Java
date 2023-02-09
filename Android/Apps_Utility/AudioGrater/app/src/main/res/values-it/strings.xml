@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Audio grattugia</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="startup_message">Se alcuni file audio non sono visibili, provare un\'altra opzione di ricerca dal menu a sinistra</string>
+  <string name="message_tellafriend">L\'app di grattugia Audio coju.mobi™ crea file audio più piccolo (in formato M4A) da qualsiasi file audio di grandi dimensioni (formati M4A, MP3, WAV e OGG sono supportati). È interfaccia utente semplice cercando tutti i file audio sul dispositivo e li elenca in una visualizzazione scorrevole. Si può quindi selezionare un file audio e specificare l\'ora di inizio e la durata di ogni più piccolo audio file che si desidera creare. Questa app quindi creerà automaticamente i file audio più piccoli, con un nome diverso a seconda dell\'ora di inizio (in secondi) di file audio più piccolo.
+    </string>
+</resources>

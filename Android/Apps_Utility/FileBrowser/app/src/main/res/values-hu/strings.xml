@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Fájlböngésző</string>
+  <string name="activity_main">Fájlböngésző</string>
+  <string name="message_tellafriend">Ez coju.mobi reszelő legel birtokol valaha is akartam egy Android fájl böngésző valamennyi képességeit. Fájlok közötti különbséget tesz a könnyen kezelhető felület, és tartók-val különböző háttérszíneket a fájlokat/tartók nélkül olvasási hozzáférést egy piros háttérben. \n a app megenged ön-hoz kiválaszt sokszoros fájlokat, tartók és töröl őket egyetlen koppintással. Kijelölt fájlok és mappák is megosztott barátommal elküldi nekik e-mailben, vagy elhelyezés ez-ban Google cloud. Is volna a választás-ból elhelyezés sokszoros fájlokat és tartók-ban egy ZIP fájlt, és elküldi őket e-mailen keresztül.
+</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Awaryjnych baterii</string>
+  <string name="message_share_link_suffix">Wysyłane za pośrednictwem Dasmic baterii aplikację Oszczędzanie</string>
+  <string name="message_tellafriend">Ta aplikacja z automatycznie zatrzymać wszystkie uruchomione aplikacje i spowoduje wyłączenie WiFi i Bluetooth, oszczędzania baterii w urządzeniu.
+        Z tej aplikacji, można również widok zainstalowanych aplikacji przez rozmiar, zainstalowany Data, aktualizacja daty itp.
+            Możesz również sprawdzić uprawnienia zabezpieczeń każdej aplikacji w urządzeniu, w tym te wstępnie zainstalowane przez Google i urządzenia manufacturer.\n\nThrough tej aplikacji zainstalowanych aplikacji można wysłać do znajomych za pośrednictwem wiadomości, e-mail lub chmury, a następnie można zainstalować go na swoich urządzeniach. Ta aplikacja generuje również szczegółowy raport o każdej aplikacji zainstalowanej w urządzeniu.</string>
+</resources>

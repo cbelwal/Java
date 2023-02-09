@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Datei-Browser</string>
+  <string name="activity_main">Datei-Browser</string>
+  <string name="message_tellafriend">Diese coju.mobi-Datei-Browser verfügt über alle Fähigkeiten, die Sie schon immer in einem Android-Datei-Browser. Es ist einfach zu bedienende Benutzeroberfläche unterscheidet zwischen Dateien und Ordner mit verschiedenen Hintergrundfarben mit Dateien/Ordner ohne Lesezugriff befinden sich in einem roten Hintergrund. \n, dass die app ermöglicht es Ihnen, wählen mehrere Dateien/Ordner und löschen Sie Sie mit einem einzigen Antippen. Ausgewählte Dateien und Ordner können auch mit Freund geteilt werden, indem per Email senden, oder setzen es in Google Cloud. Sie haben auch die Möglichkeit mehrere Dateien und Ordner in einer einzigen Zipdatei und senden ihnen per e-Mail.
+</string>
+</resources>

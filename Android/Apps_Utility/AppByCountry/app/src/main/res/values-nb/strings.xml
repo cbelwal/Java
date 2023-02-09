@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_tellafriend">Med dette programmet kan du vise installert programmer etter størrelse, installert dato, oppdatert dato osv.
+            Du kan også sjekke sikkerhetstillatelsene for hver app på enheten, inkludert de pre-installert av Google og enheten manufacturer.\n\nThrough dette programmet kan du sende programmet installert til venner via melding, e-post eller skyen og de kan deretter installere det på sine enheter. Dette programmet genererer en detaljert rapport på hver app installert på enheten.</string>
+</resources>

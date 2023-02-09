@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Urgenţă Battery Saver</string>
+  <string name="message_share_link_suffix">Trimis prin Dasmic baterie Saver app</string>
+  <string name="message_tellafriend">Acest app cu opri toate aplicaţiile rulează automat şi va dezactiva WiFi şi Bluetooth economisire baterie în aparatul dvs.
+        Cu acest app, puteţi, de asemenea, Vezi instalat aplicaţii de mărime, instalat data, actualizat data etc.
+            Puteţi verifica, de asemenea, permisiuni de securitate de fiecare app aparat inclusiv cele pre-instalate de Google si dispozitiv manufacturer.\n\nThrough acest app puteţi trimite aplicaţia instalată prietenii prin mesaj, e-mail sau nor şi apoi le puteţi instala pe dispozitivele lor. Acest app, de asemenea, generează un raport detaliat pe fiecare app instalat în aparatul dvs.</string>
+</resources>

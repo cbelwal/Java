@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Sakinusha na mbuzi-O</string>
+  <string name="progressbar_load_data">Kupakia programu...</string>
+  <string name="message_share_link_suffix">Kutumwa kupitia kusanidua na mbuzi-O</string>
+  <string name="message_tellafriend">Kama una watoto, unajua nini kinatokea wakati sisi kuwapa simu au tableti zetu. Itakuwa download mchezo ambayo wao kutumia mara moja tu na kisha wao kuendelea mchezo ujao ambayo ni kupakuliwa sana, njia hii cluttering kumbukumbu kifaa na michezo na wao ikoni. \n programu hii husaidia unaweza kuangalia programu alioneshwa wakati wote, na kufuta yao katika mtu mmoja aende (na kuthibitisha kila kusanidua kibinafsi).
+     Kwenda mbele, kujaribu hii nje na kuwa na hofu ya kutoa kifaa chako kwa watoto wako tena.</string>
+</resources>

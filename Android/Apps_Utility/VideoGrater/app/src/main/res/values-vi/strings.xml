@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video vắt</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">Nếu một số video không nhìn thấy được, cố gắng tìm một tùy chọn từ menu bên trái</string>
+  <string name="message_tellafriend">Các ứng dụng Video vắt coju.mobi có thể giải nén vẫn còn hình ảnh (trong PNG định dạng) từ bất kỳ tập tin video (MP4, 3GP và WEBM định dạng được hỗ trợ). Đô thị này có tìm kiếm giao diện người dùng đơn giản cho tất cả các file video trong điện thoại của bạn và liệt kê chúng trong chế độ xem cuộn. Sau đó, bạn có thể chọn một tập tin video và xác định từ những gì thời gian trong video bạn muốn trích xuất các hình ảnh. Bạn cũng có thể trích xuất hình ảnh nhiều một lúc bằng cách xác định số lượng hình ảnh và thời gian tách giữa chúng.
+
+        Những hình ảnh vẫn được giải nén có thể được lưu trong thiết bị lưu trữ hoặc có thể được chia sẻ với người khác bằng cách sử dụng thư điện tử hoặc văn bản tin nhắn. Bạn cũng có thể lưu trữ các hình ảnh được giải nén trong các đám mây.
+    </string>
+</resources>

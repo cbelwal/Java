@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Audio parutan</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="startup_message">Jika file audio beberapa tidak terlihat, mencoba pilihan pencarian lain dari menu sebelah kiri</string>
+  <string name="message_tellafriend">Coju.mobi™ Audio parutan app menciptakan file audio yang lebih kecil (dalam M4A format) dari file audio yang besar (M4A, MP3, WAV dan OGG format yang didukung). Ini adalah pencarian antarmuka pengguna yang sederhana untuk semua file audio di perangkat Anda dan daftar mereka dalam tampilan digulir. Anda kemudian dapat memilih audio file dan menentukan waktu mulai dan durasi setiap file audio yang lebih kecil yang ingin dibuat. Aplikasi ini maka akan secara otomatis membuat file audio yang lebih kecil, dengan nama yang berbeda tergantung pada waktu mulai (dalam detik) dari file audio yang lebih kecil.
+    </string>
+</resources>

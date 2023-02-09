@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Visualizzatore di APK</string>
+  <string name="message_tellafriend">Con questa applicazione che è possibile Vista installato applicazioni di dimensioni, installato Data, aggiornamento data ecc.
+            È inoltre possibile controllare le autorizzazioni di protezione di ogni applicazione nel dispositivo inclusi quelli preinstallati da Google e dispositivo manufacturer.\n\nThrough questa applicazione è possibile inviare l\'app installata ad amici tramite messaggio, email o cloud e quindi essi possono installarlo sui loro dispositivi. Questa applicazione genera anche una relazione dettagliata su ogni app installata nel dispositivo.</string>
+</resources>

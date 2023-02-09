@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">File Browser</string>
+    <string name="activity_main">File Browser</string>
+     <string name="message_tellafriend">This coju.mobi file browser has all the
+         capabilities you ever wanted in an Android file browser. It’s easy to use
+         interface makes a distinction between files and folders with different
+         background colors with files/folders without read access are in a red
+         background.\n
+        The app allows you to select multiple files/folders and delete them with a
+         single tap. Selected files and folder can also be shared with friend by
+         sending them by email, or putting it in Google cloud. You also have the
+         option of putting multiple files and folders in a single ZIP file and sending
+         them via email.
+</string>
+</resources>

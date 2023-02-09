@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Grater sikizi</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="startup_message">Kama baadhi ya Faili Sikizi havionekani, jaribu chaguo jingine ya utafutaji kutoka kwenye menyu ya kushoto</string>
+  <string name="message_tellafriend">Coju.mobi™ Grater sauti programu huunda faili ndogo ya sauti (katika umbizo la M4A) kutoka faili yoyote kubwa ya sauti (M4A, MP3, WAV na OGG format ni mkono). Ni utafutaji wa kiolesura cha mtumiaji rahisi kwa majalada sikizi katika kifaa chako na orodha yao katika mwonekano wa scrollable. Unaweza kisha teua faili ya sauti na Bainisha muda wa kuanza na muda wa faili kila sauti ndogo unataka zilizoundwa. Programu hii itakuwa kisha Unda otomatiki faili sauti ndogo, kwa jina tofauti kulingana na muda wa kuanza (katika sekunde) ya faili hiyo ndogo ya sauti.
+    </string>
+</resources>

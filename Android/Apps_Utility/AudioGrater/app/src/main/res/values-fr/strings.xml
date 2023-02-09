@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Râpe à audio</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="startup_message">Si certains fichiers audio ne sont pas visibles, essayez une autre option de recherche dans le menu de gauche</string>
+  <string name="message_tellafriend">L’app de râpe Audio coju.mobi™ crée plus petits ou les fichiers audio (au format M4A) de n’importe quel gros fichier audio (M4A, MP3, WAV et OGG est pris en charge). C’est recherches interface utilisateur simple pour tous les fichiers audio dans votre appareil et les répertorie dans une vue défilante. Vous pouvez ensuite sélectionner un fichier audio et spécifier l’heure de début et la durée de chaque fichier (s) plus petit audio que vous voulez créé. Ce soft puis crée automatiquement les fichiers audio plus petits, avec un nom différent selon l’heure de début (en secondes) de ce fichier audio plus petit.
+    </string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Batteria di emergenza Saver</string>
+  <string name="message_share_link_suffix">Inviati tramite Dasmic batteria Saver app</string>
+  <string name="message_tellafriend">Questa app con automaticamente interrompere tutte le applicazioni in esecuzione e consente di disattivare WiFi e Bluetooth risparmio di potenza della batteria nel dispositivo.
+        Con questa app che puoi anche Vista installato applicazioni di dimensioni, installato Data, aggiornamento data ecc.
+            È inoltre possibile controllare le autorizzazioni di protezione di ogni applicazione nel dispositivo inclusi quelli preinstallati da Google e dispositivo manufacturer.\n\nThrough questa applicazione è possibile inviare l\'app installata ad amici tramite messaggio, email o cloud e si può quindi installarlo sui propri dispositivi. Questa applicazione genera anche una relazione dettagliata su ogni app installata nel dispositivo.</string>
+</resources>

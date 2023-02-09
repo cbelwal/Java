@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Ralador de vídeo</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">Se alguns vídeos não são visíveis, tente outra opção de pesquisa no menu à esquerda</string>
+  <string name="message_tellafriend">O app de vídeo ralador coju.mobi pode extrair ainda fotos (no formato PNG) de qualquer arquivo de vídeo (MP4, 3GP e WEBM formatos são suportados). É a interface de usuário simples procura todos os arquivos de vídeo no seu dispositivo e enumera-los no modo de exibição rolável. Em seguida, você pode selecionar um arquivo de vídeo e especificar de que horas no vídeo que você deseja extrair fotos. Você também pode extrair várias fotos de cada vez, especificando o número de fotos e separação de tempo entre eles.
+
+        As fotos ainda extraídas podem ser salvas no armazenamento de dispositivo ou pode ser compartilhadas com os outros usando e-mail ou mensagens de texto. Você também pode armazenar as imagens extraídas na nuvem.
+    </string>
+</resources>

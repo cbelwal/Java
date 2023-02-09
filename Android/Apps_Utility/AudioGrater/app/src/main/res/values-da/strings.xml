@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Audio Rivejern</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="startup_message">Hvis nogle audio filer ikke er synlig, kan du prøve en anden søgemulighed fra menuen til venstre</string>
+  <string name="message_tellafriend">Coju.mobi™ Audio Rivejern app skaber mindre lyd fil(er) (i M4A format) fra enhver stor lydfil (M4A, MP3, WAV og OGG formater understøttes). Det er simpel brugergrænseflade søgninger for alle audio filerne i din enhed og viser dem i en scrolbar visning. Du kan derefter vælge en lydfil og angive starttidspunkt og varighed af hver mindre lyd fil(er) du ønsker oprettet. Denne app vil derefter automatisk oprette den mindre lyd fil(er), med et andet navn alt efter start tid (i sekunder) at mindre lydarkiv.
+    </string>
+</resources>

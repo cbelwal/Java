@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Audio rasp</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="startup_message">Als sommige audio-bestanden niet zichtbaar zijn, probeert een andere optie van het onderzoek van het linker menu</string>
+  <string name="message_tellafriend">De coju.mobi™ Audio rasp app maakt kleinere audio bestanden (in M4A-formaat) van een groot audiodossier (M4A, OGG, MP3 en WAV-indelingen worden ondersteund). Het is eenvoudige user interface zoekopdrachten voor alle audiobestanden in uw apparaat en geeft u deze weer in een weergave waarin kan worden gebladerd. U kunt vervolgens een audiobestand selecteren en geef de begintijd en de duur van elke kleinere audio bestanden die u gecreëerd wilt. Dit app maakt automatisch dan de kleinere audio bestanden, met een verschillende naam afhankelijk van de starttijd (in seconden) van die kleinere audio-bestand.
+    </string>
+</resources>

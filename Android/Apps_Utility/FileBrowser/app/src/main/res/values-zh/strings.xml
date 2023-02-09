@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">文件浏览器</string>
+  <string name="activity_main">文件浏览器</string>
+  <string name="message_tellafriend">此 coju 手机文件浏览器具有您在 Android 文件浏览器中所需的所有功能。它很容易使用界面使文件和文件夹具有不同的背景色, 而文件/文件夹没有读访问, 这是红色背景. 应用程序允许您选择多个文件/文件夹并删除它们一个水龙头。选择的文件和文件夹也可以与朋友共享, 通过电子邮件发送, 或把它在谷歌云。您还可以选择将多个文件和文件夹放在一个 ZIP 文件中, 然后通过电子邮件发送。
+</string>
+</resources>

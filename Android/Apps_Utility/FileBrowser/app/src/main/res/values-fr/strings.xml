@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Navigateur de fichiers</string>
+  <string name="activity_main">Navigateur de fichiers</string>
+  <string name="message_tellafriend">Ce navigateur de fichier coju.mobi possède toutes les fonctions que vous avez toujours rêvé dans un navigateur de fichiers Android. Il est facile d’employer l’interface établit une distinction entre les fichiers et dossiers avec différentes couleurs de fond avec les fichiers/dossiers sans accès en lecture se trouvent dans un arrière-plan rouge. \n que l’application vous permet de sélectionner plusieurs fichiers/dossiers et supprimez-les avec un simple toucher. Dossiers et fichiers sélectionnés peuvent être partagés également avec un ami en leur envoyant par courriel, ou mettre dans Google cloud. Vous avez également la possibilité de mettre plusieurs fichiers et dossiers dans un seul fichier ZIP et de les envoyer par e-mail.
+</string>
+</resources>

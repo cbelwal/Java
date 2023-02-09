@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Pagina răzătoare</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">În cazul în care unele videoclipuri nu sunt vizibile, încercaţi o altă opţiune de căutare din meniul din stanga</string>
+  <string name="message_tellafriend">Coju.mobi pagina răzătoare app poate extrage încă imagini (în PNG format) la orice fişier video (MP4, 3GP şi WEBM formate sunt acceptate). Este simplu user interface căutări pentru toate fişierele video în aparatul dvs. şi le afişează în derulant view. Apoi selectaţi un fişier video şi specifica la ce oră în video pentru a extrage imagini. Puteti extrage, de asemenea, mai multe imagini la un moment dat prin specificarea numărului de imagini şi timp de separare intre ele.
+
+        Extras imagini statice pot fi salvate în dispozitiv de stocare sau poate fi partajat cu alte persoane utilizând mesaje de poştă electronică sau text. De asemenea, puteţi stoca imagini extrase din cadrul norului.
+    </string>
+</resources>

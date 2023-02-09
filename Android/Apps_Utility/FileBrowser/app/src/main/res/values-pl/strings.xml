@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Przeglądarka plików</string>
+  <string name="activity_main">Przeglądarka plików</string>
+  <string name="message_tellafriend">Tej przeglądarki plik coju.mobi ma wszystkie możliwości, co kiedykolwiek chciałeś w przeglądarce Android file. Łatwy w obsłudze interfejs sprawia, że rozróżnienie między pliki i foldery z różnych kolorów tła z plików/folderów bez dostępu do odczytu są w czerwone tło. \n, że aplikacja pozwala wybrać wiele plików/folderów i usuń je jednym dotknięciem. Wybranych plików i folderów również mogą być współużytkowane z przyjacielem wysyłając je przez e-mail, lub wprowadzenie go w usłudze Google cloud. Masz również możliwość umieszczenie wielu plików i folderów w jednym pliku ZIP i wysyłania ich pocztą e-mail.
+</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_tellafriend">使用这款应用，你可以查看安装的应用程序的大小，安装日期，更新日期等。
+            您还可以查看在您的设备，其中包括每个应用程序的安全权限预装的谷歌和设备 manufacturer.\n\nThrough 这个应用程序你可以向朋友通过邮件、 电子邮件或云发送安装应用程序，他们可以在他们的设备上然后安装它。这个应用程序还会生成一份详细的报告，在每个应用程序安装在您的设备上。</string>
+</resources>

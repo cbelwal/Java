@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Tarka wideo</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">Jeśli niektóre filmy nie są widoczne, spróbować innej opcji wyszukiwania z menu po lewej stronie</string>
+  <string name="message_tellafriend">Aplikacja wideo tarka coju.mobi można wyodrębnić nadal Zdjęcia (w formacie PNG) z dowolnego pliku wideo (MP4, 3GP i WEBM formaty są obsługiwane). To jest prosty użytkownik interfejs wyszukuje wszystkie pliki wideo w urządzeniu i wyświetla je w przewijana widok. Można następnie wybierz plik wideo i określić, z jakiego czasu w wideo chcesz wyodrębnić obrazy. Można również wyodrębnić wiele zdjęć naraz, określając liczbę zdjęć i czas separacji między nimi.
+
+        Wyodrębnione Zdjęcia mogą być zapisywane w pamięci urządzenia lub mogą być współużytkowane z innymi za pomocą wiadomości e-mail lub SMS. Pozyskane obrazy można również przechowywać w chmurze.
+    </string>
+</resources>

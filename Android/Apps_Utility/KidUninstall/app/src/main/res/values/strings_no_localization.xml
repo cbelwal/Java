@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="app_name_free">@string/app_name</string>
+    <string name="nav_app_name">@string/app_name</string>
+</resources>

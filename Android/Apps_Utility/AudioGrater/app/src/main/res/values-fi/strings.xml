@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Audio raastin</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="startup_message">Jos joitakin äänitiedostoja eivät näy, kokeile toista hakua vasemmalta valikosta</string>
+  <string name="message_tellafriend">Coju.mobi™ Audio raastin app luo pienempi ääni tiedoston (M4A-muodossa) tahansa suuri äänitiedosto (M4A, MP3, WAV ja OGG formaatteja tuetaan). Se on herkkäuskoinen käyttäjä liitäntä etsii kaikki äänitiedostot laitteesi ja listaa ne vieritettävä näkymää. Voit valita äänitiedoston ja määrittää alkamisaika ja kesto kunkin pienempi ääni tiedoston (t) haluat luotu. Tämä sovellus luo automaattisesti pienempi audio tiedostot eri nimellä riippuen alkamista (sekunteina) että pienempi äänitiedosto.
+    </string>
+</resources>

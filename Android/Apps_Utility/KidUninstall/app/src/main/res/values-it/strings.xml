@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Bambino-O-disinstallare</string>
+  <string name="progressbar_load_data">Caricamento di applicazioni...</string>
+  <string name="message_share_link_suffix">Inviati via Kid-O-disinstallare</string>
+  <string name="message_tellafriend">Se avete bambini, sai cosa succede quando diamo loro il nostro telefono cellulare o tablet. Essi verrà scaricato un gioco che usano una sola volta e poi si muovono per la prossima partita che viene scaricata troppo, questo modo ingombrare la memoria del dispositivo con i giochi e le loro icone. \n questa app ti aiuta a guardare a tutti appena installato apps e disinstallarli in una volta sola (è necessario confermare ogni disinstallare singolarmente).
+     Vai avanti, provare questo fuori e non abbiate paura di dare piu \' il dispositivo per i vostri bambini.</string>
+</resources>

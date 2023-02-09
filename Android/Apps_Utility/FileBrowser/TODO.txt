@@ -1,0 +1,4 @@
+- Fix issue with blank folder in Zip
+- Add zip option
+- Test purchase options
+

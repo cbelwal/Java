@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Bestandsbrowser</string>
+  <string name="activity_main">Bestandsbrowser</string>
+  <string name="message_tellafriend">Deze coju.mobi bestandsbrowser heeft alle mogelijkheden die je ooit in een Android file browser wilde. Het is makkelijk te gebruiken interface maakt een onderscheid tussen bestanden en mappen met verschillende achtergrondkleuren met bestanden/mappen zonder leestoegang zijn in een rode achtergrond. \n dat app kunt u meerdere bestanden/mappen selecteren en verwijderen met een enkele tik. Geselecteerde bestanden en mappen kunnen ook worden gedeeld met vriend door verzenden hen per e-mail, of brengen het in Google wolk. U hebt ook de optie om veelvoudige dossiers en omslagen in één zipbestand en hen te verzenden via e-mail.
+</string>
+</resources>

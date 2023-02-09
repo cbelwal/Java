@@ -1,0 +1,4 @@
+<resources>
+    <string name="folder_name_external">BatterySaver</string>
+    <string name="nav_app_name">@string/app_name</string>
+</resources>

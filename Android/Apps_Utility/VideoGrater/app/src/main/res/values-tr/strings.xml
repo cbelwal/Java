@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video rende</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">Bazı videolar görünmez, sol menüden başka bir arama seçeneği deneyin</string>
+  <string name="message_tellafriend">Coju.mobi Video rende app hala resimler (PNG formatında) herhangi bir video dosyasından ayıklayabilirsiniz (MP4, 3GP ve WEBM biçimleri desteklenir). Bu basit kullanıcı arayüzü cihazınızdaki tüm video dosyalarını arar ve onları kaydırılabilir görünümünde listeler. Daha sonra bir video dosyası seçin ve ne zaman video resimleri ayıklamak istediğinizi belirtin. Resimler ve aralarındaki zaman ayırma sayısını belirleyerek bir kerede birden çok resim Ayrıca ayıklayabilirsiniz.
+
+        Ayıklanan hala fotoğraflara aygıt depolama kaydedilebilir veya başkalarıyla paylaşılabilir e-posta veya metin mesajları kullanarak. Hulâsa belgili tanımlık imge içinde belgili tanımlık bulut de depolayabilirsiniz.
+    </string>
+</resources>

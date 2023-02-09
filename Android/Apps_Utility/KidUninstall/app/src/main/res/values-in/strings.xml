@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Anak-O-Uninstall</string>
+  <string name="progressbar_load_data">Memuat aplikasi...</string>
+  <string name="message_share_link_suffix">Dikirim melalui anak-O-Uninstall</string>
+  <string name="message_tellafriend">Jika Anda memiliki anak-anak, Anda tahu apa yang terjadi ketika kita memberi mereka telepon atau tablet kami. Mereka akan men-download permainan yang mereka gunakan hanya sekali dan kemudian mereka pindah ke permainan berikutnya yang download juga, cara ini berserakan memori perangkat dengan permainan dan mereka ikon. \n aplikasi ini membantu Anda terlihat sama sekali baru menginstal aplikasi, dan menghapus mereka pada satu pergi (Anda harus mengkonfirmasikan setiap uninstall secara individual).
+     Silakan, coba ini dan tidak akan takut memberikan perangkat untuk anak-anak Anda lagi.</string>
+</resources>

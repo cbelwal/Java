@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Ārkārtas akumulatora taupīšanas</string>
+  <string name="message_share_link_suffix">Nosūtīts, izmantojot Dasmic akumulatora saudzētāju app</string>
+  <string name="message_tellafriend">Ar šo app automātiski pārtraukt visas darbojošās apps un tiks izslēgta, WiFi un Bluetooth ierīces akumulatora enerģijas taupīšanu.
+        Ar šo app, jūs varat arī apskatīt progr instalēts pēc lieluma, uzstādīt datumu, atjaunināts datums utt.
+            Jūs varat arī pārbaudīt katru app ierīces, tostarp drošības atļaujas iepriekš instalēta ar Google un ierīces manufacturer.\n\nThrough šo app instalēta app var nosūtīt draugiem, izmantojot īsziņu, e-pastu vai mākonis un viņi var pēc tam instalējiet to ierīcēs. Šajā app rada arī sīki izstrādātu ziņojumu par katru app, kas instalēts ierīcē.</string>
+</resources>

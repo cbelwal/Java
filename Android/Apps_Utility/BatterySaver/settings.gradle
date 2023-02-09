@@ -1,0 +1,5 @@
+include ':app'
+include ':support'
+include ':lib.apk'
+project(':support').projectDir=new File("..\\..\\Libraries\\support\\support")
+project(':lib.apk').projectDir=new File("..\\..\\Libraries\\apk\\lib.apk")

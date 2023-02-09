@@ -1,0 +1,5 @@
+include ':app'
+include ':support'
+include ':Lib.HttpClient'
+project(':support').projectDir=new File("..\\..\\Libraries\\support\\support")
+project(':Lib.HttpClient').projectDir=new File("..\\..\\Libraries\\Lib.HttpClient\\app")

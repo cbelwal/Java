@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_tellafriend">Tämän app voit Näytä asennetut sovellukset koon asennettu päivämäärä, päivitetty päivämäärä jne.
+            Voit myös tarkistaa kunkin app laitteen mukaan lukien suojausoikeudet edellinen-asettaa luona Google ja laite manufacturer.\n\nThrough tämän app voit lähettää asettaa app ystävät viestin, sähköpostitse tai cloud ja ne sitten asentaa sen laitteisiinsa. Tämä sovellus luo yksityiskohtaisen kertomuksen mikäkin asennettu laite.</string>
+</resources>

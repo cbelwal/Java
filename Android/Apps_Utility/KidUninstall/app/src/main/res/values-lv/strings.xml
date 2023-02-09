@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Mazulis O atinstalēt</string>
+  <string name="progressbar_load_data">Ielādējot progr...</string>
+  <string name="message_share_link_suffix">Nosūtīts, izmantojot Kid O atinstalēt</string>
+  <string name="message_tellafriend">Ja jums ir bērni, jūs zināt, kas notiek, ja mēs dodam viņiem mūsu tālruņa vai tabletēs. Tie būs lejupielādēt spēli, kas tie izmanto tikai vienreiz un pēc tam viņi pāriet uz nākamo spēli, kurā tiek lejupielādēta arī, tādā veidā piesārņot ar spēlēm un to ikonas. \n ierīces atmiņā šo app palīdz meklēt vispār no jauna uzstādīto progr un atinstalēt tos vienā rāvienā (jums nāksies apstiprināt katru atsevišķi atinstalēt).
+     Iet uz priekšu, izmēģināt šo out, un nav jābaidās, dot savu ierīci jūsu bērniem vairs.</string>
+</resources>

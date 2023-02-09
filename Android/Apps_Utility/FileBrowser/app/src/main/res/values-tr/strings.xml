@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Dosya tarayıcı</string>
+  <string name="activity_main">Dosya tarayıcı</string>
+  <string name="message_tellafriend">Bu coju.mobi dosya tarayıcısı bir Android dosya tarayıcısında istediğin tüm yeteneklere sahiptir. Bu kolay kullanımlı arayüzü dosyaları arasında bir ayrım yapar ve farklı arka plan renkleri ile okuma erişimi olmayan dosyalar/klasörler klasör kırmızı bir arka plan. \n app birden çok dosya/klasör seçmek ve onları silmek sağlar vardır tek bir dokunmayla. Ayrıca seçilen dosya ve klasör onları e-posta yoluyla göndererek veya Google bulut içinde koyarak arkadaşı ile paylaşılabilir. Birden çok dosya ve klasörleri tek bir ZIP dosyası içinde koyarak ve onları e-posta ile gönderme seçeneğiniz de vardır.
+</string>
+</resources>

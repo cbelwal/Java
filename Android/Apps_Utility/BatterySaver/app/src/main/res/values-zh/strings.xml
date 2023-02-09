@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">应急电池保护程序</string>
+  <string name="message_share_link_suffix">发送 Dasmic 电池保护程序应用程序</string>
+  <string name="message_tellafriend">此应用程序自动停止所有正在运行的程序，并将禁用 WiFi 和蓝牙设备中节省电池电量。
+        与此应用程序，您还可以查看安装的应用程序的大小，安装日期，更新日期等。
+            您还可以查看在您的设备，其中包括每个应用程序的安全权限预装的谷歌和设备 manufacturer.\n\nThrough 这个应用程序你可以向朋友通过邮件、 电子邮件或云发送安装应用程序，他们可以在他们的设备上然后安装它。这个应用程序还会生成一份详细的报告，在每个应用程序安装在您的设备上。</string>
+</resources>

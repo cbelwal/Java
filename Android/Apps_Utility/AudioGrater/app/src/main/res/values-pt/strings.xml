@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Ralador de áudio</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="startup_message">Se alguns arquivos de áudio não são visíveis, tente outra opção de pesquisa no menu à esquerda</string>
+  <string name="message_tellafriend">O aplicativo de áudio ralador coju.mobi™ cria menor arquivo (s) áudio (no formato M4A) de qualquer arquivo de áudio grande (M4A, MP3, WAV e OGG formatos são suportados). É pesquisas de interface de usuário simples para todos os arquivos de áudio em seu dispositivo e enumera-los em uma exibição rolável. Em seguida, você pode selecionar um arquivo de áudio e especificar a hora de início e a duração de cada arquivo (s) menor áudio que quer criado. Este aplicativo irá criar automaticamente os arquivos de áudio menores, com um nome diferente dependendo da hora de início (em segundos) que menores de arquivo de áudio.
+    </string>
+</resources>

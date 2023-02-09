@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">APK gledalec</string>
+  <string name="message_tellafriend">S tem app boste lahko pogled nameščen apps po velikosti, nameščen datum, posodobljeno datum itd.
+            Lahko tudi preverite varnostna dovoljenja za vsak app v napravi, vključno s tistimi, ki jih je vnaprej nameščen Google in naprava manufacturer.\n\nThrough je to app nameščen app lahko pošljete prijateljem preko vest, email ali oblak in potem lahko namestite na svoje naprave. To app tudi ustvarja podrobno poročilo o vsaki app nameščen v napravi.</string>
+</resources>

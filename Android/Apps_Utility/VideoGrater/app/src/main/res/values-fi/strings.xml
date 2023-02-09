@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video raastin</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">Jos jotkut videot eivät näy, kokeile toista hakua vasemmalta valikosta</string>
+  <string name="message_tellafriend">Coju.mobi Video raastin app poimia vielä kuvia (vuonna PNG-muodossa) minkä tahansa videotiedoston (MP4, 3GP ja WEBM tueta). Se on herkkäuskoinen käyttäjä liitäntä etsii kaikki videotiedostot laitteesi ja listaa ne vieritettävä näkymää. Voit valita ja määrittää, mihin aikaan videon haluat ote kuvia. Voit poimia useita kuvia kerrallaan määrittämällä useita kuvia ja aika erottaminen toisistaan.
+
+        Kiristävä hiljentää elokuvat voidaan tallentaa laite varastointi tai voidaan jakaa muiden kanssa käyttämällä sähköpostia tai tekstiviestejä. Voit tallentaa puretut kuvia pilvessä.
+    </string>
+</resources>

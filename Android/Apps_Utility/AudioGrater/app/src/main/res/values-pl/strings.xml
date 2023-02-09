@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Tarka audio</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="startup_message">Jeśli niektóre pliki audio nie są widoczne, spróbować innej opcji wyszukiwania z menu po lewej stronie</string>
+  <string name="message_tellafriend">Coju.mobi™ tarka Audio app tworzy mniejsze plik(i) audio (w formacie M4A) z dużych plików audio (obsługiwane są formaty M4A, MP3, WAV i OGG). To jest prosty użytkownik interfejs wyszukuje wszystkie pliki audio w urządzeniu i wyświetla je w przewijana widok. Można następnie wybierz plik audio i określić czas rozpoczęcia i czas trwania każdego mniejszych audio pliki, które mają być utworzone. Ta aplikacja będzie następnie automatycznie utworzyć mniejsze pliki audio, pod inną nazwą, w zależności od czasu rozpoczęcia (w sekundach), tym mniejszy plik audio.
+    </string>
+</resources>

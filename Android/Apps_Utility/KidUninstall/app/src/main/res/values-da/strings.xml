@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kid-O-afinstallere</string>
+  <string name="progressbar_load_data">Indlæser apps...</string>
+  <string name="message_share_link_suffix">Sendt via Kid-O-afinstallere</string>
+  <string name="message_tellafriend">Hvis du har børn, ved du, hvad der sker når vi give dem vores telefon eller tabletter. De vil hente et spil, som de bruger kun én gang og derefter de går videre til det næste spil, som er downloadet også, denne måde roder enhedens hukommelse med spil og deres ikoner. \n denne app hjælper dig med at kigge på alle nyligt installerede apps, og afinstallere dem på én gang (du skal bekræfte hver afinstallere individuelt).
+     Gå videre, prøve indeværende ud og ikke være bange for at give enheden til dine børn længere.</string>
+</resources>

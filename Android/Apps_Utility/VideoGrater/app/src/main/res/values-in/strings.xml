@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video parutan</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">Jika beberapa video tidak terlihat, mencoba pilihan pencarian lain dari menu sebelah kiri</string>
+  <string name="message_tellafriend">Coju.mobi Video parutan app dapat mengekstrak masih gambar (dalam PNG format) dari video file (MP4, 3GP dan WEBM format yang didukung). Ini adalah pencarian antarmuka pengguna yang sederhana untuk semua file video pada ponsel dan daftar mereka dalam pandangan digulir. Anda kemudian dapat memilih video file dan menentukan dari apa waktu dalam video yang Anda inginkan untuk mengambil gambar. Anda juga dapat mengambil beberapa gambar pada waktu dengan menentukan jumlah gambar dan waktu pemisahan antara mereka.
+
+        Gambar diam yang diekstrak dapat disimpan dalam perangkat penyimpanan atau dapat dibagi dengan orang lain menggunakan email atau pesan teks. Anda juga dapat menyimpan gambar yang diambil dalam awan.
+    </string>
+</resources>

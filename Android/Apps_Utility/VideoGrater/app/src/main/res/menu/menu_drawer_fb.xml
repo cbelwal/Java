@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="@string/nav_menu_group_viewoptions">
+        <menu>
+        <item android:id="@+id/nav_view_default"
+            android:title="@string/nav_menu_view_name"
+            android:icon="@drawable/ic_info_black_48dp"/>
+        <item android:id="@+id/nav_view_size"
+            android:title="@string/nav_menu_view_size"
+            android:icon="@drawable/ic_donut_large_black_48dp"/>
+        <item android:id="@+id/nav_view_last_modified"
+                android:title="@string/nav_menu_view_modified"
+                android:icon="@drawable/ic_info_black_48dp"
+                android:visible="true"/>
+        <item android:id="@+id/nav_view_search_entire_phone"
+                android:title="@string/nav_menu_search_entire_phone"
+                android:icon="@drawable/ic_search_black_48dp"
+                android:visible="true"/>
+         <item android:id="@+id/nav_view_search_external_folders"
+                android:title="@string/nav_menu_search_external_folders"
+                android:icon="@drawable/ic_search_black_48dp"
+                android:visible="true"/>
+        <item android:id="@+id/nav_view_search_media_folders"
+                android:title="@string/nav_menu_search_media_folders"
+                android:icon="@drawable/ic_search_black_48dp"
+                android:visible="true"/>
+        <item android:id="@+id/nav_view_action_refresh"
+            android:title="@string/nav_menu_view_refresh"
+            android:icon="@drawable/ic_refresh_black_48dp"/>
+        </menu>
+    </item>
+    <item android:title="@string/nav_menu_group_help">
+        <menu>
+            <item android:id="@+id/nav_view_demo_video"
+                android:title="@string/nav_menu_demovideo"
+                android:icon="@drawable/ic_ondemand_video_black_48dp"/>
+            <item android:id="@+id/nav_view_help_documentation"
+                android:title="@string/nav_menu_help_doc"
+                android:icon="@drawable/ic_help_black_48dp"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/nav_menu_group_general">
+        <menu>
+            <item android:id="@+id/nav_view_rate_this_app"
+                android:title="@string/nav_menu_rate_this_app"
+                android:icon="@android:drawable/btn_star"/>
+            <item android:id="@+id/nav_view_tell_a_friend"
+                android:title="@string/nav_menu_tellafriend"
+                android:icon="@drawable/ic_link_black_48dp"
+                />
+            <item android:id="@+id/nav_view_feedback"
+                android:title="@string/nav_menu_feedback"
+                android:icon="@drawable/ic_feedback_black_48dp"
+                />
+            <item android:id="@+id/nav_view_upgrade_paid_version"
+                android:title="@string/nav_menu_upgrade"
+                android:icon="@drawable/ic_shop_black_48dp"
+                android:visible="true"/>
+        </menu>
+    </item>
+
+
+</menu>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">File Browser</string>
+  <string name="activity_main">File Browser</string>
+  <string name="message_tellafriend">Acest fişier de browser coju.mobi are toate capacităţile pe care aţi dorit vreodată într-un browser de fişier Android. Interfaţă uşor de utilizat face o distincţie între fişierele şi folderele cu culorile de fundal diferite cu fișiere/foldere fără acces de citire sunt într-un fundal roșu. \n app vă permite să selectaţi mai multe fişiere/foldere şi a le şterge cu un singur robinet. Selectat dosar şi pliant poate fi comun cu prieten de a le trimite prin e-mail, sau pune-l în Google cloud. De asemenea, aveţi opţiunea de a pune mai multe fişiere şi foldere într-un singur fişier ZIP şi trimiterea acestora prin e-mail.
+</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_tellafriend">Şunları yapabilirsiniz bu uygulaması ile görünüm apps boyutuna göre yüklü, Tarih yüklü, güncelleme tarihi vs.
+            Ayrıca her app de dahil olmak üzere güvenlik izinleri önceden yüklenmiş Google ve aygıt manufacturer.\n\nThrough tarafından bu app kontrol edebilirsiniz ileti, e-posta veya bulut ile arkadaş yüklü app gönderebilirsiniz ve onlar daha sonra onların aygıt yükleyebilirsiniz. Bu app de cihazınızda yüklü her app üzerinde ayrıntılı bir rapor oluşturur.</string>
+</resources>

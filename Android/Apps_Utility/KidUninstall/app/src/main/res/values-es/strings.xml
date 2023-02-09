@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kid-O-desinstalar</string>
+  <string name="progressbar_load_data">Aplicaciones de carga...</string>
+  <string name="message_share_link_suffix">Enviado por Kid-O-desinstalar</string>
+  <string name="message_tellafriend">Si tienes niños, sabes lo que pasa cuando les damos nuestro teléfono o las tabletas. Se descargue un juego que utilizan sólo una vez y luego se mueven al siguiente juego que se descarga demasiado, de este modo saturar la memoria del dispositivo con juegos y sus iconos. \n esta aplicación le ayuda a buscar en todo recién instalados aplicaciones y desinstalarlas una vez (usted tiene que confirmar cada uno desinstalar individualmente).
+     Vaya por delante, probar esto y no tengas miedo de dar el dispositivo a sus hijos ya.</string>
+</resources>

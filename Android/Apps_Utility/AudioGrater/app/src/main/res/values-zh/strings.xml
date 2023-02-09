@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">音频磨床</string>
+  <string name="app_name_small">音频磨床</string>
+  <string name="startup_message">如果某些音频文件不可见, 请尝试左侧菜单中的另一个搜索选项</string>
+  <string name="message_tellafriend">coju-momi™音频磨床应用程序从任何大型音频文件 (支持 m4a、mp3、wav 和 ogg 格式) 创建较小的音频文件 (m4a 格式)。它是简单的用户界面搜索设备中的所有音频文件, 并在可滚动视图中列出它们。然后, 您可以选择一个音频文件, 并指定要创建的每个较小音频文件的开始时间和持续时间。然后, 此应用程序将自动创建较小的音频文件, 并根据该较小音频文件的开始时间 (以秒为单位) 使用不同的名称。
+    </string>
+</resources>

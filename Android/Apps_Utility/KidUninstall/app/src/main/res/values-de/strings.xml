@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kind-O-deinstallieren</string>
+  <string name="progressbar_load_data">Apps werden geladen...</string>
+  <string name="message_share_link_suffix">Kid-O-deinstallieren per</string>
+  <string name="message_tellafriend">Wenn Sie Kinder haben, wissen Sie, was passiert, wenn wir ihnen unsere Telefon oder Tabletten geben. Sie downloadet eine Spiel, das sie nur einmal verwenden und dann weiter zum nächsten Spiel das auch heruntergeladen wird, so überladen den Gerätespeicher mit spielen und ihre Symbole. \n diese app hilft Ihnen überhaupt neu installierte apps zu suchen, und deinstallieren Sie sie auf einen Schlag (Du musst jeweils bestätigen einzeln deinstallieren).
+     Gehen Sie voran, probieren Sie dies aus und sich nicht scheuen Sie, Ihr Gerät nicht mehr mit Ihren Kindern zu geben.</string>
+</resources>

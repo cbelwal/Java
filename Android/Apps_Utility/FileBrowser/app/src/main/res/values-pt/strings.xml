@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Navegador de arquivos</string>
+  <string name="activity_main">Navegador de arquivos</string>
+  <string name="message_tellafriend">Este navegador de arquivo coju.mobi tem todas as capacidades que você sempre quis em um navegador de arquivos do Android. É fácil de usar interface faz uma distinção entre arquivos e pastas com cores de fundo diferentes com arquivos/pastas sem acesso de leitura em um fundo vermelho. \n o app permite que você selecione múltiplos arquivos/pastas e excluí-los com um simples toque. Pastas e arquivos selecionados também podem ser compartilhados com o amigo por enviá-los por e-mail, ou colocá-lo na nuvem do Google. Você também tem a opção de colocar vários arquivos e pastas em um único arquivo ZIP e enviá-los via e-mail.
+</string>
+</resources>

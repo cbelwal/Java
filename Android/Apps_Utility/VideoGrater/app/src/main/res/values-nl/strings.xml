@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video rasp</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">Als sommige video\'s niet zichtbaar zijn, probeer een andere zoekoptie in het linker menu</string>
+  <string name="message_tellafriend">De coju.mobi Video rasp app kan nog steeds foto\'s (in PNG-formaat) uittreksel uit elk video bestand (MP4, 3GP en WEBM formaten worden ondersteund). Het is eenvoudige user interface zoekopdrachten voor alle videobestanden in uw apparaat en geeft u deze weer in de weergave waarin kan worden gebladerd. U kunt vervolgens Selecteer een videobestand en opgeven vanaf welk moment in de video die u wilt ophalen van foto\'s. U kunt ook meerdere afbeeldingen tegelijk uitpakken door te geven van het aantal foto\'s en tijd scheiding tussen hen.
+
+        De uitgepakte nog foto\'s kunnen worden opgeslagen in opslag apparaat of kan worden gedeeld met anderen via e-mail of SMS-berichten. U kunt ook de uitgepakte afbeeldingen opslaan in de cloud.
+    </string>
+</resources>

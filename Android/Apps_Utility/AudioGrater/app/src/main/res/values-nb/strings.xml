@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Lyd rivjern</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="startup_message">Hvis noen lydfiler ikke, vises, kan du prøve et annet søkealternativ fra venstre-menyen</string>
+  <string name="message_tellafriend">Coju.mobi™ lyd rivjern app lager mindre lyd filer (i M4A format) fra store lyd filer (M4A, MP3, WAV og OGG formater støttes). Det er enkelt grensesnitt søker etter alle lydfiler i enheten og viser dem i en Rullbar visning. Du kan deretter velge en hørlig arkiv og angir starttidspunktet og varigheten av hver mindre lyd filen(e) du opprettet. Dette programmet oppretter da mindre filen(e) som lyd, automatisk med et annet navn avhengig start (i sekunder) av den mindre lydfilen.
+    </string>
+</resources>

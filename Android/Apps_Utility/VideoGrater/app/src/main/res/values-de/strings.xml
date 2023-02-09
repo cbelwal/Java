@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video-Reibe</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">Wenn einige Videos nicht angezeigt werden, versuchen Sie eine andere Suchoption aus dem linken Menü</string>
+  <string name="message_tellafriend">Coju.mobi Video Reibe app kann noch Bilder (im PNG-Format) aus jeder Videodatei extrahieren (MP4, 3GP und WEBM-Formate werden unterstützt). Es ist einfach zu bedienendes Interface sucht alle video-Dateien auf Ihrem Gerät und listet sie in bildlauffähigen Ansicht. Sie können dann eine video-Datei auswählen und angeben, aus welcher Zeit das Video Sie Bilder extrahieren möchten. Sie können auch mehrere Bilder gleichzeitig extrahieren, indem man die Anzahl der Bilder und Zeit Trennung zwischen ihnen.
+
+        Die extrahierten Standbilder können im Speicher des Geräts gespeichert werden oder können mit anderen geteilt werden über e-Mail oder SMS-Nachrichten. Sie können auch die extrahierten Bilder in der Cloud speichern.
+    </string>
+</resources>

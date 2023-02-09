@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kid-O-gỡ bỏ cài đặt</string>
+  <string name="progressbar_load_data">Tải ứng dụng...</string>
+  <string name="message_share_link_suffix">Gửi qua Kid-O-gỡ bỏ cài đặt</string>
+  <string name="message_tellafriend">Nếu bạn có con, bạn biết những gì sẽ xảy ra khi chúng tôi cung cấp cho họ điện thoại hoặc máy tính bảng của chúng tôi. Họ sẽ tải về một trò chơi mà họ sử dụng chỉ một lần và sau đó họ di chuyển trên các trò chơi tiếp theo tải về quá, cách này làm lộn xộn bộ nhớ điện thoại với các trò chơi và \n. biểu tượng của ứng dụng này sẽ giúp bạn nhìn ở tất cả mới được cài đặt ứng dụng, và gỡ bỏ chúng tại một trong những đi (bạn phải xác nhận từng gỡ bỏ cài đặt cá nhân).
+     Đi trước, hãy thử này ra và không sợ cho điện thoại của bạn cho trẻ em của bạn nữa.</string>
+</resources>

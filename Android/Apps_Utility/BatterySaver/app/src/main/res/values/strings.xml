@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Emergency Battery Saver</string>
+    <string name="message_share_link_suffix">Sent via Dasmic Battery Saver app</string>
+    <string name="message_tellafriend">This app with automatically stop
+        all running apps and will disable WiFi and Bluetooth saving battery power in your device.
+        With this app you can also view installed apps by size, installed date, updated date etc.
+            You can also check the security permissions of each app in your
+        device including those pre-installed by Google and device manufacturer.\n\nThrough
+        this app you can send the installed app to friends via message
+    ,email or cloud and they can then install it on their devices. This app also
+    generates a detailed report on each app installed in your device.</string>
+
+</resources>

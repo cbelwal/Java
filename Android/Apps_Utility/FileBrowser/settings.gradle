@@ -1,0 +1,6 @@
+include ':app'
+include ':support'
+include ':lib.filebrowser'
+project(':support').projectDir=new File("..\\..\\Libraries\\support\\support")
+project(':lib.filebrowser').projectDir=new File("..\\..\\Libraries\\FileBrowser\\lib.filebrowser")
+

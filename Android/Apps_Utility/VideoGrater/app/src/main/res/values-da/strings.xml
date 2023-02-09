@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video Rivejern</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">Hvis nogle videoer ikke er synlig, kan du prøve en anden søgemulighed fra menuen til venstre</string>
+  <string name="message_tellafriend">Coju.mobi Video Rivejern app kan udtrække stadig billeder (i PNG format) fra alle video-fil (MP4, 3GP og WEBM formater understøttes). Det er simpel brugergrænseflade søgninger for alle video filer i enheden og viser dem i scrolbar visning. Du kan derefter vælge en video fil og angive fra hvad tid i videoen du ønsker at udtrække billeder. Du kan også udtrække flere billeder ad gangen ved at angive antallet af billeder og tid adskillelse mellem dem.
+
+        De udpakkede still billeder kan gemmes i enhedens opbevaring eller kan deles med andre ved hjælp af e-mail eller SMS-beskeder. Du kan også gemme de udpakkede billeder i skyen.
+    </string>
+</resources>

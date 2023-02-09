@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Videóinak reszel</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">Ha néhány videót nem látható, próbálja meg egy másik keresési lehetőség, a bal oldali menüből</string>
+  <string name="message_tellafriend">A coju.mobi videóinak reszel app tud kivonat még képek (a PNG formátumban) bármilyen video fájlt (MP4, 3GP és a WEBM formátum támogatott). Egyszerű felhasználói felület megkeresi az összes videó fájlokat a készülék, és megjeleníti őket görgethető nézetben. Ezután válassza ki a videó fájlt, és adja meg, milyen idő, a video ön akar-hoz kivonat képek. Is a kivonat több képet egyszerre képek és gyakorisági eloszlás közöttük megadásával.
+
+        A kivont állóképek eszköz tárolási menthető, vagy megosztható másokkal e-mailben vagy szöveges üzenetek használatával. A kivonat képek a felhőben is tárolhatja.
+    </string>
+</resources>

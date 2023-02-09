@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">视频磨擦</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">如果某些视频不可见, 请从左侧菜单中尝试其他搜索选项</string>
+  <string name="message_tellafriend">coju 手机视频擦除应用程序可以从任何视频文件 (MP4,3GP 和 WEBM 格式) 中提取静止图片 (以 PNG 格式)。它是简单的用户界面搜索设备中的所有视频文件, 并在可滚动视图中列出它们。然后, 您可以选择视频文件并指定从视频中要提取图片的时间。您还可以通过指定图片的数量和间隔时间来提取多个图片。
+
+        提取的静止图片可以保存在设备存储中, 也可以使用电子邮件或文本消息与他人共享。您还可以将提取的图像存储在云中。
+    </string>
+</resources>

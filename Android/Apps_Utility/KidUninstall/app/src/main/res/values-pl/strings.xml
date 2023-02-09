@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Dziecko O-Uninstall</string>
+  <string name="progressbar_load_data">Ładowanie aplikacji...</string>
+  <string name="message_share_link_suffix">Wysłane przez Kid-O-Uninstall</string>
+  <string name="message_tellafriend">Jeśli masz dzieci, wiesz, co się dzieje, gdy damy im naszego telefonu lub tabletki. Będą one download gry, które używają tylko raz, a następnie one przejść do następnej gry, które jest pobierane za, ten sposób zaśmiecania pamięci urządzenia z gry i ich ikony. \n ta aplikacja pomoże Ci spojrzeć na wszystkich nowo zainstalowanych aplikacji i odinstalować je za jednym zamachem (trzeba potwierdzić każdy odinstalować indywidualnie).
+     Śmiało, próbować ten na zewnątrz i nie bój się podając swoje urządzenie do dzieci już.</string>
+</resources>

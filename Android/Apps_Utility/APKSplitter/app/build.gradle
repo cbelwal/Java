@@ -1,0 +1,39 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    
+    defaultConfig {
+        applicationId "com.dasmic.android.apkpeek"
+        minSdkVersion 14
+        targetSdkVersion 26
+        versionCode 5
+        versionName "2.00"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+    }
+    lintOptions {
+        disable 'MissingTranslation'
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    testImplementation 'junit:junit:4.12'
+    implementation 'com.android.support:appcompat-v7:26.1.0'
+    implementation 'com.android.support:design:26.1.0'
+    implementation 'com.google.android.gms:play-services-ads:15.0.1'
+    implementation 'com.google.firebase:firebase-core:16.0.1'
+    implementation 'com.google.firebase:firebase-messaging:17.3.0'
+    implementation project(path: ':support')
+    implementation project(path: ':lib.apk')
+    implementation project(path: ':lib.filebrowser')
+}
+
+apply plugin: 'com.google.gms.google-services'

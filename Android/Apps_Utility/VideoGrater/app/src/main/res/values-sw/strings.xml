@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video Grater</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">Kama baadhi ya video havionekani, jaribu chaguo jingine ya utafutaji kutoka kwenye menyu ya kushoto</string>
+  <string name="message_tellafriend">Programu ya Video Grater ya coju.mobi uweze kuchopoa bado picha (katika umbizo la PNG) kutoka faili yoyote ya video (MP4, 3GP na WEBM format ni mkono). Ni utafutaji wa kiolesura cha mtumiaji rahisi kwa ajili ya faili zote za video katika kifaa chako na orodha yao katika mwonekano wa scrollable. Unaweza kisha teua faili ya video na kubainisha tangu wakati gani katika video unataka kuchopoa picha. Unaweza pia dondoo picha kadhaa kwa wakati mmoja kwa kubainisha idadi ya picha na wakati utengano kati yao.
+
+        Picha bado kuondolewa anaweza kuokolewa katika kifaa cha uhifadhi au inaweza kugawizwa na wengine kutumia ujumbe wa barua pepe au matini. Unaweza pia kuhifadhi picha kuondolewa katika wingu.
+    </string>
+</resources>

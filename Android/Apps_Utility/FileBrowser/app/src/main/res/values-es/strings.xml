@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Explorador de archivos</string>
+  <string name="activity_main">Explorador de archivos</string>
+  <string name="message_tellafriend">Este explorador de archivos de coju.mobi tiene todas las capacidades que siempre quisiste en un explorador de archivos Android. Es fácil de usar interfaz hace una distinción entre archivos y carpetas con colores de fondo diferentes con archivos y carpetas sin acceso de lectura en un fondo rojo. \n que la aplicación permite seleccionar múltiples archivos/carpetas y borrarlas con un solo toque. Carpetas y archivos seleccionados también se pueden compartir con amigo por enviar por correo electrónico, o poniendo en Google nube. También tienes la opción de poner múltiples archivos y carpetas en un único archivo ZIP y enviarlos por correo electrónico.
+</string>
+</resources>

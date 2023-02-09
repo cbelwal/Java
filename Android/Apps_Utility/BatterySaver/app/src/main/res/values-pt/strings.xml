@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Protetor de bateria de emergência</string>
+  <string name="message_share_link_suffix">Enviado via Dasmic bateria app Saver</string>
+  <string name="message_tellafriend">Este app com automaticamente parar todos os apps de execução e irá desativar o Wi-Fi e Bluetooth, economia de energia da bateria no seu dispositivo.
+        Com este app que você pode também exibir instalei apps pelo tamanho, instalado data, atualizado data etc.
+            Você também pode verificar as permissões de segurança de cada aplicativo em seu dispositivo, incluindo aqueles pré-instalado pelo Google e dispositivo manufacturer.\n\nThrough este app você pode enviar o app instalado para amigos via mensagem, e-mail ou nuvem e eles então podem instalá-lo em seus dispositivos. Este app também gera um relatório detalhado sobre cada app instalado em seu dispositivo.</string>
+</resources>

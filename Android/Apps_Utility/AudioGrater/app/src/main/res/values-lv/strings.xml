@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Skaņas rīve</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="startup_message">Ja daži audio faili nav redzams, mēģiniet citu meklēšanas opciju no izvēlnes kreisajā pusē</string>
+  <string name="message_tellafriend">Coju.mobi™ Audio rīve app rada mazāku audio failu (us) (M4A formāta) no jebkura liela audio failu (M4A, MP3 un WAV, OGG formātos tiek atbalstītas). Tas ir vienkāršs lietotāja interfeiss meklē visus audio failus ierīcē un uzskaita tos ritināms skatā. Pēc tam atlasiet audio failu un norādiet sākuma laiks un ilgums katram mazāku skaņas faili vēlaties izveidoto. Šajā app automātiski izveidos mazākiem skaņas faili, ar citu nosaukumu atkarībā no sākuma laiku (sekundēs), ka mazākiem skaņas failu.
+    </string>
+</resources>

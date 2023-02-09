@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Acil batarya kurtarmak</string>
+  <string name="message_share_link_suffix">Dasmic pil gönderilen koruyucu app</string>
+  <string name="message_tellafriend">Bu app ile otomatik olarak tüm çalışan uygulamaları durdurun ve WiFi ve Bluetooth aygıtınızda pil gücü tasarrufu devre dışı bırakır.
+        Ayrıca bu uygulaması ile görünüm apps boyutuna göre yüklü, Tarih yüklü, güncelleme tarihi vs.
+            Ayrıca her app de dahil olmak üzere güvenlik izinleri önceden yüklenmiş Google ve aygıt manufacturer.\n\nThrough tarafından bu app kontrol edebilirsiniz ileti, e-posta veya bulut ile arkadaş yüklü app gönderebilirsiniz ve onlar daha sonra onların aygıt yükleyebilirsiniz. Bu app de cihazınızda yüklü her app üzerinde ayrıntılı bir rapor oluşturur.</string>
+</resources>

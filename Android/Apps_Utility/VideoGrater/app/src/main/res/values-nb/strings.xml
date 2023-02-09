@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video rivjern</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">Hvis noen videoer ikke, vises, kan du prøve et annet søkealternativ fra venstre-menyen</string>
+  <string name="message_tellafriend">Coju.mobi Video rivjern app kan trekke fortsatt bilder (i PNG format) fra alle video arkiv (MP4, 3GP og WEBM format støttes). Det er enkelt grensesnitt søker etter alle videofilene på enheten, og viser dem i Rullbar visning. Du kan deretter velge ut video arkiv og angi hvilken tid i videoen du vil trekke ut bilder. Du kan også trekke ut flere bilder samtidig ved å angi antall bilder og tid separasjon mellom dem.
+
+        Utdraget fortsatt bilder kan lagres i enheten lagring eller deles med andre ved hjelp av e-post eller tekstmeldinger. Du kan også lagre uttrukkede bildene i skyen.
+    </string>
+</resources>

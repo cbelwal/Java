@@ -1,0 +1,8 @@
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <files-path name="internal" path="/"/>
+    <cache-path name="name" path="/" />
+    <!-- CAUTION: If root folder is changed to something else then following line needs to be changed too -->
+    <!-- Setting path to '/' allows everything in External folder to be accessible to applications -->
+    <external-path name="external" path="/" />
+
+</paths>

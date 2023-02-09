@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kihifadhi betri ya dharura</string>
+  <string name="message_share_link_suffix">Kutumwa kupitia Dasmic betri kihifadhi programu</string>
+  <string name="message_tellafriend">Programu tumizi hii kwa otomatiki kuacha programu zote zinazoendesha na italemaza WiFi na Bluetooth kuhifadhi nguvu za betri katika kifaa chako.
+        Ukiwa na programu hii unaweza pia Mwoneko imewekwa programu kwa ukubwa, imewekwa tarehe, kusasaishwa tarehe nk.
+            Pia unaweza kuangalia vibali vya usalama wa kila programu katika kifaa chako ikiwa ni pamoja na wale kabla imewekwa kwa Google na kifaa manufacturer.\n\nThrough programu hii unaweza kutuma Programu zilizosakinishwa kwa marafiki kupitia ujumbe, barua pepe au wingu na wao wanaweza kisha kusanidi kwenye vifaa vyao. Programu tumizi hii pia inazalisha ripoti ya kina juu ya kila programu zilizosakinishwa katika kifaa chako.</string>
+</resources>

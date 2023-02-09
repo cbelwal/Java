@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Visor de APK</string>
+  <string name="message_tellafriend">Con esta aplicación que usted puede ver instala aplicaciones por tamaño, había instalado fecha, había actualizado fecha etcetera.
+            También puede comprobar los permisos de seguridad de cada aplicación en su dispositivo los incluidos instalación por Google y dispositivo manufacturer.\n\nThrough esta aplicación usted puede enviar la aplicación instalada a amigos por mensaje, correo electrónico o cloud y luego puede instalarlo en sus dispositivos. Esta aplicación también genera un informe detallado sobre cada aplicación instalada en tu dispositivo.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Audio reszelő</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="startup_message">Ha nem láthatók a néhány audio fájlokat, megpróbál egy másik keresési lehetőség, a bal oldali menüből</string>
+  <string name="message_tellafriend">Coju.mobi™ Audio reszelő hoz létre (az M4A formátumú) kisebb audio fájlokat a nagy audio-fájlt (M4A, MP3, WAV és OGG formátum támogatott). Egyszerű felhasználói felület keres minden audio fájlokat a készülék, és megjeleníti őket egy görgethető nézetben. Ezután válasszon egy audio fájlt, és adja meg a kezdő időpontja és időtartama minden kisebb audio fájl (ok) szeretne létrehozott. Ez app majd automatikusan létrehozza a kisebb audio fájlokat, attól függően, hogy a start (másodpercekben), hogy a kisebb audio fájl más néven.
+    </string>
+</resources>

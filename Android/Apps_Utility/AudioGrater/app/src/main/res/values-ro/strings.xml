@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Răzătoare audio</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="startup_message">Dacă unele fișiere audio nu sunt vizibile, încercaţi o altă opţiune de căutare din meniul din stanga</string>
+  <string name="message_tellafriend">Coju.mobi™ Audio răzătoare app creează mai mici fişiere audio (în M4A format) la orice fisier audio mare (M4A, MP3, WAV si OGG formate sunt acceptate). Este simplu utilizator interfata caută toate fişierele audio în aparat şi le afişează într-o vedere derulant. Apoi selectaţi un fişier audio şi specificaţi ora de începere şi durata de fiecare fişiere mai mici audio vrei create. Acest app apoi va crea automat fişiere audio mai mici, cu un nume diferit în funcţie de ora de începere (în secunde) din acel fişier audio mai mici.
+    </string>
+</resources>

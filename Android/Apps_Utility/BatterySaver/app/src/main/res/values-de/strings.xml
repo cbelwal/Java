@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Notfall-Battery Saver</string>
+  <string name="message_share_link_suffix">Per Dasmic Battery Saver app</string>
+  <string name="message_tellafriend">Diese app mit automatisch beenden alle laufenden apps und WiFi und Bluetooth, die Batterie zu schonen in Ihrem Gerät deaktiviert.
+        Mit dieser app können Sie auch Ansicht installierte apps durch Größe, Datum installiert, aktualisiert Datum etc..
+            Sie können auch überprüfen, die Sicherheitsberechtigungen für jede app auf Ihrem Gerät, einschließlich derjenigen vorinstalliert durch Google und Gerät manufacturer.\n\nThrough diese app können Sie die installierten Apps an Freunde per Nachricht, e-Mail oder Cloud senden und sie können es dann auf ihren Geräten installieren. Diese app erzeugt auch einen ausführlichen Bericht über jede app auf Ihrem Gerät installiert.</string>
+</resources>

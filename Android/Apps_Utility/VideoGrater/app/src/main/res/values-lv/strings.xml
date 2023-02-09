@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video rīve</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">Ja daži video nav redzams, mēģiniet citu meklēšanas opciju no izvēlnes kreisajā pusē</string>
+  <string name="message_tellafriend">Coju.mobi Video rīve app var izdalīt vēl bildes (PNG formātā) no jebkurā video failu (MP4, 3 GP un WEBM formātiem tiek atbalstīti). Tas ir vienkāršs lietotāja interfeiss meklē visus video failus ierīcē un uzskaita tos ritināms skatā. Pēc tam var atlasīt video failu un norādīt, no kāda laika video vēlaties izgūt attēlus. Arī var izdalīt vairākus attēlus vienlaicīgi norādot numuru attēli un laika nodalīšanu starp tām.
+
+        Vēl ekstrahē bildes var tikt saglabāti ierīces atmiņas vai var dalīties ar citiem, izmantojot e-pastu vai īsziņu. Izdalīta attēlus var glabāt arī mākoni.
+    </string>
+</resources>

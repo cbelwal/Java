@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video rivjärn</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">Om några videor inte visas, prova ett annat sökalternativ från menyn till vänster</string>
+  <string name="message_tellafriend">Coju.mobi Video rivjärn appen kan extrahera fortfarande bilder (i PNG-format) från vilken videofil (MP4, 3GP och WEBM format stöds). Det är enkel förbrukaren gräns flat sökningar för alla video-filer i enheten och visar dem i rullningsbar se. Du kan sedan markera en videofil och anger från vilken tidpunkt i videon du vill extrahera bilder. Du kan också extrahera flera bilder samtidigt genom att ange antalet bilder och tid separationen mellan dem.
+
+        De extraherade stillbilder kan sparas i enhetens lagring eller delas med andra via e-post eller textmeddelanden. Du kan också lagra de extraherade bilderna i molnet.
+    </string>
+</resources>

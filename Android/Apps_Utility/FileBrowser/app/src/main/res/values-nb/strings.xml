@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Filleseren</string>
+  <string name="activity_main">Filleseren</string>
+  <string name="message_tellafriend">Denne coju.mobi fil nettleser har alle funksjonene du noen gang ønsket i en Android filsøk. Det er brukervennlig grensesnitt gjør et skille mellom filer og mapper med ulike bakgrunnsfarger med filer/mapper uten lesetilgang er i en rød bakgrunn. \n app lar deg velge flere filer/mapper og slette dem. med ett trykk. Valgte filer og mapper kan også deles med venn ved å sende dem via e-post eller sette den i Google Sky. Du har også muligheten til å sette flere filer og mapper i en enkelt ZIP-fil og sende dem via e-post.
+</string>
+</resources>

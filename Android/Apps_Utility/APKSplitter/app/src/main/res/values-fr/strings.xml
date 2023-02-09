@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">APK Viewer</string>
+  <string name="message_tellafriend">Avec cette application que vous pouvez vue installé apps par taille, installé date, mise à jour date etc..
+            Vous pouvez également vérifier les autorisations de sécurité de chaque app sur votre appareil, y compris ceux pré-installés par Google et dispositif manufacturer.\n\nThrough cette app vous pouvez envoyer l’app installée à des amis par message, email ou nuage et qu’ils peuvent puis installez-le sur leurs appareils. Cette application génère également un rapport détaillé sur chaque application installée sur votre appareil.</string>
+</resources>

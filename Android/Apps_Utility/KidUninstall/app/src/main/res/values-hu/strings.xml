@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Gyerek-O-Uninstall</string>
+  <string name="progressbar_load_data">Alkalmazások betöltése...</string>
+  <string name="message_share_link_suffix">Gyerek-O-Uninstall keresztül</string>
+  <string name="message_tellafriend">Ha van gyerek, tudod, mi történik, ha adunk nekik a telefon vagy tabletta. Egy játék, ami csak egyszer használnak, és majd lépni a következő játék, melyik van is letöltött-letölti, ily módon a készülék memória játékok és a ikonok. \n-túlzsúfoltság ez app segít keresni minden újonnan telepített alkalmazások, és távolítsa el őket, egy csapásra (van, hogy ellenőrizze minden egyes egyénileg uninstall).
+     Gyerünk, megpróbál ez ki, és nem kell félni, hogy a készülék a gyerekek anymore.</string>
+</resources>

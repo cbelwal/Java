@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Trình duyệt tập tin</string>
+  <string name="activity_main">Trình duyệt tập tin</string>
+  <string name="message_tellafriend">Đây trình duyệt tập tin coju.mobi có tất cả các khả năng mà bạn đã bao giờ muốn trong một trình duyệt Android tập tin. Giao diện dễ dàng sử dụng của nó làm cho một sự phân biệt giữa các tập tin và thư mục với các màu nền khác nhau với tập tin/thư mục mà không có quyền truy cập đọc trong một nền đỏ. \n các ứng dụng cho phép bạn chọn nhiều tập tin/thư mục và xóa chúng với một vòi nước duy nhất. Chọn tập tin và thư mục cũng có thể được chia sẻ với bạn bè bằng cách gửi cho họ qua email, hoặc đặt nó trong Google cloud. Bạn cũng có tùy chọn đưa nhiều tập tin và thư mục trong một file nén duy nhất và gửi chúng qua email.
+</string>
+</resources>

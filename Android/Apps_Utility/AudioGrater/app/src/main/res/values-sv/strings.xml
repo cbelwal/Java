@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Ljud rivjärn</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="startup_message">Om vissa ljud filer inte syns, prova ett annat sökalternativ från menyn till vänster</string>
+  <string name="message_tellafriend">Coju.mobi™ Audio rivjärn appen skapar mindre ljud fil(er) (i M4A-format) från någon stor ljudfil (M4A, MP3, WAV och OGG format stöds). Det är enkel förbrukaren gräns flat sökningar för alla ljudfiler i enheten och visar dem i en rullningsbar vy. Du kan sedan välja en ljudfil och ange starttid och varaktighet av varje mindre ljud fil(er) som du skapade. Denna app kommer sedan automatiskt skapa mindre ljud filer, med ett annat namn beroende på vilken starttid (i sekunder) att mindre ljud-fil.
+    </string>
+</resources>

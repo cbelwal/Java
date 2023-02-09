@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">File Browser</string>
+  <string name="activity_main">File Browser</string>
+  <string name="message_tellafriend">Ini coju.mobi file browser memiliki semua kemampuan yang Anda pernah ingin di browser Android file. It\'s mudah untuk menggunakan antarmuka membuat perbedaan antara file dan folder dengan latar belakang yang berbeda warna dengan file/folder tanpa akses baca di latar belakang merah. \n app memungkinkan Anda untuk memilih beberapa file/folder dan menghapusnya dengan satu tekan. File yang dipilih dan folder juga akan dibagi dengan teman dengan mengirimkan mereka melalui email, atau memasukkannya ke dalam Google cloud. Anda juga memiliki pilihan untuk menempatkan beberapa file dan folder dalam satu file ZIP dan mengirimkannya melalui email.
+</string>
+</resources>

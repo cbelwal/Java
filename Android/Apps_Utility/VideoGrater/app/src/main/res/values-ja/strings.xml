@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">ビデオのおろし金</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">いくつかの動画が表示されない場合は左のメニューから別の検索オプションを試みます</string>
+  <string name="message_tellafriend">Coju.mobi ビデオおろし金アプリから抽出できるまだ画像 (PNG 形式) でどんなビデオ ・ ファイル (MP4、3 gp、WEBM 形式をサポート)。あなたのデバイスですべてのビデオ ファイルの単純なユーザー インターフェイスの検索があり、スクロール可能なビューでそれらを一覧表示されます。ビデオ ファイルを選択し、ビデオで何時から写真を抽出するかを指定できます。写真および時間間隔の数を指定することによって、一度に複数の画像を抽出することも。
+
+        抽出された静止画像デバイスのストレージに保存することができますまたは他のユーザーと共有することができます電子メールまたはテキスト メッセージを使用しています。抽出された画像は、クラウドにも格納できます。
+    </string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_tellafriend">Z tej aplikacji, możesz widok zainstalowanych aplikacji przez rozmiar, zainstalowany Data, aktualizacja daty itp.
+            Możesz również sprawdzić uprawnienia zabezpieczeń każdej aplikacji w urządzeniu, w tym te wstępnie zainstalowane przez Google i urządzenia manufacturer.\n\nThrough tej aplikacji zainstalowanych aplikacji można wysłać do znajomych za pośrednictwem wiadomości, e-mail lub chmury, a następnie można zainstalować go na swoich urządzeniach. Ta aplikacja generuje również szczegółowy raport o każdej aplikacji zainstalowanej w urządzeniu.</string>
+</resources>

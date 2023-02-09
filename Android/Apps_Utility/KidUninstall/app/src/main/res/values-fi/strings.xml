@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Lapsi o-kirjain Uninstall</string>
+  <string name="progressbar_load_data">Ladataan apps...</string>
+  <string name="message_share_link_suffix">Lähetetään lapsi o-kirjain Uninstall</string>
+  <string name="message_tellafriend">Jos sinulla on lapsia, te tiedätte, mitä tapahtuu, kun annamme heille puhelimitse tai tablettia. Ne ladata peli, joka käyttää vain kerran ja sitten ne siirtyä seuraavaan peliin, joka ladataan liian, näin täyttämättä muistiin pelejä ja niiden kuvakkeet. \n tämä ohjelma auttaa sinua näyttää kaikki äskettäin asennetut sovellukset ja poista ne kerralla (sinun on vahvistettava kunkin poistaa erikseen).
+     Mene eteenpäin, kokeilla tätä ja antaa laitteen lastesi enää pelkää.</string>
+</resources>

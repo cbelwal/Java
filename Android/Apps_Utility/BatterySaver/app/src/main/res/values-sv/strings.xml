@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Akut batterisparfunktionen</string>
+  <string name="message_share_link_suffix">Skickas via Dasmic batteri sparare app</string>
+  <string name="message_tellafriend">Denna app med automatiskt stoppa alla appar som körs och kommer att inaktivera WiFi och Bluetooth sparar batteri i enheten.
+        Med denna app kan du även Visa installerade appar efter storlek, installerat datum, uppdaterad datum etc.
+            Du kan också kontrollera säkerhetsbehörigheter för varje app i enheten inklusive de förinstallerade genom Google och enhet manufacturer.\n\nThrough denna app kan du skicka installerade appen till vänner via meddelande, e-post eller molnet och de kan sedan installera det på sina enheter. Denna app även genererar en detaljerad rapport om varje app installerat i enheten.</string>
+</resources>

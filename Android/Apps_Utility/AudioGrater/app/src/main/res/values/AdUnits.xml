@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Test Ad Unit Banner: ca-app-pub-3940256099942544/6300978111 -->
+    <!-- Test Ad Unit IS: ca-app-pub-3940256099942544/1033173712 -->
+    <string name="Main_banner_ad_unit_id">ca-app-pub-9753635985824736/3788238090</string>
+    <string name="ad_main_is_id">ca-app-pub-9753635985824736/7530088273</string>
+</resources>

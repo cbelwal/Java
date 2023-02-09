@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kid-O-Uninstall</string>
+    <string name="progressbar_load_data">Loading apps ...</string>
+    <string name="message_share_link_suffix">Sent via Kid-O-Uninstall</string>
+     <string name="message_tellafriend">If you have kids, you know what
+         happens when we give them our phone or tablets. They will download
+     a  game which they use only once and then they move on to the next game which
+     is downloaded too, this way cluttering the device memory
+         with games and their icons.\n
+     This app helps you look at all newly installed apps, and uninstall them
+     at one go (You do have to confirm each uninstall individually).
+     Go ahead, try this out and not be afraid of giving your device to your kids
+         anymore.</string>
+
+</resources>

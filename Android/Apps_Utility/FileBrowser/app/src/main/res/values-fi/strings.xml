@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">File Browser</string>
+  <string name="activity_main">File Browser</string>
+  <string name="message_tellafriend">Coju.mobi tiedosto selaimessa on kaikki valmiudet olet koskaan halunnut Android tiedostoselain. Helppokäyttöinen käyttöliittymä erotetaan toisistaan tiedostoja ja kansioita eri taustavärejä tiedostot/kansiot ilman lukuoikeus on punainen tausta. \n app voit valita useita tiedostoja/kansioita ja poistaa ne yhdellä napautuksella. Valitut tiedostot ja kansiot voidaan myös jakaa ystävä lähettämällä niitä sähköpostitse tai laitat sen Google cloud. Sinulla on myös mahdollisuus asettaa useita tiedostoja ja kansioita yhtenä ZIP-tiedoston ja lähettää ne sähköpostitse.
+</string>
+</resources>

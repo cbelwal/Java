@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Âm thanh vắt</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="startup_message">Nếu một số tập tin âm thanh không thể nhìn thấy, cố gắng tìm một tùy chọn từ menu bên trái</string>
+  <string name="message_tellafriend">Các ứng dụng âm thanh vắt coju.mobi™ tạo ra tệp âm thanh nhỏ (trong định dạng M4A) từ bất kỳ tập tin âm thanh lớn (hỗ trợ định dạng M4A, MP3, WAV và OGG). Đô thị này có tìm kiếm giao diện người dùng đơn giản cho tất cả các file âm thanh trong điện thoại của bạn và liệt kê chúng trong một chế độ xem cuộn. Sau đó, bạn có thể chọn một tập tin âm thanh và ghi rõ thời gian bắt đầu và thời gian mỗi bạn muốn tạo ra (các) tệp âm thanh nhỏ hơn. Ứng dụng này sẽ sau đó sẽ tự động tạo tệp âm thanh nhỏ hơn, với một tên khác nhau tùy thuộc vào thời gian bắt đầu (trong giây) của tập tin âm thanh nhỏ hơn.
+    </string>
+</resources>

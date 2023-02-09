@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Video Grater</string>
+    <string name="app_name_small">VideoGrater</string>
+    <string name="startup_message">If some videos are not visible, try another search option from the left menu</string>
+    <string name="message_tellafriend">The coju.mobi Video Grater app can extract
+        still pictures (in PNG format) from any video file (MP4,3GP and WEBM formats are supported). It’s simple user interface searches for all video files in your
+        device and lists them in scrollable view. You can then select a video file
+        and specify from what time in the video you want to extract pictures. You
+        can also extract multiple pictures at a time by specifying the number of
+        pictures and time separation between them.
+
+        The extracted still pictures can be saved in device storage or can be shared
+        with others using email or text messages. You can also store the extracted
+        images in the cloud.
+    </string>
+</resources>

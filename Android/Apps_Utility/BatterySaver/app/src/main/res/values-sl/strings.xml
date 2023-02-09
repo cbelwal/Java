@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Sili topniška jedinica dober gospodar</string>
+  <string name="message_share_link_suffix">Poslano Dasmic topniška jedinica dober gospodar app</string>
+  <string name="message_tellafriend">Ta app z samodejno ustavi vsi tekmovanje v teku apps in hoteti onesposobiti WiFi in Bluetooth reševanje topniška jedinica sila v napravi.
+        S tem app boste lahko tudi pogled nameščene aplikacije po velikosti, nameščen datum, posodobljeno datum itd.
+            Lahko tudi preverite varnostna dovoljenja za vsak app v napravi, vključno s tistimi, ki jih je vnaprej nameščen Google in naprava manufacturer.\n\nThrough je to app nameščen app lahko pošljete prijateljem preko vest, email ali oblak in jih potem lahko namestite na svoj načrt. To app tudi ustvarja podrobno poročilo o vsaki app nameščen v napravi.</string>
+</resources>

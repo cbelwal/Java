@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video rallador</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="startup_message">Si algunos videos no son visibles, probar con otra opción de búsqueda desde el menú de la izquierda</string>
+  <string name="message_tellafriend">La aplicación de Video rallador coju.mobi puede extraer todavía imágenes (formato PNG) de cualquier archivo de vídeo (formatos MP4, 3GP y WEBM son compatibles). Es simple usuario interfaz busca en todos los archivos de vídeo en su dispositivo y muestra en la vista de desplazamiento. Entonces puede seleccionar un archivo y especificar desde qué momento en el video que desea extraer imágenes. También puede extraer varias imágenes a la vez, especificando el número de cuadros y la separación de tiempo entre ellos.
+
+        Las imágenes fijas extraídas pueden guardarse en el almacenamiento del dispositivo o pueden compartirse con otras personas mediante correo electrónico o mensajes de texto. También puede guardar las imágenes extraídas en la nube.
+    </string>
+</resources>

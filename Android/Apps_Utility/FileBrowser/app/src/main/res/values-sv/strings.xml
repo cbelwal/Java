@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Filläsaren</string>
+  <string name="activity_main">Filläsaren</string>
+  <string name="message_tellafriend">Denna coju.mobi fil webbläsare har alla funktioner du någonsin velat i en Android filhanterare. Det är lätt att använda gränssnitt gör en åtskillnad mellan filer och mappar med olika bakgrundsfärger med filer/mappar utan läsbehörighet i en röd bakgrund. \n appen låter dig välja flera filer/mappar och ta bort dem med ett enda tryck. Valda filer och mappar kan också delas med vän genom att skicka dem via e-post, eller att sätta den i Google cloud. Du har också möjlighet att sätta flera filer och mappar i en enda ZIP-fil och skicka dem via e-post.
+</string>
+</resources>

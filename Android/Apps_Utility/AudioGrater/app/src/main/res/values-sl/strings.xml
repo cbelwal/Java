@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Avdio Rende</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="startup_message">Če nekaj zvočnih datotek ne vidite, poskusite drugo možnost iskanja iz levega menija</string>
+  <string name="message_tellafriend">Coju.mobi™ Audio Rende app ustvarja manjše avdio datoteke (v obliki M4A) od poljuben velik slišan pila (M4A, MP3, WAV in OGG formati so podprti). To je preprost uporabniški vmesnik išče vse zvočne datoteke v napravi in jih prikažete v premikate pogled. Nato lahko izberete zvočno datoteko in določite čas začetka in trajanje vsakega manjši avdio datoteke želite zagnati krik in vik. Ta app bo nato samodejno ustvari manjše zvočne datoteke, z drugim imenom glede na začetek čas (v sekundah) te manjše zvočne datoteke.
+    </string>
+</resources>

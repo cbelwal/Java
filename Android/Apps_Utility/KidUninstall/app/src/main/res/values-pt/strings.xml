@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Garoto-O-desinstalar</string>
+  <string name="progressbar_load_data">Carregar aplicativos...</string>
+  <string name="message_share_link_suffix">Enviados via miúdo-O-desinstalar</string>
+  <string name="message_tellafriend">Se você tem filhos, você sabe o que acontece quando damos nosso telefone ou comprimidos. Eles vão baixar um jogo que eles usam apenas uma vez e depois eles passa para o próximo jogo que é baixado também, desta forma desordenar o dispositivo de memória com jogos e seus ícones. \n este aplicativo ajuda você a olhar instalados recentemente em todos os apps e desinstalá-los de uma só vez (você tem que confirmar cada desinstalar individualmente).
+     Vá em frente, experimentar e não tenha medo de dar o seu dispositivo para seus filhos mais.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Failu pārlūks</string>
+  <string name="activity_main">Failu pārlūks</string>
+  <string name="message_tellafriend">Šī coju.mobi failu pārlūks ir visas iespējas, ko jebkad vēlējāties Android failu pārlūkprogrammā. Viegli lietojams interfeiss padara atšķirība starp failus un mapes ar dažādām fona krāsas ar failus/mapes bez lasīšanas piekļuvi ir sarkans fons. \n app ļauj atlasīt vairākus failus/mapes un izdzēst tos ar vienu pieskārienu. Atlasītos failus un mapes var arī koplietot ar draugu, nosūtot tos pa e-pastu, vai ievietojot to Google mākonis. Jums ir arī iespēja nodot vairākus failus un mapes vienā ZIP failā vai nosūtot tos pa e-pastu.
+</string>
+</resources>

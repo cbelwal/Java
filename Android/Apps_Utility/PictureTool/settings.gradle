@@ -1,0 +1,5 @@
+include ':app'
+include ':picturelib'
+include ':support'
+project(':picturelib').projectDir=new File("..\\..\\Libraries\\picturelib\\app")
+project(':support').projectDir=new File("..\\..\\Libraries\\support\\support")

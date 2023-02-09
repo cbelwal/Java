@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">オーディオのおろし金</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="startup_message">一部のオーディオ ファイルが表示されない場合は左のメニューから別の検索オプションを試みます</string>
+  <string name="message_tellafriend">Coju.mobi™ オーディオおろし金アプリ任意の大きいオーディオ ファイルから (M4A 形式) の小さいオーディオ ファイルを作成します (M4A, MP3、WAV および OGG 形式をサポート)。シンプルなユーザー インターフェイス デバイス内のすべてのオーディオ ファイルを検索、スクロール可能なビューでそれらを一覧表示されます。オーディオ ファイルを選択し、開始時刻とのそれぞれの小さいオーディオ ファイルを作成する期間を指定することができます。その後、このアプリは自動的に小さいオーディオ ファイルの秒単位で開始時刻に応じて別の名前で小さいオーディオ ファイルを作成します。
+    </string>
+</resources>

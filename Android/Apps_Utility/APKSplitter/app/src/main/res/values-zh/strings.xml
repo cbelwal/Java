@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">APK 查看器</string>
+  <string name="message_tellafriend">使用此应用程序, 您可以查看安装的应用程序大小, 安装日期, 更新日期等。
+            您还可以检查设备中每个应用程序的安全权限, 包括 Google 和设备制造商预先安装的程序. \n nThrough 这个应用程序, 你可以通过邮件、电子邮件或云将安装的应用程序发送给朋友, 然后他们就可以安装它了。在他们的设备上。此应用程序还会生成有关安装在您的设备中的每个应用程序的详细报告。</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Çocuk O kaldırma</string>
+  <string name="progressbar_load_data">Uygulamalar yükleniyor...</string>
+  <string name="message_share_link_suffix">Çocuk-O-kaldırmak gönderilen</string>
+  <string name="message_tellafriend">Çocuklarınız varsa, bizim telefon veya Tablet biz onlara zaman ne olduğunu biliyorsun. Onlar sadece bir kez kullanabilecek ve sonra çok indirilen sonraki maça devam bir oyun indireceksiniz, oyunlar ve onların simgeleri. \n cihaz hafızasına yığılan bu şekilde bu app tüm yeni yüklenen apps bakmak ve uninstall onları vasıl bir gitmek yardımcı olur (her onaylamanız gerekir tek tek kaldırın).
+     Devam et, denemek bu dışarı ve aygıtınızı çocuklarına artık vermekten korkmak değil.</string>
+</resources>

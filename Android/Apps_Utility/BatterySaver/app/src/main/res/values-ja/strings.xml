@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">緊急時のバッテリー セーバー</string>
+  <string name="message_share_link_suffix">Dasmic バッテリー経由で送信セーバー アプリ</string>
+  <string name="message_tellafriend">このアプリは自動的にすべての実行中のアプリケーションを停止して、WiFi と Bluetooth デバイスのバッテリ電源の節約を無効に。
+        こともこのアプリでビューはサイズによってアプリをインストール、インストール日付、更新日など。
+            このアプリが Google とデバイスの manufacturer.\n\nThrough によってそれらを含む、デバイスの各アプリケーションのセキュリティ アクセス許可がプリインストールされたを確認することもメッセージ、電子メール、またはクラウド経由で友人にインストール済みのアプリを送信することができ、自分のデバイスにインストールできます。このアプリは、お使いのデバイスにインストールされている各アプリケーションの詳細なレポートを生成します。</string>
+</resources>

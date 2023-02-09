@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Audio Grater</string>
+    <string name="app_name_small">AudioGrater</string>
+    <string name="startup_message">If some audio files are not visible, try another search option from the left menu</string>
+    <string name="message_tellafriend">The coju.mobi™ Audio Grater app creates smaller audio file(s)
+        (in M4A format) from any large audio file (M4A, MP3, WAV and OGG formats
+        are supported). It’s simple user interface searches for all audio files
+        in your device and lists them in a scrollable view. You can then select
+        an audio file and specify the start time and duration of each smaller
+        audio file(s) you want created. This app will then automatically create
+        the smaller audio file(s), with a different name depending on the start
+        time (in seconds) of that smaller audio file.
+    </string>
+</resources>

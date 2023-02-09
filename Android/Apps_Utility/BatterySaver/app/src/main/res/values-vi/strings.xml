@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Khẩn cấp pin Saver</string>
+  <string name="message_share_link_suffix">Gửi qua Dasmic Battery Saver app</string>
+  <string name="message_tellafriend">Ứng dụng này với tự động ngăn chặn tất cả các ứng dụng đang chạy và sẽ vô hiệu hóa WiFi và Bluetooth tiết kiệm năng lượng pin trong thiết bị của bạn.
+        Với ứng dụng này, bạn cũng có thể xem cài đặt ứng dụng bằng cách kích thước, cài đặt ngày, Cập Nhật ngày vv.
+            Bạn cũng có thể kiểm tra quyền bảo mật của mỗi ứng dụng trong thiết bị của bạn bao gồm các cài đặt sẵn bởi Google và thiết bị manufacturer.\n\nThrough ứng dụng này bạn có thể gửi cho các ứng dụng được cài đặt cho bạn bè qua tin nhắn, email hoặc đám mây và họ sau đó có thể cài đặt nó trên thiết bị của họ. Ứng dụng này cũng tạo ra một báo cáo chi tiết về từng ứng dụng được cài đặt trong điện thoại của bạn.</string>
+</resources>

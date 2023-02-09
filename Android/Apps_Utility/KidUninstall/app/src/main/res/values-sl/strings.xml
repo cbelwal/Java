@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Otrok-O-Uninstall</string>
+  <string name="progressbar_load_data">Nalaganje aplikacije...</string>
+  <string name="message_share_link_suffix">Poslano odstraniti otrok O</string>
+  <string name="message_tellafriend">Če imate otroke, veš, kaj se zgodi, ko smo jim naš telefon ali tablet. Bodo prenesete igro, ki jih uporabljajo samo enkrat in se premaknite na naslednjo tekmo, ki je preveč prenesli, tod nereda v pomnilniku naprave s igre in njihove ikone. \n to app vam pomaga, da pogled na vse novo nameščeni apps, in jih naenkrat odstraniti (boste morali potrditi vsako odstranite posamezno).
+     Nadaljujte, začeti to jasno ter ne bojte več daje napravi za svoje otroke.</string>
+</resources>

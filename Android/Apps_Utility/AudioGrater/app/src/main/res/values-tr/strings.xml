@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Ses rende</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="startup_message">Bazı ses dosyaları görünür değilse, sol menüden başka bir arama seçeneği deneyin</string>
+  <string name="message_tellafriend">Coju.mobi™ ses rende app daha küçük ses dosyasında (M4A biçimi) büyük herhangi bir ses dosyası oluşturur (M4A, MP3, WAV ve OGG formatları desteklenir). Bu basit kullanıcı arayüzü cihazınızdaki tüm ses dosyaları arar ve onları kaydırılabilir bir görünümde listeler. Sonra bir ses dosyası seçin ve başlangıç saati ve her küçük ses dosyaları oluşturulan istediğiniz süreyi belirtin. Bu app, o küçük ses dosyası başlangıç saati (saniye cinsinden) bağlı olarak farklı bir adla ardından daha küçük ses dosyaları otomatik olarak oluşturur.
+    </string>
+</resources>

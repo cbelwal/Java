@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Nødsituation strømsparetilstand</string>
+  <string name="message_share_link_suffix">Afsendte via Dasmic batteri Saver app</string>
+  <string name="message_tellafriend">Denne app med automatisk stop alle kørende programmer og vil deaktivere WiFi og Bluetooth-spare strøm på batteriet i din enhed.
+        Med denne app kan du også se installeret apps af størrelse, installeret dato, opdateret dato osv.
+            Du kan også tjekke sikkerhedstilladelserne for hver app i din enhed, herunder pre-installeret af Google og enhed manufacturer.\n\nThrough denne app kan du sende den installerede app til venner via besked, email eller Sky og de kan derefter installere det på deres enheder. Dette app også genererer en detaljeret rapport om hver app installeret på enheden.</string>
+</resources>

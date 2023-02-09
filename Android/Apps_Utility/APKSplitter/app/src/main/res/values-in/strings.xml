@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">APK Viewer</string>
+  <string name="message_tellafriend">Dengan aplikasi ini Anda dapat lihat memasang apl dengan ukuran, diinstal tanggal, diperbarui tanggal dll.
+            Anda juga dapat memeriksa izin keamanan dari setiap aplikasi di perangkat Anda termasuk pra-instal oleh Google dan perangkat manufacturer.\n\nThrough aplikasi ini Anda dapat mengirim aplikasi diinstal ke teman-teman melalui pesan, email atau awan dan mereka kemudian dapat menginstalnya pada perangkat mereka. Aplikasi ini juga menghasilkan laporan terperinci mengenai setiap aplikasi yang diinstal pada ponsel.</string>
+</resources>

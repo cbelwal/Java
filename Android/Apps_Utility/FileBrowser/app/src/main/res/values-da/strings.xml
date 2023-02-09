@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Filbrowser</string>
+  <string name="activity_main">Filbrowser</string>
+  <string name="message_tellafriend">Denne coju.mobi Filbrowser har alle de funktioner, du nogensinde ønsket i en Android Filbrowser. Det er let at bruge interface gør en skelnen mellem filer og mapper med forskellige baggrundsfarver med filer/mapper uden læseadgang er i en rød baggrund. \n app gør det muligt at vælge flere filer/mapper og slette dem med et enkelt tryk. Udvalgte filer og mapper kan også deles med ven ved at sende dem med e-mail, eller at sætte det i Google Sky. Du har også mulighed for at sætte flere filer og mapper i en enkelt zipfil og sende dem via e-mail.
+</string>
+</resources>

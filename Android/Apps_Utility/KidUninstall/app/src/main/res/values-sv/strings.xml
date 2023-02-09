@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Barn-O-avinstallera</string>
+  <string name="progressbar_load_data">Laddar apps...</string>
+  <string name="message_share_link_suffix">Skickas via barn-O-avinstallera</string>
+  <string name="message_tellafriend">Om du har barn, vet du vad som händer när vi ger dem vårt telefon eller tabletter. De kommer att ladda ner ett spel som de använder endast en gång och sedan de gå vidare till nästa omgång som hämtas också, detta sätt belamra enhetens minne med spel och deras ikoner. \n denna app hjälper dig att titta på alla nyinstallerade program och avinstallera dem på en gång (du behöver bekräfta varje avinstallera individuellt).
+     Varsågod, prova det här och inte vara rädd för att ge enheten till dina barn längre.</string>
+</resources>
