@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Seçili arama günlükleri sayısı: </string>
+  <string name="text_bt_paired_devices"> Eþleþtirilmiþ cihazlar (Connect seçim)</string>
+  <string name="text_bt_new_devices"> Yeni aygıtlar (Connect seçim)</string>
+  <string name="message_bt_scan_devices">Aygıtlarını tarama...</string>
+  <string name="message_bt_scan_complete">Bitmiş tarama cihazlar için</string>
+  <string name="message_bt_pair_devices">Aygıt eşleştirme...</string>
+  <string name="message_bt_new_none">Hiçbir yeni aygıtı bulunmadı</string>
+  <string name="message_bt_pair_none">Hiçbir Eþleþtirilmiþ cihazlar bulundu</string>
+  <string name="message_bt_conn_lost">Bağlantı aygıtına kaybetti</string>
+  <string name="message_bt_connecting">Bağlama: </string>
+  <string name="message_bt_not_enabled">Etkin değilse, Bluetooth Bluetooth aktarım kapatma</string>
+  <string name="message_bt_status_listening">Dinleme...</string>
+  <string name="message_bt_status_connecting">Bağlanılıyor...</string>
+  <string name="message_bt_status_connected">Bağlı</string>
+  <string name="message_bt_testdata_sent">Gönderilen Testdata</string>
+  <string name="message_bt_no_contacts">Göndermek için seçilen kişi</string>
+  <string name="message_bt_recv_complete">Tam veri almak</string>
+  <string name="message_bt_not_connected">Herhangi bir cihaza bağlı değil</string>
+  <string name="message_bt_adapter_error">Bluetooth bir hata ayarlama yapıldı.
+            Lütfen telefonunuzu Bluetooth vardır ve Bluetooth bağdaştırıcısının etkin olduğunu denetleyin</string>
+  <string name="menu_bt_make_discoverable">Aygıtı bulunabilir duruma getirin</string>
+  <string name="progressbar_bt_recv_data">Kişi verileri almak için hazır...</string>
+  <string name="message_bt_connected">Aygıta bağlı.
+        \'Send\ basın \' çağrısı günlükleri için aktarmak için: </string>
+  <string name="message_bt_conn_failed">Bağlantı aygıtı için başarısız oldu.
+    Lütfen bu app yüklü ve Bluetooth ekran açık içinde sigorta: </string>
+  <string name="message_bt_sent_error">Bu sayıda arama günlükleri aktaramadı: </string>
+  <string name="message_bt_recv_error">Bu sayıda arama günlükleri oluşturulamadı: </string>
+  <string name="message_bt_create_complete">Alınan arama günlükleri oluşturma: </string>
+  <string name="message_bt_sent_complete">aygıta gönderilen günlükleri arayın: </string>
+  <string name="progressbar_bt_send_data">Arama günlükleri aktarma </string>
+  <string name="progressbar_bt_bytes">bayt </string>
+  <string name="progressbar_bt_create_contacts">Arama günlükleri oluşturma</string>
+  <string name="progressbar_delete_data">
+        Arama günlükleri silme </string>
+  <string name="button_scan">İnceden inceye gözden geçirmek</string>
+  <string name="button_send">Gönder</string>
+</resources>

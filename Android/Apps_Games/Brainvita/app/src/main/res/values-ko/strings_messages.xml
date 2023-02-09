@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">축 하 합니다, 당신은 높은 점수를가지고!</string>
+  <string name="message_game_end_new_game">현재 게임이입니다! 당신이 새로운 게임을 시작 하려는 것입니다?</string>
+  <string name="message_custom_board">속도 못 하는 빈 구멍에 누릅니다. 완료 되 면 잠금 버튼을 누릅니다</string>
+  <string name="message_custom_board_done">사용자 정의 보드 설정, 재생을 시작할 수 있습니다.
+    참고 사용자 지정 보드에 대 한 높은 점수 기록 되지 않습니다</string>
+  <string name="message_intro_first">
+        다른 못 뛰어 직선에서 사용할 수 있는 구멍에 말뚝을 이동
+    </string>
+  <string name="message_intro_second">못 뛰어 제거</string>
+  <string name="message_intro_third">가능한 많은 나무 못을 제거 하려고</string>
+  <string name="message_intro_fourth">목표는 단 1 못 남은 지</string>
+  <string name="message_board_reset_confirm">이 현재 보드를 취소 합니다. 당신이 진행 하 시겠습니까?</string>
+  <string name="message_game_over">더 이상 이동은 가능 합니다. 게임이입니다!</string>
+  <string name="message_solver_complete">해 찾기 보드 이동 하 고 진보한 버튼 pegs.\n\nUse의 최소 수로 이어질 움직임 계산 했다.</string>
+  <string name="message_solver_complete_free">해 찾기 구슬의 최소 수로 이어질 움직임 계산 했다. 이 무료 버전 이기 때문에는 해 찾기 3 구슬만 최소한으로 선도 하는 솔루션을 찾을 수 있습니다. 유료 버전에는 해 찾기 1 peg.\n\nUse와 솔루션 진보한 버튼 보드 이동 볼을 찾을 수 있습니다.
+    </string>
+  <string name="message_solver_complete_title">못과 솔루션을 발견: </string>
+  <string name="message_solver_inprogress_title">솔루션에 대 한 검색...</string>
+  <string name="message_solver_inprogress">현재 가장 낮은 말뚝 개수: </string>
+  <string name="message_solver_start_confirm">현재 보드에 따라는 해 찾기 컴퓨팅 솔루션 못의 최소 숫자에 몇 분 몇 초 걸릴 수 있습니다.
+    이후는 해 찾기는 계산을 많이, 그것은 배터리 전원을 고갈 됩니다 합니다.
+        충전은 해 찾기 시작 하기 전에 귀하의 휴대 전화를 배치 하는 것이 좋습니다.
+    해 찾기 실행 언제 든 지 중지 시킬 수 있습니다 하는 동안 최신 페그 결과 사용할 수 있을 것입니다.</string>
+  <string name="message_solver_mode_play_board">
+        찾기 모드에서 게임을 재생할 수 없습니다. 새로운 게임 새로운 게임을 시작을 선택합니다</string>
+  <string name="message_confirm_switch_from_standard">
+        현재 보드는 표준으로 설정 되어, 프랑스 보드로 변경 하 시겠습니까?</string>
+  <string name="message_confirm_switch_from_French">
+        현재 보드는 프랑스어로 설정 되어, 표준 보드를 변경 하 시겠습니까?</string>
+</resources>

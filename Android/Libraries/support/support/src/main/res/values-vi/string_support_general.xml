@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic, LLC</string>
+  <string name="feedback_no_email">Các khách hàng email không tìm thấy</string>
+  <string name="button_yes">Có</string>
+  <string name="button_no">Không</string>
+  <string name="nav_menu_help_doc">Tài liệu trợ giúp</string>
+  <string name="button_rate_never">Không bao giờ</string>
+  <string name="button_rate_later">Sau đó</string>
+  <string name="button_rate_now">Bây giờ</string>
+  <string name="title_rate_this_app">Vui lòng đánh giá ứng dụng này</string>
+  <string name="title_feedback">Chọn tùy chọn email...</string>
+  <string name="title_demo_video">Demo Video</string>
+  <string name="title_tellafriend">Nói cho một người bạn thông qua...</string>
+  <string name="title_send_feedback">Liên hệ với chúng tôi</string>
+  <string name="title_rate_app">Tỷ lệ ứng dụng</string>
+</resources>

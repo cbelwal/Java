@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">Condición</string>
+  <string name="filter_text_option">Opciones</string>
+  <string name="filter_text_value_days">Días</string>
+  <string name="filter_text_value_duration">Duraciones</string>
+  <string name="filter_text_value_location">Ubicación</string>
+  <string name="filter_options_from_stored_contacts">De los contactos almacenados</string>
+  <string name="filter_options_more_than_entered_days">Más que días</string>
+  <string name="filter_options_less_than_entered_days">Menos de días</string>
+  <string name="filter_options_more_than_duration">Más de duración</string>
+  <string name="filter_options_less_than_duration">Menos de duración</string>
+  <string name="filter_options_from_entered_location">De ubicación</string>
+  <string name="filter_options_none">Sin filtro</string>
+  <string name="filter_show_show">Mostrar</string>
+  <string name="filter_show_noshow">No muestran</string>
+</resources>

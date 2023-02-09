@@ -1,0 +1,41 @@
+<resources>
+    <string name="message_high_score">Congratulations, you got a high score !</string>
+
+    <string name="message_game_end_new_game">Current game is up! Will you like to start a new game ?</string>
+    <string name="message_custom_board">Tap on empty holes to pace a peg. Tap
+    the lock button when complete</string>
+    <string name="message_custom_board_done">Custom board is setup, you can start playing.
+    Note that high scores for custom boards are not recorded</string>
+    <string name="message_intro_first">
+        Move a peg to an available hole in a straight line jumping over another peg
+    </string>
+    <string name="message_intro_second">The peg jumped over is removed</string>
+    <string name="message_intro_third">Try to remove as many pegs as possible</string>
+    <string name="message_intro_fourth">Getting only 1 peg remaining is the goal</string>
+    <string name="message_board_reset_confirm">This will cancel the current board. Do you want to proceed ?</string>
+    <string name="message_game_over">No more moves are possible. Game is up !</string>
+    <string name="message_solver_complete">Solver has computed the moves
+    that lead to a minimum number of pegs.\n\nUse the Forward button to see the board moves.</string>
+    <string name="message_solver_complete_free">Solver has computed the moves
+    that lead to a minimum number of pegs. Since this is a free version,
+    the solver can find a solution leading to a minimum of 3 pegs only. In the paid version
+    the solver can find a solution with 1 peg.\n\nUse the Forward button to see the board moves.
+    </string>
+    <string name="message_solver_complete_title">Found solution with pegs: </string>
+    <string name="message_solver_inprogress_title">Searching for solution ...</string>
+    <string name="message_solver_inprogress">Current lowest peg count: </string>
+
+    <string name="message_solver_start_confirm">Depending on the current board, the Solver may take
+    a few seconds to several minutes in computing a solution with least number of pegs.
+    Since the Solver does a lot of computations, it will deplete battery power.
+        It is advised that you put your phone on charge before starting the solver.
+    While running the Solver can be stopped at any time and latest peg result
+        will be available.</string>
+    <string name="message_solver_mode_play_board">
+        Cannot play game in solver mode. Select New Game to start a new game</string>
+
+    <string name="message_confirm_switch_from_standard">
+        Current board is set to Standard, do you want to change to French board ?</string>
+    <string name="message_confirm_switch_from_French">
+        Current board is set to French, do you want to change to Standard board ?</string>
+</resources>

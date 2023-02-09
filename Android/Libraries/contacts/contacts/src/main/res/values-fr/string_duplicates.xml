@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Nom + match numéro WhatsApp</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">Même nombre de WhatsApp dans plusieurs noms de</string>
+  <string name="duplicate_options_name_matches_email_phone">Nom + match de téléphone/Courriel</string>
+  <string name="duplicate_options_name_matches_phone">Nom + match de téléphone</string>
+  <string name="duplicate_options_name_matches_email">Nom + correspondance par courriel</string>
+  <string name="duplicate_options_same_number_multi_name">Même numéro, plusieurs noms de</string>
+  <string name="duplicate_options_same_email_multi_name">Même courriel à plusieurs noms de</string>
+  <string name="duplicate_options_none">Aucun</string>
+  <string name="progressbar_sel_duplicates">Recherche de doublons...</string>
+  <string name="message_duplicates_selected">Pour supprimer duplicate(s) sélectionnée Appuyez sur l’icône de suppression. La valeur original(master) pour chaque doublon n’est pas sélectionnée et n’est pas supprimée.</string>
+  <string name="choose_duplicate_option">Choisir le critère d’identification des doublons.
+        Doublons ainsi que leur valeur original(master) seront affichées dans l’écran principal et seront à la suppression automatique des contrôles. Valeur de original(Master) n’est pas vérifiée.</string>
+  <string name="startup_message">Utiliser la copie de l’icône en haut à droite pour définir l’option d’affichage des doublons</string>
+  <string name="message_duplicates_backup">Il est recommandé que vous sauvegardez vos contacts avant de les supprimer</string>
+</resources>

@@ -1,0 +1,51 @@
+<resources>
+
+    <string name="message_purchase_error">
+        Could not connect to Google server. Please restart app and try again
+    </string>
+    <string name="progressbar_load_data">Searching for video files ...</string>
+    <string name="message_selectitems">Atleast 1 selection is required</string>
+    <string name="message_activity_load_fail">Application could not be started</string>
+    <string name="message_activity_loading">Starting application ...</string>
+    <string name="message_other_permissions_missing">Requested permissions
+    are required for this feature to work. Please give requested permissions and try again
+    </string>
+    <string name="message_no_read_permission">No read permission
+    </string>
+    <string name="message_cannot_go_in">Could not go inside selected Folder
+    </string>
+    <string name="message_delete_confirm">Selected files(s) will be deleted. This action cannot be undone. Proceed ?</string>
+    <string name="progressbar_delete_data">
+        Deleting file(s) </string>
+    <string name="message_delete_complete"> file/folder(s) deleted</string>
+    <string name="message_free_version_selection">
+        Maximum files that can be selected in the free version is: </string>
+    <string name="message_max_allowed_one">
+        This option only works for a single selection  </string>
+    <string name="message_only_file">
+        This option only works for file(s)  </string>
+    <string name="message_copying_file">
+        Copying file ...  </string>
+    <string name="message_copy_complete">
+        File copy complete  </string>
+    <string name="message_copy_error">
+        Could not create a copy of some file(s). Make sure there is free space and you have write access to the folder.</string>
+    <string name="message_share_error">
+        An error was encountered during copy. Please check if you have enough storage space to cache shared file(s)  </string>
+    <string name="message_zipping_files">
+        Compressing file(s)/folder(s) ...  </string>
+    <string name="message_zipping_completed">
+        All file(s)/folder(s) moved to zip archive  </string>
+    <string name="message_zipping_error">
+        Could not zip the file(s)/folder(s). Please check if selected folder(s) are not empty
+    and you have sufficient storage space</string>
+
+    <string name="message_rename_complete">
+        Renaming of file/folder complete  </string>
+    <string name="message_rename_error">
+        Could not rename file/folder  </string>
+    <string name="message_create_folder_complete">
+        Folder created  </string>
+    <string name="message_create_folder_error">
+        Could not create folder  </string>
+</resources>

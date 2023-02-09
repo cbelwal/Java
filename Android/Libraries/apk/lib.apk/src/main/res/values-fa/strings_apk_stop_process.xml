@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">توقف در حال اجرا</string>
+  <string name="message_stop_tasks">متوقف کردن وظایف در حال اجرا...</string>
+  <string name="message_user_tasks_stopped">وظایف کاربر متوقف شد</string>
+  <string name="message_system_tasks_stopped">وظایف سیستم متوقف شد</string>
+  <string name="message_process_still_running">کارها هنوز هم در حال اجرا</string>
+  <string name="message_stop_running_tasks">جلوگیری از اجرای برنامه و بی سیم و بلوتوث نزدیک است؟</string>
+  <string name="message_stopping_running_tasks">متوقف کردن بلوتوث و بی سیم</string>
+  <string name="message_battery_current_percentage">فعلی % سطح باتری:</string>
+  <string name="message_no_user_process">هیچ کاربر در حال اجرا روند یافت</string>
+</resources>

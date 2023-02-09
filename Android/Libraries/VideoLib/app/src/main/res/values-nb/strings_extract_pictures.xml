@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Filnavn:</string>
+  <string name="text_ep_file_size">Størrelse:</string>
+  <string name="text_ep_modified_date">Endringsdato:</string>
+  <string name="text_ep_video_duration">Varighet:</string>
+  <string name="title_search_depth">Søkedybde (store verdier vil ta flere minutter)</string>
+  <string name="nav_menu_search_entire_phone">Søk hele telefonen</string>
+  <string name="nav_menu_search_media_folders">Søk media mappe(r)</string>
+  <string name="nav_menu_search_external_folders">Eksterne søkemapper</string>
+  <string name="progressbar_extracting_pictures">Utdrager bilder...</string>
+  <string name="text_ep_time_start">Starte time(seconds)</string>
+  <string name="text_ep_period">Intervallet mellom pictures(seconds)</string>
+  <string name="text_ep_no_of_pictures">Antall bilder</string>
+  <string name="text_ep_store">Lagre utdraget bilder som:</string>
+  <string name="text_ep_share_external">Plassere i ekstern mappe</string>
+  <string name="text_ep_share_app">Dele med programmer</string>
+  <string name="message_extract_complete"> bilde(r) er Hentet</string>
+  <string name="message_extract_error">Det oppstod en feil under utpakking av bilder</string>
+  <string name="message_search_depth_updated">Søkedybde ble oppdatert</string>
+  <string name="message_search_depth_error">Feil i oppdatering søkedybde</string>
+</resources>

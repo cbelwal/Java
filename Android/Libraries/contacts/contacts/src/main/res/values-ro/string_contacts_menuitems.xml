@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Generale</string>
+  <string name="nav_menu_group_help">ajutor</string>
+  <string name="nav_menu_group_viewoptions">Opţiuni</string>
+  <string name="nav_menu_group_views">Vizualizari</string>
+  <string name="nav_menu_group_operations">Operaţiuni</string>
+  <string name="nav_menu_group_backup">Copie de rezervă</string>
+  <string name="nav_menu_rate_this_app">Feedback-ul</string>
+  <string name="nav_menu_backup_contacts">Copie de rezervă toate contactele</string>
+  <string name="nav_menu_restore_contacts">Restaura contactele din spate</string>
+  <string name="nav_menu_upgrade">Versiune de upgrade la Pro</string>
+  <string name="nav_menu_filter">Filtrul de afisare</string>
+  <string name="nav_menu_duplicates">Duplicate Toolkit</string>
+  <string name="nav_menu_tellafriend">Spuneţi-i unui prieten</string>
+  <string name="nav_menu_feedback">Contact Dasmic</string>
+  <string name="nav_menu_demovideo">Demo Video</string>
+  <string name="nav_menu_coju_outlook">Coju pentru Microsoft Outlook</string>
+  <string name="nav_menu_coju">Download Coju</string>
+  <string name="display_options_all_TimesContacted">Sortate după ori contactat</string>
+  <string name="display_options_all_last_contact">Sortate după ultima data contact</string>
+  <string name="display_options_all">Sortare după numele</string>
+  <string name="display_options_phonenumber">Numere de telefon sunt sortate</string>
+  <string name="display_options_email">Adresele de E-mail sunt sortate</string>
+  <string name="display_options_deleted">Contacte şterse</string>
+  <string name="display_options_refresh">Reîmprospătare Display</string>
+  <string name="action_Operations">Actualizări în vrac</string>
+  <string name="action_Export">Exportaţi contactele</string>
+  <string name="action_delete">Şterge persoana de contact</string>
+  <string name="action_Import">Importa contactele</string>
+  <string name="action_edit">Editare Contact</string>
+  <string name="action_add">Adauga Contact</string>
+  <string name="action_share">Persoana de contact pe share</string>
+  <string name="action_bluetooth">Transferul Bluetooth</string>
+</resources>

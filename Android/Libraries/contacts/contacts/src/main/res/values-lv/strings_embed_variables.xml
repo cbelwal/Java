@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">Pievienota ierīcei.
+        Nospiediet \'Send\' pārsūtīt kontaktus: </string>
+  <string name="message_bt_conn_failed">Savienojums neizdevās ierīci.
+    Lūdzu, apdrošināt, ka šis app ir uzstādīta un Bluetooth ekrānu ir atvērts: </string>
+  <string name="message_bt_sent_error">Nevar pārsūtīt šo skaitu kontakts (i): </string>
+  <string name="message_bt_recv_error">Nevar izveidot šo skaitu kontakts (i): </string>
+  <string name="message_bt_create_complete">Izveidota saņemtā kontakts (i): </string>
+  <string name="message_bt_sent_complete">Kontaktpersonas, kas nosūtīts uz ierīci: </string>
+  <string name="progressbar_bt_send_data">Pārsūta unikālu kontakts (i) </string>
+  <string name="progressbar_bt_bytes">baiti </string>
+  <string name="progressbar_bt_create_contacts">Veidojot kontaktu (s) (kontakti ar attēlu ir nepieciešams vairāk laika)</string>
+  <string name="message_free_version_selection">
+        Maksimālais kontaktpersonām, ko var atlasīt bezmaksas versija ir: </string>
+  <string name="progressbar_delete_data">
+        Dzēšot unikālu kontakts (i) </string>
+</resources>

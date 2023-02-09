@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">Спирам тичане</string>
+  <string name="message_stop_tasks">Спиране на изпълняваните задачи...</string>
+  <string name="message_user_tasks_stopped">Потребителски задачи спря</string>
+  <string name="message_system_tasks_stopped">Системата задачи спря</string>
+  <string name="message_process_still_running">Задачите, които все още се изпълнява</string>
+  <string name="message_stop_running_tasks">Спирам тичане apps и затворете Bluetooth/Wireless?</string>
+  <string name="message_stopping_running_tasks">Спиране на Bluetooth и безжични</string>
+  <string name="message_battery_current_percentage">Текущи батерията ниво %:</string>
+  <string name="message_no_user_process">Не тичане процес потребител намерени</string>
+</resources>

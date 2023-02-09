@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Autorizzazione per effettuare chiamate non è stata concessa a questo app</string>
+  <string name="message_search_number_security_exception">Ricerca questo numero di telefono non riuscita! Ricerca di Google non è abilitata o autorizzazione non è stata concessa in questo dispositivo</string>
+  <string name="message_free_version_selection">
+        Le voci del registro di massima che possono essere selezionate nella versione gratuita è: </string>
+  <string name="message_purchase_error">
+        Impossibile connettersi al server di Google. Si prega di riavviare app e riprovare
+    </string>
+</resources>

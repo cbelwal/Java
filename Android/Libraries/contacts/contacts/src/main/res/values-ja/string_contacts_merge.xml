@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">連絡先の差し込み印刷</string>
+  <string name="action_merge">連絡先をマージします。</string>
+  <string name="message_merge_title">注意</string>
+  <string name="message_merge_confirm">選択した連絡先をマージしたいかどうかはご確認ください。電話番号、メール アドレス、住所、メモ、すべての選択した連絡先のイベントは、名前の 1 つの単一の連絡先にマージされます。</string>
+  <string name="message_merge_complete">選択した連絡先をマージされています</string>
+  <string name="progressbar_merge_data">連絡先をマージ.</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">بازی جدید</string>
+  <string name="button_switch_board">سوئیچ هیئت مدیره</string>
+  <string name="button_custom_board">تنظیم صفحه سفارشی</string>
+  <string name="button_high_scores">نمرات بالا</string>
+  <string name="button_rate_app">این بازی رتبه بدهید</string>
+  <string name="button_tell_a_friend">ارسال به دوستان</string>
+  <string name="button_paid_version">نسخه پرداخت شده</string>
+  <string name="button_help_documentation">راهنمای</string>
+  <string name="button_demo_video">نسخه ی نمایشی کلیپ</string>
+  <string name="button_ok">باشه</string>
+  <string name="button_yes">بله</string>
+  <string name="button_no">نه</string>
+  <string name="button_start">شروع</string>
+  <string name="button_cancel">لغو</string>
+  <string name="button_abort">سقط جنین</string>
+  <string name="button_high_score_close">بستن</string>
+  <string name="title_high_score">نمرات بالا ده بالا</string>
+  <string name="text_high_score_none">بدون امتیاز</string>
+  <string name="text_high_score_pegs">باقی مانده peg(s)</string>
+  <string name="text_high_score_time">زمان</string>
+</resources>

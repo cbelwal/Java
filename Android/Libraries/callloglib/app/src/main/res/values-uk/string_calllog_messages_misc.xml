@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Не було йому дозволено здійснювати дзвінки до цього застосунку</string>
+  <string name="message_search_number_security_exception">Не шукати цей номер телефону! Пошук Google не ввімкнуто або не було йому дозволено в цей пристрою</string>
+  <string name="message_free_version_selection">
+        Максимальна журнал записів, які можна вибрати у безкоштовній версії є: </string>
+  <string name="message_purchase_error">
+        Не вдалося підключитися до сервера Google. Будь ласка, перезапустіть застосунок і повторіть спробу
+    </string>
+</resources>

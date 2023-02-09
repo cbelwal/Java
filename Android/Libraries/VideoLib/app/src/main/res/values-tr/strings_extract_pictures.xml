@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Dosya adı:</string>
+  <string name="text_ep_file_size">Boyut:</string>
+  <string name="text_ep_modified_date">Değiştirme tarihi:</string>
+  <string name="text_ep_video_duration">Süre:</string>
+  <string name="title_search_depth">Arama derinliği (büyük değerler birkaç dakika sürer)</string>
+  <string name="nav_menu_search_entire_phone">Arama tüm telefon</string>
+  <string name="nav_menu_search_media_folders">Arama ortam klasörleri</string>
+  <string name="nav_menu_search_external_folders">Harici arama klasörleri</string>
+  <string name="progressbar_extracting_pictures">Ayıklanan resimleri...</string>
+  <string name="text_ep_time_start">Başlangıç time(seconds)</string>
+  <string name="text_ep_period">Pictures(seconds) arasındaki aralığı</string>
+  <string name="text_ep_no_of_pictures">Fotoğraf Sayısı</string>
+  <string name="text_ep_store">Ayıklanan görüntüler olarak depola:</string>
+  <string name="text_ep_share_external">Dış klasörüne yerleştirin</string>
+  <string name="text_ep_share_app">Uygulamaları kullanarak paylaşmak</string>
+  <string name="message_extract_complete"> resim elde edilmiştir</string>
+  <string name="message_extract_error">Fotoğraf çekme bir hatayla karşılaşıldı</string>
+  <string name="message_search_depth_updated">Arama derinliği güncelleştirildi</string>
+  <string name="message_search_depth_error">Arama derinliği güncelleştirme hatası</string>
+</resources>

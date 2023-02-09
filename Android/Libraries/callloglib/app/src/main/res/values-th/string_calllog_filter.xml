@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">เงื่อนไข</string>
+  <string name="filter_text_option">ตัวเลือก</string>
+  <string name="filter_text_value_days">วัน</string>
+  <string name="filter_text_value_duration">Duration(s)</string>
+  <string name="filter_text_value_location">ตำแหน่งที่ตั้ง</string>
+  <string name="filter_options_from_stored_contacts">จากรายชื่อที่เก็บ</string>
+  <string name="filter_options_more_than_entered_days">มากกว่าวัน</string>
+  <string name="filter_options_less_than_entered_days">น้อยกว่าวัน</string>
+  <string name="filter_options_more_than_duration">ระยะเวลามากกว่า</string>
+  <string name="filter_options_less_than_duration">น้อยกว่าระยะเวลา</string>
+  <string name="filter_options_from_entered_location">จากตำแหน่งที่ตั้ง</string>
+  <string name="filter_options_none">ไม่มีฟิลเตอร์</string>
+  <string name="filter_show_show">แสดง</string>
+  <string name="filter_show_noshow">ไม่ต้องแสดง</string>
+</resources>

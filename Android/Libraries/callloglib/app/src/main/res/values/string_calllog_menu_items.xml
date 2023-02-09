@@ -1,0 +1,43 @@
+<resources>
+    <string name="nav_view_all_cl">Sorted by Time</string>
+    <string name="nav_view_outgoingcalls_cl">Outgoing  Calls</string>
+    <string name="nav_view_incomingcalls_cl">Incoming Calls</string>
+    <string name="nav_view_missedcalls_cl">Missed Calls</string>
+    <string name="nav_view_callduration_cl">Sorted by Duration</string>
+    <string name="nav_view_geocoded_location_cl">Sorted by Location</string>
+    <string name="nav_view_refresh_cl">Refresh</string>
+
+    <string name="nav_view_100_records">Upto 100</string>
+    <string name="nav_view_500_records">Upto 500</string>
+    <string name="nav_view_all_records">All available</string>
+
+    <string name="nav_menu_group_general_cl">General</string>
+    <string name="nav_menu_group_help_cl">Help</string>
+    <string name="nav_menu_group_log_length">View Count</string>
+    <string name="nav_menu_group_viewoptions_cl">Options</string>
+    <string name="nav_menu_group_views_cl">Views</string>
+    <string name="nav_menu_group_operations_cl">Operations</string>
+    <string name="nav_menu_group_backup_cl">Backup</string>
+
+    <string name="nav_menu_rate_this_app_cl">Feedback</string>
+    <string name="nav_menu_backup_contacts_cl">Backup all call log entries</string>
+    <string name="nav_menu_restore_contacts_cl">Restore call log from Backup</string>
+    <string name="nav_menu_upgrade_cl">Upgrade to Pro version</string>
+    <string name="nav_menu_filter_cl">Display Filter</string>
+    <string name="nav_menu_duplicates_cl">Duplicates Toolkit</string>
+    <string name="nav_menu_tellafriend_cl">Tell a friend</string>
+    <string name="nav_menu_feedback_cl">Contact Dasmic</string>
+    <string name="nav_menu_demovideo_cl">Demo Video</string>
+    <string name="nav_menu_coju_cl">Download Coju</string>
+
+    <string name="menu_operations_cl">Bulk Updates</string>
+    <string name="menu_add_cl">Add</string>
+    <string name="menu_edit_cl">Edit</string>
+    <string name="menu_update_cl">Update</string>
+    <string name="menu_share_cl">Share</string>
+    <string name="menu_export_cl">Export</string>
+    <string name="menu_import_cl">Import</string>
+    <string name="menu_delete_cl">Delete</string>
+    <string name="menu_bluetooth_cl">Bluetooth Transfer</string>
+
+</resources>

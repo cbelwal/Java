@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Sortowane według czasu</string>
+  <string name="nav_view_outgoingcalls_cl">Połączenia wychodzące</string>
+  <string name="nav_view_incomingcalls_cl">Połączenia przychodzące</string>
+  <string name="nav_view_missedcalls_cl">Nieodebrane połączenia</string>
+  <string name="nav_view_callduration_cl">Sortowane według czasu trwania</string>
+  <string name="nav_view_geocoded_location_cl">Posortowane według lokalizacji</string>
+  <string name="nav_view_refresh_cl">Odświeżania</string>
+  <string name="nav_view_100_records">Upto 100</string>
+  <string name="nav_view_500_records">Do 500</string>
+  <string name="nav_view_all_records">Wszystkie dostępne</string>
+  <string name="nav_menu_group_general_cl">Ogólne</string>
+  <string name="nav_menu_group_help_cl">Pomoc</string>
+  <string name="nav_menu_group_log_length">Liczba wyświetleń</string>
+  <string name="nav_menu_group_viewoptions_cl">Opcje</string>
+  <string name="nav_menu_group_views_cl">Widoki</string>
+  <string name="nav_menu_group_operations_cl">Operacje</string>
+  <string name="nav_menu_group_backup_cl">Kopia zapasowa</string>
+  <string name="nav_menu_rate_this_app_cl">Sprzężenie zwrotne</string>
+  <string name="nav_menu_backup_contacts_cl">Tworzenie kopii zapasowych wszystkich wpisów rejestru połączeń</string>
+  <string name="nav_menu_restore_contacts_cl">Przywróć z kopii zapasowej dziennika połączeń</string>
+  <string name="nav_menu_upgrade_cl">Uaktualnienie Pro</string>
+  <string name="nav_menu_filter_cl">Filtr wyświetlania</string>
+  <string name="nav_menu_duplicates_cl">Duplikaty Toolkit</string>
+  <string name="nav_menu_tellafriend_cl">Powiadom znajomego</string>
+  <string name="nav_menu_feedback_cl">Kontakt z Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Film demonstracyjny</string>
+  <string name="nav_menu_coju_cl">Pobierz Coju</string>
+  <string name="menu_operations_cl">Aktualizacje zbiorcze</string>
+  <string name="menu_add_cl">Dodać</string>
+  <string name="menu_edit_cl">Edycja</string>
+  <string name="menu_update_cl">Aktualizacja</string>
+  <string name="menu_share_cl">Udostępnij</string>
+  <string name="menu_export_cl">Eksport</string>
+  <string name="menu_import_cl">Importu</string>
+  <string name="menu_delete_cl">Usuń</string>
+  <string name="menu_bluetooth_cl">Połączenia Bluetooth</string>
+</resources>

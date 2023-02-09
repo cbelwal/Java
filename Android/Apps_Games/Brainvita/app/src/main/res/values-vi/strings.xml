@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Peg Solitaire Solver</string>
+  <string name="message_tellafriend">Ứng dụng này là tinh thần challening trò chơi Peg Solitaire còn được gọi là đá cẩm thạch solitaire hoặc Brainvita. Mục tiêu của trò chơi là để có được số lượng tối thiểu của cọc càng tốt. Chốt được chuyển đến một lỗ trống sau khi nhảy qua chốt khác theo một đường thẳng. Peg nhảy qua được lấy ra, bằng cách này, sau khi mỗi di chuyển số lượng các chốt được giảm một. \n\n ngoài việc chơi các trò chơi tiêu chuẩn, ứng dụng này cho phép bạn thiết lập bảng tùy chỉnh của riêng bạn để giải quyết. Có trở lại và chuyển tiếp nút cho phép bạn quay trở lại bất kỳ số lượng di chuyển và các trò chơi cũng giữ cao scores.\n\n Tuy nhiên, những gì làm cho ứng dụng này thật sự duy nhất là nó mạnh mẽ peg solitaire solver. Sử dụng solver \'state-space\ đắn \' các thuật toán để giải quyết các bất đồng nhất định. Người giải quyết sẽ đến với tất cả các chuyển động được yêu cầu đến số tối thiểu nhất có thể của cọc.
+        Nếu bạn chạy giải từ đầu trên một bảng mới, nó sẽ cho bạn tất cả các di chuyển sẽ dẫn đến một peg. Bởi vì nó tìm thấy một giải pháp cho bất kỳ hội đồng quản trị, người giải quyết có thể mất vài phút để đi đến một solution.\n\n cung cấp cho nó một thử! \n</string>
+</resources>

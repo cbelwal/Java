@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Google strežnikom ni bilo mogoče vzpostaviti. Prosim zopet začeti app in poskusite znova
+    </string>
+  <string name="progressbar_load_data">Nalaganje informacij o mapi...</string>
+  <string name="message_selectitems">Atleast 1 izbor je potrebno</string>
+  <string name="message_activity_load_fail">Uporaba ni mogoče zagnati</string>
+  <string name="message_activity_loading">Začetku uporabo...</string>
+  <string name="message_other_permissions_missing">Zahtevana dovoljenja so potrebna za delovanje te funkcije. Prosim izročiti zahtevanih dovoljenj in poskusite znova
+    </string>
+  <string name="message_no_read_permission">Ni dovoljenje za branje
+    </string>
+  <string name="message_cannot_go_in">Ne more iti v izbrano mapo
+    </string>
+  <string name="message_delete_confirm">Izbrane datoteke (s) pa bodo izbrisane. Tega dejanja ni mogoče razveljaviti. Ali želite nadaljevati?</string>
+  <string name="progressbar_delete_data">
+        Brisanje datotek </string>
+  <string name="message_delete_complete"> datoteke / mape Izbrisano</string>
+  <string name="message_free_version_selection">
+        Največje datoteke, ki jih lahko izberete v prost prevod je: </string>
+  <string name="message_max_allowed_one">
+        Ta možnost deluje le za posamezen izbor  </string>
+  <string name="message_only_file">
+        Ta možnost deluje le za datoteke  </string>
+  <string name="message_copying_file">
+        Kopiranje datoteke...  </string>
+  <string name="message_copy_complete">
+        Kopijo datoteke popolni  </string>
+  <string name="message_copy_error">
+        Kopijo nekaterih datotek ni bilo mogoče ustvariti.</string>
+  <string name="message_share_error">
+        Prišlo je do napake med kopijo. Preverite, če imate dovolj prostora za shranjevanje v cache datoteke v skupni rabi  </string>
+  <string name="message_zipping_files">
+        Stiskanje datoteke / mape...  </string>
+  <string name="message_zipping_completed">
+        Vse datoteke / mape preselil v zip Arhiv  </string>
+  <string name="message_zipping_error">
+        Ne bi zip datoteke / mape. Preverite če izbrane mape niso prazne, in imate dovolj prostora za shranjevanje</string>
+  <string name="message_rename_complete">
+        Preimenovanje datoteke/mape popolno  </string>
+  <string name="message_rename_error">
+        Ni bilo mogoče preimenovati datoteke/mape  </string>
+  <string name="message_create_folder_complete">
+        Ustvaril mapo  </string>
+  <string name="message_create_folder_error">
+        Mape ni bilo mogoče ustvariti.  </string>
+  <string name="message_file_open_error">
+        Datoteke ni bilo mogoče odpreti.  </string>
+</resources>

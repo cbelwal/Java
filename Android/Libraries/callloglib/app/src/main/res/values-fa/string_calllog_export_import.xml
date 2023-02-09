@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">مرور</string>
+  <string name="backup_options_backupusing">با استفاده از پشتیبان گیری</string>
+  <string name="export_options_externalStorage">ذخیره سازی خارجی از این دستگاه</string>
+  <string name="share_options_shareas">به عنوان سهم:</string>
+  <string name="share_options_allshare">اشتراک گذاری برنامه های کاربردی (ابر، ایمیل و...)</string>
+  <string name="share_options_share_using">با استفاده از به اشتراک بگذارید:</string>
+  <string name="share_options_sms">پیام رسانی</string>
+  <string name="share_options_clipboard">کپی به کلیپ بورد</string>
+  <string name="export_options_ExportUsing">ذخیره فایل در:</string>
+  <string name="progressbar_prepare_data">تهیه لیست تماس ورود به سیستم...</string>
+  <string name="progressbar_backup">پشتیبان گیری ورود به سیستم تماس، این ممکن است چند دقیقه طول بکشد...</string>
+  <string name="backup_options_using">ذخیره پرونده های پشتیبان در:</string>
+  <string name="menu_import_help">کمک</string>
+  <string name="text_import_file_name">نام انتخاب شده:</string>
+  <string name="text_import_file_size">پرونده انتخاب شده Size(bytes):</string>
+  <string name="text_unknown_file_size">ناشناخته</string>
+  <string name="message_backup_options">توصیه می شود برای پشتیبان گیری در سهم برنامه های کاربردی مانند ابر، ایمیل و غیره.
+        این اجازه خواهد داد که شما را به بازیابی تماس ورود به سیستم اگر شما تا به حال از دست دادن تلفن.
+        تماس با ما از ایمیل/ابر دستی ذخیره تماس ورود به سیستم فایل پشتیبان از حساب ایمیل/ابر برای هر مکان در این دستگاه بازیابی. ابزار وارد کردن/بازیابی فایل را به طور خودکار پیدا پس از آن خواهد شد.</string>
+  <string name="message_importing_contacts">واردات تماس log(s)...</string>
+  <string name="message_reading_import_file">خواندن فایل، این ممکن است چند دقیقه طول بکشد...</string>
+  <string name="export_options_plain_text">متن ساده</string>
+  <string name="export_options_indv_clm">پرونده های فردی CLM</string>
+  <string name="export_options_combined_clm">ترکیب CLM فایل </string>
+  <string name="export_generated_footer">تولید شده از طریق تماس ورود به سیستم مدیریت Coju</string>
+  <string name="export_sent_footer">تولید شده از طریق تماس ورود به سیستم مدیریت</string>
+  <string name="export_generated_header">جزئیات ورود به سیستم تماس</string>
+  <string name="message_clipboard_copy">کپی به کلیپ بورد</string>
+  <string name="message_exporting_calllog">مخاطب (مخاطبین) استخراج...</string>
+  <string name="message_exporting_calllog_ready">آماده صادرات مخاطب (مخاطبین)...</string>
+  <string name="message_exporting_calllog_write_file">نوشتن پرونده...</string>
+  <string name="message_import_help">فقط فایل تولید شده از این برنامه (*. وارد کردن این فایل CLM)</string>
+  <string name="message_import_invalid_file">هنوز پرونده ثبت تماس معتبر</string>
+  <string name="message_importing_complete">تماس log(s) وارد</string>
+  <string name="message_restore_complete">مدخل ورود به سیستم تماس را از نسخه پشتیبان بازیابی</string>
+  <string name="message_restore_fail">
+        از نسخه پشتیبان بازیابی می تواند، فایل پشتیبان مفقود یا خراب شده است
+                </string>
+  <string name="message_backup_stored_freeversion">
+        نسخه رایگان تنها پشتیبان از 9 تماس log(s) به اجازه می دهد.
+        تماس Log(s) حمایت در فایل بالا را شده:
+    </string>
+  <string name="message_backup_failed">
+        عدم موفقیت در ذخیره فایل پشتیبان, لطفا دوباره سعی کنید. اگر مشکل ادامه پیدا کرد لطفا موضوع را به ناشر نرم افزار با استفاده از گزینه بازخورد این برنامه گزارش.
+    </string>
+  <string name="message_restore_selection_finish">
+        سیاهههای مربوط به تماس های پشتیبان بازیابی شده است
+    </string>
+  <string name="message_clm_file_not_found">
+        هیچ مدیر تماس ورود به سیستم (*. CLM) فایل های موجود در این دستگاه
+    </string>
+  <string name="message_backup_file_not_found">
+        هیچ پرونده پشتیبان یافت نشد در این دستگاه
+    </string>
+  <string name="message_backup_stored">تماس با ما حمایت در فایل بالا را شده:</string>
+  <string name="message_save_external">تماس ورود به سیستم ذخیره شده در پوشه های خارجی: </string>
+  <string name="message_loading_files">جستجوی پوشه های محلی...</string>
+  <string name="message_loading_backup_files">در حال جستجوی دستگاه برای پرونده های پشتیبان...</string>
+  <string name="message_backup_freeversion">
+        حداکثر تعداد تماس سیاهههای مربوط است که در این نسخه رایگان توان حمایت کردن است:
+    </string>
+  <string name="message_backup_paidversion">
+        تمام سیاهههای مربوط به تماس با موفقیت در یک فایل پشتیبان گرفته شده است
+    </string>
+</resources>

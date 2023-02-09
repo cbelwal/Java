@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Splošna</string>
+  <string name="nav_menu_group_help">pomoč</string>
+  <string name="nav_menu_group_viewoptions">Možnosti</string>
+  <string name="nav_menu_group_views">Ogledov</string>
+  <string name="nav_menu_group_operations">Operacije</string>
+  <string name="nav_menu_group_backup">Varnostno kopiranje</string>
+  <string name="nav_menu_rate_this_app">Povratne informacije</string>
+  <string name="nav_menu_backup_contacts">Varnostno kopiranje vseh stikov</string>
+  <string name="nav_menu_restore_contacts">Obnovitev stikov iz varnostne kopije</string>
+  <string name="nav_menu_upgrade">Vzpenjajoč se v zagovornik predloga prevod</string>
+  <string name="nav_menu_filter">Filter prikaza</string>
+  <string name="nav_menu_duplicates">Dvojnike Toolkit</string>
+  <string name="nav_menu_tellafriend">Povej prijatelju</string>
+  <string name="nav_menu_feedback">Obrnite Dasmic</string>
+  <string name="nav_menu_demovideo">Demonstracija televizija</string>
+  <string name="nav_menu_coju_outlook">Coju za Microsoft Outlook</string>
+  <string name="nav_menu_coju">Travnato gričevje Coju</string>
+  <string name="display_options_all_TimesContacted">Razvrščenih po času stik</string>
+  <string name="display_options_all_last_contact">Razvrščeni po času zadnjega stika</string>
+  <string name="display_options_all">Razvrščeno po imenu</string>
+  <string name="display_options_phonenumber">Razvrščeno telefonske številke</string>
+  <string name="display_options_email">Sortirati e-poštne naslove</string>
+  <string name="display_options_deleted">Izbrisani stiki</string>
+  <string name="display_options_refresh">Osveži prikaz</string>
+  <string name="action_Operations">Množične posodobitve</string>
+  <string name="action_Export">Izvoziti stike</string>
+  <string name="action_delete">Izbrisati stike</string>
+  <string name="action_Import">Uvozi stike</string>
+  <string name="action_edit">Urediti stike</string>
+  <string name="action_add">Dodaj stik</string>
+  <string name="action_share">Delež stike</string>
+  <string name="action_bluetooth">Bluetooth prenos</string>
+</resources>

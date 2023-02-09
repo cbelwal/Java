@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="share_options_ShareUsing">مشاركة باستخدام:</string>
+  <string name="share_options_allshare">البريد الإلكتروني/وأي فأي/سحابة تخزين (ملفات كبيرة قد تواجه مشاكل)</string>
+  <string name="export_options_externalStorage">التخزين الخارجي</string>
+  <string name="export_options_ExportAs">تنسيق التصدير:</string>
+  <string name="export_options_ExportUsing">مشاركة ملفات APK عن طريق:</string>
+  <string name="progressbar_prepare_data">إعداد حزمة (حزم)... </string>
+</resources>

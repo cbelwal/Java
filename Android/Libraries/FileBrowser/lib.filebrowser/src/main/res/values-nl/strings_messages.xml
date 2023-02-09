@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Kan geen verbinding maken met server van Google. Gelieve opnieuw app en probeer het opnieuw
+    </string>
+  <string name="progressbar_load_data">Map informatie wordt geladen...</string>
+  <string name="message_selectitems">Atleast 1 selectie is vereist</string>
+  <string name="message_activity_load_fail">Programma kan niet worden gestart</string>
+  <string name="message_activity_loading">Starten van toepassing...</string>
+  <string name="message_other_permissions_missing">Gevraagde machtigingen zijn vereist voor deze functie werkt. Geef de gevraagde machtigingen en probeer het opnieuw
+    </string>
+  <string name="message_no_read_permission">Niet de machtiging lezen
+    </string>
+  <string name="message_cannot_go_in">Kon niet gaan binnen de geselecteerde map
+    </string>
+  <string name="message_delete_confirm">Geselecteerde bestanden (s) zullen worden verwijderd. Deze actie kan niet ongedaan worden gemaakt. Wilt u doorgaan?</string>
+  <string name="progressbar_delete_data">
+        Verwijderen van bestanden </string>
+  <string name="message_delete_complete"> bestand / map(pen) verwijderd</string>
+  <string name="message_free_version_selection">
+        Maximum aantal bestanden die kunnen worden geselecteerd in de gratis versie is: </string>
+  <string name="message_max_allowed_one">
+        Deze optie werkt alleen voor een enkelvoudige selectie  </string>
+  <string name="message_only_file">
+        Deze optie werkt alleen voor bestanden  </string>
+  <string name="message_copying_file">
+        Kopiëren van bestand...  </string>
+  <string name="message_copy_complete">
+        Kopiëren van bestanden voltooien  </string>
+  <string name="message_copy_error">
+        Een kopie van sommige bestanden kunnen niet maken</string>
+  <string name="message_share_error">
+        Een fout opgetreden tijdens het kopiëren. Vink aan als u genoeg opslagruimte hebben voor de gedeelde bestanden in de cache  </string>
+  <string name="message_zipping_files">
+        Comprimeren van bestanden / mappen...  </string>
+  <string name="message_zipping_completed">
+        Alle archief() / map(pen) verhuisde naar zip-archief  </string>
+  <string name="message_zipping_error">
+        Kon niet zip de bestanden / mappen. Controleer of de geselecteerde map(pen) niet leeg zijn en hebt u voldoende opslagruimte</string>
+  <string name="message_rename_complete">
+        Hernoemen van bestand/map compleet  </string>
+  <string name="message_rename_error">
+        Kan niet de naam van bestand/map  </string>
+  <string name="message_create_folder_complete">
+        Map gemaakt  </string>
+  <string name="message_create_folder_error">
+        Kan map niet aanmaken  </string>
+  <string name="message_file_open_error">
+        Kan bestand niet openen  </string>
+</resources>

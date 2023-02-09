@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_add_call_log">Thêm</string>
+  <string name="activity_edit_call_log">Chỉnh sửa</string>
+  <string name="activity_share_call_log">Chia sẻ</string>
+  <string name="activity_export_call_log">Xuất khẩu</string>
+  <string name="activity_import_call_log">Nhập khẩu</string>
+  <string name="activity_bluetooth_call_log">Bluetooth chuyển</string>
+  <string name="activity_backup_call_log">Sao lưu</string>
+  <string name="activity_restore_call_log">Khôi phục</string>
+  <string name="activity_filter_call_log">Màn hình hiển thị bộ lọc</string>
+</resources>

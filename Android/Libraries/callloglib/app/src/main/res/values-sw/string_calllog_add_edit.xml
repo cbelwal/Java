@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">Namba ya simu</string>
+  <string name="text_calllog_date">Tarehe</string>
+  <string name="text_calllog_time">Wakati</string>
+  <string name="text_calllog_duration">Duration(s)</string>
+  <string name="text_calllog_type">Aina</string>
+  <string name="spinner_calllog_type_incoming">Yanayoingia</string>
+  <string name="spinner_calllog_type_outgoing">Anayemaliza muda wake</string>
+  <string name="spinner_calllog_type_missed">Amekosa</string>
+  <string name="message_calllog_added">Imeongezwa vyema kwa wito logi</string>
+  <string name="message_calllog_added_error">Kushindwa katika kuongeza kuwaita logi</string>
+  <string name="message_calllog_edited">Logi wito yaliyosasaishwa kwa ufanisi</string>
+  <string name="message_calllog_edited_error">Kushindwa katika kusasaisha logi wito</string>
+</resources>

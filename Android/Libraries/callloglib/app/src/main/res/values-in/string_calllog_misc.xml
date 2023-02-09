@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Log panggilan</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">Unknown</string>
+  <string name="button_Yes">Ya</string>
+  <string name="button_No">Tidak</string>
+  <string name="button_Apply">Menerapkan</string>
+  <string name="button_Close">Tutup</string>
+  <string name="general_not_Available">Tidak tersedia</string>
+  <string name="general_items">item</string>
+  <string name="general_selected_items">dipilih</string>
+  <string name="title_confirm">Konfirmasi</string>
+  <string name="title_dialog_coju">Download Coju</string>
+  <string name="message_selectitems">Entri log atleast 1 perlu dipilih</string>
+  <string name="message_download_coju">Coju adalah aplikasi manajemen kontak yang terintegrasi. Ia memiliki semua fitur ini app ditambah kemampuan tambahan. Apakah Anda ingin men-download Coju?</string>
+  <string name="message_contact_permissions_missing">Kontak izin diperlukan untuk aplikasi ini untuk bekerja. App akan sekarang menutup, silakan memberikan izin dan coba lagi</string>
+  <string name="message_other_permissions_missing">Diminta izin diperlukan untuk fitur aplikasi ini untuk bekerja.
+        Silakan memberikan izin yang diminta dan coba lagi</string>
+</resources>

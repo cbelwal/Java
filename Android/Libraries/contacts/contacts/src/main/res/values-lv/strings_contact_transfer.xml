@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Pārlūkot</string>
+  <string name="backup_options_backupusing">Dublēšanu, izmantojot</string>
+  <string name="transfer_address_home">Mājas</string>
+  <string name="transfer_address_office">Biroja</string>
+  <string name="transfer_contact_office">(W).</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(M)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">Izlase</string>
+  <string name="transfer_not_in_favorites">Ne jau mana izlase</string>
+  <string name="transfer_times_contacted">Reizes, sazināties ar:</string>
+  <string name="transfer_last_time_contacted">Pēdējā laikā sazināties ar:</string>
+  <string name="transfer_organization">Organizācija</string>
+  <string name="transfer_title">Nosaukums</string>
+  <string name="transfer_event_birthday">Dzimšanas diena</string>
+  <string name="transfer_event_anniv">Gadadiena</string>
+  <string name="transfer_event_other">Citi</string>
+  <string name="check_phone">Tālruņa numurs (-i)</string>
+  <string name="check_email">E-pasts</string>
+  <string name="csv_header_name">vārds</string>
+  <string name="csv_header_phone">Tālruņa numurs (-i)</string>
+  <string name="csv_header_email">E-pasta adrese</string>
+  <string name="csv_header_postal">Pasta adrese</string>
+  <string name="csv_header_timescontacted">Sazinājās ar reizes</string>
+  <string name="csv_header_lasttimecontact">Pēdējā laikā sazināties</string>
+  <string name="csv_header_favorite">Mīļākie statusu</string>
+  <string name="csv_header_organization">Organizācija</string>
+  <string name="check_postaladdress">Pasta adrese</string>
+  <string name="check_timescontacted">Vairākas reizes sazinājies</string>
+  <string name="check_lastcontact">Pēdējoreiz kontaktpersonas</string>
+  <string name="check_isfavorite">Mīļākie statusu</string>
+  <string name="share_options_ShareAs">Dalīties, kā:</string>
+  <string name="share_options_ShareUsing">Koplietot, izmantojot:</string>
+  <string name="share_options_sms">Ziņapmaiņa</string>
+  <string name="share_options_allshare">Koplietot lietojumprogrammas (mākonis,... e-pasts)</string>
+  <string name="share_options_Clipboard">Kopēt uz starpliktuvi</string>
+  <string name="share_options_plaintext">Vienkārša teksta</string>
+  <string name="share_options_vcf">Atsevišķiem Vcard fails</string>
+  <string name="share_options_combinedvcf">Apvienotais Vcard fails</string>
+  <string name="export_options_textfile">Vienkārša teksta failā</string>
+  <string name="export_options_combinedvcf_21">2.1. kombinētās vCard failu</string>
+  <string name="export_options_individualvcf_21">2.1. individuālās vCard failu (s)</string>
+  <string name="export_options_combinedvcf_40">Kombinētās 4.0 vCard failu</string>
+  <string name="export_options_individualvcf_40">Atsevišķiem vCard 4.0 failu (s)</string>
+  <string name="export_options_csvfile">Comma Separated (*. csv) failu</string>
+  <string name="export_options_externalStorage">Ārējās atmiņas ierīces</string>
+  <string name="export_options_ExportAs">Eksportēšanas formāts:</string>
+  <string name="export_options_ExportUsing">Saglabāt failu:</string>
+  <string name="message_import_invalid_file">Nav derīgs kontaktpersonu fails
+        </string>
+  <string name="backup_options_using">Lai saglabātu dublējuma failu:</string>
+  <string name="menu_import_help">palīgā</string>
+  <string name="message_backup_options">Ir ieteicams rezerves daļu lietojumprogrammās kā mākonis, e-pasts utt.
+        Tas ļaus jums atgūt kontaktus, ja kādreiz pazaudējat savu tālruni.
+        Lai atjaunotu kontaktus no e-pasta/mākonis manuāli saglabāt kontaktus dublējuma failu no jūsu kontu e-pastu/mākonis, lai jebkurā vietā šajā ierīcē. Importa utilīta pēc tam automātiski atrodiet failu.</string>
+  <string name="message_restore_fail">
+        Nevarēja atjaunot no dublējuma, dublējuma faila trūkst vai ir bojāti
+                </string>
+  <string name="message_restore_refresh">No dublējuma faila tiek atjaunoti kontakti. Lūdzu, atsvaidziniet displeju, lai redzētu visas importētās kontaktpersonas</string>
+  <string name="message_restore_selection_finish">No dublējuma faila tiek atjaunoti kontakti. Tagad varat aizvērt šo ekrānu vai importēšana no cita dublējuma faila</string>
+  <string name="message_restore_legacy_name">Dublējumkopiju, kas tika nosaukts \'BackupAllContacts.vcf\' vecākās versijās</string>
+</resources>

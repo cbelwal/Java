@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">مرور</string>
+  <string name="backup_options_backupusing">با استفاده از پشتیبان گیری</string>
+  <string name="transfer_address_home">صفحه اصلی</string>
+  <string name="transfer_address_office">دفتر</string>
+  <string name="transfer_contact_office">(W).</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(M)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">در موارد دلخواه</string>
+  <string name="transfer_not_in_favorites">در مورد علاقه های شما</string>
+  <string name="transfer_times_contacted">اوقات تماس:</string>
+  <string name="transfer_last_time_contacted">آخرین باری که تماس گرفت:</string>
+  <string name="transfer_organization">سازمان</string>
+  <string name="transfer_title">عنوان</string>
+  <string name="transfer_event_birthday">تولد</string>
+  <string name="transfer_event_anniv">سالگرد</string>
+  <string name="transfer_event_other">دیگر</string>
+  <string name="check_phone">تلفن عدد(های)</string>
+  <string name="check_email">ایمیل</string>
+  <string name="csv_header_name">نام</string>
+  <string name="csv_header_phone">تلفن عدد(های)</string>
+  <string name="csv_header_email">ایمیل Address(es)</string>
+  <string name="csv_header_postal">Address(es) پستی</string>
+  <string name="csv_header_timescontacted">بار تماس</string>
+  <string name="csv_header_lasttimecontact">آخرین باری که تماس گرفت</string>
+  <string name="csv_header_favorite">وضعیت های مورد علاقه</string>
+  <string name="csv_header_organization">سازمان</string>
+  <string name="check_postaladdress">نشانی پستی</string>
+  <string name="check_timescontacted">تعداد دفعات تماس</string>
+  <string name="check_lastcontact">آخرین باری که تماس</string>
+  <string name="check_isfavorite">وضعیت های مورد علاقه</string>
+  <string name="share_options_ShareAs">به عنوان سهم:</string>
+  <string name="share_options_ShareUsing">با استفاده از به اشتراک بگذارید:</string>
+  <string name="share_options_sms">پیام رسانی</string>
+  <string name="share_options_allshare">اشتراک گذاری برنامه های کاربردی (ابر، ایمیل و...)</string>
+  <string name="share_options_Clipboard">کپی به کلیپ بورد</string>
+  <string name="share_options_plaintext">متن ساده</string>
+  <string name="share_options_vcf">پرونده Vcard فردی</string>
+  <string name="share_options_combinedvcf">ترکیب فایل های کارت مجازی</string>
+  <string name="export_options_textfile">فایل متن ساده</string>
+  <string name="export_options_combinedvcf_21">پرونده vCard ترکیب 2.1</string>
+  <string name="export_options_individualvcf_21">پرونده vCard فردی 2.1</string>
+  <string name="export_options_combinedvcf_40">پرونده vCard ترکیب 4.0</string>
+  <string name="export_options_individualvcf_40">پرونده vCard فردی 4.0</string>
+  <string name="export_options_csvfile">فایل با کاما جدا شده (*.csv)</string>
+  <string name="export_options_externalStorage">ذخیره سازی خارجی از این دستگاه</string>
+  <string name="export_options_ExportAs">صادرات فرمت:</string>
+  <string name="export_options_ExportUsing">ذخیره فایل در:</string>
+  <string name="message_import_invalid_file">هنوز پرونده تماس معتبر
+        </string>
+  <string name="backup_options_using">ذخیره پرونده های پشتیبان در:</string>
+  <string name="menu_import_help">کمک</string>
+  <string name="message_backup_options">توصیه می شود برای پشتیبان گیری در سهم برنامه های کاربردی مانند ابر، ایمیل و غیره.
+        این اجازه خواهد داد که شما را به بازیابی تماس با ما اگر شما تا به حال از دست دادن تلفن.
+        تماس با ما از ایمیل/ابر دستی ذخیره فایل پشتیبان مخاطبین از حساب ایمیل/ابر برای هر مکان در این دستگاه بازیابی. ابزار واردات فایل را به طور خودکار پیدا پس از آن خواهد شد.</string>
+  <string name="message_restore_fail">
+        از نسخه پشتیبان بازیابی می تواند، فایل پشتیبان مفقود یا خراب شده است
+                </string>
+  <string name="message_restore_refresh">تماس با ما از پرونده های پشتیبان بازیابی شوند. لطفا تازه کردن صفحه نمایش برای دیدن تمام مخاطبین دیگر</string>
+  <string name="message_restore_selection_finish">تماس با ما از پرونده های پشتیبان بازیابی شوند. شما می توانید هم اکنون این صفحه را ببندید یا از پرونده پشتیبان دیگری وارد</string>
+  <string name="message_restore_legacy_name">پرونده پشتیبان بود به نام \'BackupAllContacts.vcf\' در نسخه های قدیمی تر</string>
+</resources>

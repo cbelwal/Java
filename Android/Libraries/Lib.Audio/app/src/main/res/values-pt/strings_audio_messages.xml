@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Não foi possível conectar ao servidor do Google. Reinicie o aplicativo e tente novamente
+    </string>
+  <string name="progressbar_load_data">Procurando por arquivos de áudio...</string>
+  <string name="message_selectitems">Seleção de pelo menos 1 é necessária</string>
+  <string name="message_activity_load_fail">Aplicativo não pôde ser iniciado.</string>
+  <string name="message_activity_loading">Iniciar o aplicativo...</string>
+  <string name="message_other_permissions_missing">Permissões solicitadas são necessárias para este recurso funcione. Por favor, dê permissões solicitadas e tente novamente
+    </string>
+  <string name="message_no_read_permission">Não permissão de leitura
+    </string>
+  <string name="message_cannot_go_in">Não podia ir para dentro da pasta selecionada
+    </string>
+  <string name="message_delete_confirm">Arquivos selecionados (s) serão excluídos. Esta ação não pode ser desfeita. Proceder?</string>
+  <string name="progressbar_delete_data">
+        Apagar arquivo (s) </string>
+  <string name="message_delete_complete"> arquivo / pasta (s) excluído</string>
+  <string name="message_free_version_selection">
+        Máximo de arquivos que pode ser selecionado na versão gratuita é: </string>
+  <string name="message_max_allowed_one">
+        Esta opção só funciona para uma seleção única  </string>
+  <string name="message_only_file">
+        Esta opção só funciona para arquivos  </string>
+  <string name="message_copying_file">
+        Copiar o arquivo...  </string>
+  <string name="message_copy_complete">
+        Cópia de arquivo completo. Nomes de arquivo levará alguns minutos para aparecer na mídia de armazenamento.  </string>
+  <string name="message_copy_error">
+        Não foi possível criar uma cópia de algum arquivo (s). Verifique se há espaço livre e você tem acesso de gravação para a pasta.</string>
+  <string name="message_share_error">
+        Foi encontrado um erro durante a cópia. Por favor, verifique se você tem espaço de armazenamento suficiente para armazenar em cache o arquivo compartilhado (s)  </string>
+  <string name="message_zipping_files">
+        Compactando arquivos / pastas...  </string>
+  <string name="message_zipping_completed">
+        Todos os ficheiros / pastas mudou-se para arquivo zip  </string>
+  <string name="message_zipping_error">
+        Não poderia fechar os arquivos / pastas. Por favor, verifique se a pasta selecionada (s) não está vazias e você tem espaço de armazenamento suficiente</string>
+  <string name="message_rename_complete">
+        Renomeação de arquivo/pasta completa. Novo nome vai levar vários minutos para mostrar no armazenamento de mídia.  </string>
+  <string name="message_rename_error">
+        Não pode renomear o arquivo/pasta  </string>
+  <string name="message_create_folder_complete">
+        Pasta criada  </string>
+  <string name="message_create_folder_error">
+        Não foi possível criar pasta  </string>
+  <string name="message_error_audio_play">
+        Não pode reproduzir o áudio </string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Fájl neve:</string>
+  <string name="text_ep_file_size">Méret:</string>
+  <string name="text_ep_modified_date">Módosítás dátumát:</string>
+  <string name="text_ep_video_duration">Időtartam:</string>
+  <string name="title_search_depth">Keresési mélységet (nagy értékek több percig tart)</string>
+  <string name="nav_menu_search_entire_phone">Keresés az egész telefon</string>
+  <string name="nav_menu_search_media_folders">Keresés media mappák</string>
+  <string name="nav_menu_search_external_folders">Keresési külső mappák</string>
+  <string name="progressbar_extracting_pictures">Kitermelése képek...</string>
+  <string name="text_ep_time_start">Kezdési idő (mp)</string>
+  <string name="text_ep_period">Között pictures(seconds)</string>
+  <string name="text_ep_no_of_pictures">Képek száma</string>
+  <string name="text_ep_store">Kivonat képek tárolására:</string>
+  <string name="text_ep_share_external">Külső mappába</string>
+  <string name="text_ep_share_app">Ossza meg használ pályázatokat</string>
+  <string name="message_extract_complete"> kép kivonatolása</string>
+  <string name="message_extract_error">Hiba történt a kivonás képek</string>
+  <string name="message_search_depth_updated">A keresési mélységet frissítve</string>
+  <string name="message_search_depth_error">Hiba történt a keresési mélységet frissítése</string>
+</resources>

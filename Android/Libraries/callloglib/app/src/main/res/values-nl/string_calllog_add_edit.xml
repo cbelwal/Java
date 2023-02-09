@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">Telefoonnummer</string>
+  <string name="text_calllog_date">Datum</string>
+  <string name="text_calllog_time">Tijd</string>
+  <string name="text_calllog_duration">Duration(s)</string>
+  <string name="text_calllog_type">Type</string>
+  <string name="spinner_calllog_type_incoming">Inkomende</string>
+  <string name="spinner_calllog_type_outgoing">Uitgaande</string>
+  <string name="spinner_calllog_type_missed">Gemist</string>
+  <string name="message_calllog_added">Succesvol toegevoegd om de bellijst</string>
+  <string name="message_calllog_added_error">Storing in het toe te voegen aan de bellijst</string>
+  <string name="message_calllog_edited">Met succes bijgewerkte bellijst</string>
+  <string name="message_calllog_edited_error">Storing in het bijwerken van de lijst van binnengekomen gesprekken</string>
+</resources>

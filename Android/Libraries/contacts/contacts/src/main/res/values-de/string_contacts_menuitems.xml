@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Allgemeine</string>
+  <string name="nav_menu_group_help">Hilfe</string>
+  <string name="nav_menu_group_viewoptions">Optionen</string>
+  <string name="nav_menu_group_views">Ansichten</string>
+  <string name="nav_menu_group_operations">Operationen</string>
+  <string name="nav_menu_group_backup">Sicherung</string>
+  <string name="nav_menu_rate_this_app">Feedback</string>
+  <string name="nav_menu_backup_contacts">Alle Kontakte sichern</string>
+  <string name="nav_menu_restore_contacts">Kontakte aus Backup wiederherstellen</string>
+  <string name="nav_menu_upgrade">Upgrade auf Pro-version</string>
+  <string name="nav_menu_filter">Anzeigefilter</string>
+  <string name="nav_menu_duplicates">Duplikate Toolkit</string>
+  <string name="nav_menu_tellafriend">Informieren Sie einen Freund</string>
+  <string name="nav_menu_feedback">Kontakt Dasmic</string>
+  <string name="nav_menu_demovideo">Demo-Video</string>
+  <string name="nav_menu_coju_outlook">Coju für Microsoft Outlook</string>
+  <string name="nav_menu_coju">Download Coju</string>
+  <string name="display_options_all_TimesContacted">Sortiert nach Male kontaktiert</string>
+  <string name="display_options_all_last_contact">Sortiert nach letzten Kontaktzeit</string>
+  <string name="display_options_all">Nach Namen sortiert</string>
+  <string name="display_options_phonenumber">Sortierte Telefonnummern</string>
+  <string name="display_options_email">Sortierte e-Mail-Adressen</string>
+  <string name="display_options_deleted">Gelöschte Kontakte</string>
+  <string name="display_options_refresh">Anzeige aktualisieren</string>
+  <string name="action_Operations">Massen-Aktualisierungen</string>
+  <string name="action_Export">Kontakte exportieren</string>
+  <string name="action_delete">Kontakte löschen</string>
+  <string name="action_Import">Kontakte importieren</string>
+  <string name="action_edit">Kontakt bearbeiten</string>
+  <string name="action_add">Kontakt hinzufügen</string>
+  <string name="action_share">Kontakt(e) zu teilen</string>
+  <string name="action_bluetooth">Bluetooth-Übertragung</string>
+</resources>

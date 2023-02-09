@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">Item (ns)</string>
+  <string name="general_selected_items">selecionado</string>
+  <string name="general_error">Erro</string>
+  <string name="title_confirm">Confirmar</string>
+  <string name="button_ok">Okey</string>
+  <string name="button_cancel">Cancelar</string>
+  <string name="free_space">Espaço livre total:</string>
+  <string name="title_share">Compartilhe usando:</string>
+  <string name="title_rename">Digite o novo nome  </string>
+  <string name="title_create_folder">Digite o nome da pasta  </string>
+</resources>

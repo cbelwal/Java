@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Ver</string>
+  <string name="backup_options_backupusing">Copia de seguridad utilizando</string>
+  <string name="export_options_externalStorage">Almacenamiento externo de este aparato</string>
+  <string name="share_options_shareas">Compartir como:</string>
+  <string name="share_options_allshare">Compartir aplicaciones (nube, Email,...)</string>
+  <string name="share_options_share_using">Compartir con:</string>
+  <string name="share_options_sms">Mensajes</string>
+  <string name="share_options_clipboard">Copiar en el portapapeles</string>
+  <string name="export_options_ExportUsing">Guarde el archivo en:</string>
+  <string name="progressbar_prepare_data">Preparando la lista de registro de llamadas...</string>
+  <string name="progressbar_backup">Copia de seguridad registro de llamadas, esto puede tardar varios minutos...</string>
+  <string name="backup_options_using">Guarde el archivo copia de seguridad en:</string>
+  <string name="menu_import_help">Ayuda</string>
+  <string name="text_import_file_name">Nombre del archivo seleccionado:</string>
+  <string name="text_import_file_size">Selecciona el archivo Size(bytes):</string>
+  <string name="text_unknown_file_size">Desconocido</string>
+  <string name="message_backup_options">Se recomienda que copia de seguridad en aplicaciones de acción como nube, Email etcetera.
+        Esto le permitirá recuperar el registro de llamadas si alguna vez pierdes tu teléfono.
+        Restaurar contactos de correo electrónico/nube manualmente guardar el archivo backup de llamada de registro de su cuenta de correo electrónico/de la nube a cualquier lugar en este dispositivo. La utilidad de importación/restaurar luego localizará automáticamente el archivo.</string>
+  <string name="message_importing_contacts">Importación de registros de llamada...</string>
+  <string name="message_reading_import_file">Leer el archivo, esto puede tardar varios minutos...</string>
+  <string name="export_options_plain_text">Texto sin formato</string>
+  <string name="export_options_indv_clm">Archivos individuales de CLM</string>
+  <string name="export_options_combined_clm">Archivo combinado de CLM </string>
+  <string name="export_generated_footer">Generados vía Call Log Manager Coju</string>
+  <string name="export_sent_footer">Generados mediante Call Log Manager</string>
+  <string name="export_generated_header">Datos de registro de llamada</string>
+  <string name="message_clipboard_copy">Copiado en el portapapeles</string>
+  <string name="message_exporting_calllog">Extraer contactos...</string>
+  <string name="message_exporting_calllog_ready">Preparando Exportar contactos...</string>
+  <string name="message_exporting_calllog_write_file">Archivos de escritura...</string>
+  <string name="message_import_help">Sólo el archivo generado desde esta aplicación (*. Pueden importar archivos CLM)</string>
+  <string name="message_import_invalid_file">No un archivo de registro válido de la llamada</string>
+  <string name="message_importing_complete">registros de llamada importados</string>
+  <string name="message_restore_complete">Entradas del registro llamada restauradas desde copia de seguridad</string>
+  <string name="message_restore_fail">
+        No puede restaurar desde copia de seguridad, el archivo de copia de seguridad es falta o está dañado
+                </string>
+  <string name="message_backup_stored_freeversion">
+        Versión gratis sólo permite copias de seguridad de registros de llamada de hasta 9.
+        Registros de llamada han sido respaldados en archivo:
+    </string>
+  <string name="message_backup_failed">
+        No se pudo guardar la copia de seguridad, por favor vuelva a intentarlo. Si el problema persiste por favor informar problema a editor de la aplicación utilizando la opción de comentarios en esta aplicación.
+    </string>
+  <string name="message_restore_selection_finish">
+        Registros de llamada copia de seguridad restaurados
+    </string>
+  <string name="message_clm_file_not_found">
+        No Call Log Manager (*. Archivos CLM) encontrados en este dispositivo
+    </string>
+  <string name="message_backup_file_not_found">
+        No hay archivos de copia de seguridad encontradas este dispositivo
+    </string>
+  <string name="message_backup_stored">Contactos han sido respaldados en archivo:</string>
+  <string name="message_save_external">Llamada almacenados en la carpeta externa: </string>
+  <string name="message_loading_files">Busca las carpetas locales...</string>
+  <string name="message_loading_backup_files">Dispositivo de copia de seguridad archivos en busca...</string>
+  <string name="message_backup_freeversion">
+        Número máximo de registros de llamadas que puede ser copia de seguridad en esta versión gratuita es:
+    </string>
+  <string name="message_backup_paidversion">
+        Todos los registros de llamadas han sido con éxito respaldados en un archivo
+    </string>
+</resources>

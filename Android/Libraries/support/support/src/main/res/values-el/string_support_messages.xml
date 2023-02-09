@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">Εάν υπάρχει ένα πρόβλημα με την εφαρμογή, θα σας αρέσει να έστειλε τον εκδότη και να επιλύσετε αυτό το ζήτημα;</string>
+  <string name="message_check_for_rating">Θα θέλατε να αφήσετε ανατροφοδότηση για αυτό το app;</string>
+  <string name="message_tellafriend_subject">Ελέγξτε αυτό το app</string>
+  <string name="message_email_send_error">Σφάλμα κατά την αποστολή ηλεκτρονικού ταχυδρομείου</string>
+  <string name="message_tellafriend_body">Hey, ελέγξτε έξω αυτό δροσερό app:\n</string>
+  <string name="message_start_activity_error">Υπήρξε ένα πρόβλημα κατά την έναρξη της δραστηριότητας. \n</string>
+  <string name="message_demo_video">Θα θέλατε να παρακολουθήσετε ένα βίντεο επίδειξης.
+        (Αυτό το μήνυμα εμφανίζεται μόνο μία φορά);</string>
+  <string name="message_help_documentation_fail">Δεν ήταν δυνατή η φόρτωση του τεκμηρίωση βοήθειας.
+    Παρακαλούμε επισκεφθείτε http://www.dasmic.com από το πρόγραμμα περιήγησης για να δείτε βοήθεια.</string>
+  <string name="message_rate_this_app">Μπορείτε να βοηθήσετε τους άλλους με την εκτίμηση αυτή η εφαρμογή;</string>
+  <string name="message_rate_this_app_error">Δεν είναι δυνατή η εκτίμηση σελίδα. Παρακαλούμε χρησιμοποιήστε το Google Play Store για να δώσει μια Βαθμολογία</string>
+  <string name="message_feedback_subject">App ανάδραση για</string>
+</resources>

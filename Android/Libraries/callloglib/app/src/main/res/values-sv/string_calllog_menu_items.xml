@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Sorterade efter tid</string>
+  <string name="nav_view_outgoingcalls_cl">Utgående samtal</string>
+  <string name="nav_view_incomingcalls_cl">Inkommande samtal</string>
+  <string name="nav_view_missedcalls_cl">Missade samtal</string>
+  <string name="nav_view_callduration_cl">Sorterade efter varaktighet</string>
+  <string name="nav_view_geocoded_location_cl">Sorterade efter läge</string>
+  <string name="nav_view_refresh_cl">Uppdatera</string>
+  <string name="nav_view_100_records">Upp till 100</string>
+  <string name="nav_view_500_records">Upp till 500</string>
+  <string name="nav_view_all_records">Alla tillgängliga</string>
+  <string name="nav_menu_group_general_cl">Allmänna</string>
+  <string name="nav_menu_group_help_cl">Hjälp</string>
+  <string name="nav_menu_group_log_length">Antal visningar</string>
+  <string name="nav_menu_group_viewoptions_cl">Alternativ</string>
+  <string name="nav_menu_group_views_cl">Visningar</string>
+  <string name="nav_menu_group_operations_cl">Verksamhet</string>
+  <string name="nav_menu_group_backup_cl">Säkerhetskopiering</string>
+  <string name="nav_menu_rate_this_app_cl">Feedback</string>
+  <string name="nav_menu_backup_contacts_cl">Säkerhetskopiera alla samtal loggposter</string>
+  <string name="nav_menu_restore_contacts_cl">Återställa samtalsloggen från säkerhetskopia</string>
+  <string name="nav_menu_upgrade_cl">Uppgradera till Pro versionen</string>
+  <string name="nav_menu_filter_cl">Visa Filter</string>
+  <string name="nav_menu_duplicates_cl">Dubbletter Toolkit</string>
+  <string name="nav_menu_tellafriend_cl">Tipsa en vän</string>
+  <string name="nav_menu_feedback_cl">Kontakta Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Demovideo</string>
+  <string name="nav_menu_coju_cl">Hämta Coju</string>
+  <string name="menu_operations_cl">Bulk uppdateringar</string>
+  <string name="menu_add_cl">Lägg till</string>
+  <string name="menu_edit_cl">Redigera</string>
+  <string name="menu_update_cl">Uppdatering</string>
+  <string name="menu_share_cl">Andel</string>
+  <string name="menu_export_cl">Exportera</string>
+  <string name="menu_import_cl">Import</string>
+  <string name="menu_delete_cl">Ta bort</string>
+  <string name="menu_bluetooth_cl">Bluetooth-överföring</string>
+</resources>

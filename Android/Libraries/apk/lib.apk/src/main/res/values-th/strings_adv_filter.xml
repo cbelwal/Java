@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">ติดตั้งภายใน 30 วัน</string>
+  <string name="filter_adv_options_security_inappbilling">มีการเรียกเก็บเงินใน app</string>
+  <string name="filter_adv_options_security_readsms">สามารถอ่าน SMS</string>
+  <string name="filter_adv_options_security_sendsms">สามารถส่ง SMS</string>
+  <string name="filter_adv_options_security_readcontacts">สามารถอ่านรายชื่อ</string>
+  <string name="filter_adv_options_security_readcalllog">สามารถอ่านบันทึกการโทร</string>
+  <string name="filter_adv_options_security_readcalender">สามารถอ่านปฏิทิน</string>
+  <string name="filter_adv_options_security_writeexternalstorage">สามารถเขียนไปเก็บข้อมูลภายนอก</string>
+  <string name="filter_adv_options_security_camera">สามารถเข้าถึงกล้อง</string>
+  <string name="filter_adv_options_security_mic">สามารถบันทึกเสียง</string>
+  <string name="filter_adv_options_security_location">สามารถเข้าถึงตำแหน่งของคุณ</string>
+  <string name="filter_adv_options_filter">ความปลอดภัยสามารถเปิดใช้งาน</string>
+  <string name="filter_main_text">ตัวเลือกตัวกรองความปลอดภัย (เฉพาะแอจับคู่ใดของเงื่อนไขเหล่านี้จะปรากฏ):</string>
+  <string name="activity_security_filter">มัลแวร์แสดงตัวกรอง</string>
+</resources>

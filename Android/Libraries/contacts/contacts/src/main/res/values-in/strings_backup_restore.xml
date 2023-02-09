@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        Versi gratis hanya memungkinkan cadangan hingga 200 kontak.
+        Kontak telah telah didukung dalam file:
+    </string>
+  <string name="message_backup_failed">
+        Gagal untuk menyimpan file cadangan, silakan coba lagi. Jika masalah berlanjut Laporkan masalah ke penerbit app menggunakan pilihan umpan balik app ini.
+    </string>
+</resources>

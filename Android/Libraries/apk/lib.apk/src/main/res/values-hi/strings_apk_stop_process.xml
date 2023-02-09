@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">चलना बंद</string>
+  <string name="message_stop_tasks">चल रहे कार्य को रोकने के...</string>
+  <string name="message_user_tasks_stopped">उपयोगकर्ता कार्य बंद कर दिया</string>
+  <string name="message_system_tasks_stopped">सिस्टम कार्य बंद कर दिया</string>
+  <string name="message_process_still_running">अभी भी चल रहा कार्य</string>
+  <string name="message_stop_running_tasks">एप्लिकेशन चल रहा बंद करो और ब्लूटूथ/वायरलेस बंद करें?</string>
+  <string name="message_stopping_running_tasks">ब्लूटूथ और वायरलेस रोक</string>
+  <string name="message_battery_current_percentage">वर्तमान बैटरी स्तर %:</string>
+  <string name="message_no_user_process">कोई चल रहे उपयोगकर्ता प्रक्रिया पाया</string>
+</resources>

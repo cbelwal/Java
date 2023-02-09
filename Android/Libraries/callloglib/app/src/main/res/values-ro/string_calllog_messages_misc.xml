@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Nu a fost acordată permisiunea de a efectua apeluri de la acest app</string>
+  <string name="message_search_number_security_exception">Nu de căutare acest număr de telefon! Google search nu este activat sau permisiunea nu s-a acordat în acest aparat</string>
+  <string name="message_free_version_selection">
+        Intrări maxime care pot fi selectate în versiunea gratuită este: </string>
+  <string name="message_purchase_error">
+        Nu sa putut conecta la server de Google. Vă rugăm să reporniţi app şi încercaţi din nou
+    </string>
+</resources>

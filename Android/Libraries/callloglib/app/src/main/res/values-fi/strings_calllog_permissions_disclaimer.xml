@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        Tämä app nyt pyytää oikeutta käyttää puhelun lokin ja yhteyshenkilöiden tietoja.
+        Nämä käyttöoikeudet tarvitaan tätä app toimi ja ei ole tarkoitettu käytettäväksi millään muulla tavalla. Otamme yksityisyyden hyvin vakavasti, ja puhelun lokin ja yhteyshenkilöiden tietoja ei luovuteta tahansa puoluetta lukien coju.mobi™, tämä app julkaisijat.
+    </string>
+  <string name="button_permissions_ack">
+        Tunnustaa
+    </string>
+  <string name="title_ack_confirm">
+        Käyttöoikeudet Disclaimer
+    </string>
+</resources>

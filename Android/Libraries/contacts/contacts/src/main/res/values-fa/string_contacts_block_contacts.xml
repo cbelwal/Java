@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">رفع انسداد مخاطب (مخاطبین)</string>
+  <string name="display_options_blocked">مخاطب (مخاطبین) مسدود شده</string>
+  <string name="action_block">بلوک</string>
+  <string name="action_unblock">خار چیدن</string>
+  <string name="message_blocking_contacts">مسدود کردن مخاطب (مخاطبین)</string>
+  <string name="message_unblocking_contacts">Unblocking مخاطب (مخاطبین)</string>
+  <string name="message_block_unblock_complete">بروز رسانی همه انتخاب مخاطب (مخاطبین) </string>
+  <string name="message_block_unblock_error">خطا در به روز رسانی برخی از مخاطب (مخاطبین) انتخابی وجود دارد</string>
+</resources>

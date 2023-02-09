@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        Phiên bản miễn phí chỉ cho phép sao lưu địa chỉ liên lạc lên đến 200.
+        Địa chỉ liên hệ đã được đã sao lưu trong tập tin:
+    </string>
+  <string name="message_backup_failed">
+        Không thể lưu tập tin sao lưu, hãy thử một lần nữa. Nếu vấn đề vẫn còn xin vui lòng báo cáo vấn đề cho nhà phát hành ứng dụng bằng cách sử dụng các thông tin phản hồi tùy chọn trong ứng dụng này.
+    </string>
+</resources>

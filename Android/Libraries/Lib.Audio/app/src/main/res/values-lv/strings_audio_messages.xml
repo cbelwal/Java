@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Nevar izveidot savienojumu ar Google serveri. Lūdzu, restartējiet app un mēģiniet vēlreiz
+    </string>
+  <string name="progressbar_load_data">Audio failu meklēšana...</string>
+  <string name="message_selectitems">Atleast 1 atlase nav jāveic</string>
+  <string name="message_activity_load_fail">Lietojumprogrammu nevar startēt</string>
+  <string name="message_activity_loading">Sākot programmu...</string>
+  <string name="message_other_permissions_missing">Pieprasīto atļauju ir nepieciešami šo funkciju, lai strādātu. Lūdzu piešķirt pieprasītās atļaujas un mēģiniet vēlreiz
+    </string>
+  <string name="message_no_read_permission">Nav lasīšanas atļaujas
+    </string>
+  <string name="message_cannot_go_in">Nevarēja iet iekšā atlasītajā mapē
+    </string>
+  <string name="message_delete_confirm">Atlasīto (s) faili tiks dzēsti. Šo darbību nevar atsaukt. Vai turpināt?</string>
+  <string name="progressbar_delete_data">
+        Dzēšot failu (s) </string>
+  <string name="message_delete_complete"> fails / dzēsti /mapi (es)</string>
+  <string name="message_free_version_selection">
+        Maksimālais failus, kurus var izvēlēties bezmaksas versija ir: </string>
+  <string name="message_max_allowed_one">
+        Šī opcija darbojas tikai vienu atlasi  </string>
+  <string name="message_only_file">
+        Šī opcija darbojas tikai failu (s)  </string>
+  <string name="message_copying_file">
+        Notiek failu kopēšana...  </string>
+  <string name="message_copy_complete">
+        Pilnu faila kopiju. Failu nosaukumi var aizņemt vairākas minūtes, parādās multivides krātuvi.  </string>
+  <string name="message_copy_error">
+        Nevarēja izveidot kopiju daži faili. Pārliecinieties, vai ir brīvas vietas, un jums ir rakstīšanas piekļuve mapei.</string>
+  <string name="message_share_error">
+        Kopēšanas laikā radās kļūda. Lūdzu, pārbaudiet, vai jums ir pietiekami daudz brīvas atmiņas cache koplietojamo failu (s)  </string>
+  <string name="message_zipping_files">
+        Saspiestu failu (s) / /mapi (es)...  </string>
+  <string name="message_zipping_completed">
+        Visi faili / /mapi (es) pārcēlās uz zip Arhīvs  </string>
+  <string name="message_zipping_error">
+        Nevarēja ne zip faili / /mapi (es). Lūdzu, pārbaudiet, ja atlasītajai mapei (mapēm) nav tukšs un jums ir pietiekami daudz uzglabāšanas vietas</string>
+  <string name="message_rename_complete">
+        Pilnu faila/mapes pārdēvēšana. Jaunais nosaukums var aizņemt vairākas minūtes rādīt multivides krātuvi.  </string>
+  <string name="message_rename_error">
+        Nevar pārdēvēt failu/mapi  </string>
+  <string name="message_create_folder_complete">
+        Mapei, kas izveidota  </string>
+  <string name="message_create_folder_error">
+        Nevarēja izveidot mapi  </string>
+  <string name="message_error_audio_play">
+        Nevarēja atskaņot audio </string>
+</resources>

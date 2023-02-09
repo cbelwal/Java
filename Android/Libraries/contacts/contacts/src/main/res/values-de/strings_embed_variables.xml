@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">Gerät verbunden.
+        Presse \'Send\ \"Kontakte zu übertragen: </string>
+  <string name="message_bt_conn_failed">Verbindung fehlgeschlagen Gerät.
+    Stellen Sie sicher, dass diese app installiert und Bluetooth-Bildschirm geöffnet in: </string>
+  <string name="message_bt_sent_error">Diese Anzahl der Kontakte konnten nicht übertragen werden: </string>
+  <string name="message_bt_recv_error">Diese Anzahl der Kontakte konnte nicht erstellt werden: </string>
+  <string name="message_bt_create_complete">Empfangene Kontakt(e) erstellt: </string>
+  <string name="message_bt_sent_complete">Kontakte an Gerät gesendet: </string>
+  <string name="progressbar_bt_send_data">Einzigartige Kontakte übertragen </string>
+  <string name="progressbar_bt_bytes">Byte </string>
+  <string name="progressbar_bt_create_contacts">Erstellen von Kontakt(e) (Kontakte mit Bild erfordern mehr Zeit)</string>
+  <string name="message_free_version_selection">
+        Maximale Kontakte, die in der kostenlosen Version ausgewählt werden können ist: </string>
+  <string name="progressbar_delete_data">
+        Einzigartige Kontakte löschen </string>
+</resources>

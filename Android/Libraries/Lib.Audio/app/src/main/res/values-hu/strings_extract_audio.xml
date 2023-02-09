@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Fájl neve:</string>
+  <string name="text_ep_file_size">Méret:</string>
+  <string name="text_ep_modified_date">Módosítás dátumát:</string>
+  <string name="text_ep_duration">Időtartam:</string>
+  <string name="title_search_depth">Keresési mélységet (nagy értékek több percig tart)</string>
+  <string name="progressbar_extracting_audio">Kitermelése hang (több percig is eltarthat)...</string>
+  <string name="progressbar_loading_audio">Részletek audio fájl betöltése...</string>
+  <string name="text_ep_time_start">Kezdési idő (mp)</string>
+  <string name="text_ep_period">Minden audio file(seconds) időtartama</string>
+  <string name="text_ep_store">Új audio fájl (ok), mint a Store:</string>
+  <string name="text_ep_share_external">Külső mappába</string>
+  <string name="text_ep_share_app">Ossza meg használ pályázatokat</string>
+  <string name="message_extract_complete"> Létrehozott fájl(ok) M4A</string>
+  <string name="message_extract_error">Hiba történt az audio fájlok létrehozása</string>
+  <string name="message_search_depth_updated">A keresési mélységet frissítve</string>
+  <string name="message_search_depth_error">Hiba történt a keresési mélységet frissítése</string>
+  <string name="message_load_complete">Audio fájl adatai lett betöltve</string>
+  <string name="message_load_error">Volt egy hiba betöltése a hang</string>
+  <string name="message_extract_duration_reduced"> Utolsó hangfájl időtartamának csökkent mint audio végére elérte </string>
+  <string name="message_extract_incomplete"> %1$ d audio fájl nem hozható létre, vagy hiányos információkat</string>
+  <string name="message_extract_signature">Küldött keresztül Audio reszelő coju.mobi™</string>
+</resources>

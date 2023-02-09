@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">अनवरोधित संपर्क (s)</string>
+  <string name="display_options_blocked">अवरोधित संपर्क (s)</string>
+  <string name="action_block">ब्लॉक</string>
+  <string name="action_unblock">हटेगा</string>
+  <string name="message_blocking_contacts">संपर्क अवरोधित कर रहा है</string>
+  <string name="message_unblocking_contacts">संपर्क (ओं) को अनब्लॉक करना</string>
+  <string name="message_block_unblock_complete">सभी चयनित संपर्क अद्यतन किए गए </string>
+  <string name="message_block_unblock_error">कुछ चयनित संपर्क अद्यतन करने में कोई त्रुटि थी</string>
+</resources>

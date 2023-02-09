@@ -1,0 +1,69 @@
+<resources>
+    <string name="activity_filter">Display Filter</string>
+    <string name="activity_operations">Bulk Updates</string>
+    <string name="activity_share">Share</string>
+    <string name="activity_export">Export</string>
+    <string name="activity_import">Import</string>
+    <string name="activity_bluetooth">Bluetooth Transfer</string>
+    <string name="activity_backup">Backup Contacts</string>
+    <string name="activity_restore">Restore Contacts</string>
+    <string name="activity_duplicates">@string/nav_menu_duplicates</string>
+
+
+    <string name="button_Select_All">Select All</string>
+    <string name="button_UnSelect_All">Un-Select All</string>
+    <string name="button_Delete">Delete</string>
+    <string name="button_Update">Update</string>
+    <string name="button_Share">Share</string>
+    <string name="button_Yes">Yes</string>
+    <string name="button_No">No</string>
+    <string name="button_Apply">Apply</string>
+    <string name="button_Close">Close</string>
+    <string name="button_Confirm">Confirm</string>
+    <string name="button_Ok">OK</string>
+
+    <string name="search_label">Search</string>
+    <string name="search_hint">Enter Search</string>
+    <string name="general_not_Available">Not Available</string>
+    <string name="general_times_contacted">time(s) contacted</string>
+    <string name="general_error">Error</string>
+
+
+    <string name="button_scan">Scan</string>
+    <string name="button_send">Send</string>
+
+
+    <string name="filter_options_show_contacted_more_once">Called/Messaged/Emailed once or more</string>
+    <string name="filter_options_show_contacted_less_once">Never Called/Messaged/Emailed</string>
+    <string name="filter_options_with_pictures">With Pictures</string>
+    <string name="filter_options_contacted_7_days">Last contacted less than 7 days </string>
+    <string name="filter_options_contacted_31_days">Last contacted less than 31 days </string>
+    <string name="filter_options_contacted_more_1_year">Contacted more than a year ago</string>
+    <string name="filter_options_contacted_less_1_year">Contacted less than a year ago</string>
+    <string name="filter_options_send_to_voicemail">Directly send to Voicemail</string>
+    <string name="filter_options_starred">On favorites list</string>
+    <string name="filter_options_non_visible_groups">In non-visible groups</string>
+    <string name="filter_options_donot_send_to_voicemail">Do not send to Voicemail</string>
+    <string name="filter_options_empty">Empty Contacts</string>
+    <string name="filter_options_no_filter">No Filter</string>
+
+    <string name="operation_options_setsendtoVM">Send to Voicemail</string>
+    <string name="operation_options_removesendtoVM">Remove send to Voicemail</string>
+    <string name="operation_options_setstarred">Set as Favorite</string>
+    <string name="operation_options_removestarred">Remove as Favorite</string>
+    <string name="operation_options_resettimescalled">Reset times called count</string>
+    <string name="operation_options_settimecallednow">Set time called to now</string>
+
+    <string name="general_items">item(s)</string>
+    <string name="general_selected_items">selected</string>
+
+
+    <string name="progressbar_prepare_data">Preparing unique contact(s) list ...</string>
+    <string name="progressbar_load_data">Loading contact(s)...</string>
+    <string name="progressbar_update_data">Updating contact(s)...</string>
+    <string name="progressbar_backup">Backing up contact(s), this may take several minutes ...</string>
+
+    <string name="title_confirm">Confirm</string>
+    <string name="title_dialog_coju">Download Coju</string>
+
+</resources>

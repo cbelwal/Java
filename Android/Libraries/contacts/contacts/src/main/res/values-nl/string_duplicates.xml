@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Naam + WhatsApp nummer wedstrijd</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">WhatsApp evenveel in meerdere namen</string>
+  <string name="duplicate_options_name_matches_email_phone">Naam + telefoon/E-mail wedstrijd</string>
+  <string name="duplicate_options_name_matches_phone">Naam + telefoon vergelijken</string>
+  <string name="duplicate_options_name_matches_email">Naam + E-mail wedstrijd</string>
+  <string name="duplicate_options_same_number_multi_name">Hetzelfde nummer in meerdere namen</string>
+  <string name="duplicate_options_same_email_multi_name">Hetzelfde e-mailadres in meerdere namen</string>
+  <string name="duplicate_options_none">Geen</string>
+  <string name="progressbar_sel_duplicates">Scannen naar dubbele records...</string>
+  <string name="message_duplicates_selected">Als u wilt verwijderen geselecteerd duplicate(s) drukt u op het pictogram verwijderen. De original(master) waarde voor elk duplicaat niet is ingeschakeld en wordt niet verwijderd.</string>
+  <string name="choose_duplicate_option">Kies het criterium voor het identificeren van duplicaten.
+        Duplicaten samen met hun original(master)-waarde zal wordt weergegeven in het hoofdscherm en auto-gecontroleerd voor verwijdering. Original(Master) waarde wordt niet gecontroleerd.</string>
+  <string name="startup_message">Gebruik van de dubbele pictogram in de rechterbovenhoek om te stellen weergaveoptie voor duplicaten</string>
+  <string name="message_duplicates_backup">Het is aanbevolen dat u back-up van uw contactpersonen voordat u ze verwijdert</string>
+</resources>

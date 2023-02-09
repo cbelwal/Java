@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Izvēlēto kontaktu (s) ir neizdzēsti. Lūdzu, apstipriniet, vai vēlaties turpināt?</string>
+  <string name="message_undelete_complete"> kontakts (i) neizdzēsti</string>
+  <string name="message_undelete_notice">Šī opcija būs saraksts ar kontaktiem, kas var būt neizdzēsti un ir atkarīga no ierīces vai Android versiju ražotājs. Kontaktiem nevar atgūt, ja ierīce to neatļauj, kontakti tika dzēsti pirms vairākām stundām vai Kontakti izdzēsti no SIM kartes.</string>
+  <string name="message_undelete_option_invalid">Šī opcija nav derīga Izdzēsto kontaktpersonu
+        </string>
+  <string name="message_undelete_help">Lūdzu, izvēlieties kontaktu (s) un izmantojiet atsaukt dzēšanu ikonu augšējā labajā, lai tās atsaukšanu</string>
+  <string name="progressbar_undelete_data">Undeleting kontakts (i) </string>
+  <string name="action_undelete">Atsaukt dzēšanu kontakts (i)</string>
+  <string name="button_understand">es saprotu</string>
+  <string name="title_disclaimer">ATRUNA</string>
+  <string name="title_no_undelete_found">piedodiet!</string>
+  <string name="message_no_undelete_found">
+        Mums ir žēl, nav atlīdzināmi Izdzēsto kontaktpersonu netika atrasta! Var mēģināt to atkopt, izmantojot manuālā veidā ieteikts Google Android izstrādātājiem.
+        Vai vēlaties apmeklēt Google atbalsta Web lapu, kas ir manuāla atkopšanas instrukcijas?
+    </string>
+</resources>

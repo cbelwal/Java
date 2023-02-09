@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> контакти буде оновлюватися. Цю дію скасувати не можна. Продовжити?</string>
+  <string name="message_update_complete"> Контакти оновлено</string>
+  <string name="message_save_external">Контакти, які зберігаються у зовнішніх папку: </string>
+  <string name="message_import">Тільки візитну картку і CSV файли можуть бути імпортовані (за допомогою \'Browse\' для завантаження файлів з інших джерел</string>
+  <string name="message_loading_files">Пошук локальних папок...</string>
+  <string name="message_loading_backup_files">Пошук прилад для резервного копіювання файлів...</string>
+  <string name="message_importing_contacts_complete">контакти, імпортовані</string>
+  <string name="message_save_external_suffix">. Папки можуть бути доступні, підключивши свій телефон до комп\'ютера через USB і т. д. </string>
+  <string name="message_selectitems">Atleast 1 контакт повинен бути вибраний</string>
+  <string name="message_delete_confirm">Вибрані контакти подробиці будуть видалені. Цю дію скасувати не можна. Продовжити?</string>
+  <string name="message_delete_complete"> contact(s) деталі видалено</string>
+  <string name="message_free_import_limit">Файл містить більше контактів, ніж дозволений у безкоштовній версії</string>
+  <string name="message_rate_this_app_error">Не вдалося відкрити рейтинг сторінки. Будь ласка, goto Google Play і оцінити відповідно</string>
+  <string name="message_edit">Одночасно можна редагувати лише 1 контакт. </string>
+  <string name="message_backup_stored">Контакти повинні були резервні копії у файлі:</string>
+  <string name="message_download_coju">Coju це ОК інтегрованої управління контактами. Він має всі особливості цього app плюс додаткові можливості. Ви хотіли б завантажити Coju?</string>
+  <string name="message_contact_permissions_missing">Контакти дозволи, необхідні для цієї програми для роботи. App тепер закриє, прохання надати дозволи і повторіть спробу</string>
+  <string name="message_other_permissions_missing">Потрібні дозволи, необхідні для цієї функції app працювати.
+        Будь ласка дайте потрібні дозволи і повторіть спробу</string>
+  <string name="message_backup_freeversion">
+        Максимальна кількість контактів, які можна створювати резервні копії в цій безкоштовної версії є:
+    </string>
+  <string name="message_backup_paidversion">
+        Все, що контакти були успішно резервні у файлі
+    </string>
+  <string name="message_purchase_error">
+        Не вдалося підключитися до сервера Google. Будь ласка, перезапустіть застосунок і повторіть спробу
+    </string>
+</resources>

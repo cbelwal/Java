@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">Mchezo mpya</string>
+  <string name="button_switch_board">Bodi ya Swichi</string>
+  <string name="button_custom_board">Bodi Seti maalum</string>
+  <string name="button_high_scores">Alama ya juu</string>
+  <string name="button_rate_app">Kiwango cha hii mchezo</string>
+  <string name="button_tell_a_friend">Mwambie rafiki</string>
+  <string name="button_paid_version">Toleo kulipwa</string>
+  <string name="button_help_documentation">Kusaidia nyaraka</string>
+  <string name="button_demo_video">Video ya demo</string>
+  <string name="button_ok">Sawa kabisa</string>
+  <string name="button_yes">Ndio</string>
+  <string name="button_no">La</string>
+  <string name="button_start">Kuanza</string>
+  <string name="button_cancel">Katisha</string>
+  <string name="button_abort">Tusiseme</string>
+  <string name="button_high_score_close">Funga</string>
+  <string name="title_high_score">Juu kumi juu alama</string>
+  <string name="text_high_score_none">Hakuna alama ya</string>
+  <string name="text_high_score_pegs">Peg(s) iliyobaki</string>
+  <string name="text_high_score_time">Wakati</string>
+</resources>

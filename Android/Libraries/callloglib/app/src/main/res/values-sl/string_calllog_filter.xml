@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">Pogoj</string>
+  <string name="filter_text_option">Možnosti</string>
+  <string name="filter_text_value_days">Dni</string>
+  <string name="filter_text_value_duration">DURATION(s)</string>
+  <string name="filter_text_value_location">Mesto</string>
+  <string name="filter_options_from_stored_contacts">Iz shranjenih stikov</string>
+  <string name="filter_options_more_than_entered_days">Več dni</string>
+  <string name="filter_options_less_than_entered_days">Manj kot dni</string>
+  <string name="filter_options_more_than_duration">Več kot trajanje</string>
+  <string name="filter_options_less_than_duration">Manjši od trajanja</string>
+  <string name="filter_options_from_entered_location">Iz mesta</string>
+  <string name="filter_options_none">Brez filtra</string>
+  <string name="filter_show_show">Prikaži</string>
+  <string name="filter_show_noshow">Ne kažejo</string>
+</resources>

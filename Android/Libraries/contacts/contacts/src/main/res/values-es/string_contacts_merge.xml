@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Combinación de contactos</string>
+  <string name="action_merge">Combinar contactos</string>
+  <string name="message_merge_title">PRECAUCIÓN</string>
+  <string name="message_merge_confirm">¿Por favor confirmar si desea combinar contactos seleccionados? El número de teléfono, dirección de correo electrónico, dirección postal, nota y eventos de todo seleccionados contactos se fusionarán en un único contacto con nombre: </string>
+  <string name="message_merge_complete">Contactos seleccionados se han fusionado</string>
+  <string name="progressbar_merge_data">Fusión de contactos...</string>
+</resources>

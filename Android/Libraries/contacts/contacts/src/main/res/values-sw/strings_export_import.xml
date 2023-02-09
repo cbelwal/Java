@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_reading_import_file">Kusoma faili, hii inaweza kuchukua dakika kadhaa...</string>
+  <string name="message_exporting_contacts">Kuchimba mwasiliani unayetaka...</string>
+  <string name="message_exporting_contacts_ready">Kupata tayari kuhamisha mwasiliani unayetaka...</string>
+  <string name="message_exporting_contacts_write_file">Kuandika faili...</string>
+  <string name="text_import_file_name">Jina la faili:</string>
+  <string name="text_import_file_size">Faili Size(bytes):</string>
+  <string name="text_unknown_file_size">Haijulikani</string>
+</resources>

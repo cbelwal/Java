@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Die Verbindung zum Google-Server konnte nicht hergestellt werden. Bitte starten Sie die app und versuchen Sie es erneut
+    </string>
+  <string name="progressbar_load_data">Auf der Suche nach video-Dateien...</string>
+  <string name="message_selectitems">Mindestens 1 Auswahl ist erforderlich</string>
+  <string name="message_activity_load_fail">Anwendung konnte nicht gestartet werden</string>
+  <string name="message_activity_loading">Anwendung wird gestartet...</string>
+  <string name="message_other_permissions_missing">Angeforderte Berechtigungen sind erforderlich für dieses Feature funktioniert. Bitte geben Sie angeforderte Berechtigungen und versuchen Sie es erneut
+    </string>
+  <string name="message_no_read_permission">Keine Leseberechtigung
+    </string>
+  <string name="message_cannot_go_in">Konnte nicht in ausgewählten Ordner gehen
+    </string>
+  <string name="message_delete_confirm">Ausgewählte Dateien (s) werden gelöscht. Diese Aktion kann nicht rückgängig gemacht werden. Möchten Sie fortfahren?</string>
+  <string name="progressbar_delete_data">
+        Datei(en) löschen </string>
+  <string name="message_delete_complete"> Datei / Ordner gelöscht</string>
+  <string name="message_free_version_selection">
+        Maximale Dateien, die in der kostenlosen Version ausgewählt werden können ist: </string>
+  <string name="message_max_allowed_one">
+        Diese Option funktioniert nur für eine einzelne Auswahl  </string>
+  <string name="message_only_file">
+        Diese Option funktioniert nur für Dateien  </string>
+  <string name="message_copying_file">
+        Kopieren die Datei...  </string>
+  <string name="message_copy_complete">
+        Kopieren von Dateien abgeschlossen  </string>
+  <string name="message_copy_error">
+        Eine Kopie der einige Dateien konnte nicht erstellt werden. Stellen Sie sicher, freier Speicherplatz vorhanden ist und Sie über Schreibzugriff auf den Ordner verfügen.</string>
+  <string name="message_share_error">
+        Fehler beim Kopieren. Bitte haben Sie genügend Speicherplatz zum freigegebene Dateien Zwischenspeichern  </string>
+  <string name="message_zipping_files">
+        Komprimieren von Dateien / Ordner...  </string>
+  <string name="message_zipping_completed">
+        Alle Datei(en) / Ordner verschoben, zip-Archiv  </string>
+  <string name="message_zipping_error">
+        Könnte nicht zip-Dateien / Ordner. Bitte prüfen Sie, ob die ausgewählten Ordner nicht leer sind und Sie haben genügend Stauraum</string>
+  <string name="message_rename_complete">
+        Umbenennen der Datei/Ordner komplett  </string>
+  <string name="message_rename_error">
+        Datei/Ordner konnte nicht umbenannt werden.  </string>
+  <string name="message_create_folder_complete">
+        Ordner erstellt  </string>
+  <string name="message_create_folder_error">
+        Ordner konnte nicht erstellt werden.  </string>
+</resources>

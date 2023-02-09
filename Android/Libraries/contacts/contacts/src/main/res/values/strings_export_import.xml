@@ -1,0 +1,11 @@
+<resources>
+    <string name="message_reading_import_file">Reading file, this may take several minutes ...</string>
+    <string name="message_exporting_contacts">Extracting contact(s) ...</string>
+    <string name="message_exporting_contacts_ready">Getting ready to export contact(s) ...</string>
+    <string name="message_exporting_contacts_write_file">Writing file(s) ...</string>
+    <string name="text_import_file_name">File Name:</string>
+    <string name="text_import_file_size">File Size(bytes):</string>
+    <string name="text_unknown_file_size">Unknown</string>
+    <string name="message_confirm_multiple_import">Are you sure you want to import contacts
+        from all selected files ? </string>
+</resources>

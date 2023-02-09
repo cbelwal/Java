@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Trình duyệt</string>
+  <string name="backup_options_backupusing">Bằng cách sử dụng sao lưu</string>
+  <string name="transfer_address_home">Trang chủ</string>
+  <string name="transfer_address_office">Văn phòng</string>
+  <string name="transfer_contact_office">(W).</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(M)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">Trong mục yêu thích</string>
+  <string name="transfer_not_in_favorites">Không có trong mục yêu thích</string>
+  <string name="transfer_times_contacted">Lần liên lạc với:</string>
+  <string name="transfer_last_time_contacted">Thời gian qua liên lạc với:</string>
+  <string name="transfer_organization">Tổ chức</string>
+  <string name="transfer_title">Tiêu đề</string>
+  <string name="transfer_event_birthday">Sinh Nhật</string>
+  <string name="transfer_event_anniv">Kỷ niệm</string>
+  <string name="transfer_event_other">Khác</string>
+  <string name="check_phone">Số điện thoại</string>
+  <string name="check_email">Thư điện tử</string>
+  <string name="csv_header_name">Tên</string>
+  <string name="csv_header_phone">Số điện thoại</string>
+  <string name="csv_header_email">Email Address(es)</string>
+  <string name="csv_header_postal">Bưu điện Address(es)</string>
+  <string name="csv_header_timescontacted">Lần liên lạc với</string>
+  <string name="csv_header_lasttimecontact">Thời gian qua liên lạc</string>
+  <string name="csv_header_favorite">Tình trạng yêu thích</string>
+  <string name="csv_header_organization">Tổ chức</string>
+  <string name="check_postaladdress">Địa chỉ bưu điện</string>
+  <string name="check_timescontacted">Số lần liên lạc với</string>
+  <string name="check_lastcontact">Lần liên lạc cuối cùng</string>
+  <string name="check_isfavorite">Tình trạng yêu thích</string>
+  <string name="share_options_ShareAs">Chia sẻ như:</string>
+  <string name="share_options_ShareUsing">Chia sẻ bằng cách sử dụng:</string>
+  <string name="share_options_sms">Nhắn tin</string>
+  <string name="share_options_allshare">Chia sẻ ứng dụng (đám mây, Email,...)</string>
+  <string name="share_options_Clipboard">Sao chép vào Clipboard</string>
+  <string name="share_options_plaintext">Văn bản thuần</string>
+  <string name="share_options_vcf">Cá nhân (các) tệp Vcard</string>
+  <string name="share_options_combinedvcf">Kết hợp các tập tin Vcard</string>
+  <string name="export_options_textfile">Tập tin văn bản đơn giản</string>
+  <string name="export_options_combinedvcf_21">Tập tin vCard sẽ kết hợp 2.1</string>
+  <string name="export_options_individualvcf_21">(Các) tệp riêng vCard 2.1</string>
+  <string name="export_options_combinedvcf_40">Tập tin vCard sẽ kết hợp 4,0</string>
+  <string name="export_options_individualvcf_40">(Các) tệp riêng vCard 4.0</string>
+  <string name="export_options_csvfile">Comma Separated (*.csv) tập tin</string>
+  <string name="export_options_externalStorage">Các lưu trữ bên ngoài của thiết bị này</string>
+  <string name="export_options_ExportAs">Xuất khẩu định dạng:</string>
+  <string name="export_options_ExportUsing">Lưu các tập tin trong:</string>
+  <string name="message_import_invalid_file">Không phải là một tệp liên hệ hợp lệ
+        </string>
+  <string name="backup_options_using">Lưu các tập tin sao lưu trong:</string>
+  <string name="menu_import_help">Trợ giúp</string>
+  <string name="message_backup_options">Đó là khuyến cáo sao lưu trong các ứng dụng chia sẻ giống như đám mây, Email vv.
+        Điều này sẽ cho phép bạn khôi phục danh bạ nếu bạn đã bao giờ mất điện thoại của bạn.
+        Để khôi phục danh bạ từ Email/Cloud tự lưu địa chỉ liên lạc sao lưu tập tin từ tài khoản Email/đám mây của bạn đến bất kỳ vị trí nào trong thiết bị này. Nhập khẩu tiện ích sẽ sau đó sẽ tự động xác định vị trí các tập tin.</string>
+  <string name="message_restore_fail">
+        Không thể khôi phục từ bản sao lưu, sao lưu tệp bị thiếu hoặc hỏng
+                </string>
+  <string name="message_restore_refresh">Địa chỉ liên lạc đang được khôi phục từ tệp sao lưu. Xin vui lòng làm tươi màn hình để xem tất cả các địa chỉ liên lạc nhập khẩu</string>
+  <string name="message_restore_selection_finish">Địa chỉ liên lạc đang được khôi phục từ tệp sao lưu. Bạn có thể bây giờ đóng màn hình này hoặc chuyển nhập từ tệp sao lưu khác</string>
+  <string name="message_restore_legacy_name">Tệp sao lưu được đặt tên là \'BackupAllContacts.vcf\' trong phiên bản cũ</string>
+</resources>

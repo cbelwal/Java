@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Logi wito</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">Haijulikani</string>
+  <string name="button_Yes">Ndio</string>
+  <string name="button_No">La</string>
+  <string name="button_Apply">Tekeleza</string>
+  <string name="button_Close">Funga</string>
+  <string name="general_not_Available">Haipatikani</string>
+  <string name="general_items">Kipengee (vi)</string>
+  <string name="general_selected_items">iliyoteuliwa</string>
+  <string name="title_confirm">Kuthibitisha</string>
+  <string name="title_dialog_coju">Pakua Coju</string>
+  <string name="message_selectitems">Atleast 1 logi kuingia inahitaji kuchaguliwa</string>
+  <string name="message_download_coju">Coju ni app usimamizi jumuishi wa mawasiliano. Ina vipengele vyote vya programu hii pamoja na uwezo wa ziada. Je, ungependa kupakua Coju?</string>
+  <string name="message_contact_permissions_missing">Ruhusa ya wawasiliani zinahitajika kwa programu hii kufanya kazi. Programu itakuwa sasa Funga, tafadhali kutoa vibali na jaribu tena</string>
+  <string name="message_other_permissions_missing">Ruhusa iliyoombwa zinahitajika kwa kipengele hiki programu kufanya kazi.
+        Tafadhali kutoa ruhusa iliyoombwa na jaribu tena</string>
+</resources>

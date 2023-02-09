@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">العنصر (العناصر)</string>
+  <string name="general_selected_items">تحديد</string>
+  <string name="general_error">خطأ</string>
+  <string name="title_confirm">تأكيد</string>
+  <string name="button_ok">موافق</string>
+  <string name="button_cancel">إلغاء الأمر</string>
+  <string name="free_space">إجمالي المساحة الحرة:</string>
+  <string name="title_share">مشاركة باستخدام:</string>
+  <string name="title_rename">قم بإدخال اسم جديد  </string>
+  <string name="title_create_folder">أدخل اسم المجلد  </string>
+</resources>

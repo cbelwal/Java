@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">Ja ir problēmas ar app, būs jums patīk uz e-pastu izdevējs un atrisināt šo jautājumu?</string>
+  <string name="message_check_for_rating">Jums patiks atstāt atsauksmi par šo app?</string>
+  <string name="message_tellafriend_subject">Pārbaudiet šo app</string>
+  <string name="message_email_send_error">Nosūtot e-pastu, radās kļūda</string>
+  <string name="message_tellafriend_body">Hei, apskatiet šo atdzist app:\n</string>
+  <string name="message_start_activity_error">Radās problēma, uzsākot darbību. \n</string>
+  <string name="message_demo_video">Jūs gribētu noskatīties video demonstrāciju.
+        (Šis ziņojums tiek parādīts tikai vienreiz)?</string>
+  <string name="message_help_documentation_fail">Nevarēja ielādēt palīdzības dokumentāciju.
+    No pārlūka, lai redzētu, lūdzu, apmeklējiet http://www.dasmic.com palīdzību.</string>
+  <string name="message_rate_this_app">Tu vari palīdzēt citiem pēc reitinga šo app</string>
+  <string name="message_rate_this_app_error">Nevar atvērt lapu reitings. Lūdzu, izmantojiet Google spēlēt veikalā dot vērtējumu</string>
+  <string name="message_feedback_subject">App atsauksmes par</string>
+</resources>

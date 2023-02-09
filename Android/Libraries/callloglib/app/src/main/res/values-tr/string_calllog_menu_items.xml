@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Zamanına göre sıralanmış</string>
+  <string name="nav_view_outgoingcalls_cl">Giden aramalar</string>
+  <string name="nav_view_incomingcalls_cl">Gelen aramalar</string>
+  <string name="nav_view_missedcalls_cl">Cevapsız arama</string>
+  <string name="nav_view_callduration_cl">Süreye göre sıralanmış</string>
+  <string name="nav_view_geocoded_location_cl">Bulunduğunuz yere göre sıralanmış</string>
+  <string name="nav_view_refresh_cl">Yenileme</string>
+  <string name="nav_view_100_records">Kadar 100</string>
+  <string name="nav_view_500_records">Kadar 500</string>
+  <string name="nav_view_all_records">Mevcut tüm</string>
+  <string name="nav_menu_group_general_cl">Genel</string>
+  <string name="nav_menu_group_help_cl">Yardım</string>
+  <string name="nav_menu_group_log_length">İzlenmeye</string>
+  <string name="nav_menu_group_viewoptions_cl">Seçenekler</string>
+  <string name="nav_menu_group_views_cl">Görünümler</string>
+  <string name="nav_menu_group_operations_cl">İşlemleri</string>
+  <string name="nav_menu_group_backup_cl">Yedekleme</string>
+  <string name="nav_menu_rate_this_app_cl">Geri bildirim</string>
+  <string name="nav_menu_backup_contacts_cl">Tüm/arayan No kaydı yedekleme</string>
+  <string name="nav_menu_restore_contacts_cl">Arama günlüğünü yedekleme dosyasından geri yükler.</string>
+  <string name="nav_menu_upgrade_cl">Terfi ettirmek için yandaş yorum</string>
+  <string name="nav_menu_filter_cl">Görüntü filtresi</string>
+  <string name="nav_menu_duplicates_cl">Çoğaltmaları Toolkit</string>
+  <string name="nav_menu_tellafriend_cl">Tell a friend</string>
+  <string name="nav_menu_feedback_cl">İletişim Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Demo Video</string>
+  <string name="nav_menu_coju_cl">Coju indir</string>
+  <string name="menu_operations_cl">Toplu güncelleştirmeler</string>
+  <string name="menu_add_cl">Ekle</string>
+  <string name="menu_edit_cl">Düzenle</string>
+  <string name="menu_update_cl">Güncelleştirme</string>
+  <string name="menu_share_cl">Paylaş</string>
+  <string name="menu_export_cl">Dışa aktarma</string>
+  <string name="menu_import_cl">Alma</string>
+  <string name="menu_delete_cl">Sil</string>
+  <string name="menu_bluetooth_cl">Bluetooth aktarımı</string>
+</resources>

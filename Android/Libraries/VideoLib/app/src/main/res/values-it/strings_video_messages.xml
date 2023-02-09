@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Impossibile connettersi al server di Google. Si prega di riavviare app e riprovare
+    </string>
+  <string name="progressbar_load_data">Ricerca per i file video...</string>
+  <string name="message_selectitems">È necessaria almeno 1 selezione</string>
+  <string name="message_activity_load_fail">Applicazione non può essere avviato</string>
+  <string name="message_activity_loading">Avvio applicazione...</string>
+  <string name="message_other_permissions_missing">Autorizzazioni richieste sono necessarie per utilizzare questa funzionalità. Si prega di dare autorizzazioni richieste e riprovare
+    </string>
+  <string name="message_no_read_permission">Nessuna autorizzazione di lettura
+    </string>
+  <string name="message_cannot_go_in">Non poteva andare all\'interno della cartella selezionata
+    </string>
+  <string name="message_delete_confirm">Verranno eliminati i file selezionati (s). Questa azione non può essere annullata. Procedere?</string>
+  <string name="progressbar_delete_data">
+        L\'eliminazione di file </string>
+  <string name="message_delete_complete"> file / cartelle cancellati</string>
+  <string name="message_free_version_selection">
+        Numero massimo di file che possa essere selezionato nella versione gratuita è: </string>
+  <string name="message_max_allowed_one">
+        Questa opzione funziona solo per una singola selezione  </string>
+  <string name="message_only_file">
+        Questa opzione funziona solo per i file  </string>
+  <string name="message_copying_file">
+        Copia di file...  </string>
+  <string name="message_copy_complete">
+        Copia di file completo  </string>
+  <string name="message_copy_error">
+        Impossibile creare una copia di alcuni file. Assicurarsi che vi sia spazio libero e avere accesso in scrittura alla cartella.</string>
+  <string name="message_share_error">
+        È verificato un errore durante la copia. Si prega di controllare se si dispone di spazio sufficiente per memorizzare nella cache i file condivisi  </string>
+  <string name="message_zipping_files">
+        La compressione di file / cartelle...  </string>
+  <string name="message_zipping_completed">
+        Tutti i file / cartelle spostato in archivio zip  </string>
+  <string name="message_zipping_error">
+        Non potrebbe zip i file / cartelle. Si prega di controllare se le cartelle selezionate non sono vuote e si dispone di sufficiente spazio di archiviazione</string>
+  <string name="message_rename_complete">
+        Ridenominazione di file/cartella completa  </string>
+  <string name="message_rename_error">
+        Non posso rinominare file/cartella  </string>
+  <string name="message_create_folder_complete">
+        Cartella creata  </string>
+  <string name="message_create_folder_error">
+        Impossibile creare la cartella  </string>
+</resources>

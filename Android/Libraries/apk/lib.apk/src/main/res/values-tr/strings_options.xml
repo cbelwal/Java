@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="share_options_ShareUsing">Kullanarak paylaşmak:</string>
+  <string name="share_options_allshare">E-posta/Wifi/bulut depolama (büyük dosyalar ile ilgili sorunlarınız olabilir)</string>
+  <string name="export_options_externalStorage">Harici depolama</string>
+  <string name="export_options_ExportAs">Verme biçimi:</string>
+  <string name="export_options_ExportUsing">APK dosyaları üzerinden paylaşın:</string>
+  <string name="progressbar_prepare_data">Paketler hazırlanıyor... </string>
+</resources>

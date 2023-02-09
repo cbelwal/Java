@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="report_app_name">Название приложения: </string>
+  <string name="report_package_name">Имя пакета: </string>
+  <string name="report_source_folder">Исходная папка: </string>
+  <string name="report_size">Размер (МБ): </string>
+  <string name="report_launch_intent">Запуск намерения: </string>
+  <string name="report_installed_on">Установлен на: </string>
+  <string name="report_updated_on">Модификация: </string>
+  <string name="report_system_app">Системы App: </string>
+  <string name="report_security_permission">Права безопасности: </string>
+  <string name="report_yes">Да</string>
+  <string name="report_no">Нет</string>
+</resources>

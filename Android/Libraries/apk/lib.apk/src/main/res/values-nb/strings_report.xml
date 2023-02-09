@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="report_app_name">App navn: </string>
+  <string name="report_package_name">Pakkenavnet: </string>
+  <string name="report_source_folder">Kildemappen: </string>
+  <string name="report_size">Størrelse (MB): </string>
+  <string name="report_launch_intent">Starte hensikt: </string>
+  <string name="report_installed_on">Installert på: </string>
+  <string name="report_updated_on">Oppdatert: </string>
+  <string name="report_system_app">Systemet App: </string>
+  <string name="report_security_permission">Sikkerhet tillatelse: </string>
+  <string name="report_yes">ja</string>
+  <string name="report_no">nei</string>
+</resources>

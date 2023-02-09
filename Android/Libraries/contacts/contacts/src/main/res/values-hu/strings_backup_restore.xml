@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        Ingyenes verzió csak lehetővé teszi, hogy hát-ból valameddig 200 kapcsolatok.
+        Kapcsolatok van már mentett fájl:
+    </string>
+  <string name="message_backup_failed">
+        Nem sikerült menteni a biztonságimásolat-fájl, kérjük próbálja meg újra. Ha a probléma továbbra is fennáll, jelentse a probléma használ a visszajelzés lehetőséget, ez App alkalmazás-közzétevő.
+    </string>
+</resources>

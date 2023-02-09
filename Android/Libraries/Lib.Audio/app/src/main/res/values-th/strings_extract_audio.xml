@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">ชื่อแฟ้ม:</string>
+  <string name="text_ep_file_size">ขนาด:</string>
+  <string name="text_ep_modified_date">วันที่แก้ไข:</string>
+  <string name="text_ep_duration">ระยะเวลา:</string>
+  <string name="title_search_depth">ค้นหาความลึก (ค่าขนาดใหญ่จะใช้เวลาหลายนาที)</string>
+  <string name="progressbar_extracting_audio">การแยกเสียง (อาจใช้เวลาหลายนาที) ...</string>
+  <string name="progressbar_loading_audio">โหลดไฟล์เสียงรายละเอียด...</string>
+  <string name="text_ep_time_start">เริ่ม time(seconds)</string>
+  <string name="text_ep_period">ระยะเวลาของแต่ละเสียง file(seconds)</string>
+  <string name="text_ep_store">เก็บไฟล์เสียงใหม่เป็น:</string>
+  <string name="text_ep_share_external">วางในโฟลเดอร์ภายนอก</string>
+  <string name="text_ep_share_app">แบ่งปันการใช้งาน</string>
+  <string name="message_extract_complete"> มีการสร้างไฟล์ M4A</string>
+  <string name="message_extract_error">เกิดข้อผิดพลาดในการสร้างไฟล์เสียง</string>
+  <string name="message_search_depth_updated">ความลึกการค้นหาการปรับปรุง</string>
+  <string name="message_search_depth_error">ข้อผิดพลาดในการปรับปรุงการค้นหาความลึก</string>
+  <string name="message_load_complete">โหลดไฟล์เสียงรายละเอียดแล้ว</string>
+  <string name="message_load_error">มีข้อผิดพลาดในการโหลดเสียง</string>
+  <string name="message_extract_duration_reduced"> ระยะเวลาครั้งสุดท้ายของไฟล์เสียงลดลงเป็นเสียงเป็นสิ้นสุด </string>
+  <string name="message_extract_incomplete"> %1$ d เสียงแฟ้มไม่สามารถสร้าง หรือมีข้อมูลไม่สมบูรณ์</string>
+  <string name="message_extract_signature">ส่งผ่านเสียงที่ขูดชีสจาก coju.mobi™</string>
+</resources>

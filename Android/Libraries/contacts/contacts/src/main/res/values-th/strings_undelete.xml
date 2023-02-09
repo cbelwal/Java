@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">ติดต่อที่เลือกจะไม่ถูกลบ โปรดยืนยันว่า คุณต้องการดำเนินการ</string>
+  <string name="message_undelete_complete"> ยกเลิกลบผู้ติดต่อ</string>
+  <string name="message_undelete_notice">ตัวเลือกนี้จะแสดงรายการผู้ติดต่อที่จะไม่ถูกลบ และขึ้นอยู่กับผู้ผลิตอุปกรณ์ของคุณหรือหุ่นยนต์รุ่น ติดต่อไม่สามารถกู้คืนอุปกรณ์อนุญาต รายชื่อถูกลบหลายชั่วโมง หรือผู้ติดต่อที่ถูกลบออกจากซิมการ์ดได้</string>
+  <string name="message_undelete_option_invalid">ตัวเลือกนี้ไม่ถูกต้องสำหรับผู้ติดต่อที่ถูกลบ
+        </string>
+  <string name="message_undelete_help">กรุณาเลือกผู้ติดต่อ และใช้ไอคอนลบที่ด้านบนขวาจะลบพวกเขา</string>
+  <string name="progressbar_undelete_data">ผู้ติดต่อ undeleting </string>
+  <string name="action_undelete">ยกเลิกลบผู้ติดต่อ</string>
+  <string name="button_understand">ฉันเข้าใจ</string>
+  <string name="title_disclaimer">ข้อสงวนสิทธิ์</string>
+  <string name="title_no_undelete_found">ขออภัย</string>
+  <string name="message_no_undelete_found">
+        ขออภัย ไม่สามารถกู้คืนลบพบผู้ติดต่อ คุณสามารถลองกู้คืนโดยใช้วิธีตนเองแนะนำ โดย Google นักพัฒนาของแอนดรอยด์
+        คุณจะต้องการเยี่ยมชมเว็บเพจที่สนับสนุน Google ซึ่งมีคำแนะนำในการกู้คืนด้วยตนเอง
+    </string>
+</resources>

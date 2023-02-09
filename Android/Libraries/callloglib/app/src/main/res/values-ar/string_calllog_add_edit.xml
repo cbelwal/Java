@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">رقم الهاتف</string>
+  <string name="text_calllog_date">تاريخ</string>
+  <string name="text_calllog_time">الوقت</string>
+  <string name="text_calllog_duration">Duration(s)</string>
+  <string name="text_calllog_type">نوع</string>
+  <string name="spinner_calllog_type_incoming">البريد الوارد</string>
+  <string name="spinner_calllog_type_outgoing">الرسائل الصادرة</string>
+  <string name="spinner_calllog_type_missed">غاب</string>
+  <string name="message_calllog_added">بنجاح يضاف إلى سجل المكالمات</string>
+  <string name="message_calllog_added_error">فشل في إضافة إلى سجل المكالمات</string>
+  <string name="message_calllog_edited">سجل المكالمات بنجاح تحديث</string>
+  <string name="message_calllog_edited_error">فشل في تحديث سجل المكالمات</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Имя файла:</string>
+  <string name="text_ep_file_size">Размер:</string>
+  <string name="text_ep_modified_date">Дата изменения:</string>
+  <string name="text_ep_video_duration">Продолжительность:</string>
+  <string name="title_search_depth">Глубина поиска (большие значения займет несколько минут)</string>
+  <string name="nav_menu_search_entire_phone">Поиск весь телефон</string>
+  <string name="nav_menu_search_media_folders">Поиск Медиа папки</string>
+  <string name="nav_menu_search_external_folders">Внешние папки поиска</string>
+  <string name="progressbar_extracting_pictures">Извлечение изображения...</string>
+  <string name="text_ep_time_start">Начать time(seconds)</string>
+  <string name="text_ep_period">Интервал между pictures(seconds)</string>
+  <string name="text_ep_no_of_pictures">Количество изображений</string>
+  <string name="text_ep_store">Храните извлеченные изображения как:</string>
+  <string name="text_ep_share_external">Поместите в папку внешних</string>
+  <string name="text_ep_share_app">Использование приложений</string>
+  <string name="message_extract_complete"> изображения были извлечены</string>
+  <string name="message_extract_error">Произошла ошибка при извлечении фотографии</string>
+  <string name="message_search_depth_updated">Глубина поиска был обновлен</string>
+  <string name="message_search_depth_error">Ошибка при обновлении глубина поиска</string>
+</resources>

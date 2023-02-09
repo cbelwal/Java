@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Antalet valda kontakter: </string>
+  <string name="text_bt_paired_devices"> Ihopkopplade enheter (Välj till Connect)</string>
+  <string name="text_bt_new_devices"> Nya enheter (Välj till Connect)</string>
+  <string name="message_bt_scan_devices">Scanning för enheter...</string>
+  <string name="message_bt_scan_complete">Färdiga Sök efter enheter</string>
+  <string name="message_bt_pair_devices">Para enheter...</string>
+  <string name="message_bt_new_none">Inga nya enheter hittades</string>
+  <string name="message_bt_pair_none">Inga kopplade enheter hittades</string>
+  <string name="message_bt_conn_lost">Anslutning förlorad till enhet</string>
+  <string name="message_bt_connecting">Ansluta till: </string>
+  <string name="message_bt_not_enabled">Bluetooth inte aktiverad, stängs Bluetooth-överföring</string>
+  <string name="message_bt_status_listening">Lyssna...</string>
+  <string name="message_bt_status_connecting">Ansluter...</string>
+  <string name="message_bt_status_connected">Anslutna</string>
+  <string name="message_bt_testdata_sent">Testdata som skickas</string>
+  <string name="message_bt_no_contacts">Inga kontakter som valts för sändning</string>
+  <string name="message_bt_recv_complete">Ta emot data komplett</string>
+  <string name="message_bt_not_connected">Inte ansluten till någon enhet</string>
+  <string name="message_bt_adapter_error">Det fanns ett fel inställning upp Bluetooth.
+            Vänligen kontrollera om din telefon har Bluetooth och Bluetooth-adaptern är aktiverad</string>
+  <string name="menu_bt_make_discoverable">Göra enheten synlig</string>
+  <string name="progressbar_bt_recv_data">Redo att ta emot kontaktdata...</string>
+  <string name="message_bt_startup">Kontrollera att samma app körs och denna skärm öppnas i annan enhet</string>
+</resources>

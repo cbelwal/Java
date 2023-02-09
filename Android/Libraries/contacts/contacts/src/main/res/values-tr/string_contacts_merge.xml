@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Kişileri birleştirme</string>
+  <string name="action_merge">Kişileri birleştirme</string>
+  <string name="message_merge_title">Dikkat</string>
+  <string name="message_merge_confirm">Lütfen seçili kişileri birleştirmek isteyip istemediğinizi onaylamak? Telefon numarası, e-posta adresi, posta adresi, Not ve tüm seçili kişiler olayların adıyla bir tek kişi katıştırılır: </string>
+  <string name="message_merge_complete">Seçili ilgili kişilerin birleştirilmiş</string>
+  <string name="progressbar_merge_data">Kişileri birleştirme...</string>
+</resources>

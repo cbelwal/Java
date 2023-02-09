@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">เชื่อมต่อกับอุปกรณ์
+        กด \'Send\' การถ่ายโอนรายชื่อ: </string>
+  <string name="message_bt_conn_failed">การอุปกรณ์การเชื่อมต่อล้มเหลว
+    โปรดมั่นใจว่า มีการติดตั้ง app นี้ และหน้าจอ Bluetooth เปิดอยู่: </string>
+  <string name="message_bt_sent_error">สามารถโอนจำนวนเหล่านี้ของผู้ติดต่อ: </string>
+  <string name="message_bt_recv_error">ไม่สามารถสร้างหมายเลขของผู้ติดต่อเหล่านี้: </string>
+  <string name="message_bt_create_complete">สร้างผู้ติดต่อที่ได้รับ: </string>
+  <string name="message_bt_sent_complete">รายชื่อที่ส่งไปยังอุปกรณ์: </string>
+  <string name="progressbar_bt_send_data">ถ่ายโอนผู้ติดต่อเฉพาะ </string>
+  <string name="progressbar_bt_bytes">ไบต์ </string>
+  <string name="progressbar_bt_create_contacts">การสร้างผู้ติดต่อ (รายชื่อติดต่อพร้อมรูปภาพต้องใช้เวลามากกว่า)</string>
+  <string name="message_free_version_selection">
+        ติดต่อสูงสุดที่สามารถเลือกได้ในรุ่นฟรีคือ: </string>
+  <string name="progressbar_delete_data">
+        การลบผู้ติดต่อที่ไม่ซ้ำกัน </string>
+</resources>

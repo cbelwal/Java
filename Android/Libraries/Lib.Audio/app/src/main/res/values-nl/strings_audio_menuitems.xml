@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_share">Delen</string>
+  <string name="action_delete">Verwijderen</string>
+  <string name="action_filter">Filter</string>
+  <string name="action_copy">Kopie</string>
+  <string name="action_rename">Naam wijzigen</string>
+  <string name="action_create_folder">Map maken</string>
+  <string name="action_move">Verplaatsen</string>
+  <string name="action_share_zip">Delen als Zip</string>
+  <string name="action_extract_pictures">Uittreksel Audio</string>
+  <string name="action_zip">Zip</string>
+  <string name="nav_menu_view_name">Weergeven op bestandsnaam</string>
+  <string name="nav_menu_view_size">Weergeven op grootte</string>
+  <string name="nav_menu_view_modified">Datum van de wijziging van de weergave door</string>
+  <string name="nav_menu_view_refresh">Vernieuwen</string>
+  <string name="nav_menu_view_close">Sluiten</string>
+  <string name="nav_menu_search_default">Zoek Media Store (standaard)</string>
+  <string name="nav_menu_search_entire_phone">De volledige telefoon zoeken</string>
+  <string name="nav_menu_search_media_folders">Zoek media map(pen)</string>
+  <string name="nav_menu_search_external_folders">Externe zoekmappen</string>
+  <string name="nav_menu_group_general">Algemene</string>
+  <string name="nav_menu_group_viewoptions">Weergaveopties</string>
+  <string name="nav_menu_group_searchoptions">Zoekopties</string>
+  <string name="nav_menu_rate_this_app">Feedback</string>
+  <string name="nav_menu_upgrade">Upgraden naar de betaalde versie</string>
+  <string name="nav_menu_tellafriend">Vertel een vriend</string>
+  <string name="nav_menu_feedback">Neem contact op met ons</string>
+  <string name="nav_menu_group_help">Help</string>
+  <string name="nav_menu_demovideo">Video van de manifestatie</string>
+  <string name="nav_menu_help_doc">Help-documentatie</string>
+</resources>

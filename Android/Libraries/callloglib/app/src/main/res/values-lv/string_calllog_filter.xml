@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">Nosacījums</string>
+  <string name="filter_text_option">Opcijas</string>
+  <string name="filter_text_value_days">Dienas</string>
+  <string name="filter_text_value_duration">DURATION(s)</string>
+  <string name="filter_text_value_location">Atrašanās vieta</string>
+  <string name="filter_options_from_stored_contacts">Katalogā Kontakti saglabātie</string>
+  <string name="filter_options_more_than_entered_days">Vairāk nekā dienu</string>
+  <string name="filter_options_less_than_entered_days">Mazāk nekā dienu</string>
+  <string name="filter_options_more_than_duration">Vairāk nekā ilgums</string>
+  <string name="filter_options_less_than_duration">Termiņš ir mazāks par</string>
+  <string name="filter_options_from_entered_location">No atrašanās vietas</string>
+  <string name="filter_options_none">Bez filtra</string>
+  <string name="filter_show_show">Rādīt</string>
+  <string name="filter_show_noshow">Turpmāk nerādīt</string>
+</resources>

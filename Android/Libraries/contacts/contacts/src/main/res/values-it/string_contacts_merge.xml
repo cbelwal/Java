@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Unione di contatti</string>
+  <string name="action_merge">Unire contatti</string>
+  <string name="message_merge_title">Attenzione</string>
+  <string name="message_merge_confirm">Si prega di confermare se si desidera unire contatti selezionati? Il numero di telefono, indirizzo email, indirizzo postale, nota ed eventi contatti tutti selezionati saranno fusi in un unico contatto con nome: </string>
+  <string name="message_merge_complete">Contatti selezionati sono Stati Uniti</string>
+  <string name="progressbar_merge_data">Unione di contatti...</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> контакти ще бъдат актуализирани. Това действие не може да бъде отменено. Продължите?</string>
+  <string name="message_update_complete"> контакта(ите) актуализирана</string>
+  <string name="message_save_external">Контакти, съхранени във външни папка: </string>
+  <string name="message_import">Само Vcard и CSV файлове могат да бъдат внесени (използвайте \'Browse\ \"да се заредят файловете от други източници</string>
+  <string name="message_loading_files">Търсене на локални папки...</string>
+  <string name="message_loading_backup_files">Търсене на устройство за архивиране файлове...</string>
+  <string name="message_importing_contacts_complete">контакт(и) са импортирани</string>
+  <string name="message_save_external_suffix">. Папката е достъпна чрез свързване на телефона към компютъра чрез USB и др. </string>
+  <string name="message_selectitems">Поне 1 контакт трябва да бъде избран</string>
+  <string name="message_delete_confirm">Избрани контакта(ите) подробности ще бъдат изтрити. Това действие не може да бъде отменено. Продължите?</string>
+  <string name="message_delete_complete"> Contact(s) данни изтрити</string>
+  <string name="message_free_import_limit">Файлът съдържа повече контакта(ите) отколкото допускат в безплатната версия</string>
+  <string name="message_rate_this_app_error">Не можа да се отвори страницата за квалификационни класове. Моля, Гото Google Play и оцените съответно</string>
+  <string name="message_edit">Само 1 контакт могат да бъдат редактирани в даден момент. </string>
+  <string name="message_backup_stored">Контактите са били архивирани във файл:</string>
+  <string name="message_download_coju">Coju е интегрирано управление на контакти апартамент. Тя има всички функции на този app плюс допълнителни възможности. Ще искате да изтеглите Coju?</string>
+  <string name="message_contact_permissions_missing">Контакти разрешения са необходими за тази ап да работи. Ап сега ще затвори, моля дайте разрешения и опитайте отново</string>
+  <string name="message_other_permissions_missing">Исканият разрешения са необходими за тази ап функция да работи.
+        Моля, дайте исканите разрешения и опитайте отново</string>
+  <string name="message_backup_freeversion">
+        Максималният брой контакти, които могат да бъдат подкрепени в тази безплатна версия е:
+    </string>
+  <string name="message_backup_paidversion">
+        Всички контакти са успешно архивирани във файл
+    </string>
+  <string name="message_purchase_error">
+        Не може да се свърже със сървъра Google. Рестартирайте приложението и опитайте отново
+    </string>
+</resources>

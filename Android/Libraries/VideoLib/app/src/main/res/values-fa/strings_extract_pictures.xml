@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">نام پرونده:</string>
+  <string name="text_ep_file_size">حجم:</string>
+  <string name="text_ep_modified_date">تاریخ تغییر:</string>
+  <string name="text_ep_video_duration">مدت زمان:</string>
+  <string name="title_search_depth">جستجوی عمق (ارزش های بزرگ را چند دقیقه)</string>
+  <string name="nav_menu_search_entire_phone">جستجوی کل گوشی</string>
+  <string name="nav_menu_search_media_folders">پوشه رسانه جستجو</string>
+  <string name="nav_menu_search_external_folders">جستجوی پوشه های خارجی</string>
+  <string name="progressbar_extracting_pictures">استخراج تصاویر...</string>
+  <string name="text_ep_time_start">شروع time(seconds)</string>
+  <string name="text_ep_period">فاصله بین pictures(seconds)</string>
+  <string name="text_ep_no_of_pictures">تعداد تصاویر</string>
+  <string name="text_ep_store">ذخیره عکس استخراج شده به عنوان:</string>
+  <string name="text_ep_share_external">در پوشه خارجی</string>
+  <string name="text_ep_share_app">اشتراک گذاری با استفاده از برنامه های کاربردی</string>
+  <string name="message_extract_complete"> طبق استخراج شده اند</string>
+  <string name="message_extract_error">خطایی در استخراج تصاویر مواجه شد</string>
+  <string name="message_search_depth_updated">عمق جستجو به روز شد</string>
+  <string name="message_search_depth_error">خطا در به روز رسانی عمق جستجو</string>
+</resources>

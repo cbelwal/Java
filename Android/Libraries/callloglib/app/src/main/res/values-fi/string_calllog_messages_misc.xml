@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Tämä app ei ole myönnetty lupaa soittaa</string>
+  <string name="message_search_number_security_exception">Tätä puhelinnumeroa ei Etsi! Google-haku ei ole käytössä tai lupaa ei ole myönnetty tämän laitteen</string>
+  <string name="message_free_version_selection">
+        Lokimerkintöjen enimmäismäärä voi valita ilmainen versio on: </string>
+  <string name="message_purchase_error">
+        Ei voinut muodostaa Googlen palvelimelle. Käynnistä sovellus ja yritä uudelleen
+    </string>
+</resources>

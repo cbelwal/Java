@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">Unblocked kişileri</string>
+  <string name="display_options_blocked">Engellenen kişileri</string>
+  <string name="action_block">Blok</string>
+  <string name="action_unblock">Engelini kaldırmak</string>
+  <string name="message_blocking_contacts">Kişileri engelleme</string>
+  <string name="message_unblocking_contacts">Blokaj kişileri</string>
+  <string name="message_block_unblock_complete">Tüm Seçili kişileri güncelleme </string>
+  <string name="message_block_unblock_error">Seçilen bazı kişileri güncelleştirilirken bir hata oluştu</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">eszköz (ök)</string>
+  <string name="general_selected_items">a kiválasztott</string>
+  <string name="general_error">Hiba</string>
+  <string name="title_confirm">Győződjön meg arról</string>
+  <string name="button_ok">oké</string>
+  <string name="button_cancel">Mégse</string>
+  <string name="free_space">Összes szabad terület:</string>
+  <string name="title_share">Ossza meg használ:</string>
+  <string name="title_rename">Írjon be új nevet  </string>
+  <string name="title_create_folder">Adja meg a mappa neve  </string>
+</resources>

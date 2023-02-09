@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_share">Chia sẻ</string>
+  <string name="action_delete">Xóa bỏ</string>
+  <string name="action_filter">Bộ lọc</string>
+  <string name="action_copy">Bản sao</string>
+  <string name="action_rename">Đổi tên</string>
+  <string name="action_create_folder">Tạo thư mục</string>
+  <string name="action_move">Di chuyển</string>
+  <string name="action_share_zip">Chia sẻ là Zip</string>
+  <string name="action_extract_pictures">Trích xuất âm thanh</string>
+  <string name="action_zip">Zip</string>
+  <string name="nav_menu_view_name">Xem theo tên tập tin</string>
+  <string name="nav_menu_view_size">Xem theo kích thước</string>
+  <string name="nav_menu_view_modified">Đổi lần xem theo ngày</string>
+  <string name="nav_menu_view_refresh">Làm mới</string>
+  <string name="nav_menu_view_close">Đóng</string>
+  <string name="nav_menu_search_default">Tìm phương tiện lưu trữ (mặc định)</string>
+  <string name="nav_menu_search_entire_phone">Tìm toàn bộ điện thoại</string>
+  <string name="nav_menu_search_media_folders">Tìm phương tiện truyền thông cặp</string>
+  <string name="nav_menu_search_external_folders">Thư mục bên ngoài tìm kiếm</string>
+  <string name="nav_menu_group_general">Tổng quát</string>
+  <string name="nav_menu_group_viewoptions">Xem tùy chọn</string>
+  <string name="nav_menu_group_searchoptions">Tùy chọn tìm kiếm</string>
+  <string name="nav_menu_rate_this_app">Thông tin phản hồi</string>
+  <string name="nav_menu_upgrade">Nâng cấp lên phiên bản trả tiền</string>
+  <string name="nav_menu_tellafriend">Nói cho một người bạn</string>
+  <string name="nav_menu_feedback">Liên hệ với chúng tôi</string>
+  <string name="nav_menu_group_help">Trợ giúp</string>
+  <string name="nav_menu_demovideo">Demo Video</string>
+  <string name="nav_menu_help_doc">Tài liệu trợ giúp</string>
+</resources>

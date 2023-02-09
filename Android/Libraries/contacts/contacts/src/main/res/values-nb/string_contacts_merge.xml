@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Kontakter-flettingen</string>
+  <string name="action_merge">Flette kontakt(er)</string>
+  <string name="message_merge_title">Forsiktig</string>
+  <string name="message_merge_confirm">Bekreft hvis du vil flette valgte kontakter? Telefonnummeret, e-postadresse, postadresse, Merk og arrangementer av alle valgte kontakter vil slås sammen til én enkelt kontakt med navnet: </string>
+  <string name="message_merge_complete">Valgte kontakter er slått sammen</string>
+  <string name="progressbar_merge_data">Fletter kontakter...</string>
+</resources>

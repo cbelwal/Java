@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Przeglądaj</string>
+  <string name="backup_options_backupusing">Przy użyciu kopii zapasowej</string>
+  <string name="export_options_externalStorage">Zewnętrznej pamięci masowej urządzenia</string>
+  <string name="share_options_shareas">Podziel się jako:</string>
+  <string name="share_options_allshare">Udostępnianie aplikacji (Cloud, E-mail,...)</string>
+  <string name="share_options_share_using">Podziel się za pomocą:</string>
+  <string name="share_options_sms">Wiadomości</string>
+  <string name="share_options_clipboard">Kopiuj do schowka</string>
+  <string name="export_options_ExportUsing">Zapisz plik w:</string>
+  <string name="progressbar_prepare_data">Przygotowanie listy dziennika połączeń...</string>
+  <string name="progressbar_backup">Tworzenie kopii zapasowej dziennika połączeń, może to potrwać kilka minut...</string>
+  <string name="backup_options_using">Zapisać plik kopii zapasowej w:</string>
+  <string name="menu_import_help">Pomoc</string>
+  <string name="text_import_file_name">Nazwa wybranego pliku:</string>
+  <string name="text_import_file_size">Size(bytes) wybrany plik:</string>
+  <string name="text_unknown_file_size">Nieznane</string>
+  <string name="message_backup_options">Jest zalecana do tworzenia kopii zapasowych w aplikacji udostępnianie jak chmura, E-mail itp.
+        To pozwoli Ci odzyskać rejestr połączeń, jeśli kiedykolwiek zgubisz swój telefon.
+        Aby przywrócić kontakty z wiadomości E-mail/chmury ręcznie Zapisz wywołanie pliku kopii zapasowej dziennika z konta E-mail/Cloud do dowolnej lokalizacji w tym urządzeniu. Narzędzie importu/przywracanie następnie automatycznie zlokalizować plik.</string>
+  <string name="message_importing_contacts">Importowanie Dzienniki połączeń...</string>
+  <string name="message_reading_import_file">Czytanie pliku, może to potrwać kilka minut...</string>
+  <string name="export_options_plain_text">Zwykły tekst</string>
+  <string name="export_options_indv_clm">Poszczególne pliki CLM</string>
+  <string name="export_options_combined_clm">Połączony plik CLM </string>
+  <string name="export_generated_footer">Generowane przez wywołanie Log Manager Coju</string>
+  <string name="export_sent_footer">Generowane przez wywołanie Log Manager</string>
+  <string name="export_generated_header">Szczegóły dziennika połączeń</string>
+  <string name="message_clipboard_copy">Skopiowane do schowka</string>
+  <string name="message_exporting_calllog">Wyodrębnianie kontaktów...</string>
+  <string name="message_exporting_calllog_ready">Szykując się do eksportowania kontaktów...</string>
+  <string name="message_exporting_calllog_write_file">Zapisywanie plików...</string>
+  <string name="message_import_help">Tylko plik wygenerowany z tej aplikacji (*. Można importować pliki CLM)</string>
+  <string name="message_import_invalid_file">Nie ważny wywołanie pliku dziennika</string>
+  <string name="message_importing_complete">Dzienniki wywołań importowane</string>
+  <string name="message_restore_complete">Przywrócić z kopii zapasowej wpisów rejestru połączeń</string>
+  <string name="message_restore_fail">
+        Nie można przywrócić z kopia zapasowa, kopia zapasowa pliku lub jest uszkodzony
+                </string>
+  <string name="message_backup_stored_freeversion">
+        Darmowa wersja tylko pozwala na backup do 9 Dzienniki połączeń.
+        Dzienniki połączeń mają zostały kopii zapasowej w pliku:
+    </string>
+  <string name="message_backup_failed">
+        Nie można zapisać kopię zapasową pliku, spróbuj ponownie. Jeśli problem będzie się powtarzał Zgłoś problem do wydawcy aplikacji za pomocą opcji informacje zwrotne w tej aplikacji.
+    </string>
+  <string name="message_restore_selection_finish">
+        Dzienniki połączeń kopii zapasowej zostały przywrócone
+    </string>
+  <string name="message_clm_file_not_found">
+        Nie wywołanie Log Manager (*. Znalezione w tym urządzeniu pliki CLM)
+    </string>
+  <string name="message_backup_file_not_found">
+        Nie znaleziono tego urz±dzenia plików kopii zapasowej
+    </string>
+  <string name="message_backup_stored">Kontakty mają zostały kopii zapasowej w pliku:</string>
+  <string name="message_save_external">Rejestr przechowywany w folderze zewnętrznych połączeń: </string>
+  <string name="message_loading_files">Wyszukiwanie lokalne foldery...</string>
+  <string name="message_loading_backup_files">Wyszukiwania, urządzenie do tworzenia kopii zapasowych plików...</string>
+  <string name="message_backup_freeversion">
+        Maksymalną liczbę dzienników połączeń, które mogą być archiwizowane w ten wolny wersja jest:
+    </string>
+  <string name="message_backup_paidversion">
+        Wszystkie dzienniki połączeń pomyślnie kopię zapasową w pliku
+    </string>
+</resources>

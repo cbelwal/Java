@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">선택 된 연락처 수: </string>
+  <string name="text_bt_paired_devices"> 이점된 장치 (연결 선택)</string>
+  <string name="text_bt_new_devices"> 새로운 장치 (연결 선택)</string>
+  <string name="message_bt_scan_devices">장치에 대 한 검색...</string>
+  <string name="message_bt_scan_complete">장치에 대 한 완성된 검사</string>
+  <string name="message_bt_pair_devices">페어링 장치...</string>
+  <string name="message_bt_new_none">아니 새로운 장치 발견</string>
+  <string name="message_bt_pair_none">쌍을 이루는 장치가 발견</string>
+  <string name="message_bt_conn_lost">장치에 연결</string>
+  <string name="message_bt_connecting">연결: </string>
+  <string name="message_bt_not_enabled">블루투스 사용 되지 않는 블루투스 전송 종료</string>
+  <string name="message_bt_status_listening">듣고...</string>
+  <string name="message_bt_status_connecting">연결...</string>
+  <string name="message_bt_status_connected">연결</string>
+  <string name="message_bt_testdata_sent">Testdata 전송</string>
+  <string name="message_bt_no_contacts">연락처를 보낼 선택</string>
+  <string name="message_bt_recv_complete">완전 한 데이터를 수신</string>
+  <string name="message_bt_not_connected">어떤 장치에 연결 되어 있지</string>
+  <string name="message_bt_adapter_error">블루투스 설정 오류가 있었습니다.
+            만약 귀하의 휴대 전화는 블루투스 및 블루투스 어댑터를 확인 하시기 바랍니다</string>
+  <string name="menu_bt_make_discoverable">장치를 검색 가능 하 게</string>
+  <string name="progressbar_bt_recv_data">연락처 데이터를 받을 준비가...</string>
+  <string name="message_bt_startup">같은 애플 리 케이 션을 실행 하 고 다른 장치에 열이 화면에 있는지 확인</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">تثبيت في الماضي 30 يوما</string>
+  <string name="filter_adv_options_security_inappbilling">وقد الفواتير في التطبيق</string>
+  <string name="filter_adv_options_security_readsms">يمكن قراءة الرسائل القصيرة</string>
+  <string name="filter_adv_options_security_sendsms">يمكن إرسال الرسائل القصيرة</string>
+  <string name="filter_adv_options_security_readcontacts">يمكن قراءة جهات الاتصال</string>
+  <string name="filter_adv_options_security_readcalllog">يمكن قراءة سجل المكالمات</string>
+  <string name="filter_adv_options_security_readcalender">يمكن قراءة التقويم</string>
+  <string name="filter_adv_options_security_writeexternalstorage">يمكن الكتابة إلى وحدة التخزين الخارجية</string>
+  <string name="filter_adv_options_security_camera">يمكن الوصول إلى الكاميرا</string>
+  <string name="filter_adv_options_security_mic">يمكن تسجيل الصوت</string>
+  <string name="filter_adv_options_security_location">يمكن الوصول إلى الموقع الخاص بك</string>
+  <string name="filter_adv_options_filter">تنشيط تريد الأمن</string>
+  <string name="filter_main_text">خيارات تصفية الأمان (تطبيقات فقط مطابقة أي واحد من هذه المعايير سيتم عرض):</string>
+  <string name="activity_security_filter">عامل تصفية العرض من البرامج الضارة</string>
+</resources>

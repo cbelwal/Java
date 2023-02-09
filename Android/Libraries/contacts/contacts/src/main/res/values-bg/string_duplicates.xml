@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Име + номер мач WhatsApp</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">Същия WhatsApp номер в няколко имена</string>
+  <string name="duplicate_options_name_matches_email_phone">Име + телефон/е-мейл мач</string>
+  <string name="duplicate_options_name_matches_phone">Име + телефон мач</string>
+  <string name="duplicate_options_name_matches_email">Име + имейл мач</string>
+  <string name="duplicate_options_same_number_multi_name">Същия номер в няколко имена</string>
+  <string name="duplicate_options_same_email_multi_name">Същ email в няколко имена</string>
+  <string name="duplicate_options_none">Няма</string>
+  <string name="progressbar_sel_duplicates">Сканиране на копия...</string>
+  <string name="message_duplicates_selected">За да изтриете избраните duplicate(s) натиснете иконата изтриване. Стойността на original(master) за всеки два екземпляра не е избрана и няма да бъдат изтрити.</string>
+  <string name="choose_duplicate_option">Изберете критерий за идентифициране на дубликати.
+        Дубликатите заедно с тяхната original(master) стойност ще бъде показана в главния екран и ще бъде автоматично проверява за изтриване. Original(Master) стойност не е отметнато.</string>
+  <string name="startup_message">Използвайте иконата дублирани в горния десен ъгъл за да зададете опция за изглед за дублиращи се записи</string>
+  <string name="message_duplicates_backup">Препоръчително е, че можете да архивирате вашите контакти преди да ги изтриете</string>
+</resources>

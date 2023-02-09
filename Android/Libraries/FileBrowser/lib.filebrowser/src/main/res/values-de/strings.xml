@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">Position (en)</string>
+  <string name="general_selected_items">ausgewählt</string>
+  <string name="general_error">Fehler</string>
+  <string name="title_confirm">Bestätigen</string>
+  <string name="button_ok">Okay</string>
+  <string name="button_cancel">Abbrechen</string>
+  <string name="free_space">Gesamte freie Speicherplatz:</string>
+  <string name="title_share">Teilen Sie mit:</string>
+  <string name="title_rename">Neuen Namen eingeben  </string>
+  <string name="title_create_folder">Geben Sie Ordnernamen  </string>
+</resources>

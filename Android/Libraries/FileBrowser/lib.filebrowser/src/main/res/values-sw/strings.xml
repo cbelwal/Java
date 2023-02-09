@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">Kipengee (vi)</string>
+  <string name="general_selected_items">iliyoteuliwa</string>
+  <string name="general_error">Kosa</string>
+  <string name="title_confirm">Kuthibitisha</string>
+  <string name="button_ok">Sawa kabisa</string>
+  <string name="button_cancel">Katisha</string>
+  <string name="free_space">Jumla ya nafasi wazi:</string>
+  <string name="title_share">Shiriki kutumia:</string>
+  <string name="title_rename">Ingiza jina jipya  </string>
+  <string name="title_create_folder">Ingiza jina la folda  </string>
+</resources>

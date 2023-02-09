@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">चयनित चिह्नित undeleted नहीं जा जाएगा। कृपया पुष्टि करें यदि आप आगे बढ़ना चाहते हैं?</string>
+  <string name="message_undelete_complete"> • घेरे रखते चिह्नित</string>
+  <string name="message_undelete_notice">यह विकल्प undeleted नहीं जा सकता, और आपके डिवाइस या Android संस्करण के निर्माता पर निर्भर करता है कि संपर्कों की सूची देगा। संपर्क नहीं किया जा सकता डिवाइस यह अनुमति नहीं है, तो बरामद, संपर्क कई घंटे पहले हटाए गए या संपर्कों को सिम कार्ड से हटाया गया।</string>
+  <string name="message_undelete_option_invalid">यह विकल्प हटाए गए संपर्कों के लिए मान्य नहीं है
+        </string>
+  <string name="message_undelete_help">कृपया चिह्नित का चयन करें और उन्हें हटाना रद्द करने के लिए ऊपरी-दाएँ में हटाना चिह्न का उपयोग करें</string>
+  <string name="progressbar_undelete_data">Undeleting चिह्नित </string>
+  <string name="action_undelete">चिह्नित हटाना रद्द करें</string>
+  <string name="button_understand">मुझे मालूम है</string>
+  <string name="title_disclaimer">अस्वीकरण</string>
+  <string name="title_no_undelete_found">क्षमा करें!</string>
+  <string name="message_no_undelete_found">
+        हमें खेद है, कोई हटाया गया संपर्क पुनर्प्राप्त करने योग् य पाए गए! आप उन्हें एक मैनुअल तरीके से Android के डेवलपर्स गूगल द्वारा सुझाए गए का उपयोग कर पुनर्प्राप्त करने का प्रयास कर सकते हैं।
+        आप मैन्युअल पुनर्प्राप्ति निर्देश है जो गूगल समर्थन वेब पेज पर जाएँ करने के लिए पसंद करेंगे?
+    </string>
+</resources>

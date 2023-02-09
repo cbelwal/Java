@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        Versão gratuita só permite que o backup de contatos até 200.
+        Contactos têm sido backup em arquivo:
+    </string>
+  <string name="message_backup_failed">
+        Falha ao salvar o arquivo de Backup, por favor tente novamente. Se o problema persistir por favor apresente edição editora app usando a opção Feedback neste app.
+    </string>
+</resources>

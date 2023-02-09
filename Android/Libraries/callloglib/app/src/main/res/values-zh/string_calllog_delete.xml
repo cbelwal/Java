@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_delete_confirm_cl">选定的呼叫日志详细信息将被删除。此操作无法撤消。是否继续？</string>
+  <string name="message_delete_complete_cl">呼叫日志详细信息删除</string>
+</resources>

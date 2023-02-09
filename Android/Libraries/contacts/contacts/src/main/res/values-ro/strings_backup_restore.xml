@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        Versiunea gratuita permite doar rezervă de până la 200 de persoane de contact.
+        Contacte au fost backup în fişier:
+    </string>
+  <string name="message_backup_failed">
+        Nu a reușit să salveze fișierul copie de rezervă, vă rugăm să încercaţi din nou. Dacă problema persistă vă rugăm să raportaţi problema la editor app folosind opţiunea Feedback în acest app.
+    </string>
+</resources>

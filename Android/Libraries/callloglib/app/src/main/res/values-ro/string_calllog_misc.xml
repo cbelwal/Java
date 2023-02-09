@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Jurnal apeluri</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">Necunoscut</string>
+  <string name="button_Yes">da</string>
+  <string name="button_No">nu</string>
+  <string name="button_Apply">Se aplică</string>
+  <string name="button_Close">Închide</string>
+  <string name="general_not_Available">Nu sunt disponibile</string>
+  <string name="general_items">element(e)</string>
+  <string name="general_selected_items">selectate</string>
+  <string name="title_confirm">Confirma</string>
+  <string name="title_dialog_coju">Download Coju</string>
+  <string name="message_selectitems">Atleast 1 intrare trebuie să fie selectate</string>
+  <string name="message_download_coju">Coju este o aplicatie de management integrat de contact. Aceasta are toate caracteristicile de acest app plus capabilităţi suplimentare. Va place la spre Coju?</string>
+  <string name="message_contact_permissions_missing">Contacte permisiuni sunt necessre pentru acest app pentru a lucra. App va acum închidă, vă rugăm să da permisiuni și încercați din nou</string>
+  <string name="message_other_permissions_missing">Solicitat permisiuni sunt necessre pentru această caracteristică de app la locul de muncă.
+        Vă rugăm să da permisiuni solicitate și încercați din nou</string>
+</resources>

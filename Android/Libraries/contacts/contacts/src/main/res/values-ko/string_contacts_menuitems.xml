@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">일반</string>
+  <string name="nav_menu_group_help">도움말</string>
+  <string name="nav_menu_group_viewoptions">옵션</string>
+  <string name="nav_menu_group_views">레이아웃</string>
+  <string name="nav_menu_group_operations">작업</string>
+  <string name="nav_menu_group_backup">백업</string>
+  <string name="nav_menu_rate_this_app">피드백</string>
+  <string name="nav_menu_backup_contacts">모든 연락처를 백업</string>
+  <string name="nav_menu_restore_contacts">연락처를 백업에서 복원</string>
+  <string name="nav_menu_upgrade">프로 업그레이드 버전</string>
+  <string name="nav_menu_filter">표시 필터</string>
+  <string name="nav_menu_duplicates">중복 도구 키트</string>
+  <string name="nav_menu_tellafriend">친구에 게</string>
+  <string name="nav_menu_feedback">연락처 Dasmic</string>
+  <string name="nav_menu_demovideo">데모 비디오</string>
+  <string name="nav_menu_coju_outlook">Microsoft Outlook에 대 한 Coju</string>
+  <string name="nav_menu_coju">Coju 다운로드</string>
+  <string name="display_options_all_TimesContacted">연락 하는 시간으로 정렬</string>
+  <string name="display_options_all_last_contact">마지막 연락처 시간으로 정렬</string>
+  <string name="display_options_all">이름으로 정렬</string>
+  <string name="display_options_phonenumber">정렬 된 전화 번호</string>
+  <string name="display_options_email">정렬 된 이메일 주소</string>
+  <string name="display_options_deleted">삭제 된 연락처</string>
+  <string name="display_options_refresh">디스플레이 새로 고침</string>
+  <string name="action_Operations">대량 업데이트</string>
+  <string name="action_Export">연락처 내보내기</string>
+  <string name="action_delete">연락처 삭제</string>
+  <string name="action_Import">연락처 가져오기</string>
+  <string name="action_edit">연락처 편집</string>
+  <string name="action_add">연락처 추가</string>
+  <string name="action_share">공유 연락처</string>
+  <string name="action_bluetooth">블루투스 전송</string>
+</resources>

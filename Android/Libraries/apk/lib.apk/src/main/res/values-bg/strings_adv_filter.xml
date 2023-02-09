@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">Инсталирани през последните 30 дни</string>
+  <string name="filter_adv_options_security_inappbilling">Има в приложение за фактуриране</string>
+  <string name="filter_adv_options_security_readsms">Може да прочетете SMS</string>
+  <string name="filter_adv_options_security_sendsms">Може да изпратите SMS</string>
+  <string name="filter_adv_options_security_readcontacts">Може да чете контакти</string>
+  <string name="filter_adv_options_security_readcalllog">Може да прочетете обаждане</string>
+  <string name="filter_adv_options_security_readcalender">Може да чете календар</string>
+  <string name="filter_adv_options_security_writeexternalstorage">Може да пишете на външна памет</string>
+  <string name="filter_adv_options_security_camera">Достъп до камера</string>
+  <string name="filter_adv_options_security_mic">Може да записва аудио</string>
+  <string name="filter_adv_options_security_location">Достъп до вашето местоположение</string>
+  <string name="filter_adv_options_filter">Активиране сигурност филтър(ри)</string>
+  <string name="filter_main_text">Опции за защита филтър (само приложения съвпадение, всеки един от тези критерий ще бъдат показани):</string>
+  <string name="activity_security_filter">Malware дисплей филтър</string>
+</resources>

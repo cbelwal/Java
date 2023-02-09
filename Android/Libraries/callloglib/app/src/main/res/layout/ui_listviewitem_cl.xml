@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@android:color/holo_blue_light"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp">
+
+    <QuickContactBadge
+        android:id="@+id/contactBadge"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="3dp"
+        android:layout_marginTop="10dp"
+        android:scaleType="centerCrop"/>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="3dp"
+        android:layout_marginLeft="3dp">
+
+
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="0dp">
+            <TextView android:id="@+id/primaryTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CheckedTextView"
+                android:focusable="true"
+                android:layout_marginRight="5dp"
+                android:textSize="20sp"/>
+
+            <ImageView
+                android:id="@+id/callTypeImageView"
+                android:layout_width="32dp"
+                android:layout_height="32dp" />
+        </LinearLayout>
+
+        <CheckedTextView android:id="@+id/secondaryCheckedTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SecondaryTextView"
+            android:focusable="true"
+            android:clickable="true"
+            android:gravity="center_vertical"
+            android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+            android:textSize="16sp"
+            android:layout_marginTop="-2dp"/>
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="3"
+            android:rowCount="2"
+            android:layout_marginTop="-2dp">
+
+            <TextView android:id="@+id/durationTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="0"
+                android:layout_row="0"
+                android:text="SecondaryTextView"
+                android:focusable="true"
+                android:gravity="left|top"
+                android:textSize="16sp"/>
+
+            <TextView android:id="@+id/geolocationTextView"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_column="0"
+                android:layout_row="1"
+                android:text="SecondaryTextView"
+                android:focusable="true"
+                android:gravity="left|top"
+                android:textSize="16sp"
+                />
+            <ImageButton
+                android:id="@+id/buttonImageCall"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:background="@drawable/ic_call_white_48dp"
+                android:layout_column="2"
+                android:layout_row="0"
+                android:layout_rowSpan="2"
+                android:hapticFeedbackEnabled="true"
+                android:gravity="right|top"
+                android:layout_marginLeft="5dp"
+
+                />
+            <ImageButton
+                android:id="@+id/buttonImageSearch"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:background="@drawable/ic_find_in_page_white_48dp"
+                android:layout_column="1"
+                android:layout_row="0"
+                android:layout_rowSpan="2"
+                android:hapticFeedbackEnabled="true"
+                android:gravity="right|top"
+                android:layout_marginLeft="5dp"
+                />
+                <!--
+
+                -->
+
+        </GridLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Peg Solitaire Problemløseren</string>
+  <string name="message_tellafriend">Denne app er mentalt challening spillet av Peg Solitaire også marmor kabal eller Brainvita. Målet med spillet er å komme til minimum antall knagger som mulig. Pinnene er flyttet til en tomt hull etter hoppe over en annen peg i en rett linje. Pinnen hoppet over fjernes, denne måten etter hvert flytte antall knagger redusert med ett. \n\n bortsett fra å spille standarden, denne app lar deg angi din egen tilpassede brettet å løse. Det er tilbake og frem knapper som lar deg gå tilbake til en rekke trekk og spillet holder også høy scores.\n\n men hva gjør denne app virkelig unik er dens kraftige peg solitaire problemløseren. Problemløseren bruker en anstendighet \'state-space\' algoritme for å løse noen gitt bord. Problemløseren vil komme opp med alle trekk som kreves for å komme til minimum antall pinnene.
+        Hvis du kjører Problemløseren fra begynnelsen på et nytt styre vil det vise deg alle trekk som vil føre til peg. Fordi den finner en løsning på noen bord, Problemløseren kan ta noen minutter å komme til en solution.\n\n gir den en prøve! \n</string>
+</resources>

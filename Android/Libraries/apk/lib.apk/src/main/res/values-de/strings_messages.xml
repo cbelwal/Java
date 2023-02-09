@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Mindestens 1 Auswahl ist erforderlich</string>
+  <string name="message_save_external">APK Dateien im Ordner \"externen\" gespeichert: </string>
+  <string name="message_free_version_selection">Nur 3 apps können ausgewählt werden, zu einem Zeitpunkt in der kostenlosen Version</string>
+  <string name="message_free_version_option">Diese Option ist nur verfügbar für die kostenpflichtige version</string>
+  <string name="message_activity_load_fail">Anwendung konnte nicht gestartet werden</string>
+  <string name="message_activity_loading">Anwendung wird gestartet...</string>
+  <string name="message_loading_files">Suchen lokale Ordner...</string>
+  <string name="message_deleting_files">Bitte bestätigen Sie einzeln für jedes Paket ausgewählt.
+    System-Pakete werden nur von Benutzerkonto deinstallieren.</string>
+  <string name="message_save_external_suffix">. Ordner kann zugegriffen werden, indem Ihr Handy an Ihren Computer durch USB etc. anschließen. </string>
+  <string name="message_rate_this_app_error">Rating-Seite konnte nicht geöffnet werden.</string>
+  <string name="message_share_link_prefix">Hallo, \r\n\r\nCheck dieses aus: </string>
+  <string name="message_share_link_suffix">Per APKit</string>
+  <string name="message_share_report_prefix">Paket-Bericht</string>
+  <string name="message_share_report_suffix">Generiert und per</string>
+  <string name="message_other_permissions_missing">Angeforderte Berechtigungen sind erforderlich für dieses Feature funktioniert. Bitte geben Sie angeforderte Berechtigungen und versuchen Sie es erneut
+    </string>
+  <string name="message_purchase_error">
+        Die Verbindung zum Google-Server konnte nicht hergestellt werden. Bitte starten Sie die app und versuchen Sie es erneut
+    </string>
+</resources>

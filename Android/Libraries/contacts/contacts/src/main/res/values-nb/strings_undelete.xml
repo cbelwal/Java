@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Valgte kontakter vil gjenopprettes. Bekreft hvis du vil fortsette?</string>
+  <string name="message_undelete_complete"> kontakt(er) uslettede</string>
+  <string name="message_undelete_notice">Dette alternativet vil vise kontaktene som kan gjenopprettes, og avhengig av produsenten av enheten eller den Android-versjonen. Kontakter kan ikke være gjenopprettet hvis enheten ikke tillater det, kontakter ble slettet flere timer siden eller kontakter ble slettet fra SIM-kortet.</string>
+  <string name="message_undelete_option_invalid">Dette alternativet er ikke gyldig for slettede kontakter
+        </string>
+  <string name="message_undelete_help">Velg kontakter og bruker gjenoppretter ikonet i øvre høyre for å gjenoppretter dem</string>
+  <string name="progressbar_undelete_data">Gjenopprette kontakter </string>
+  <string name="action_undelete">Gjenopprette kontakt(er)</string>
+  <string name="button_understand">jeg skjønner</string>
+  <string name="title_disclaimer">ANSVARSFRASKRIVELSE</string>
+  <string name="title_no_undelete_found">unnskyld!</string>
+  <string name="message_no_undelete_found">
+        Vi er beklager, ble ingen utvinnbare slettede kontakter funnet! Du kan prøve å gjenopprette dem ved hjelp av en manuell måte foreslått av Google, utviklerne av Android.
+        Vil du besøke Googles websiden som har manuell recovery instruksjoner?
+    </string>
+</resources>

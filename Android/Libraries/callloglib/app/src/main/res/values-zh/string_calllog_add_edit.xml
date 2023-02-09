@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">电话号码</string>
+  <string name="text_calllog_date">日期</string>
+  <string name="text_calllog_time">时间</string>
+  <string name="text_calllog_duration">Duration(s)</string>
+  <string name="text_calllog_type">类型</string>
+  <string name="spinner_calllog_type_incoming">传入</string>
+  <string name="spinner_calllog_type_outgoing">传出</string>
+  <string name="spinner_calllog_type_missed">错过了</string>
+  <string name="message_calllog_added">成功地添加到呼叫日志</string>
+  <string name="message_calllog_added_error">在添加未能调用日志</string>
+  <string name="message_calllog_edited">已成功更新的呼叫日志</string>
+  <string name="message_calllog_edited_error">在更新呼叫日志失败</string>
+</resources>

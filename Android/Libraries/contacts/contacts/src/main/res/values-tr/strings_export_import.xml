@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_reading_import_file">Dosya okuma, bu işlem birkaç dakika sürebilir...</string>
+  <string name="message_exporting_contacts">Ayıklanan kişileri...</string>
+  <string name="message_exporting_contacts_ready">Kişileri vermek hazırlanıyor...</string>
+  <string name="message_exporting_contacts_write_file">Dosyalar yazılıyor...</string>
+  <string name="text_import_file_name">Dosya adı:</string>
+  <string name="text_import_file_size">Dosya boyutu(bayt):</string>
+  <string name="text_unknown_file_size">Bilinmiyor</string>
+</resources>

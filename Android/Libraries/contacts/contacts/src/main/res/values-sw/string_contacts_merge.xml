@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Wawasiliani wa uchanganishi</string>
+  <string name="action_merge">Changanisha mwasiliani unayetaka</string>
+  <string name="message_merge_title">Tahadhari</string>
+  <string name="message_merge_confirm">Tafadhali thibitisha kama unataka kuchanganisha wawasiliani kilichoteuliwa? Namba ya simu, anwani ya barua pepe, anwani ya posta, kumbuka na matukio ya wawasiliani walioteuliwa wote zitaunganishwa katika kuwasiliana moja moja na jina: </string>
+  <string name="message_merge_complete">Wawasiliani walioteuliwa kuchanganishwa</string>
+  <string name="progressbar_merge_data">Kuchanganisha Wawasiliani...</string>
+</resources>

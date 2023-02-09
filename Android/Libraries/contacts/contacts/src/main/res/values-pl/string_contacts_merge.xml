@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Scalanie kontaktów</string>
+  <string name="action_merge">Scalanie kontaktów</string>
+  <string name="message_merge_title">Należy zachować ostrożność</string>
+  <string name="message_merge_confirm">Proszę potwierdzić, jeśli chcesz scalić wybrane kontakty? Numer telefonu, adres e-mail, adres pocztowy, Uwaga i zdarzenia wszystkich wybranych kontaktów zostaną połączone w jeden kontakt o nazwie: </string>
+  <string name="message_merge_complete">Wybrane kontakty zostały scalone</string>
+  <string name="progressbar_merge_data">Scalanie kontaktów...</string>
+</resources>

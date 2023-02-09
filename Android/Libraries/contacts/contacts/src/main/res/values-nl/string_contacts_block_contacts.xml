@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">Gedeblokkeerd contact(en)</string>
+  <string name="display_options_blocked">Geblokkeerde contactpersonen die</string>
+  <string name="action_block">Blok</string>
+  <string name="action_unblock">Blokkering opheffen</string>
+  <string name="message_blocking_contacts">Contact (s) blokkeren</string>
+  <string name="message_unblocking_contacts">Deblokkeren contact(en)</string>
+  <string name="message_block_unblock_complete">Alle geselecteerde contactpersoon/contactpersonen die bijgewerkt </string>
+  <string name="message_block_unblock_error">Er is een fout opgetreden bij het actualiseren van bepaalde geselecteerde contactpersonen die</string>
+</resources>

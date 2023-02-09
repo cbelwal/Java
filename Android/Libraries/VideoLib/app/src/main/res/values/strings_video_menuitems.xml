@@ -1,0 +1,28 @@
+<resources>
+    <string name="action_share">Share</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_rename">Rename</string>
+    <string name="action_create_folder">Create folder</string>
+    <string name="action_move">Move</string>
+    <string name="action_share_zip">Share as Zip</string>
+    <string name="action_extract_pictures">Extract Pictures</string>
+    <string name="action_zip">Zip</string>
+
+    <string name="nav_menu_view_name">View by Filename</string>
+    <string name="nav_menu_view_size">View by Size</string>
+    <string name="nav_menu_view_modified">View by Modified Date</string>
+    <string name="nav_menu_view_refresh">Refresh</string>
+    <string name="nav_menu_view_close">Close</string>
+
+    <string name="nav_menu_group_general">General</string>
+    <string name="nav_menu_group_viewoptions">View Options</string>
+    <string name="nav_menu_rate_this_app">Feedback</string>
+    <string name="nav_menu_upgrade">Upgrade to paid version</string>
+    <string name="nav_menu_tellafriend">Tell a friend</string>
+    <string name="nav_menu_feedback">Contact us</string>
+    <string name="nav_menu_group_help">Help</string>
+    <string name="nav_menu_demovideo">Demo Video</string>
+    <string name="nav_menu_help_doc">Help Documentation</string>
+</resources>

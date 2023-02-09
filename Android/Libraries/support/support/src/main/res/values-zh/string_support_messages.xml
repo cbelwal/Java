@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">如果应用程序有问题，将以电子邮件发布服务器并解决这个问题吗？</string>
+  <string name="message_check_for_rating">你想离开这个应用程序的反馈？</string>
+  <string name="message_tellafriend_subject">查阅此应用程序</string>
+  <string name="message_email_send_error">在发送电子邮件错误</string>
+  <string name="message_tellafriend_body">嘿，看看这个很酷的 app:\n</string>
+  <string name="message_start_activity_error">还有一个问题在开始 \n 活动。</string>
+  <string name="message_demo_video">你会喜欢看演示视频。
+        （显示此消息是只有一次）？</string>
+  <string name="message_help_documentation_fail">无法加载帮助文件。
+    请访问 http://www.dasmic.com 从浏览器，请参阅帮助。</string>
+  <string name="message_rate_this_app">能帮别人评分这个应用程序吗？</string>
+  <string name="message_rate_this_app_error">不能打开评级页面。请使用谷歌播放存储给评级</string>
+  <string name="message_feedback_subject">应用程序的反馈</string>
+</resources>

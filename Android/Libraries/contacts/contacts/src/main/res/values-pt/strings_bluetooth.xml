@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Número de contatos selecionados: </string>
+  <string name="text_bt_paired_devices"> Dispositivos emparelhados (select para conectar)</string>
+  <string name="text_bt_new_devices"> Novos dispositivos (select para conectar)</string>
+  <string name="message_bt_scan_devices">Verificação de dispositivos...</string>
+  <string name="message_bt_scan_complete">Terminou a varredura para dispositivos</string>
+  <string name="message_bt_pair_devices">Emparelhamento com dispositivos...</string>
+  <string name="message_bt_new_none">Não há novos dispositivos encontrados</string>
+  <string name="message_bt_pair_none">Não há dispositivos emparelhados encontrados</string>
+  <string name="message_bt_conn_lost">Perdida para o dispositivo de Conexão</string>
+  <string name="message_bt_connecting">Conectando-se a: </string>
+  <string name="message_bt_not_enabled">Bluetooth não estiver habilitado, fechando a transferência Bluetooth</string>
+  <string name="message_bt_status_listening">Ouvindo...</string>
+  <string name="message_bt_status_connecting">Conectando...</string>
+  <string name="message_bt_status_connected">Conectado</string>
+  <string name="message_bt_testdata_sent">TestData enviada</string>
+  <string name="message_bt_no_contacts">Sem contatos selecionados para enviar</string>
+  <string name="message_bt_recv_complete">Receber dados completos</string>
+  <string name="message_bt_not_connected">Não ligado a qualquer dispositivo</string>
+  <string name="message_bt_adapter_error">Houve uma criação erro Bluetooth.
+            Por favor, verifique se o seu telefone tem Bluetooth e o adaptador Bluetooth está ativado</string>
+  <string name="menu_bt_make_discoverable">Tornar o dispositivo detectável</string>
+  <string name="progressbar_bt_recv_data">Pronto para receber dados de contato...</string>
+  <string name="message_bt_startup">Certifique-se que o mesmo app está executando e esta tela abrir em outro dispositivo</string>
+</resources>

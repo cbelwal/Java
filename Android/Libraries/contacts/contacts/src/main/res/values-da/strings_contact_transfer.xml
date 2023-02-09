@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Gennemse</string>
+  <string name="backup_options_backupusing">Backup ved hjælp af</string>
+  <string name="transfer_address_home">Hjem</string>
+  <string name="transfer_address_office">Office</string>
+  <string name="transfer_contact_office">(W).</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(M)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">I favoritter</string>
+  <string name="transfer_not_in_favorites">Ikke i favoritter</string>
+  <string name="transfer_times_contacted">Gange kontaktet:</string>
+  <string name="transfer_last_time_contacted">Sidste gang kontaktet:</string>
+  <string name="transfer_organization">Organisation</string>
+  <string name="transfer_title">Titel</string>
+  <string name="transfer_event_birthday">Fødselsdag</string>
+  <string name="transfer_event_anniv">Jubilæum</string>
+  <string name="transfer_event_other">Andre</string>
+  <string name="check_phone">Telefon numre</string>
+  <string name="check_email">E-mail</string>
+  <string name="csv_header_name">Navn</string>
+  <string name="csv_header_phone">Telefon numre</string>
+  <string name="csv_header_email">Email adresse</string>
+  <string name="csv_header_postal">Postal adresse(r)</string>
+  <string name="csv_header_timescontacted">Gange kontaktet</string>
+  <string name="csv_header_lasttimecontact">Sidste gang kontaktede</string>
+  <string name="csv_header_favorite">Foretrukne Status</string>
+  <string name="csv_header_organization">Organisation</string>
+  <string name="check_postaladdress">Postadresse</string>
+  <string name="check_timescontacted">Antal gange kontaktet</string>
+  <string name="check_lastcontact">Sidste kontakttid</string>
+  <string name="check_isfavorite">Foretrukne status</string>
+  <string name="share_options_ShareAs">Dele som:</string>
+  <string name="share_options_ShareUsing">Dele ved hjælp af:</string>
+  <string name="share_options_sms">Messaging</string>
+  <string name="share_options_allshare">Dele programmer (Cloud, E-mail,...)</string>
+  <string name="share_options_Clipboard">Kopier til Udklipsholder</string>
+  <string name="share_options_plaintext">Almindelig tekst</string>
+  <string name="share_options_vcf">Enkelte Vcard fil(er)</string>
+  <string name="share_options_combinedvcf">Kombinerede Vcard-fil</string>
+  <string name="export_options_textfile">Almindelig tekstfil</string>
+  <string name="export_options_combinedvcf_21">Kombinerede vCard 2.1-fil</string>
+  <string name="export_options_individualvcf_21">Enkelte vCard 2.1 fil(er)</string>
+  <string name="export_options_combinedvcf_40">Kombinerede vCard 4.0-fil</string>
+  <string name="export_options_individualvcf_40">Enkelte vCard 4.0 fil(er)</string>
+  <string name="export_options_csvfile">Komma separeret (*.csv) fil</string>
+  <string name="export_options_externalStorage">Ekstern lagring af denne enhed</string>
+  <string name="export_options_ExportAs">Eksportformat:</string>
+  <string name="export_options_ExportUsing">Gem filen i:</string>
+  <string name="message_import_invalid_file">Ikke en gyldig kontaktfil
+        </string>
+  <string name="backup_options_using">Gemme sikkerhedskopifilen i:</string>
+  <string name="menu_import_help">Hjælp</string>
+  <string name="message_backup_options">Det anbefales at backup i del applikationer som Cloud, E-mail osv.
+        Dette vil tillade dig at gendanne kontaktpersoner, hvis du nogensinde mister telefonen.
+        Gendanne kontaktpersoner fra E-mail/Cloud manuelt gemme kontakter backup-fil fra din E-mail/Cloud-konto til en placering i denne enhed. Import nytte vil derefter automatisk finde filen.</string>
+  <string name="message_restore_fail">
+        Kunne ikke gendanne fra backup, backup-fil mangler eller er beskadiget
+                </string>
+  <string name="message_restore_refresh">Kontakter gendannes fra sikkerhedskopien. Opdater visningen for at se alle importerede kontaktpersoner</string>
+  <string name="message_restore_selection_finish">Kontakter gendannes fra sikkerhedskopien. Du kan nu lukke dette skærmbillede eller importeres fra en anden sikkerhedskopifil</string>
+  <string name="message_restore_legacy_name">Sikkerhedskopifilen blev opkaldt \'BackupAllContacts.vcf\ \"i ældre versioner</string>
+</resources>

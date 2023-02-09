@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Обединяване на контакти</string>
+  <string name="action_merge">Обединяване на контакти</string>
+  <string name="message_merge_title">Повишено внимание</string>
+  <string name="message_merge_confirm">Моля да потвърдите, ако искате да обедините избрани контакти? Телефонен номер, имейл адрес, пощенски адрес, Забележка и събития от всички избрани контакти ще се слеят в един единствен контакт с име: </string>
+  <string name="message_merge_complete">Избраните контакти са обединени</string>
+  <string name="progressbar_merge_data">Обединяване на контакти...</string>
+</resources>

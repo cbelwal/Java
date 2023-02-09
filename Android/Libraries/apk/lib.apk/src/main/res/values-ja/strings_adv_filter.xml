@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">過去 30 日間にインストールされています。</string>
+  <string name="filter_adv_options_security_inappbilling">アプリ内課金は、します。</string>
+  <string name="filter_adv_options_security_readsms">SMS を読むことができます。</string>
+  <string name="filter_adv_options_security_sendsms">SMS を送信することができます。</string>
+  <string name="filter_adv_options_security_readcontacts">連絡先を読み取ることができます。</string>
+  <string name="filter_adv_options_security_readcalllog">通話ログを読むことができます。</string>
+  <string name="filter_adv_options_security_readcalender">カレンダーを読むことができます。</string>
+  <string name="filter_adv_options_security_writeexternalstorage">外部ストレージに書き込むことができます。</string>
+  <string name="filter_adv_options_security_camera">カメラにアクセスすることができます。</string>
+  <string name="filter_adv_options_security_mic">オーディオを録音することができます。</string>
+  <string name="filter_adv_options_security_location">あなたの場所にアクセスすることができます。</string>
+  <string name="filter_adv_options_filter">セキュリティ フィルターをアクティブにします。</string>
+  <string name="filter_main_text">セキュリティ フィルターのオプション (アプリのみの一致これらの条件のいずれかが表示されます):</string>
+  <string name="activity_security_filter">マルウェア ディスプレイ フィルター</string>
+</resources>

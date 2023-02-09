@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Valitut yhteystiedot myös peruuttaa. Voisitteko vahvistaa, jos haluat jatkaa?</string>
+  <string name="message_undelete_complete"> Yhteystiedot poistamattomia</string>
+  <string name="message_undelete_notice">Tämä parametri luettelee yhteystiedot, joka voi myös peruuttaa ja riippuu laitteen tai Android-versio valmistajalta. Yhteystietoja ei voi palauttaa, jos laite ei salli sitä, yhteystiedot on poistettu useita tunteja sitten tai yhteystiedot poistettiin SIM-kortilta.</string>
+  <string name="message_undelete_option_invalid">Tämä vaihtoehto ei ole kelvollinen poistetut yhteyshenkilöt
+        </string>
+  <string name="message_undelete_help">Valitse yhteystiedot ja undelete heidät oikeassa undelete-kuvakkeen avulla</string>
+  <string name="progressbar_undelete_data">Undeleting yhteystiedot </string>
+  <string name="action_undelete">Palauta yhteystiedot</string>
+  <string name="button_understand">Ymmärrän</string>
+  <string name="title_disclaimer">DISCLAIMER</string>
+  <string name="title_no_undelete_found">Anteeksi!</string>
+  <string name="message_no_undelete_found">
+        Olemme pahoillamme, ei palauttaa poistetut yhteystiedot ei löytynyt! Voit palauta ne käyttäen käsikirja elämäntapa ehdottama Google, kehittäjien Android.
+        Haluatko Google tuki www-sivulla, jolla on manuaalisena ohjeet?
+    </string>
+</resources>

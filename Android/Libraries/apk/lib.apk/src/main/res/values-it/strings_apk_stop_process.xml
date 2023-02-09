@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">Interrompere l\'esecuzione</string>
+  <string name="message_stop_tasks">Arresto in esecuzione di compiti...</string>
+  <string name="message_user_tasks_stopped">Attività utente arrestata</string>
+  <string name="message_system_tasks_stopped">Attività di sistema interrotta</string>
+  <string name="message_process_still_running">Attività ancora in esecuzione</string>
+  <string name="message_stop_running_tasks">Interrompere l\'esecuzione di applicazioni e chiudere senza fili Bluetooth?</string>
+  <string name="message_stopping_running_tasks">Arresto di Bluetooth e Wireless</string>
+  <string name="message_battery_current_percentage">Corrente batteria livello %:</string>
+  <string name="message_no_user_process">Nessun processo in esecuzione utente trovato</string>
+</resources>

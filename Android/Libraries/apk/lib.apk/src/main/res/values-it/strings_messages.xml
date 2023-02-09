@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">È necessaria almeno 1 selezione</string>
+  <string name="message_save_external">APK file memorizzati nella cartella esterna: </string>
+  <string name="message_free_version_selection">Solo 3 apps può essere selezionato alla volta nella versione gratuita</string>
+  <string name="message_free_version_option">Questa opzione è disponibile solo per la versione a pagamento</string>
+  <string name="message_activity_load_fail">Applicazione non può essere avviato</string>
+  <string name="message_activity_loading">Avvio applicazione...</string>
+  <string name="message_loading_files">Ricerca cartelle locali...</string>
+  <string name="message_deleting_files">Si prega di confermare individualmente per ogni pacchetto selezionato.
+    Pacchetti di sistema verranno disinstallato solo da account utente</string>
+  <string name="message_save_external_suffix">. Cartella può essere letta collegando il telefono al computer tramite USB, ecc. </string>
+  <string name="message_rate_this_app_error">Impossibile aprire la pagina di voto</string>
+  <string name="message_share_link_prefix">Ciao, \r\n\r\nCheck questo fuori: </string>
+  <string name="message_share_link_suffix">Inviato via APKit</string>
+  <string name="message_share_report_prefix">Pacchetto Report</string>
+  <string name="message_share_report_suffix">Generati e inviati tramite</string>
+  <string name="message_other_permissions_missing">Autorizzazioni richieste sono necessarie per utilizzare questa funzionalità. Si prega di dare autorizzazioni richieste e riprovare
+    </string>
+  <string name="message_purchase_error">
+        Impossibile connettersi al server di Google. Si prega di riavviare app e riprovare
+    </string>
+</resources>

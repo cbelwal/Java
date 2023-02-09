@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">Novo igro</string>
+  <string name="button_switch_board">Stikalne</string>
+  <string name="button_custom_board">Nastavitev po meri krovu</string>
+  <string name="button_high_scores">Visoke Ocene</string>
+  <string name="button_rate_app">Ocenite to igro</string>
+  <string name="button_tell_a_friend">Povej prijatelju</string>
+  <string name="button_paid_version">Plačan prevod</string>
+  <string name="button_help_documentation">Dokumentacijo s pomočjo</string>
+  <string name="button_demo_video">Demonstracija televizija</string>
+  <string name="button_ok">v redu</string>
+  <string name="button_yes">da</string>
+  <string name="button_no">ne</string>
+  <string name="button_start">Začetek</string>
+  <string name="button_cancel">Prekliči</string>
+  <string name="button_abort">Prekinitev</string>
+  <string name="button_high_score_close">Blizu</string>
+  <string name="title_high_score">Top Ten High Scores</string>
+  <string name="text_high_score_none">Ni rezultat</string>
+  <string name="text_high_score_pegs">Preostalih peg(s)</string>
+  <string name="text_high_score_time">Čas</string>
+</resources>

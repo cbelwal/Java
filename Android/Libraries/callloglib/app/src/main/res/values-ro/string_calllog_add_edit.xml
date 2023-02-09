@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">Număr de telefon</string>
+  <string name="text_calllog_date">Data</string>
+  <string name="text_calllog_time">Timp</string>
+  <string name="text_calllog_duration">Duration(s)</string>
+  <string name="text_calllog_type">Tip</string>
+  <string name="spinner_calllog_type_incoming">Intrare</string>
+  <string name="spinner_calllog_type_outgoing">Ieşire</string>
+  <string name="spinner_calllog_type_missed">Ratat</string>
+  <string name="message_calllog_added">Adăugat cu succes pentru a Jurnalul de apeluri</string>
+  <string name="message_calllog_added_error">Eşecul în adăugarea la Jurnalul de apeluri</string>
+  <string name="message_calllog_edited">Jurnal apeluri cu succes actualizate</string>
+  <string name="message_calllog_edited_error">Eroare la actualizarea Jurnal apeluri</string>
+</resources>

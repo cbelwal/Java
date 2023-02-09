@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Uteuzi wa atleast 1 inahitajika</string>
+  <string name="message_save_external">APK faili zilizohifadhiwa katika kabrasha nje: </string>
+  <string name="message_free_version_selection">3 tu programu inaweza kuteuliwa kwa wakati katika toleo la bure</string>
+  <string name="message_free_version_option">Chaguo hii inapatikana tu kwa ajili ya toleo la kulipwa</string>
+  <string name="message_activity_load_fail">Programu tumizi haikuweza kuanzishwa</string>
+  <string name="message_activity_loading">Maombi kuanzia...</string>
+  <string name="message_loading_files">Inatafutiza kabrasha ndani...</string>
+  <string name="message_deleting_files">Tafadhali thibitisha kibinafsi kwa kila mfuko teuliwa.
+    Vifurushi vya mfumo kusanidua tu kutoka akaunti ya mtumiaji</string>
+  <string name="message_save_external_suffix">. Folda zinaweza kufikiwa na kuunganisha simu yako kwenye tarakilishi yako kupitia USB nk. </string>
+  <string name="message_rate_this_app_error">Haikuweza kufungua ukurasa wa ukadiriaji</string>
+  <string name="message_share_link_prefix">Jambo, \r\n\r\nCheck hivi: </string>
+  <string name="message_share_link_suffix">Kutumwa kupitia APKit</string>
+  <string name="message_share_report_prefix">Ripoti ya mfuko</string>
+  <string name="message_share_report_suffix">Yanayotokana na kutumwa kupitia</string>
+  <string name="message_other_permissions_missing">Ruhusa iliyoombwa zinahitajika kwa kipengee hiki kifanye kazi. Tafadhali kutoa ruhusa iliyoombwa na jaribu tena
+    </string>
+  <string name="message_purchase_error">
+        Haiwezi kuunganisha kwa seva za Google. Tafadhali anzisha upya programu na jaribu tena
+    </string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">新的游戏</string>
+  <string name="button_switch_board">开关板</string>
+  <string name="button_custom_board">设置自定义板</string>
+  <string name="button_high_scores">高分</string>
+  <string name="button_rate_app">这场比赛打分</string>
+  <string name="button_tell_a_friend">告诉你的朋友</string>
+  <string name="button_paid_version">付费的版本</string>
+  <string name="button_help_documentation">帮助文档</string>
+  <string name="button_demo_video">演示视频</string>
+  <string name="button_ok">还行</string>
+  <string name="button_yes">是啊</string>
+  <string name="button_no">没有</string>
+  <string name="button_start">开始</string>
+  <string name="button_cancel">取消</string>
+  <string name="button_abort">中止</string>
+  <string name="button_high_score_close">关闭</string>
+  <string name="title_high_score">顶尖十高分</string>
+  <string name="text_high_score_none">没有得分</string>
+  <string name="text_high_score_pegs">其余的 peg(s)</string>
+  <string name="text_high_score_time">时间</string>
+</resources>

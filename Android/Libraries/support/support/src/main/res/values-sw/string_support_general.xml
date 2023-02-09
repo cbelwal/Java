@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic, LLC</string>
+  <string name="feedback_no_email">Wateja hakuna barua pepe kupatikana</string>
+  <string name="button_yes">Ndio</string>
+  <string name="button_no">La</string>
+  <string name="nav_menu_help_doc">Kusaidia nyaraka</string>
+  <string name="button_rate_never">Kamwe</string>
+  <string name="button_rate_later">Baadaye</string>
+  <string name="button_rate_now">Sasa</string>
+  <string name="title_rate_this_app">Tafadhali kiwango cha programu tumizi hii</string>
+  <string name="title_feedback">Teua chaguo la barua pepe...</string>
+  <string name="title_demo_video">Video ya demo</string>
+  <string name="title_tellafriend">Mwambie rafiki kupitia...</string>
+  <string name="title_send_feedback">Wasiliana nasi</string>
+  <string name="title_rate_app">Kiwango cha programu</string>
+</resources>

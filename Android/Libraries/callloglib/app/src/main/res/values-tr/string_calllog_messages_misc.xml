@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Bu app için arama yapmak için izin verilmiş değil</string>
+  <string name="message_search_number_security_exception">Bu telefon numarasını arama değil! Google arama etkin değil ya da bu cihazın iznine sahip değil</string>
+  <string name="message_free_version_selection">
+        Ücretsiz sürümünde seçilebilir maksimum günlük girdileri olduğunu: </string>
+  <string name="message_purchase_error">
+        Google sunucusuna bağlanamadı. Lütfen app yeniden başlatın ve yeniden deneyin
+    </string>
+</resources>

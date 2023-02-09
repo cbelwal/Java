@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video rende</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="activity_extract_pictures">Resimleri ayıklamak</string>
+  <string name="button_Select_All">Tümünü Seç</string>
+  <string name="button_UnSelect_All">Tüm un seçin</string>
+  <string name="button_Delete">Sil</string>
+  <string name="button_Update">Güncelleştirme</string>
+  <string name="button_Share">Paylaş</string>
+  <string name="button_Yes">Evet</string>
+  <string name="button_No">Hayır</string>
+  <string name="button_apply">Uygula</string>
+  <string name="button_browse">Gözat</string>
+  <string name="button_close">Kapat</string>
+  <string name="button_Confirm">Onayla</string>
+  <string name="button_Ok">Tamam</string>
+  <string name="text_import_file_name">Adı</string>
+  <string name="text_import_file_size">Boyutu</string>
+  <string name="general_items">ürün (ler)</string>
+  <string name="general_selected_items">Seçili</string>
+  <string name="general_error">Hata</string>
+  <string name="title_confirm">Onayla</string>
+  <string name="button_ok">Tamam</string>
+  <string name="button_cancel">İptal</string>
+  <string name="free_space">Toplam boş alan:</string>
+  <string name="title_share">Kullanarak paylaşmak:</string>
+  <string name="title_rename">Yeni bir ad girin  </string>
+  <string name="title_create_folder">Klasör adı girin  </string>
+</resources>

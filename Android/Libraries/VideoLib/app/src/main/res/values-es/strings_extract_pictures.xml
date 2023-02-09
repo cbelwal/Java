@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Nombre del archivo:</string>
+  <string name="text_ep_file_size">Tamaño:</string>
+  <string name="text_ep_modified_date">Fecha de modificación:</string>
+  <string name="text_ep_video_duration">Duración:</string>
+  <string name="title_search_depth">Profundidad de la búsqueda (valores grandes tardará varios minutos)</string>
+  <string name="nav_menu_search_entire_phone">Todo teléfono de búsqueda</string>
+  <string name="nav_menu_search_media_folders">Carpetas de medios de búsqueda</string>
+  <string name="nav_menu_search_external_folders">Buscar en carpetas externas</string>
+  <string name="progressbar_extracting_pictures">Extracción de fotos...</string>
+  <string name="text_ep_time_start">Inicio time(seconds)</string>
+  <string name="text_ep_period">Intervalo entre pictures(seconds)</string>
+  <string name="text_ep_no_of_pictures">Número de imágenes</string>
+  <string name="text_ep_store">Almacenar imágenes extraídas como:</string>
+  <string name="text_ep_share_external">Colocar en carpeta externa</string>
+  <string name="text_ep_share_app">Compartir aplicaciones</string>
+  <string name="message_extract_complete"> imágenes han sido extraídas</string>
+  <string name="message_extract_error">Un error en la extracción de imágenes</string>
+  <string name="message_search_depth_updated">La profundidad de la búsqueda se actualizó</string>
+  <string name="message_search_depth_error">Error en la actualización de profundidad de la búsqueda</string>
+</resources>

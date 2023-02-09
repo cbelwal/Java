@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Nume fişier:</string>
+  <string name="text_ep_file_size">Dimensiune:</string>
+  <string name="text_ep_modified_date">Data modificării:</string>
+  <string name="text_ep_video_duration">Durata:</string>
+  <string name="title_search_depth">Adâncimea de căutare (valori mari va dura câteva minute)</string>
+  <string name="nav_menu_search_entire_phone">Căutare întreaga telefon</string>
+  <string name="nav_menu_search_media_folders">Căutare media folder(e)</string>
+  <string name="nav_menu_search_external_folders">Folderele de căutare extern</string>
+  <string name="progressbar_extracting_pictures">Extragere imagini...</string>
+  <string name="text_ep_time_start">Începe time(seconds)</string>
+  <string name="text_ep_period">Intervalul dintre pictures(seconds)</string>
+  <string name="text_ep_no_of_pictures">Număr de imagini</string>
+  <string name="text_ep_store">Stoca imagini extrase ca:</string>
+  <string name="text_ep_share_external">Plasaţi în folderul externe</string>
+  <string name="text_ep_share_app">Cota folosind aplicaţii</string>
+  <string name="message_extract_complete"> imaginile au fost extrase</string>
+  <string name="message_extract_error">A apărut o eroare la extragerea imagini</string>
+  <string name="message_search_depth_updated">Adâncimea de căutare a fost actualizată</string>
+  <string name="message_search_depth_error">Eroare la actualizarea adâncimea de căutare</string>
+</resources>

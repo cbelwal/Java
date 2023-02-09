@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Šajā app nav piešķirta atļauja veikt zvanus</string>
+  <string name="message_search_number_security_exception">Nevarēja meklēt šo tālruņa numuru! Google meklēšana nav iespējota vai atļauja nav piešķirta šajā ierīcē</string>
+  <string name="message_free_version_selection">
+        Maksimālo žurnāla ierakstus, kurus var izvēlēties bezmaksas versija ir: </string>
+  <string name="message_purchase_error">
+        Nevar izveidot savienojumu ar Google serveri. Lūdzu, restartējiet app un mēģiniet vēlreiz
+    </string>
+</resources>

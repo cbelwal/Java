@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Google सर्वर से कनेक्ट नहीं हो सका । कृपया अनुप्रयोग पुनः आरंभ करें और फिर से कोशिश
+    </string>
+  <string name="progressbar_load_data">वीडियो फ़ाइलों के लिए खोज रहा है.. ।</string>
+  <string name="message_selectitems">कम 1 चयन की आवश्यकता है</string>
+  <string name="message_activity_load_fail">अनुप्रयोग प्रारंभ नहीं किया जा सका</string>
+  <string name="message_activity_loading">अनुप्रयोग प्रारंभ कर रहा है.. ।</string>
+  <string name="message_other_permissions_missing">अनुरोधित अनुमतियों को कार्य करने के लिए इस सुविधा के लिए आवश्यक हैं । कृपया अनुरोधित अनुमतियां दें और पुन: प्रयास करें
+    </string>
+  <string name="message_no_read_permission">कोई पढ़ने की अनुमति नहीं
+    </string>
+  <string name="message_cannot_go_in">चयनित फ़ोल्डर के अंदर नहीं जा सका
+    </string>
+  <string name="message_delete_confirm">चयनित फ़ाइलें हटा दी जाएंगी । यह क्रिया पूर्ववत् नहीं की जा सकती । आगे बढ़ना?</string>
+  <string name="progressbar_delete_data">
+        फ़ाइल (फ़ाइलें) हटा रहा है </string>
+  <string name="message_delete_complete"> फ़ोल्डर हटाए गए फ़ाइल/</string>
+  <string name="message_free_version_selection">
+        अधिकतम फ़ाइलें है कि मुक्त संस्करण में चुना जा सकता है: </string>
+  <string name="message_max_allowed_one">
+        यह विकल्प केवल किसी एकल चयन के लिए कार्य करता है  </string>
+  <string name="message_only_file">
+        यह विकल्प केवल फ़ाइल (फ़ाइलों) के लिए काम करता है  </string>
+  <string name="message_copying_file">
+        फ़ाइल की प्रतिलिपि बना रहा है.. ।  </string>
+  <string name="message_copy_complete">
+        फ़ाइल की प्रतिलिपि पूर्ण  </string>
+  <string name="message_copy_error">
+        कुछ फ़ाइल (फ़ाइलों) की प्रतिलिपि नहीं बना सका । सुनिश्चित करें कि वहां रिक्त स्थान है और आप फ़ोल्डर के लिए लेखन पहुंच है ।</string>
+  <string name="message_share_error">
+        प्रतिलिपि के दौरान कोई त्रुटि आई । कृपया जांचें कि क्या आपके पास साझा फ़ाइल (फ़ाइलों) को कैश करने के लिए पर्याप्त संग्रहण स्थान है  </string>
+  <string name="message_zipping_files">
+        फ़ाइल (फ़ाइलें)/folder (ओं) को संपीड़ित कर रहा है.. ।  </string>
+  <string name="message_zipping_completed">
+        सभी फ़ाइल (s)/folder ज़िप संग्रह में ले जाया गया  </string>
+  <string name="message_zipping_error">
+        /folder (s) फ़ाइल को ज़िप नहीं कर सका । कृपया जांचें कि क्या चयनित फ़ोल्डर रिक्त नहीं है और आपके पास पर्याप्त संग्रहण स्थान है</string>
+  <string name="message_rename_complete">
+        फ़ाइल/फ़ोल्डर का नाम बदलना पूरा  </string>
+  <string name="message_rename_error">
+        फ़ाइल/फ़ोल्डर का नाम नहीं बदल सका  </string>
+  <string name="message_create_folder_complete">
+        फ़ोल्डर बनाया गया  </string>
+  <string name="message_create_folder_error">
+        फ़ोल्डर नहीं बना सका  </string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">เรียงลำดับตามเวลา</string>
+  <string name="nav_view_outgoingcalls_cl">โทรออก</string>
+  <string name="nav_view_incomingcalls_cl">สายเรียกเข้า</string>
+  <string name="nav_view_missedcalls_cl">สาย</string>
+  <string name="nav_view_callduration_cl">เรียงลำดับตามระยะเวลา</string>
+  <string name="nav_view_geocoded_location_cl">เรียงลำดับตามตำแหน่ง</string>
+  <string name="nav_view_refresh_cl">รีเฟรช</string>
+  <string name="nav_view_100_records">ไม่เกิน 100</string>
+  <string name="nav_view_500_records">ไม่เกิน 500</string>
+  <string name="nav_view_all_records">มีอยู่ทั้งหมด</string>
+  <string name="nav_menu_group_general_cl">ทั่วไป</string>
+  <string name="nav_menu_group_help_cl">วิธีใช้</string>
+  <string name="nav_menu_group_log_length">จำนวน</string>
+  <string name="nav_menu_group_viewoptions_cl">ตัวเลือก</string>
+  <string name="nav_menu_group_views_cl">มุมมอง</string>
+  <string name="nav_menu_group_operations_cl">การดำเนินงาน</string>
+  <string name="nav_menu_group_backup_cl">การสำรองข้อมูล</string>
+  <string name="nav_menu_rate_this_app_cl">ความคิดเห็น</string>
+  <string name="nav_menu_backup_contacts_cl">สำรองรายการล็อกการโทรทั้งหมด</string>
+  <string name="nav_menu_restore_contacts_cl">โทรเข้าสู่ระบบการคืนค่าจากข้อมูลสำรอง</string>
+  <string name="nav_menu_upgrade_cl">รุ่นโป</string>
+  <string name="nav_menu_filter_cl">แสดงตัวกรอง</string>
+  <string name="nav_menu_duplicates_cl">ชุดเครื่องมือซ้ำ</string>
+  <string name="nav_menu_tellafriend_cl">บอกเพื่อน</string>
+  <string name="nav_menu_feedback_cl">ติดต่อ Dasmic</string>
+  <string name="nav_menu_demovideo_cl">วิดีโอสาธิต</string>
+  <string name="nav_menu_coju_cl">ดาวน์โหลด Coju</string>
+  <string name="menu_operations_cl">การปรับปรุงจำนวนมาก</string>
+  <string name="menu_add_cl">เพิ่ม</string>
+  <string name="menu_edit_cl">แก้ไข</string>
+  <string name="menu_update_cl">การปรับปรุง</string>
+  <string name="menu_share_cl">ใช้ร่วมกัน</string>
+  <string name="menu_export_cl">การส่งออก</string>
+  <string name="menu_import_cl">นำเข้า</string>
+  <string name="menu_delete_cl">ลบ</string>
+  <string name="menu_bluetooth_cl">ส่งบลูทูธ</string>
+</resources>

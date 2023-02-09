@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_add_call_log">اضافه کردن</string>
+  <string name="activity_edit_call_log">ویرایش</string>
+  <string name="activity_share_call_log">سهم</string>
+  <string name="activity_export_call_log">صادرات</string>
+  <string name="activity_import_call_log">واردات</string>
+  <string name="activity_bluetooth_call_log">انتقال بلوتوث</string>
+  <string name="activity_backup_call_log">پشتیبان گیری</string>
+  <string name="activity_restore_call_log">بازیابی</string>
+  <string name="activity_filter_call_log">نمایش فیلتر</string>
+</resources>

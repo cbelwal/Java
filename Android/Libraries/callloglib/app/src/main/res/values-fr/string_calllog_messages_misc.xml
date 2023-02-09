@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">L’autorisation d’effectuer des appels n’a pas été accordée à ce soft</string>
+  <string name="message_search_number_security_exception">Pas pu Rechercher ce numéro de téléphone ! Recherche Google n’est pas activé ou autorisation n’a pas été accordée dans cet appareil</string>
+  <string name="message_free_version_selection">
+        Les entrées de journal maximal pouvant être sélectionné dans la version gratuite est : </string>
+  <string name="message_purchase_error">
+        Pas pu se connecter au serveur de Google. S’il vous plaît redémarrer l’application et essayez à nouveau
+    </string>
+</resources>

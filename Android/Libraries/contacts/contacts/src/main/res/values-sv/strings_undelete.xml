@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Markerade kontakterna blir återställd. Bekräfta om du vill fortsätta?</string>
+  <string name="message_undelete_complete"> kontakter som återställde</string>
+  <string name="message_undelete_notice">Detta alternativ kommer att lista de kontakter som kan vara återställd och beror på tillverkaren av enheten eller Android-versionen. Kontakter inte kan återvinnas om enheten inte är möjligt, kontakter togs bort flera timmar sen eller kontakter togs bort från SIM-kortet.</string>
+  <string name="message_undelete_option_invalid">Detta alternativ gäller inte för borttagna kontakter
+        </string>
+  <string name="message_undelete_help">Vänligen markera kontakter och Använd undelete ikonen i övre högra till outplåner dem</string>
+  <string name="progressbar_undelete_data">Undeleting kontakter </string>
+  <string name="action_undelete">Outplåner kontakter</string>
+  <string name="button_understand">Jag förstår</string>
+  <string name="title_disclaimer">ANSVARSFRISKRIVNING</string>
+  <string name="title_no_undelete_found">Förlåt!</string>
+  <string name="message_no_undelete_found">
+        Vi är ledsna, hittades inga ersättningsgilla borttagna kontakter! Du kan försöka återställa dem med hjälp av ett manuellt sätt föreslås av Google, utvecklare av Android.
+        Kommer du som att besöka webbsidan Google stöd som har manuell återställning instruktioner?
+    </string>
+</resources>

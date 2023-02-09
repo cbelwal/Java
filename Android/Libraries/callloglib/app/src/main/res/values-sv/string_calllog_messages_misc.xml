@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Tillstånd att ringa har inte beviljats denna app</string>
+  <string name="message_search_number_security_exception">Kunde inte söka detta telefonnummer! Google-sökning är inte aktiverad eller tillstånd inte har beviljats i enheten</string>
+  <string name="message_free_version_selection">
+        Maximala loggposter som kan väljas i den fria versionen är: </string>
+  <string name="message_purchase_error">
+        Kunde inte ansluta till Google-servern. Starta om appen och försök igen
+    </string>
+</resources>

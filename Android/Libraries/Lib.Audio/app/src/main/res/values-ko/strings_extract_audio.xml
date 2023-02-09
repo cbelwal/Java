@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">파일 이름:</string>
+  <string name="text_ep_file_size">크기:</string>
+  <string name="text_ep_modified_date">수정한 날짜:</string>
+  <string name="text_ep_duration">소요 시간:</string>
+  <string name="title_search_depth">검색 깊이 (큰 값 몇 분 정도 걸릴 것 이다)</string>
+  <string name="progressbar_extracting_audio">추출 오디오 (몇 분 정도 걸릴 수 있습니다)...</string>
+  <string name="progressbar_loading_audio">오디오 파일 정보 로드 중...</string>
+  <string name="text_ep_time_start">시작 time(seconds)</string>
+  <string name="text_ep_period">각 오디오 file(seconds)의 기간</string>
+  <string name="text_ep_store">로 새로운 오디오 파일 저장:</string>
+  <string name="text_ep_share_external">외부 폴더에</string>
+  <string name="text_ep_share_app">응용 프로그램을 사용 하 여 공유</string>
+  <string name="message_extract_complete"> M4A 파일 생성 된</string>
+  <string name="message_extract_error">오디오 파일에 오류가 발생 했습니다.</string>
+  <string name="message_search_depth_updated">검색 깊이 업데이트</string>
+  <string name="message_search_depth_error">검색 깊이 업데이트 오류</string>
+  <string name="message_load_complete">오디오 파일 정보 로드</string>
+  <string name="message_load_error">오디오 로드 오류가 발생 했습니다.</string>
+  <string name="message_extract_duration_reduced"> 오디오의 끝에 도달 했다 마지막 오디오 파일 기간 감소 했다 </string>
+  <string name="message_extract_incomplete"> %1$ d 오디오 파일을 만들 수 없습니다 또는 불완전 한 정보</string>
+  <string name="message_extract_signature">Coju.mobi™에서 오디오 강판 통해 전송</string>
+</resources>

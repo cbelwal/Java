@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Ήχου τρίφτη</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="activity_extract_pictures">Εξαγάγει τον ήχο</string>
+  <string name="button_Select_All">Επιλογή όλων</string>
+  <string name="button_UnSelect_All">Un-Επιλέξτε όλα</string>
+  <string name="button_Delete">Διαγραφή του</string>
+  <string name="button_Update">Ενημερωμένη έκδοση</string>
+  <string name="button_Share">Μετοχή</string>
+  <string name="button_Yes">Ναι</string>
+  <string name="button_No">Όχι</string>
+  <string name="button_apply">Εφαρμόστε</string>
+  <string name="button_browse">Αναζήτηση</string>
+  <string name="button_close">Κλείστε</string>
+  <string name="button_play">Παίξτε</string>
+  <string name="button_stop">Σταμάτα</string>
+  <string name="button_Confirm">Επιβεβαίωση</string>
+  <string name="button_Ok">Ok</string>
+  <string name="text_import_file_name">Όνομα</string>
+  <string name="text_import_file_size">Μέγεθος</string>
+  <string name="general_items">item (s)</string>
+  <string name="general_selected_items">επιλεγμένο</string>
+  <string name="general_error">Σφάλμα</string>
+  <string name="title_confirm">Επιβεβαίωση</string>
+  <string name="button_ok">Ok</string>
+  <string name="button_cancel">Άκυρο</string>
+  <string name="free_space">Συνολικό ελεύθερο χώρο:</string>
+  <string name="title_share">Μοιραστείτε χρησιμοποιώντας:</string>
+  <string name="title_rename">Πληκτρολογήστε νέο όνομα  </string>
+  <string name="title_create_folder">Εισάγετε το όνομα του φακέλου  </string>
+</resources>

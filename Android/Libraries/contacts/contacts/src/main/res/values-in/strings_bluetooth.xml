@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Jumlah kontak yang dipilih: </string>
+  <string name="text_bt_paired_devices"> Pasangan perangkat (pilih Hubungkan)</string>
+  <string name="text_bt_new_devices"> Perangkat baru (pilih Hubungkan)</string>
+  <string name="message_bt_scan_devices">Pemindaian untuk perangkat...</string>
+  <string name="message_bt_scan_complete">Selesai scan untuk perangkat</string>
+  <string name="message_bt_pair_devices">Memasangkan perangkat...</string>
+  <string name="message_bt_new_none">Tidak ada perangkat baru yang ditemukan</string>
+  <string name="message_bt_pair_none">Tidak ada alat berpasangan yang ditemukan</string>
+  <string name="message_bt_conn_lost">Koneksi putus ke perangkat</string>
+  <string name="message_bt_connecting">Menghubungkan ke: </string>
+  <string name="message_bt_not_enabled">Bluetooth tidak diaktifkan, menutup Bluetooth Transfer</string>
+  <string name="message_bt_status_listening">Mendengarkan...</string>
+  <string name="message_bt_status_connecting">Menghubungkan...</string>
+  <string name="message_bt_status_connected">Terhubung</string>
+  <string name="message_bt_testdata_sent">Testdata dikirim</string>
+  <string name="message_bt_no_contacts">Tidak ada kontak yang dipilih untuk mengirim</string>
+  <string name="message_bt_recv_complete">Menerima data lengkap</string>
+  <string name="message_bt_not_connected">Tidak terhubung ke perangkat</string>
+  <string name="message_bt_adapter_error">Ada kesalahan menyiapkan Bluetooth.
+            Periksa jika telepon Anda memiliki Bluetooth dan Bluetooth adapter diaktifkan</string>
+  <string name="menu_bt_make_discoverable">Membuat perangkat mudah ditemukan</string>
+  <string name="progressbar_bt_recv_data">Siap untuk menerima data kontak...</string>
+  <string name="message_bt_startup">Pastikan bahwa aplikasi yang sama menjalankan dan layar ini terbuka di perangkat lain</string>
+</resources>

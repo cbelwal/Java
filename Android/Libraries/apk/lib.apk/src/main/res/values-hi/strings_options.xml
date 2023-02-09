@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="share_options_ShareUsing">साझा का उपयोग कर:</string>
+  <string name="share_options_allshare">ईमेल/वाईफ़ाई/क्लाउड संग्रहण (बड़ी फ़ाइल (फ़ाइलें) समस्या हो सकती है)</string>
+  <string name="export_options_externalStorage">बाह्य भंडारण</string>
+  <string name="export_options_ExportAs">निर्यात स्वरूप:</string>
+  <string name="export_options_ExportUsing">APK फ़ाइल (फ़ाइलें) के माध्यम से साझा करें:</string>
+  <string name="progressbar_prepare_data">पैकेज की तैयारी... </string>
+</resources>

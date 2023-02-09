@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Used to show spinner with options-->
+<resources>
+    <string-array name="array_export_as">
+        <item>@string/export_options_combinedvcf_21</item>
+        <item>@string/export_options_individualvcf_21</item>
+        <item>@string/export_options_combinedvcf_40</item>
+        <item>@string/export_options_individualvcf_40</item>
+        <item>@string/export_options_textfile</item>
+        <item>@string/export_options_csvfile</item>
+    </string-array>
+</resources>

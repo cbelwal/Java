@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Markerede kontaktpersoner vil blive tilbagestillet. Bekræft venligst, hvis du vil fortsætte?</string>
+  <string name="message_undelete_complete"> kontaktperson(er) gendannes</string>
+  <string name="message_undelete_notice">Denne indstilling vil en liste over de kontaktpersoner, der kan blive tilbagestillet og afhænger af producenten af din enhed eller Android version. Kontakter kan ikke blive tilbagebetalt hvis enheden ikke tillader det, kontakter blev slettet flere timer eller kontakter blev slettet fra SIM-kortet.</string>
+  <string name="message_undelete_option_invalid">Denne indstilling er ikke gyldig for slettede kontakter
+        </string>
+  <string name="message_undelete_help">Vælg kontaktpersoner og bruge ikonet undelete i øverste højre hjørne til at gendanne dem.</string>
+  <string name="progressbar_undelete_data">Undeleting kontaktperson(er) </string>
+  <string name="action_undelete">Genopretter kontaktperson(er)</string>
+  <string name="button_understand">Jeg forstår</string>
+  <string name="title_disclaimer">ANSVARSFRASKRIVELSE</string>
+  <string name="title_no_undelete_found">Beklager!</string>
+  <string name="message_no_undelete_found">
+        Vi er ked, blev ikke inddrives slettede kontakter fundet! Du kan prøve at gendanne dem ved hjælp af en manuel måde foreslået af Google, udviklere af Android.
+        Vil du gerne besøge websiden Google Support, som har manuel genopretning instruktioner?
+    </string>
+</resources>

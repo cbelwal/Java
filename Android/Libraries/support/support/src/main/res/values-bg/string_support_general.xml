@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic ООД</string>
+  <string name="feedback_no_email">Няма имейл клиенти намерени</string>
+  <string name="button_yes">Да</string>
+  <string name="button_no">Не</string>
+  <string name="nav_menu_help_doc">Помощната документация</string>
+  <string name="button_rate_never">Никога не</string>
+  <string name="button_rate_later">По-късно</string>
+  <string name="button_rate_now">Сега</string>
+  <string name="title_rate_this_app">Моля оценете този апартамент</string>
+  <string name="title_feedback">Изберете имейл опция...</string>
+  <string name="title_demo_video">Видео демонстрация</string>
+  <string name="title_tellafriend">Кажи на приятел чрез...</string>
+  <string name="title_send_feedback">Свържете се с нас</string>
+  <string name="title_rate_app">Курс ап</string>
+</resources>

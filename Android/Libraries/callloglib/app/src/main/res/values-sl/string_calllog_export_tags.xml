@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tag_formatted_name">ime:</string>
+  <string name="tag_formatted_number">Številka:</string>
+  <string name="tag_formatted_type">Vrsta:</string>
+  <string name="tag_formatted_datetime">Datum/čas:</string>
+  <string name="tag_formatted_duration">Trajanje:</string>
+  <string name="tag_formatted_location">Lokacija:</string>
+  <string name="tag_formatted_type_incoming">@string/spinner_calllog_type_incoming</string>
+  <string name="tag_formatted_type_outgoing">@string/spinner_calllog_type_outgoing</string>
+  <string name="tag_formatted_type_missed">@string/spinner_calllog_type_missed</string>
+  <string name="tag_chm_number">Številka:</string>
+  <string name="tag_chm_date">Datum:</string>
+  <string name="tag_chm_duration">Trajanje:</string>
+</resources>

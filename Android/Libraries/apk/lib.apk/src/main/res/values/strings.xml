@@ -1,0 +1,70 @@
+<!---Convert to multi-lang-->
+<resources>
+
+    <string name="activity_filter">Display Filter</string>
+    <string name="activity_export">Share Package(APK) File(s)</string>
+    <string name="nav_menu_group_general">General</string>
+    <string name="nav_menu_group_viewoptions">View Options</string>
+    <string name="nav_menu_rate_this_app">Feedback</string>
+    <string name="nav_menu_upgrade">Upgrade to paid version</string>
+    <string name="nav_menu_tellafriend">Tell a friend</string>
+    <string name="nav_menu_feedback">Contact Dasmic</string>
+    <string name="nav_menu_group_help">Help</string>
+    <string name="nav_menu_demovideo">Demo Video</string>
+
+    <string name="display_options_SourceDir">Source folder</string>
+    <string name="display_options_installed_date">Date installed</string>
+    <string name="display_options_update_all">Date updated</string>
+    <string name="display_options_launchintent">Launch intent (advanced)</string>
+    <string name="display_options_default">Default</string>
+    <string name="display_options_running">Currently running</string>
+    <string name="display_options_size">File size (sorted)</string>
+    <string name="display_options_last_used">Last used time</string>
+    <string name="display_options_security_permissions">Permissions (advanced)</string>
+
+    <string name="button_Select_All">Select All</string>
+    <string name="button_UnSelect_All">Un-Select All</string>
+    <string name="button_Apply">Apply</string>
+    <string name="button_Close">Close</string>
+    <string name="button_Delete">Delete</string>
+    <string name="button_Update">Update</string>
+    <string name="button_Share">Share</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+
+    <string name="action_delete">Uninstall</string>
+    <string name="action_Filters">Display Filter</string>
+    <string name="action_share_apk">Share Package (APK) File(s)</string>
+    <string name="action_share_report">Share Report</string>
+    <string name="action_share_link">Share Google Play Link</string>
+    <string name="action_refresh">Refresh Display</string>
+
+    <string name="filter_options_show_system_packages">System</string>
+    <string name="filter_options_show_nonsystem_packages">Apps/Non-system</string>
+    <string name="filter_options_installed_last_30_days">Installed in last 30 days</string>
+    <string name="filter_options_installed_last_1_year">Installed in last 1 year</string>
+    <string name="filter_options_less_than_20_mb">Less than 20 MB</string>
+    <string name="filter_options_more_than_20_mb">More than 20 MB</string>
+    <string name="filter_options_security_inappbilling">Security-Has In-app Billing</string>
+    <string name="filter_options_security_readsms">Security-Can read SMS</string>
+    <string name="filter_options_security_readcontacts">Security-Can read contacts</string>
+    <string name="filter_options_security_readcalllog">Security-Can read call log</string>
+    <string name="filter_options_security_readcalender">Security-Can read calender</string>
+    <string name="filter_options_security_writeexternalstorage">Security-Can write to external storage</string>
+    <string name="filter_options_nofilter">No filter</string>
+    <string name="filter_display_systemapps">Show system packages</string>
+
+    <string name="search_label">Search</string>
+    <string name="search_hint">Enter Search</string>
+    <string name="general_not_Available">Not Available</string>
+    <string name="general_items">package(s)</string>
+    <string name="general_selected_items">selected</string>
+
+    <string name="general_error">Error</string>
+    <string name="progressbar_load_data">Loading information...</string>
+
+    <string name="title_report">Send Report via ...</string>
+    <string name="title_share_link">Share Link(s) via ...</string>
+
+</resources>

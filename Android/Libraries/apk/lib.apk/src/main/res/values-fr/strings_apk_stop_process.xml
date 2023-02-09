@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">Arrêter l’exécution</string>
+  <string name="message_stop_tasks">Arrêt en cours d’exécution des tâches...</string>
+  <string name="message_user_tasks_stopped">Tâches utilisateur arrêtés</string>
+  <string name="message_system_tasks_stopped">Tâches du système s’est arrêtés</string>
+  <string name="message_process_still_running">Tâches encore en cours d’exécution</string>
+  <string name="message_stop_running_tasks">Arrêter l’exécution d’applications et de fermer sans fil/Bluetooth ?</string>
+  <string name="message_stopping_running_tasks">S’arrêtant Bluetooth et sans fil</string>
+  <string name="message_battery_current_percentage">Niveau batterie courant% :</string>
+  <string name="message_no_user_process">Pas trouvé de processus utilisateur en cours d’exécution</string>
+</resources>

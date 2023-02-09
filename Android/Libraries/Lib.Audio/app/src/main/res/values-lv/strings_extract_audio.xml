@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Faila nosaukums:</string>
+  <string name="text_ep_file_size">Izmērs:</string>
+  <string name="text_ep_modified_date">Modificēšanas datums:</string>
+  <string name="text_ep_duration">Ilgums:</string>
+  <string name="title_search_depth">Meklēšanas dziļums (lielām vērtībām var aizņemt vairākas minūtes)</string>
+  <string name="progressbar_extracting_audio">Ieguves audio (var ilgt vairākas minūtes)...</string>
+  <string name="progressbar_loading_audio">Iekraušanas audio faila detaļas...</string>
+  <string name="text_ep_time_start">Sākums time(seconds)</string>
+  <string name="text_ep_period">Ilgums katram audio file(seconds)</string>
+  <string name="text_ep_store">Saglabātu jaunu audio failu (us), kā:</string>
+  <string name="text_ep_share_external">Ievietojiet ārējās mapē</string>
+  <string name="text_ep_share_app">Koplietot lietojumprogrammas, izmantojot</string>
+  <string name="message_extract_complete"> M4A faili ir izveidoti</string>
+  <string name="message_extract_error">Izveidot audio failus, radās kļūda</string>
+  <string name="message_search_depth_updated">Tika apjaunota servera programmatūra: meklēšanas dziļums</string>
+  <string name="message_search_depth_error">Kļūda, atjauninot meklēšanas dziļums</string>
+  <string name="message_load_complete">Audio faila detaļas ir ielādēts</string>
+  <string name="message_load_error">Radās kļūda, ielādējot audio</string>
+  <string name="message_extract_duration_reduced"> Pēdējā audio faila ilgumu tika samazināts, kā tika sasniegtas beigas audio </string>
+  <string name="message_extract_incomplete"> %1$ d audio failu (s) nevarēja izveidot, vai ir nepilnīga informācija</string>
+  <string name="message_extract_signature">Izmantojot Audio rīve sūta coju.mobi™</string>
+</resources>

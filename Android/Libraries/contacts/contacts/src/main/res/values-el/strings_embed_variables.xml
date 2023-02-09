@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">Συνδεθεί στη συσκευή.
+        Πιέστε το πλήκτρο \'Send\» για να μεταφέρετε επαφές να: </string>
+  <string name="message_bt_conn_failed">Σύνδεση απέτυχε στη συσκευή.
+    Θα πρέπει να διασφαλίσετε ότι αυτό το app έχει εγκατασταθεί και Bluetooth οθόνη είναι ανοικτή σε: </string>
+  <string name="message_bt_sent_error">Δεν θα μπορούσε να μεταφέρετε αυτούς αριθμός επαφών: </string>
+  <string name="message_bt_recv_error">Δεν ήταν δυνατή η δημιουργία αυτούς αριθμός επαφών: </string>
+  <string name="message_bt_create_complete">Λαμβανόμενο επαφές που δημιουργήθηκε: </string>
+  <string name="message_bt_sent_complete">Επαφές που αποστέλλονται στη συσκευή: </string>
+  <string name="progressbar_bt_send_data">Τη μεταφορά μοναδικές επαφές </string>
+  <string name="progressbar_bt_bytes">bytes </string>
+  <string name="progressbar_bt_create_contacts">Δημιουργία επαφών (επαφές με εικόνα απαιτούν περισσότερο χρόνο)</string>
+  <string name="message_free_version_selection">
+        Μέγιστη επαφές που μπορούν να επιλεγούν στη δωρεάν έκδοση είναι: </string>
+  <string name="progressbar_delete_data">
+        Διαγραφή μοναδικά επαφές </string>
+</resources>

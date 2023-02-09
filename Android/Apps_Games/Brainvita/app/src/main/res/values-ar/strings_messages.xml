@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">تهانينا، كنت حصلت على درجة عالية!</string>
+  <string name="message_game_end_new_game">اللعبة الحالية متروك! وسوف ترغب في بدء تشغيل لعبة جديدة؟</string>
+  <string name="message_custom_board">اضغط على فتحات فارغة وتيرة شماعة. اضغط على زر قفل عند الانتهاء</string>
+  <string name="message_custom_board_done">المجلس مخصص برنامج الإعداد، يمكنك البدء في اللعب.
+    علما أنه لم يتم تسجيل درجات عالية لمجالس مخصصة</string>
+  <string name="message_intro_first">
+        نقل شماعة لثقب متاح في خط مستقيم القفز فوق الوتد آخر
+    </string>
+  <string name="message_intro_second">تتم إزالة الوتد قفز فوق</string>
+  <string name="message_intro_third">محاولة إزالة أوتاد أكبر عدد ممكن</string>
+  <string name="message_intro_fourth">الحصول على شماعة فقط 1 المتبقي هو الهدف</string>
+  <string name="message_board_reset_confirm">سيؤدي ذلك إلى إلغاء المجلس الحالي. هل تريد المتابعة؟</string>
+  <string name="message_game_over">هناك إمكانية للتحركات لا أكثر. لعبة متروك!</string>
+  <string name="message_solver_complete">وقد حسبت solver التحركات التي تؤدي إلى الحد أدنى من pegs.\n\nUse الزر الأمام لرؤية المجلس يتحرك.</string>
+  <string name="message_solver_complete_free">وقد حسبت solver التحركات التي تؤدي إلى الحد أدنى من أوتاد. أن هذا نسخة مجانية، solver يمكن التوصل إلى حل يؤدي إلى الحد ني أوتاد 3 فقط. في النسخة من دفع solver يمكن التوصل إلى حل مع 1 peg.\n\nUse الزر الأمام لرؤية المجلس يتحرك.
+    </string>
+  <string name="message_solver_complete_title">وجدت الحل مع أوتاد: </string>
+  <string name="message_solver_inprogress_title">البحث عن حل...</string>
+  <string name="message_solver_inprogress">عدد الوتد أدنى الحالية: </string>
+  <string name="message_solver_start_confirm">اعتماداً على المجلس الحالي، Solver قد يستغرق بضع ثوان إلى عدة دقائق في الحوسبة حل مع عدد أقل من أوتاد.
+    منذ Solver لا الكثير من العمليات الحسابية، فإنه سوف تستنزف طاقة البطارية.
+        وينصح أن كنت وضعت الهاتف الخاص بك بتهمة قبل بدء تشغيل solver.
+    وفي حين تشغيل Solver يمكن وقفها في أي وقت، وأحدث شماعة النتيجة سوف تكون متاحة.</string>
+  <string name="message_solver_mode_play_board">
+        لا يمكن تشغيل اللعبة في وضع solver. حدد \"لعبة جديدة\" لبدء لعبة جديدة</string>
+  <string name="message_confirm_switch_from_standard">
+        يتم تعيين المجلس الحالي للمعيار، هل تريد التغيير إلى المجلس الفرنسي؟</string>
+  <string name="message_confirm_switch_from_French">
+        تعيين المجلس الحالي إلى الفرنسية، هل تريد التغيير إلى المجلس القياسية؟</string>
+</resources>

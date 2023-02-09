@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">Nameščen v zadnjih 30 dneh</string>
+  <string name="filter_adv_options_security_inappbilling">Je v app zaračunavanje</string>
+  <string name="filter_adv_options_security_readsms">Lahko prebral SMS</string>
+  <string name="filter_adv_options_security_sendsms">Lahko pošljete SMS</string>
+  <string name="filter_adv_options_security_readcontacts">Lahko preberete stikov</string>
+  <string name="filter_adv_options_security_readcalllog">Lahko preberete dnevnik klicev</string>
+  <string name="filter_adv_options_security_readcalender">Lahko preberete koledar</string>
+  <string name="filter_adv_options_security_writeexternalstorage">Lahko napišete v zunanjo shrambo</string>
+  <string name="filter_adv_options_security_camera">Lahko dostopate do kamere</string>
+  <string name="filter_adv_options_security_mic">Lahko snemanje zvoka</string>
+  <string name="filter_adv_options_security_location">Lahko dostop do lokacije</string>
+  <string name="filter_adv_options_filter">Aktiviranje varnostne filtre</string>
+  <string name="filter_main_text">Varnostni Filter možnosti (samo Apps ujemanje, katerega koli izmed teh merilo prikaže):</string>
+  <string name="activity_security_filter">Malware prikaz Filter</string>
+</resources>

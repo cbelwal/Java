@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">เกมใหม่</string>
+  <string name="button_switch_board">สวิตช์บอร์ด</string>
+  <string name="button_custom_board">คณะกรรมการกำหนดเอง</string>
+  <string name="button_high_scores">คะแนนสูง</string>
+  <string name="button_rate_app">คะแนนเกมนี้</string>
+  <string name="button_tell_a_friend">บอกเพื่อน</string>
+  <string name="button_paid_version">รุ่นจ่าย</string>
+  <string name="button_help_documentation">เอกสารวิธีใช้</string>
+  <string name="button_demo_video">วิดีโอสาธิต</string>
+  <string name="button_ok">ตกลง, ได้</string>
+  <string name="button_yes">ใช่</string>
+  <string name="button_no">ไม่ใช่</string>
+  <string name="button_start">เริ่มต้น</string>
+  <string name="button_cancel">ยกเลิก</string>
+  <string name="button_abort">ยกเลิก</string>
+  <string name="button_high_score_close">ปิด</string>
+  <string name="title_high_score">ได้คะแนนสูงสุดสิบ</string>
+  <string name="text_high_score_none">ไม่มีคะแนน</string>
+  <string name="text_high_score_pegs">คงเหลือ peg(s)</string>
+  <string name="text_high_score_time">เวลา</string>
+</resources>

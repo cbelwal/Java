@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Kontakte zusammenführen</string>
+  <string name="action_merge">Kontakte zusammenführen</string>
+  <string name="message_merge_title">Vorsicht</string>
+  <string name="message_merge_confirm">Bitte bestätigen, ob Sie ausgewählte Kontakte zusammenführen möchten? Telefonnummer, e-Mail-Adresse, Postanschrift, Hinweis und Veranstaltungen alle ausgewählten Kontakte werden in einen einzigen Ansprechpartner mit Namen zusammengeführt werden: </string>
+  <string name="message_merge_complete">Ausgewählten Kontakte wurden verschmolzen</string>
+  <string name="progressbar_merge_data">Kontakte zusammenführen...</string>
+</resources>

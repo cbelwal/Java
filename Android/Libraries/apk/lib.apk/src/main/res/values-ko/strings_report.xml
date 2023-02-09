@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="report_app_name">응용 프로그램 이름: </string>
+  <string name="report_package_name">패키지 이름: </string>
+  <string name="report_source_folder">원본 폴더: </string>
+  <string name="report_size">Size(MB): </string>
+  <string name="report_launch_intent">의도 실행: </string>
+  <string name="report_installed_on">에 설치: </string>
+  <string name="report_updated_on">에 업데이트: </string>
+  <string name="report_system_app">시스템 응용 프로그램: </string>
+  <string name="report_security_permission">보안 권한이: </string>
+  <string name="report_yes">예</string>
+  <string name="report_no">없음</string>
+</resources>

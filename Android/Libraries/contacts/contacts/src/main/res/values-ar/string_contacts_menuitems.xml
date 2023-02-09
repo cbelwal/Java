@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">العام</string>
+  <string name="nav_menu_group_help">تعليمات</string>
+  <string name="nav_menu_group_viewoptions">خيارات</string>
+  <string name="nav_menu_group_views">طرق عرض</string>
+  <string name="nav_menu_group_operations">عمليات</string>
+  <string name="nav_menu_group_backup">النسخ الاحتياطي</string>
+  <string name="nav_menu_rate_this_app">التغذية المرتدة</string>
+  <string name="nav_menu_backup_contacts">النسخ الاحتياطي كافة جهات الاتصال</string>
+  <string name="nav_menu_restore_contacts">استعادة جهات الاتصال من النسخ الاحتياطي</string>
+  <string name="nav_menu_upgrade">إصدار الترقية للمحترفين</string>
+  <string name="nav_menu_filter">عامل تصفية العرض</string>
+  <string name="nav_menu_duplicates">أدوات التكرارات</string>
+  <string name="nav_menu_tellafriend">أخبر صديق</string>
+  <string name="nav_menu_feedback">اتصل داسميك</string>
+  <string name="nav_menu_demovideo">عرض الفيديو</string>
+  <string name="nav_menu_coju_outlook">كوجو ل Microsoft Outlook</string>
+  <string name="nav_menu_coju">تحميل كوجو</string>
+  <string name="display_options_all_TimesContacted">فرز حسب أوقات الاتصال</string>
+  <string name="display_options_all_last_contact">فرز حسب وقت الاتصال الأخير</string>
+  <string name="display_options_all">فرز حسب الاسم</string>
+  <string name="display_options_phonenumber">أرقام الهاتف تم فرزها</string>
+  <string name="display_options_email">عناوين البريد الإلكتروني تم فرزها</string>
+  <string name="display_options_deleted">حذف جهات الاتصال</string>
+  <string name="display_options_refresh">تحديث العرض</string>
+  <string name="action_Operations">تحديثات مجمعة</string>
+  <string name="action_Export">تصدير جهات الاتصال</string>
+  <string name="action_delete">حذف جهات الاتصال</string>
+  <string name="action_Import">استيراد جهات الاتصال</string>
+  <string name="action_edit">تحرير جهة اتصال</string>
+  <string name="action_add">إضافة جهة اتصال</string>
+  <string name="action_share">مشاركة جهات الاتصال</string>
+  <string name="action_bluetooth">نقل بلوتوث</string>
+</resources>

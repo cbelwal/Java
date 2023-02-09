@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tag_formatted_name">Nome:</string>
+  <string name="tag_formatted_number">Número:</string>
+  <string name="tag_formatted_type">Tipo:</string>
+  <string name="tag_formatted_datetime">Data/hora:</string>
+  <string name="tag_formatted_duration">Duração:</string>
+  <string name="tag_formatted_location">Localização:</string>
+  <string name="tag_formatted_type_incoming">@string/spinner_calllog_type_incoming</string>
+  <string name="tag_formatted_type_outgoing">@string/spinner_calllog_type_outgoing</string>
+  <string name="tag_formatted_type_missed">@string/spinner_calllog_type_missed</string>
+  <string name="tag_chm_number">Número:</string>
+  <string name="tag_chm_date">Data:</string>
+  <string name="tag_chm_duration">Duração:</string>
+</resources>

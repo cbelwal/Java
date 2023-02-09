@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Umum</string>
+  <string name="nav_menu_group_help">Tolong</string>
+  <string name="nav_menu_group_viewoptions">Pilihan</string>
+  <string name="nav_menu_group_views">Pemandangan</string>
+  <string name="nav_menu_group_operations">Operasi</string>
+  <string name="nav_menu_group_backup">Cadangan</string>
+  <string name="nav_menu_rate_this_app">Umpan balik</string>
+  <string name="nav_menu_backup_contacts">Backup semua kontak</string>
+  <string name="nav_menu_restore_contacts">Mengembalikan kontak dari cadangan</string>
+  <string name="nav_menu_upgrade">Upgrade ke Pro versi</string>
+  <string name="nav_menu_filter">Penyaring Display</string>
+  <string name="nav_menu_duplicates">Duplikat Toolkit</string>
+  <string name="nav_menu_tellafriend">Beritahu teman</string>
+  <string name="nav_menu_feedback">Kontak Dasmic</string>
+  <string name="nav_menu_demovideo">Demo Video</string>
+  <string name="nav_menu_coju_outlook">Coju untuk Microsoft Outlook</string>
+  <string name="nav_menu_coju">Download Coju</string>
+  <string name="display_options_all_TimesContacted">Diurutkan berdasarkan kali dihubungi</string>
+  <string name="display_options_all_last_contact">Diurutkan berdasarkan terakhir kali kontak</string>
+  <string name="display_options_all">Diurutkan berdasarkan nama</string>
+  <string name="display_options_phonenumber">Nomor telepon diurutkan</string>
+  <string name="display_options_email">Alamat Email yang diurutkan</string>
+  <string name="display_options_deleted">Kontak hilang dihapus</string>
+  <string name="display_options_refresh">Segarkan tampilan</string>
+  <string name="action_Operations">Sebagian besar pembaruan</string>
+  <string name="action_Export">Ekspor Contact(s)</string>
+  <string name="action_delete">Menghapus Contact(s)</string>
+  <string name="action_Import">Impor Contact(s)</string>
+  <string name="action_edit">Edit kontak</string>
+  <string name="action_add">Tambahkan kontak</string>
+  <string name="action_share">Berbagi Contact(s)</string>
+  <string name="action_bluetooth">Bluetooth Transfer</string>
+</resources>

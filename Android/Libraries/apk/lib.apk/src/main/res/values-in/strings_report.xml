@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="report_app_name">Nama App: </string>
+  <string name="report_package_name">Nama paket: </string>
+  <string name="report_source_folder">Sumber Folder: </string>
+  <string name="report_size">Size(MB): </string>
+  <string name="report_launch_intent">Peluncuran maksud: </string>
+  <string name="report_installed_on">Diinstal pada: </string>
+  <string name="report_updated_on">Diperbarui pada: </string>
+  <string name="report_system_app">Sistem App: </string>
+  <string name="report_security_permission">Permission(s) keamanan: </string>
+  <string name="report_yes">Ya</string>
+  <string name="report_no">Tidak</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        Gratis version kun tillader backup af op til 200 kontakter.
+        Kontaktpersoner er blevet sikkerhedskopieret i filen:
+    </string>
+  <string name="message_backup_failed">
+        Kunne ikke gemme Backup filen, kan du prøve igen. Hvis problemet fortsætter bedes du rapportere problemet til app publisher ved hjælp af indstillingen Feedback i denne app.
+    </string>
+</resources>

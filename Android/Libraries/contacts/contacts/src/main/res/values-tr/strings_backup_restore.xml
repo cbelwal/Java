@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        Ücretsiz sürümü sadece 200 rehber yedekleme sağlar.
+        Kişiler dosyasında yedeği:
+    </string>
+  <string name="message_backup_failed">
+        Yedekleme dosyası kaydedilemedi, lütfen yeniden deneyin. Sorun devam ederse lütfen bu app yorum seçeneğini kullanarak app yayımcı için sorunu bildirin.
+    </string>
+</resources>

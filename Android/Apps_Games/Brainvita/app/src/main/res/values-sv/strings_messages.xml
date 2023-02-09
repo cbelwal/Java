@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Grattis, fick du en hög värdering!</string>
+  <string name="message_game_end_new_game">Spelet är upp! Kommer du som att starta ett nytt spel?</string>
+  <string name="message_custom_board">Klicka på tomma hål till takten en pinne. Knacka på låsknappen när du är klar</string>
+  <string name="message_custom_board_done">Anpassad styrelsen är setup, du kan börja spela.
+    Observera att höga poäng för anpassade styrelser inte registreras</string>
+  <string name="message_intro_first">
+        Flytta en pinne till en tillgänglig hål i en rak linje hoppa över en annan pinne
+    </string>
+  <string name="message_intro_second">Peg hoppade över tas bort</string>
+  <string name="message_intro_third">Prova att ta bort så många pinnar som möjligt</string>
+  <string name="message_intro_fourth">Få bara 1 pinne kvar är målet</string>
+  <string name="message_board_reset_confirm">Detta annullerar nuvarande styrelse. Vill du fortsätta?</string>
+  <string name="message_game_over">Inga fler drag är möjliga. Spelet är upp!</string>
+  <string name="message_solver_complete">Problemlösaren har beräknat den drag som leder till ett minsta antal pegs.\n\nUse knappen framåt att se styrelsen flyttar.</string>
+  <string name="message_solver_complete_free">Problemlösaren har beräknat den drag som leder till ett minsta antal pinnar. Eftersom detta är en fri version, kan hittas en lösning som leder till minst 3 pinnar bara. I den betalda versionen hittar Problemlösaren en lösning med 1 peg.\n\nUse knappen framåt att se styrelsen flyttar.
+    </string>
+  <string name="message_solver_complete_title">Hittade lösningen med pinnar: </string>
+  <string name="message_solver_inprogress_title">Söker efter lösning...</string>
+  <string name="message_solver_inprogress">Aktuellt lägsta peg-antal: </string>
+  <string name="message_solver_start_confirm">Beroende på nuvarande styrelse, kan Problemlösaren ta några sekunder till flera minuter i datoranvändning en lösning med minst antal pinnar.
+    Eftersom Problemlösaren gör en hel del beräkningar, kommer det bryter ned batteriet.
+        Det rekommenderas att du sätter telefonen på laddning innan Problemlösaren.
+    Medan du kör Problemlösaren kan stoppas när som helst och senaste peg resultatet blir tillgänglig.</string>
+  <string name="message_solver_mode_play_board">
+        Kan inte spela spel i Problemlösaren läge. Välj nytt spel att starta ett nytt spel</string>
+  <string name="message_confirm_switch_from_standard">
+        Nuvarande styrelse är satt till Standard, vill du ändra till franska styrelsen?</string>
+  <string name="message_confirm_switch_from_French">
+        Nuvarande styrelse är inställt på franska, vill du ändra till Standard board?</string>
+</resources>

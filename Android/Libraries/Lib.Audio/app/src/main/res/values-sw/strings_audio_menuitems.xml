@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_share">Kushiriki</string>
+  <string name="action_delete">Futa</string>
+  <string name="action_filter">Kichujio</string>
+  <string name="action_copy">Nakala</string>
+  <string name="action_rename">Ita jina jipya</string>
+  <string name="action_create_folder">Unda kabrasha</string>
+  <string name="action_move">Hamisha</string>
+  <string name="action_share_zip">Kushiriki kama Zip</string>
+  <string name="action_extract_pictures">Dondoo sikizi</string>
+  <string name="action_zip">ZIP Add-On</string>
+  <string name="nav_menu_view_name">Onyesha kwa jina la faili</string>
+  <string name="nav_menu_view_size">Onyesha kwa ukubwa</string>
+  <string name="nav_menu_view_modified">Onyesha kwa kurekebishwa tarehe</string>
+  <string name="nav_menu_view_refresh">Onyesha upya</string>
+  <string name="nav_menu_view_close">Funga</string>
+  <string name="nav_menu_search_default">Duka la vyombo vya habari wa utafutaji (chaguo-msingi)</string>
+  <string name="nav_menu_search_entire_phone">Simu ya nzima ya utafutaji</string>
+  <string name="nav_menu_search_media_folders">Tafutiza folda ya vyombo vya habari</string>
+  <string name="nav_menu_search_external_folders">Nje ya kabrasha tafutizi</string>
+  <string name="nav_menu_group_general">Mkuu</string>
+  <string name="nav_menu_group_viewoptions">Onyesha Machaguo</string>
+  <string name="nav_menu_group_searchoptions">Chaguo za Tafutiza</string>
+  <string name="nav_menu_rate_this_app">Maoni</string>
+  <string name="nav_menu_upgrade">Kuboresha na toleo kulipwa</string>
+  <string name="nav_menu_tellafriend">Mwambie rafiki</string>
+  <string name="nav_menu_feedback">Wasiliana nasi</string>
+  <string name="nav_menu_group_help">Msaada</string>
+  <string name="nav_menu_demovideo">Video ya demo</string>
+  <string name="nav_menu_help_doc">Kusaidia nyaraka</string>
+</resources>

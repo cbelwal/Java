@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_reading_import_file">Четене на файла, това може да отнеме няколко минути...</string>
+  <string name="message_exporting_contacts">Извличане на контакти...</string>
+  <string name="message_exporting_contacts_ready">Получаване на готови да експортирате контакти...</string>
+  <string name="message_exporting_contacts_write_file">Записване на файловете...</string>
+  <string name="text_import_file_name">Име на файла:</string>
+  <string name="text_import_file_size">Файла Size(bytes):</string>
+  <string name="text_unknown_file_size">Неизвестен</string>
+</resources>

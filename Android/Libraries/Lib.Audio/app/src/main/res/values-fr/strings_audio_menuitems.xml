@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_share">Partager</string>
+  <string name="action_delete">Supprimer</string>
+  <string name="action_filter">Filtre</string>
+  <string name="action_copy">Copie</string>
+  <string name="action_rename">Changement de nom</string>
+  <string name="action_create_folder">Créer dossier</string>
+  <string name="action_move">Se déplacer</string>
+  <string name="action_share_zip">Partager en tant que Zip</string>
+  <string name="action_extract_pictures">Extrait Audio</string>
+  <string name="action_zip">Zip</string>
+  <string name="nav_menu_view_name">Afficher par nom de fichier</string>
+  <string name="nav_menu_view_size">Affichage par taille</string>
+  <string name="nav_menu_view_modified">Afficher par Date de modification</string>
+  <string name="nav_menu_view_refresh">Actualisation</string>
+  <string name="nav_menu_view_close">Fermer</string>
+  <string name="nav_menu_search_default">Recherche magasin de médias (par défaut)</string>
+  <string name="nav_menu_search_entire_phone">Téléphone de toute recherche</string>
+  <string name="nav_menu_search_media_folders">Rechercher un ou plusieurs dossiers médias</string>
+  <string name="nav_menu_search_external_folders">Dossiers externes de recherche</string>
+  <string name="nav_menu_group_general">Générales</string>
+  <string name="nav_menu_group_viewoptions">Options d’affichage</string>
+  <string name="nav_menu_group_searchoptions">Options de recherche</string>
+  <string name="nav_menu_rate_this_app">Vos commentaires</string>
+  <string name="nav_menu_upgrade">Mise à niveau vers la version payante</string>
+  <string name="nav_menu_tellafriend">Dites-le à un ami</string>
+  <string name="nav_menu_feedback">Contactez-nous</string>
+  <string name="nav_menu_group_help">Aide</string>
+  <string name="nav_menu_demovideo">Vidéo de démonstration</string>
+  <string name="nav_menu_help_doc">La Documentation d’aide</string>
+</resources>

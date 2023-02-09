@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_reading_import_file">读取文件，这可能需要几分钟的时间...</string>
+  <string name="message_exporting_contacts">正在提取联系人...</string>
+  <string name="message_exporting_contacts_ready">准备导出联系人...</string>
+  <string name="message_exporting_contacts_write_file">正在写入的文件...</string>
+  <string name="text_import_file_name">文件名称︰</string>
+  <string name="text_import_file_size">文件大小 （字节):</string>
+  <string name="text_unknown_file_size">未知</string>
+</resources>

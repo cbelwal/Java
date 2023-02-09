@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Όνομα + αριθμός αγώνα WhatsApp</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">Ίδιο αριθμό WhatsApp σε πολλαπλά ονόματα</string>
+  <string name="duplicate_options_name_matches_email_phone">Όνομα + αγώνα μέσω Email/τηλεφώνου</string>
+  <string name="duplicate_options_name_matches_phone">Όνομα + τηλέφωνο αγώνα</string>
+  <string name="duplicate_options_name_matches_email">Όνομα + Email αγώνα</string>
+  <string name="duplicate_options_same_number_multi_name">Ίδιο αριθμό σε πολλαπλά ονόματα</string>
+  <string name="duplicate_options_same_email_multi_name">Σε πολλαπλά ονόματα: το ίδιο μήνυμα ηλεκτρονικού ταχυδρομείου</string>
+  <string name="duplicate_options_none">Κανένας</string>
+  <string name="progressbar_sel_duplicates">Σάρωση για διπλότυπες επαφές...</string>
+  <string name="message_duplicates_selected">Για να διαγράψετε το επιλεγμένο duplicate(s) πατήστε το εικονίδιο Διαγραφή. Η τιμή original(master) για κάθε διπλότυπη εγγραφή δεν είναι επιλεγμένο και δεν θα διαγραφούν.</string>
+  <string name="choose_duplicate_option">Επιλέξτε το κριτήριο για την αναγνώριση διπλοτύπων.
+        Διπλότυπα μαζί με την αξία τους original(master) θα εμφανιστεί στην κύρια οθόνη και θα αυτο-ελέγχεται για διαγραφή. Original(Master) αξία δεν είναι επιλεγμένο.</string>
+  <string name="startup_message">Χρησιμοποιήστε το διπλότυπο εικονίδιο στην επάνω δεξιά για να ορίσετε την επιλογή Προβολή διπλοτύπων</string>
+  <string name="message_duplicates_backup">Συνιστάται ότι μπορείτε να backup τις επαφές σας πριν από τη διαγραφή τους</string>
+</resources>

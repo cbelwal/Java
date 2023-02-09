@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">कम से कम 1 चयन की आवश्यकता है</string>
+  <string name="message_save_external">APK फ़ाइल (फ़ाइलें): बाहरी फ़ोल्डर में संग्रहीत </string>
+  <string name="message_free_version_selection">केवल 3 apps नि: शुल्क संस्करण में एक बार में चुना जा सकता</string>
+  <string name="message_free_version_option">यह विकल्प केवल भुगतान किया संस्करण के लिए उपलब्ध है</string>
+  <string name="message_activity_load_fail">अनुप्रयोग प्रारंभ नहीं किया जा सका</string>
+  <string name="message_activity_loading">अनुप्रयोग शुरू...</string>
+  <string name="message_loading_files">स्थानीय फ़ोल्डर खोज रहा है...</string>
+  <string name="message_deleting_files">कृपया अलग-अलग चयनित प्रत्येक पैकेज के लिए की पुष्टि करें।
+    केवल उपयोगकर्ता खाते से सिस्टम संकुल की स्थापना रद्द होगा</string>
+  <string name="message_save_external_suffix">. फ़ोल्डर आपके कंप्यूटर USB आदि के माध्यम से अपने फोन कनेक्ट करके पहुँचा जा सकता है। </string>
+  <string name="message_rate_this_app_error">रेटिंग पृष्ठ खोला नहीं जा सका</string>
+  <string name="message_share_link_prefix">हाय, \r\n\r\nCheck इस बाहर: </string>
+  <string name="message_share_link_suffix">APKit के माध्यम से भेजा गया</string>
+  <string name="message_share_report_prefix">पैकेज रिपोर्ट</string>
+  <string name="message_share_report_suffix">उत्पन्न और के माध्यम से भेजा गया</string>
+  <string name="message_other_permissions_missing">अनुरोध की गई अनुमतियाँ इस सुविधा के लिए काम करने के लिए आवश्यक हैं। कृपया अनुरोध अनुमति दें और पुन: प्रयास करें
+    </string>
+  <string name="message_purchase_error">
+        Google सर्वर से कनेक्ट नहीं हो सका। कृपया अनुप्रयोग को पुनरारंभ करें और पुन: प्रयास करें
+    </string>
+</resources>

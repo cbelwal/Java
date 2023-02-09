@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Ei voinut muodostaa Googlen palvelimelle. Käynnistä sovellus ja yritä uudelleen
+    </string>
+  <string name="progressbar_load_data">Ladataan kansion tietoja...</string>
+  <string name="message_selectitems">Atleast 1 valinta vaaditaan</string>
+  <string name="message_activity_load_fail">Sovelluksen käynnistäminen ei onnistu</string>
+  <string name="message_activity_loading">Käynnistetään sovelluksen...</string>
+  <string name="message_other_permissions_missing">Pyydetyt oikeudet tarvitaan tämän ominaisuuden käyttäminen. Antakaa pyydetyt oikeudet ja yritä uudelleen
+    </string>
+  <string name="message_no_read_permission">Ei ole lukuoikeuksia
+    </string>
+  <string name="message_cannot_go_in">Ei voinut mennä valitun kansion sisällä
+    </string>
+  <string name="message_delete_confirm">Valitut tiedostot (s) poistetaan. Tätä toimintoa ei voi kumota. Jatketaanko?</string>
+  <string name="progressbar_delete_data">
+        Poistetaan tiedostoja </string>
+  <string name="message_delete_complete"> tiedosto / kansiot poistaa</string>
+  <string name="message_free_version_selection">
+        Tiedostojen enimmäismäärä, jotka voidaan valita ilmainen versio on: </string>
+  <string name="message_max_allowed_one">
+        Tämä vaihtoehto toimii vain yhden valinnan  </string>
+  <string name="message_only_file">
+        Tämä vaihtoehto toimii vain tiedostot  </string>
+  <string name="message_copying_file">
+        Kopioidaan tiedosto...  </string>
+  <string name="message_copy_complete">
+        Tiedoston kopiointi valmis  </string>
+  <string name="message_copy_error">
+        Kopioida joitakin tiedostoja ei voitu luoda</string>
+  <string name="message_share_error">
+        Kopioinnin aikana tapahtui virhe. Tarkista jos sinulla on tarpeeksi tilaa välimuistiin jaetut tiedostot  </string>
+  <string name="message_zipping_files">
+        Pakataan tiedostoja / kansioita...  </string>
+  <string name="message_zipping_completed">
+        Kaikki tiedostot / kansiot siirretään zip-arkiston  </string>
+  <string name="message_zipping_error">
+        Pystynyt zip tiedostot / kansiot. Tarkista valitut kansiot eivät ole tyhjiä ja sinulla on riittävästi vapaata tilaa</string>
+  <string name="message_rename_complete">
+        Tiedoston/kansion täydellinen nimeämistä  </string>
+  <string name="message_rename_error">
+        Ei voi nimetä uudelleen tiedoston/kansion  </string>
+  <string name="message_create_folder_complete">
+        Luotu kansio  </string>
+  <string name="message_create_folder_error">
+        Kansion luominen ei onnistunut  </string>
+  <string name="message_file_open_error">
+        Tiedostoa ei voitu avata  </string>
+</resources>

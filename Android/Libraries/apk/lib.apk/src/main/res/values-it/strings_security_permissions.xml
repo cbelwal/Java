@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permission_inapp_billing">Possibile utilizzare la carta di credito.</string>
+  <string name="permission_read_sms">Può leggere i messaggi.</string>
+  <string name="permission_send_sms">Può inviare messaggi ad altri utenti.</string>
+  <string name="permission_mic">È in grado di registrare audio dal microfono.</string>
+  <string name="permission_camera">Può leggere le immagini dalla fotocamera.</string>
+  <string name="permission_read_contacts">Potete leggere il tuo elenco di contatti.</string>
+  <string name="permission_write_contacts">Può scrivere al tuo elenco di contatti.</string>
+  <string name="permission_read_ext_storage">Può leggere i file dalle cartelle accessibili USB.</string>
+  <string name="permission_write_ext_storage">Può scrivere file cartelle accessibili USB.</string>
+  <string name="permission_read_call_log">Può scoprire chi hai chiamato e quando.</string>
+  <string name="permission_location_fine">Conosce la tua posizione esatta.</string>
+  <string name="permission_location_coarse">Conosce la tua posizione approssimativa.</string>
+  <string name="permission_read_calender">Potete leggere il calendario.</string>
+  <string name="permission_write_calender">Puoi scrivere il tuo calendario.</string>
+  <string name="permission_call_phone">Possibile chiamare qualsiasi telefono senza la vostra conoscenza.</string>
+  <string name="permission_call_privileged">Possibile chiamare qualsiasi telefono, tra cui emergenza, senza la vostra conoscenza.</string>
+  <string name="permission_install_packages">Possibile installare altre app.</string>
+  <string name="permission_internet">Può inviare informazioni su Internet.</string>
+  <string name="permission_wake_lock">Può impedire il dispositivo di andare in modalità di sospensione.</string>
+  <string name="permission_network_state">Possibile accedere allo stato della rete.</string>
+  <string name="permission_read_voicemail">Potete leggere la segreteria telefonica.</string>
+</resources>

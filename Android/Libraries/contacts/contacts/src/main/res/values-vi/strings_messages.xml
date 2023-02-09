@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> Contact(s) sẽ được Cập Nhật. Hành động này không thể hoàn tác. Tiến hành không?</string>
+  <string name="message_update_complete"> Contact(s) Cập Nhật</string>
+  <string name="message_save_external">Danh bạ được lưu trữ trong thư mục bên ngoài: </string>
+  <string name="message_import">Chỉ tệp Vcard và CSV có thể được nhập khẩu (sử dụng \'Browse\' để tải tệp từ các nguồn khác</string>
+  <string name="message_loading_files">Đang tìm kiếm cặp cục bộ...</string>
+  <string name="message_loading_backup_files">Đang tìm thiết bị sao lưu tệp...</string>
+  <string name="message_importing_contacts_complete">Contact(s) nhập khẩu</string>
+  <string name="message_save_external_suffix">. Thư mục có thể được truy cập bằng cách kết nối điện thoại với máy tính thông qua USB vv. </string>
+  <string name="message_selectitems">Atleast 1 số liên lạc cần được lựa chọn</string>
+  <string name="message_delete_confirm">Chọn contact(s) thông tin chi tiết sẽ bị xóa. Hành động này không thể hoàn tác. Tiến hành không?</string>
+  <string name="message_delete_complete"> Contact(s) chi tiết đã bị xóa</string>
+  <string name="message_free_import_limit">Tập tin có chứa contact(s) nhiều hơn được cho phép trong phiên bản miễn phí</string>
+  <string name="message_rate_this_app_error">Không thể mở trang đánh giá. Xin vui lòng goto Google chơi và tỷ lệ cho phù hợp</string>
+  <string name="message_edit">Chỉ có 1 số liên lạc có thể được sửa tại một thời điểm. </string>
+  <string name="message_backup_stored">Địa chỉ liên hệ đã được đã sao lưu trong tập tin:</string>
+  <string name="message_download_coju">Coju là một ứng dụng tích hợp quản lý liên lạc. Nó có tất cả các tính năng của ứng dụng này cộng thêm khả năng bổ sung. Bạn sẽ muốn tải về Coju?</string>
+  <string name="message_contact_permissions_missing">Địa chỉ liên lạc cấp phép được yêu cầu cho ứng dụng này để làm việc. Ứng dụng sẽ bây giờ đóng, xin vui lòng cung cấp cho quyền và thử lại</string>
+  <string name="message_other_permissions_missing">Yêu cầu cấp phép được yêu cầu cho ứng dụng tính năng này để làm việc.
+        Xin vui lòng cung cấp cho quyền được yêu cầu và thử lại</string>
+  <string name="message_backup_freeversion">
+        Số lượng tối đa của địa chỉ liên lạc có thể được sao lưu trong phiên bản miễn phí này là:
+    </string>
+  <string name="message_backup_paidversion">
+        Tất cả các địa chỉ liên hệ của bạn đã được sao lưu thành công trong một tập tin
+    </string>
+  <string name="message_purchase_error">
+        Không thể kết nối đến máy chủ Google. Xin vui lòng khởi động lại ứng dụng và thử lại
+    </string>
+</resources>

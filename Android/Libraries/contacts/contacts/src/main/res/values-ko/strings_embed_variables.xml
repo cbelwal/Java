@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">장치에 연결합니다.
+        \'Send\를 누르면 \' 전송에 연락처: </string>
+  <string name="message_bt_conn_failed">장치에 연결 하지 못했습니다.
+    애플 리 케이이 션이 설치 되어 있고 블루투스 화면에 확보 하시기 바랍니다. </string>
+  <string name="message_bt_sent_error">연락처의이 번호를 전송 하지 수 없습니다.: </string>
+  <string name="message_bt_recv_error">이러한 다양 한 연락처를 만들 수 없습니다. </string>
+  <string name="message_bt_create_complete">만든 받은 연락처: </string>
+  <string name="message_bt_sent_complete">장치에 보낸 연락처: </string>
+  <string name="progressbar_bt_send_data">고유한 연락처 전송 </string>
+  <string name="progressbar_bt_bytes">바이트 </string>
+  <string name="progressbar_bt_create_contacts">만들기 연락처 (연락처 사진과 함께 더 많은 시간 필요)</string>
+  <string name="message_free_version_selection">
+        무료 버전에서 선택할 수 있는 최대 연락처는: </string>
+  <string name="progressbar_delete_data">
+        고유한 연락처 삭제 </string>
+</resources>

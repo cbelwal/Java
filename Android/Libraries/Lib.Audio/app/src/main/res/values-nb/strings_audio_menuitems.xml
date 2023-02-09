@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_share">Aksje</string>
+  <string name="action_delete">Slette</string>
+  <string name="action_filter">Filter</string>
+  <string name="action_copy">Kopier</string>
+  <string name="action_rename">Gi nytt navn</string>
+  <string name="action_create_folder">Opprett mappe</string>
+  <string name="action_move">Flytte</string>
+  <string name="action_share_zip">Dele som Zip</string>
+  <string name="action_extract_pictures">Trekke ut lyd</string>
+  <string name="action_zip">Zip</string>
+  <string name="nav_menu_view_name">Vis etter filnavn</string>
+  <string name="nav_menu_view_size">Etter størrelse</string>
+  <string name="nav_menu_view_modified">Vis etter endringsdato</string>
+  <string name="nav_menu_view_refresh">Oppdater</string>
+  <string name="nav_menu_view_close">Lukk</string>
+  <string name="nav_menu_search_default">Søk mediabutikk (standard)</string>
+  <string name="nav_menu_search_entire_phone">Søk hele telefonen</string>
+  <string name="nav_menu_search_media_folders">Søk media mappe(r)</string>
+  <string name="nav_menu_search_external_folders">Eksterne søkemapper</string>
+  <string name="nav_menu_group_general">Generelt</string>
+  <string name="nav_menu_group_viewoptions">Visningsalternativer</string>
+  <string name="nav_menu_group_searchoptions">Søkealternativer</string>
+  <string name="nav_menu_rate_this_app">Tilbakemeldinger</string>
+  <string name="nav_menu_upgrade">Oppgradere til betalt versjon</string>
+  <string name="nav_menu_tellafriend">Fortell en venn</string>
+  <string name="nav_menu_feedback">Kontakt oss</string>
+  <string name="nav_menu_group_help">hjelp</string>
+  <string name="nav_menu_demovideo">Demonstrasjon Video</string>
+  <string name="nav_menu_help_doc">Hjelp</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">لم يتم منح إذن لإجراء مكالمات إلى هذا التطبيق</string>
+  <string name="message_search_number_security_exception">لا يمكن البحث رقم الهاتف هذا! لم يتم تمكين البحث Google أو لم يتم منح الأذونات في هذا الجهاز</string>
+  <string name="message_free_version_selection">
+        إدخالات السجل الحد الأقصى الذي يمكن تحديده في النسخة المجانية: </string>
+  <string name="message_purchase_error">
+        تعذر الاتصال بخادم Google. الرجاء إعادة تشغيل التطبيق وحاول مرة أخرى
+    </string>
+</resources>

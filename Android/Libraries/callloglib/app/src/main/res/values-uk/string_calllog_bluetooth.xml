@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Номер вибраного виклику log(s): </string>
+  <string name="text_bt_paired_devices"> Парних пристроїв (виділити для підключення)</string>
+  <string name="text_bt_new_devices"> Нові пристрої (виділити для підключення)</string>
+  <string name="message_bt_scan_devices">Сканування пристроїв...</string>
+  <string name="message_bt_scan_complete">Завершення сканування для пристроїв</string>
+  <string name="message_bt_pair_devices">Утворення пари пристроїв...</string>
+  <string name="message_bt_new_none">Немає нових пристроїв, знайшов</string>
+  <string name="message_bt_pair_none">Немає парних пристроїв, знайшов</string>
+  <string name="message_bt_conn_lost">Підключення втратили до пристрою</string>
+  <string name="message_bt_connecting">Підключення до мережі: </string>
+  <string name="message_bt_not_enabled">Закриття Bluetooth передачі, не підтримує Bluetooth</string>
+  <string name="message_bt_status_listening">Прослуховування...</string>
+  <string name="message_bt_status_connecting">Підключення...</string>
+  <string name="message_bt_status_connected">Підключено</string>
+  <string name="message_bt_testdata_sent">Testdata послав</string>
+  <string name="message_bt_no_contacts">Контактів не вибрано для надсилання</string>
+  <string name="message_bt_recv_complete">Отримувати дані повний</string>
+  <string name="message_bt_not_connected">Не підключений до будь-якого пристрою</string>
+  <string name="message_bt_adapter_error">Існував помилка налаштування Bluetooth.
+            Будь ласка, перевірте, якщо ваш телефон має Bluetooth та ввімкнуто адаптер Bluetooth</string>
+  <string name="menu_bt_make_discoverable">Зробити пристрій видимий</string>
+  <string name="progressbar_bt_recv_data">Готовий отримувати контактні дані...</string>
+  <string name="message_bt_connected">Підключення до пристрою.
+        Натисніть \'Send\' для передачі log(s) заклик до: </string>
+  <string name="message_bt_conn_failed">Не вдалося підключитися до пристрою.
+    Будь ласка, застрахувати, що ця програма встановлена, а Bluetooth екран працює в: </string>
+  <string name="message_bt_sent_error">Не може передати ці номер виклику log(s): </string>
+  <string name="message_bt_recv_error">Не вдалося створити ці номер виклику log(s): </string>
+  <string name="message_bt_create_complete">Створено log(s) прийнятого дзвінка: </string>
+  <string name="message_bt_sent_complete">виклик log(s) відправці: </string>
+  <string name="progressbar_bt_send_data">Передачі виклику log(s) </string>
+  <string name="progressbar_bt_bytes">байт </string>
+  <string name="progressbar_bt_create_contacts">Створення log(s) виклику</string>
+  <string name="progressbar_delete_data">
+        Видалення log(s) дзвінка </string>
+  <string name="button_scan">Сканування</string>
+  <string name="button_send">Надіслати</string>
+</resources>

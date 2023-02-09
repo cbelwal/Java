@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Atleast 1 izbor je potrebno</string>
+  <string name="message_save_external">APK datoteke shranjene v mapi zunanji: </string>
+  <string name="message_free_version_selection">Samo 3 apps lahko izberete hkrati v brezplačno različico</string>
+  <string name="message_free_version_option">Ta možnost je na voljo za plačan prevod samo</string>
+  <string name="message_activity_load_fail">Uporaba ni mogoče zagnati</string>
+  <string name="message_activity_loading">Začetku uporabo...</string>
+  <string name="message_loading_files">Iskanje lokalne mape...</string>
+  <string name="message_deleting_files">Potrdite posamično za vsak izbran.
+    V paketih sistema bo odstraniti samo iz uporabniškega računa</string>
+  <string name="message_save_external_suffix">. Mapo lahko dostopal povezovanje telefona z računalnikom preko USB itd. </string>
+  <string name="message_rate_this_app_error">Ocena strani ni bilo mogoče odpreti.</string>
+  <string name="message_share_link_prefix">Živjo, \r\n\r\nCheck tole: </string>
+  <string name="message_share_link_suffix">Poslano APKit</string>
+  <string name="message_share_report_prefix">Poročilo paketa</string>
+  <string name="message_share_report_suffix">Ustvarjena in poslana prek</string>
+  <string name="message_other_permissions_missing">Zahtevana dovoljenja so potrebna za delovanje te funkcije. Prosim izročiti zahtevanih dovoljenj in poskusite znova
+    </string>
+  <string name="message_purchase_error">
+        Google strežnikom ni bilo mogoče vzpostaviti. Prosim zopet začeti app in poskusite znova
+    </string>
+</resources>

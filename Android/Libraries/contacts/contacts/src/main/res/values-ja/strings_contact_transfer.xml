@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">[参照]</string>
+  <string name="backup_options_backupusing">バックアップを使用してください。</string>
+  <string name="transfer_address_home">ホーム</string>
+  <string name="transfer_address_office">事務所</string>
+  <string name="transfer_contact_office">(W)。</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(M)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">お気に入りで</string>
+  <string name="transfer_not_in_favorites">お気に入りではなく</string>
+  <string name="transfer_times_contacted">接続時間:</string>
+  <string name="transfer_last_time_contacted">前回の接続:</string>
+  <string name="transfer_organization">組織</string>
+  <string name="transfer_title">タイトル</string>
+  <string name="transfer_event_birthday">誕生日</string>
+  <string name="transfer_event_anniv">周年記念</string>
+  <string name="transfer_event_other">その他</string>
+  <string name="check_phone">電話番号</string>
+  <string name="check_email">電子メール</string>
+  <string name="csv_header_name">名</string>
+  <string name="csv_header_phone">電話番号</string>
+  <string name="csv_header_email">メール アドレス</string>
+  <string name="csv_header_postal">郵便アドレス</string>
+  <string name="csv_header_timescontacted">連絡時間</string>
+  <string name="csv_header_lasttimecontact">前回の連絡</string>
+  <string name="csv_header_favorite">好きな状態</string>
+  <string name="csv_header_organization">組織</string>
+  <string name="check_postaladdress">住所</string>
+  <string name="check_timescontacted">連絡回数</string>
+  <string name="check_lastcontact">最後の通信時刻</string>
+  <string name="check_isfavorite">好きな状態</string>
+  <string name="share_options_ShareAs">共有します。</string>
+  <string name="share_options_ShareUsing">共有を使用します。</string>
+  <string name="share_options_sms">メッセージング</string>
+  <string name="share_options_allshare">共有アプリケーション (クラウド、電子メール、...)</string>
+  <string name="share_options_Clipboard">クリップボードにコピー</string>
+  <string name="share_options_plaintext">プレーン テキスト</string>
+  <string name="share_options_vcf">個々 の Vcard ファイル</string>
+  <string name="share_options_combinedvcf">Vcard ファイルの組み合わせ</string>
+  <string name="export_options_textfile">プレーン テキスト ファイル</string>
+  <string name="export_options_combinedvcf_21">結合された vCard 2.1 ファイル</string>
+  <string name="export_options_individualvcf_21">個々 の vCard 2.1 ファイル</string>
+  <string name="export_options_combinedvcf_40">結合された vCard 4.0 ファイル</string>
+  <string name="export_options_individualvcf_40">個々 の vCard 4.0 ファイル</string>
+  <string name="export_options_csvfile">カンマ区切り (*.csv) ファイル</string>
+  <string name="export_options_externalStorage">このデバイスの外部ストレージ</string>
+  <string name="export_options_ExportAs">エクスポート形式:</string>
+  <string name="export_options_ExportUsing">ファイルを保存します。</string>
+  <string name="message_import_invalid_file">有効な連絡先ファイルではありません。</string>
+  <string name="backup_options_using">バックアップ ファイルを保存します。</string>
+  <string name="menu_import_help">ヘルプ</string>
+  <string name="message_backup_options">お勧めクラウド、電子メールなどのようなアプリケーションの共有のバックアップ。
+        これまで、携帯電話を紛失した場合の連絡先を回復できます。
+        このデバイスの任意の場所にメール/クラウド アカウントから連絡先のバックアップ ファイルを保存メール/クラウドから手動で連絡先を復元する方法します。インポート ユーティリティはファイルを自動的に見つけます。</string>
+  <string name="message_restore_fail">バックアップから復元できませんでした、バックアップ ファイルが存在しないか破損しています。</string>
+  <string name="message_restore_refresh">連絡先は、バックアップ ファイルから復元されています。すべてのインポートされた連絡先を表示する表示を更新してください。</string>
+  <string name="message_restore_selection_finish">連絡先は、バックアップ ファイルから復元されています。今この画面を閉じるか、別のバックアップ ファイルからインポート</string>
+  <string name="message_restore_legacy_name">バックアップのファイル名に \'BackupAllContacts.vcf\' 古いバージョンで</string>
+</resources>

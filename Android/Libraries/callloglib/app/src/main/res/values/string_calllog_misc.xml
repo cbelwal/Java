@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Call Log</string>
+    <string name="app_folder">CallLogManager</string>
+    <string name="call_from_unknown">Unknown</string>
+    <string name="button_Yes">Yes</string>
+    <string name="button_No">No</string>
+    <string name="button_Apply">Apply</string>
+    <string name="button_Close">Close</string>
+    <string name="general_not_Available">Not Available</string>
+    <string name="general_items">item(s)</string>
+    <string name="general_selected_items">selected</string>
+    <string name="title_confirm">Confirm</string>
+    <string name="title_dialog_coju">Download Coju</string>
+    <string name="message_selectitems">Atleast 1 log entry needs to be selected</string>
+
+
+    <string name="message_download_coju">Coju is an integrated
+     contact management app. It has all the features of this app plus additional
+    capabilities. Will you like to download Coju ?</string>
+    <string name="message_contact_permissions_missing">Contacts Permissions
+    are required for this app to work. App will now close, please give permissions and try again</string>
+    <string name="message_other_permissions_missing">Requested permissions
+    are required for this app feature to work.
+        Please give requested permissions and try again</string>
+</resources>

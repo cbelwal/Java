@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">このアプリに呼び出しを行う許可が与えられていません</string>
+  <string name="message_search_number_security_exception">この電話番号を検索できませんでした!Google 検索が有効になっていないまたはこのデバイスで許可が与えられていません</string>
+  <string name="message_free_version_selection">無料版で選択できる最大ログ エントリです。</string>
+  <string name="message_purchase_error">Google のサーバーに接続できませんでした。アプリを再起動してもう一度やり直して
+    </string>
+</resources>

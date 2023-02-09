@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Namn + WhatsApp nummer match</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">Samma WhatsApp nummer i flera namn</string>
+  <string name="duplicate_options_name_matches_email_phone">Namn + telefon/e-match</string>
+  <string name="duplicate_options_name_matches_phone">Namn + telefon match</string>
+  <string name="duplicate_options_name_matches_email">Namn + e-match</string>
+  <string name="duplicate_options_same_number_multi_name">Samma nummer i flera namn</string>
+  <string name="duplicate_options_same_email_multi_name">Samma mail i flera namn</string>
+  <string name="duplicate_options_none">Ingen</string>
+  <string name="progressbar_sel_duplicates">Sökning efter dubbletter...</string>
+  <string name="message_duplicates_selected">För att radera tryck valda duplicate(s) på ikonen Ta bort. Original(master) värdet för varje duplikat markeras inte och tas inte bort.</string>
+  <string name="choose_duplicate_option">Välj kriteriet för att identifiera dubbletter.
+        Dubbletter tillsammans med deras original(master) värde visas huvudskärmen och blir auto-markerad för borttagning. Original(Master) värde kontrolleras inte.</string>
+  <string name="startup_message">Använd ikonen dubbletter i övre högra att visa alternativ för dubbletter</string>
+  <string name="message_duplicates_backup">Det rekommenderas att du säkerhetskopierar dina kontakter innan du tar bort dem.</string>
+</resources>

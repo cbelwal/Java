@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">เรียกดู</string>
+  <string name="backup_options_backupusing">สำรองข้อมูลโดยใช้</string>
+  <string name="transfer_address_home">บ้าน</string>
+  <string name="transfer_address_office">สำนักงาน</string>
+  <string name="transfer_contact_office">(W</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(ม)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">ในรายการโปรด</string>
+  <string name="transfer_not_in_favorites">ไม่อยู่ในรายการโปรด</string>
+  <string name="transfer_times_contacted">เวลาติดต่อ:</string>
+  <string name="transfer_last_time_contacted">ติดต่อ: ครั้งสุดท้าย</string>
+  <string name="transfer_organization">องค์กร</string>
+  <string name="transfer_title">ชื่อเรื่อง</string>
+  <string name="transfer_event_birthday">วันเกิด</string>
+  <string name="transfer_event_anniv">ครบรอบปี</string>
+  <string name="transfer_event_other">อื่น ๆ</string>
+  <string name="check_phone">หมายเลขโทรศัพท์</string>
+  <string name="check_email">อีเมล</string>
+  <string name="csv_header_name">ชื่อ</string>
+  <string name="csv_header_phone">หมายเลขโทรศัพท์</string>
+  <string name="csv_header_email">ที่อยู่อีเมล</string>
+  <string name="csv_header_postal">ที่อยู่ไปรษณีย์</string>
+  <string name="csv_header_timescontacted">เวลาที่ติดต่อได้</string>
+  <string name="csv_header_lasttimecontact">ติดต่อครั้งสุดท้าย</string>
+  <string name="csv_header_favorite">สถานะที่ชื่นชอบ</string>
+  <string name="csv_header_organization">องค์กร</string>
+  <string name="check_postaladdress">ที่อยู่ไปรษณีย์</string>
+  <string name="check_timescontacted">จำนวนครั้งในการติดต่อ</string>
+  <string name="check_lastcontact">ติดต่อครั้ง</string>
+  <string name="check_isfavorite">สถานะที่ชื่นชอบ</string>
+  <string name="share_options_ShareAs">แบ่งเป็น:</string>
+  <string name="share_options_ShareUsing">แบ่งปันโดยใช้:</string>
+  <string name="share_options_sms">ส่งข้อความ</string>
+  <string name="share_options_allshare">แบ่งปันการใช้งาน (เมฆ อี,...)</string>
+  <string name="share_options_Clipboard">คัดลอกลงคลิปบอร์ด</string>
+  <string name="share_options_plaintext">ข้อความล้วน</string>
+  <string name="share_options_vcf">แต่ละแฟ้ม Vcard</string>
+  <string name="share_options_combinedvcf">รวมแฟ้ม Vcard</string>
+  <string name="export_options_textfile">แฟ้มข้อความล้วน</string>
+  <string name="export_options_combinedvcf_21">แฟ้มรวม vCard 2.1</string>
+  <string name="export_options_individualvcf_21">แฟ้มละ vCard 2.1</string>
+  <string name="export_options_combinedvcf_40">แฟ้ม vCard รวม 4.0</string>
+  <string name="export_options_individualvcf_40">แฟ้ม vCard ละ 4.0</string>
+  <string name="export_options_csvfile">แฟ้มใช้จุลภาคภาค (*.csv)</string>
+  <string name="export_options_externalStorage">เก็บข้อมูลภายนอกของอุปกรณ์นี้</string>
+  <string name="export_options_ExportAs">รูปแบบการส่งออก:</string>
+  <string name="export_options_ExportUsing">บันทึกแฟ้มใน:</string>
+  <string name="message_import_invalid_file">ไม่แฟ้มติดต่อถูกต้อง
+        </string>
+  <string name="backup_options_using">บันทึกแฟ้มสำรองข้อมูล:</string>
+  <string name="menu_import_help">วิธีใช้</string>
+  <string name="message_backup_options">แนะนำให้สำรองข้อมูลในโปรแกรมประยุกต์ใช้ร่วมกันเช่นเมฆ อีเมล์ฯลฯ
+        นี้จะช่วยให้คุณสามารถกู้คืนรายชื่อถ้าคุณเคยสูญเสียโทรศัพท์ของคุณ
+        การคืนติดต่อจาก อี/Cloud ด้วยตนเองบันทึกรายชื่อแฟ้มที่สำรองจากบัญชีของคุณอีเมล/เมฆไปในอุปกรณ์นี้ ยูทิลิตี้นำเข้าจะแล้วโดยอัตโนมัติค้นหาแฟ้ม</string>
+  <string name="message_restore_fail">
+        ไม่สามารถคืนค่าจากการสำรองข้อมูล แฟ้มข้อมูลสำรองเสียหาย หรือเสียหาย
+                </string>
+  <string name="message_restore_refresh">รายชื่อจะถูกคืนค่าจากแฟ้มสำรอง โปรดฟื้นฟูการแสดงผลเพื่อดูผู้ติดต่อที่นำเข้าทั้งหมด</string>
+  <string name="message_restore_selection_finish">รายชื่อจะถูกคืนค่าจากแฟ้มสำรอง ตอนนี้คุณสามารถปิดหน้าจอนี้ หรือนำเข้าจากแฟ้มข้อมูลสำรองอื่น</string>
+  <string name="message_restore_legacy_name">สำรองข้อมูลไฟล์ชื่อว่า \'BackupAllContacts.vcf\' ในรุ่นเก่า</string>
+</resources>

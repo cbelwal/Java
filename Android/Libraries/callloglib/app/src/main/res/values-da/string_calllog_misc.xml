@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Opkaldsloggen</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">Ukendt</string>
+  <string name="button_Yes">Ja</string>
+  <string name="button_No">Nej</string>
+  <string name="button_Apply">Anvende</string>
+  <string name="button_Close">Luk</string>
+  <string name="general_not_Available">Ikke tilgængelig</string>
+  <string name="general_items">element(er), der er</string>
+  <string name="general_selected_items">valgt</string>
+  <string name="title_confirm">Bekræfte</string>
+  <string name="title_dialog_coju">Download Coju</string>
+  <string name="message_selectitems">Atleast 1 logpost skal vælges</string>
+  <string name="message_download_coju">Coju er en integreret kontakt forvaltning app. Det har alle funktionerne af denne app plus yderligere kapaciteter. Vil du gerne downloade Coju?</string>
+  <string name="message_contact_permissions_missing">Kontakter tilladelser er nødvendige for denne app til at arbejde. App vil nu lukke, bedes du give tilladelser, og prøv igen</string>
+  <string name="message_other_permissions_missing">Ønskede tilladelser er nødvendige for denne app funktion til at arbejde.
+        Venligst give anmodede tilladelser, og prøv igen</string>
+</resources>

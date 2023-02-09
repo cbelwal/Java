@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Επιλεγμένων επαφών θα δεν έχουν διαγραφεί. Παρακαλούμε να επιβεβαιώσετε εάν θέλετε να συνεχίσετε;</string>
+  <string name="message_undelete_complete"> επαφές που έχουν μη διαγραμμένα</string>
+  <string name="message_undelete_notice">Αυτή η επιλογή θα εμφανίσει τις επαφές που μπορείτε να αναιρέσετε και εξαρτάται από τον κατασκευαστή της συσκευής ή την έκδοση του Android. Επαφές δεν μπορεί να ανακτηθεί εάν η συσκευή δεν το επιτρέπει, επαφές διαγράφηκαν πριν από αρκετές ώρες ή επαφές που έχουν διαγραφεί από την κάρτα SIM.</string>
+  <string name="message_undelete_option_invalid">Αυτή η επιλογή δεν είναι έγκυρη για επαφές που έχουν διαγραφεί
+        </string>
+  <string name="message_undelete_help">Παρακαλώ επιλέξτε επαφές, και χρησιμοποιήστε το εικονίδιο Αναίρεση διαγραφής στην επάνω δεξιά γωνία για την αναίρεση διαγραφής τους</string>
+  <string name="progressbar_undelete_data">Αναίρεση διαγραφής επαφές </string>
+  <string name="action_undelete">Ξεδιαγράφει επαφές</string>
+  <string name="button_understand">Καταλαβαίνω</string>
+  <string name="title_disclaimer">ΑΠΟΠΟΊΗΣΗ ΕΥΘΥΝΏΝ</string>
+  <string name="title_no_undelete_found">Συγνώμη!</string>
+  <string name="message_no_undelete_found">
+        Ζητούμε συγνώμη, καμία δυνατότητα ανάκτησης διαγραμμένων επαφών βρέθηκαν! Μπορείτε να προσπαθήσετε να ανακτήσετε χρησιμοποιώντας ένα χειρωνακτικό τρόπο που προτείνει η Google, οι προγραμματιστές του Android.
+        Θα θέλατε να επισκεφθείτε την ιστοσελίδα υποστήριξης της Google που έχει οδηγίες μη αυτόματης ανάκτησης;
+    </string>
+</resources>

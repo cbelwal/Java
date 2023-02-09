@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_delete_confirm_cl">Dati di registri di chiamata selezionata verranno eliminati. Questa azione non può essere annullata. Procedere?</string>
+  <string name="message_delete_complete_cl"> registri di chiamata dati personali</string>
+</resources>

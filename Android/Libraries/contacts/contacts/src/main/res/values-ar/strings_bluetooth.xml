@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">عدد جهات الاتصال المحددة: </string>
+  <string name="text_bt_paired_devices"> الأجهزة المزدوجة (تحديد للاتصال)</string>
+  <string name="text_bt_new_devices"> الأجهزة الجديدة (حدد للاتصال)</string>
+  <string name="message_bt_scan_devices">المسح الضوئي لأجهزة...</string>
+  <string name="message_bt_scan_complete">الانتهاء من المسح الضوئي للأجهزة</string>
+  <string name="message_bt_pair_devices">إقران الأجهزة...</string>
+  <string name="message_bt_new_none">لم يتم العثور على أجهزة جديدة</string>
+  <string name="message_bt_pair_none">لم يتم العثور على أجهزة المزدوجة</string>
+  <string name="message_bt_conn_lost">فقد الجهاز الاتصال</string>
+  <string name="message_bt_connecting">الاتصال: </string>
+  <string name="message_bt_not_enabled">بلوتوث غير ممكنة، إغلاق Bluetooth نقل</string>
+  <string name="message_bt_status_listening">الاستماع...</string>
+  <string name="message_bt_status_connecting">الاتصال...</string>
+  <string name="message_bt_status_connected">متصل</string>
+  <string name="message_bt_testdata_sent">Testdata المرسلة</string>
+  <string name="message_bt_no_contacts">أية جهات اتصال محددة لإرسال</string>
+  <string name="message_bt_recv_complete">الحصول على بيانات كاملة</string>
+  <string name="message_bt_not_connected">غير متصل بأي جهاز</string>
+  <string name="message_bt_adapter_error">وكان هناك خطأ إعداد بلوتوث.
+            الرجاء التحقق إذا كان الهاتف الخاص بك بلوتوث وتم تمكين محول Bluetooth</string>
+  <string name="menu_bt_make_discoverable">جعل الجهاز قابلاً للاكتشاف</string>
+  <string name="progressbar_bt_recv_data">جاهز لتلقي بيانات جهة الاتصال...</string>
+  <string name="message_bt_startup">تأكد من أن يتم تشغيل التطبيق نفسه وفتح هذه الشاشة في جهاز آخر</string>
+</resources>

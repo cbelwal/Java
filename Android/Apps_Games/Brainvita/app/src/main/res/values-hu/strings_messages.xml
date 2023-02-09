@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Gratulálunk Ön kapott egy magas pontszámot!</string>
+  <string name="message_game_end_new_game">Aktuális játék múlik! Will szeretne kezdeni egy új játékot?</string>
+  <string name="message_custom_board">Érintse meg az üres lyukakat, hogy lépést egy kampóra. Érintse meg a zár gombot, amikor a teljes</string>
+  <string name="message_custom_board_done">Egyéni ellátás, amelyet a telepítő, akkor kezdj el játszani.
+    Vegye figyelembe, hogy a magas pontszámokat, egyéni lapok nem kell elszámolni</string>
+  <string name="message_intro_first">
+        Áthelyezni egy kampón, hogy egy rendelkezésre álló lyuk-ban egy egyenes vonal, ugrott át egy másik peg
+    </string>
+  <string name="message_intro_second">A leértékelés ugrott át eltávolítása</string>
+  <string name="message_intro_third">Próbálja meg eltávolítani annyi csapok lehetséges</string>
+  <string name="message_intro_fourth">Egyre csak 1 peg fennmaradó célja</string>
+  <string name="message_board_reset_confirm">Ez törli a jelenlegi fórumon. Szeretné folytatni?</string>
+  <string name="message_game_over">Nincs több lépés is lehetséges. Játék múlik!</string>
+  <string name="message_solver_complete">A Solver kiszámította a mozog, hogy egy minimális számú pegs.\n\nUse a Tovább gombra, hogy a Tanács mozog.</string>
+  <string name="message_solver_complete_free">A Solver kiszámította a költözik, hogy vezethet egy minimális számú kampókat. Mivel ez egy szabad változat, a solver legalább 3 csapok csak vezető megoldást találni. A fizetett változat a solver megoldást találni a 1 peg.\n\nUse a Tovább gombra, hogy a Tanács mozog.
+    </string>
+  <string name="message_solver_complete_title">Alapít a oldat-val kampókat: </string>
+  <string name="message_solver_inprogress_title">Keresi a megoldást...</string>
+  <string name="message_solver_inprogress">Aktuális legalacsonyabb ék száma: </string>
+  <string name="message_solver_start_confirm">Attól függően, hogy a jelenlegi fórumon a Solver eltarthat néhány másodpercig, hogy a számítástechnika egy oldat-val kampókat legkevesebb percekig.
+    Mivel a Solver nem számítások sok, ez is kimerítik az akkumulátort.
+        Tanácsos amit Ön tesz a telefon töltés, mielőtt a solver.
+    Futás közben a Solver a bármikor megállítható és legújabb peg eredmény lesz elérhető.</string>
+  <string name="message_solver_mode_play_board">
+        Nem lehet játszani a játékot a solver mód. Válassza ki az új játék, egy új játék indításához</string>
+  <string name="message_confirm_switch_from_standard">
+        Jelenlegi fórumon van beállítva, meg akarja változtatni a francia Igazgatóság?</string>
+  <string name="message_confirm_switch_from_French">
+        Jelenlegi fórumon van beállítva, francia, szeretné változtatni a Standard Testület?</string>
+</resources>

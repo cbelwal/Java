@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Загальні</string>
+  <string name="nav_menu_group_help">Допомога</string>
+  <string name="nav_menu_group_viewoptions">Параметри</string>
+  <string name="nav_menu_group_views">Переглядів</string>
+  <string name="nav_menu_group_operations">Операцій</string>
+  <string name="nav_menu_group_backup">Резервне копіювання</string>
+  <string name="nav_menu_rate_this_app">Зворотній зв\'язок</string>
+  <string name="nav_menu_backup_contacts">Резервне копіювання всіх контактів</string>
+  <string name="nav_menu_restore_contacts">Відновлення контактів з резервної копії</string>
+  <string name="nav_menu_upgrade">Оновлення до Pro версія</string>
+  <string name="nav_menu_filter">Фільтр відображення</string>
+  <string name="nav_menu_duplicates">Дублікати інструментарій</string>
+  <string name="nav_menu_tellafriend">Розповісти другу</string>
+  <string name="nav_menu_feedback">Зв\'язатися з Dasmic</string>
+  <string name="nav_menu_demovideo">Демо-відео</string>
+  <string name="nav_menu_coju_outlook">Coju для Microsoft Outlook</string>
+  <string name="nav_menu_coju">Завантажити Coju</string>
+  <string name="display_options_all_TimesContacted">Відсортовано за часів зв\'язався</string>
+  <string name="display_options_all_last_contact">Відсортовано за останній час контакту</string>
+  <string name="display_options_all">Відсортовано за іменем</string>
+  <string name="display_options_phonenumber">Відсортовано телефонних номерів</string>
+  <string name="display_options_email">Відсортовано електронні адреси</string>
+  <string name="display_options_deleted">Видалені контакти</string>
+  <string name="display_options_refresh">Оновити відображення</string>
+  <string name="action_Operations">Оновлення оптом</string>
+  <string name="action_Export">Експортування контактів</string>
+  <string name="action_delete">Видалення контактів</string>
+  <string name="action_Import">Імпорт контактів</string>
+  <string name="action_edit">Редагувати контакт</string>
+  <string name="action_add">Додати контакт</string>
+  <string name="action_share">Частка контактів</string>
+  <string name="action_bluetooth">Bluetooth передачі</string>
+</resources>

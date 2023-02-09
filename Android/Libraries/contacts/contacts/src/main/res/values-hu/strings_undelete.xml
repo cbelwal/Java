@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Kijelölt partnereket lesz törölt. Kérjük, erősítse meg, hogy szeretné folytatni?</string>
+  <string name="message_undelete_complete"> nem törölt partner</string>
+  <string name="message_undelete_notice">Ez a beállítás akarat oldalra dől a kapcsolatok, hogy visszaállítható és függ a gyártó a készülék vagy az Android verzió. Kapcsolatok nem lehet visszatéríteni, ha a készülék nem teszi lehetővé, kapcsolatok törölt több óra vagy névjegyek a SIM-kártya törölt.</string>
+  <string name="message_undelete_option_invalid">Ez a lehetőség nem érvényes-Törölt névjegyek
+        </string>
+  <string name="message_undelete_help">Kérjük válassza ki a partner és a jobb felső sarkában a undelete ikon segítségével visszaállításuk</string>
+  <string name="progressbar_undelete_data">Visszaállítás partner </string>
+  <string name="action_undelete">Partner undelete</string>
+  <string name="button_understand">értem</string>
+  <string name="title_disclaimer">FELELŐSSÉGET KIZÁRÓ NYILATKOZAT</string>
+  <string name="title_no_undelete_found">bocsánat!</string>
+  <string name="message_no_undelete_found">
+        Vagyunk szomorú, nem visszaszerezhető töröl kapcsolatok nem található! Tudod megpróbál-hoz visszaszerez őket használ a kézi út javasolt mellett Google, a fejlesztők Android.
+        Will szeretne látogasson el a Google támogatási weboldalára, amely kézi Rendszerhelyreállítási utasítások?
+    </string>
+</resources>

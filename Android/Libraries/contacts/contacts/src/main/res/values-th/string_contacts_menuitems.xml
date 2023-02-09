@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">ทั่วไป</string>
+  <string name="nav_menu_group_help">วิธีใช้</string>
+  <string name="nav_menu_group_viewoptions">ตัวเลือก</string>
+  <string name="nav_menu_group_views">มุมมอง</string>
+  <string name="nav_menu_group_operations">การดำเนินงาน</string>
+  <string name="nav_menu_group_backup">การสำรองข้อมูล</string>
+  <string name="nav_menu_rate_this_app">ความคิดเห็น</string>
+  <string name="nav_menu_backup_contacts">สำรองข้อมูลรายชื่อทั้งหมด</string>
+  <string name="nav_menu_restore_contacts">คืนค่าผู้ติดต่อจากข้อมูลสำรอง</string>
+  <string name="nav_menu_upgrade">รุ่นโป</string>
+  <string name="nav_menu_filter">แสดงตัวกรอง</string>
+  <string name="nav_menu_duplicates">ชุดเครื่องมือซ้ำ</string>
+  <string name="nav_menu_tellafriend">บอกเพื่อน</string>
+  <string name="nav_menu_feedback">ติดต่อ Dasmic</string>
+  <string name="nav_menu_demovideo">วิดีโอสาธิต</string>
+  <string name="nav_menu_coju_outlook">Coju สำหรับ Microsoft Outlook</string>
+  <string name="nav_menu_coju">ดาวน์โหลด Coju</string>
+  <string name="display_options_all_TimesContacted">เรียงลำดับตามเวลาที่ได้รับการติดต่อ</string>
+  <string name="display_options_all_last_contact">เรียงตามเวลาล่าสุดติดต่อ</string>
+  <string name="display_options_all">เรียงลำดับตามชื่อ</string>
+  <string name="display_options_phonenumber">หมายเลขโทรศัพท์ที่ถูกเรียงลำดับ</string>
+  <string name="display_options_email">ที่อยู่อีเมถูกเรียงลำดับ</string>
+  <string name="display_options_deleted">ติดต่อถูกลบไป</string>
+  <string name="display_options_refresh">ฟื้นฟูการแสดงผล</string>
+  <string name="action_Operations">การปรับปรุงจำนวนมาก</string>
+  <string name="action_Export">ส่งออกผู้ติดต่อ</string>
+  <string name="action_delete">ลบผู้ติดต่อ</string>
+  <string name="action_Import">นำเข้าผู้ติดต่อ</string>
+  <string name="action_edit">แก้ไขติดต่อ</string>
+  <string name="action_add">เพิ่มผู้ติดต่อ</string>
+  <string name="action_share">ผู้ติดต่อที่ใช้ร่วมกัน</string>
+  <string name="action_bluetooth">ส่งบลูทูธ</string>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="filter_text_condition">Condition</string>
+    <string name="filter_text_option">Options</string>
+
+    <string name="filter_text_value_days">Days</string>
+    <string name="filter_text_value_duration">Duration(s)</string>
+    <string name="filter_text_value_location">Location</string>
+
+
+    <string name="filter_options_from_stored_contacts">From stored contacts</string>
+    <string name="filter_options_more_than_entered_days">More than days</string>
+    <string name="filter_options_less_than_entered_days">Less than days</string>
+    <string name="filter_options_more_than_duration">More than duration</string>
+    <string name="filter_options_less_than_duration">Less than duration</string>
+    <string name="filter_options_from_entered_location">From location</string>
+    <string name="filter_options_none">No Filter</string>
+    <string name="filter_show_show">Show</string>
+    <string name="filter_show_noshow">Do not show</string>
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        App นี้ตอนนี้จะร้องขอสิทธิ์การเข้าถึงข้อมูลบันทึกและรายชื่อของคุณโทร
+        สิทธิ์เหล่านี้จำเป็นสำหรับการไป และไม่ได้มีเจตนาที่จะใช้ในลักษณะอื่นใด ใช้งานอย่างมาก และข้อมูลบันทึกและรายชื่อของคุณเรียกจะไม่ถูกแชร์กับบุคคลใด ๆ รวมทั้ง coju.mobi™ สำนักพิมพ์ของ app นี้
+    </string>
+  <string name="button_permissions_ack">
+        รับทราบ
+    </string>
+  <string name="title_ack_confirm">
+        ปฏิเสธสิทธิ์
+    </string>
+</resources>

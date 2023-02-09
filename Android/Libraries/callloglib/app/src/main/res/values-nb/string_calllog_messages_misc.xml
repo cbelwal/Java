@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Tillatelse til å ringe har ikke fått denne app</string>
+  <string name="message_search_number_security_exception">Kan ikke søke telefonen! Googlesøk er aktivert ikke eller ikke er gitt i denne enheten</string>
+  <string name="message_free_version_selection">
+        Maksimal loggoppføringer som kan velges i gratis versjon er: </string>
+  <string name="message_purchase_error">
+        Kan ikke koble til Google-server. Vennligst start programmet og prøv på nytt
+    </string>
+</resources>

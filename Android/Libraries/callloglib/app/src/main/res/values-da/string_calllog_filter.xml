@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">Betingelse</string>
+  <string name="filter_text_option">Indstillinger</string>
+  <string name="filter_text_value_days">Dage</string>
+  <string name="filter_text_value_duration">Duration(s)</string>
+  <string name="filter_text_value_location">Beliggenhed</string>
+  <string name="filter_options_from_stored_contacts">Fra lagrede kontakter</string>
+  <string name="filter_options_more_than_entered_days">Mere end dage</string>
+  <string name="filter_options_less_than_entered_days">Mindre end dage</string>
+  <string name="filter_options_more_than_duration">Mere end varighed</string>
+  <string name="filter_options_less_than_duration">Mindre end varighed</string>
+  <string name="filter_options_from_entered_location">Fra placering</string>
+  <string name="filter_options_none">Uden Filter</string>
+  <string name="filter_show_show">Vis</string>
+  <string name="filter_show_noshow">Vis ikke</string>
+</resources>

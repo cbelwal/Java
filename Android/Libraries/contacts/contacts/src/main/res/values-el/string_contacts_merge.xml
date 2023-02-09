@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Συγχώνευση επαφών</string>
+  <string name="action_merge">Συγχώνευση επαφών</string>
+  <string name="message_merge_title">ΠΡΟΣΟΧΗ</string>
+  <string name="message_merge_confirm">Παρακαλούμε να επιβεβαιώσετε εάν θέλετε να συγχωνεύσετε τις επιλεγμένες επαφές; Ο αριθμός τηλεφώνου, διεύθυνση ηλεκτρονικού ταχυδρομείου, ταχυδρομική διεύθυνση, Σημείωση και εκδηλώσεις όλων των επιλεγμένων επαφών θα συγχωνευθούν σε μία ενιαία επαφή με όνομα: </string>
+  <string name="message_merge_complete">Επιλεγμένες επαφές έχουν συγχωνευθεί</string>
+  <string name="progressbar_merge_data">Συγχώνευση επαφών...</string>
+</resources>

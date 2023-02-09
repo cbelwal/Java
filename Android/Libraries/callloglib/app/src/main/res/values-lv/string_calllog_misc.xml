@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Zvanu urnāls</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">Nezināms</string>
+  <string name="button_Yes">jā</string>
+  <string name="button_No">nē</string>
+  <string name="button_Apply">Piemērot</string>
+  <string name="button_Close">Aizveriet</string>
+  <string name="general_not_Available">Nav pieejams</string>
+  <string name="general_items">vienumu (s)</string>
+  <string name="general_selected_items">atlasīts</string>
+  <string name="title_confirm">Apstipriniet</string>
+  <string name="title_dialog_coju">Lejupielādēt Coju</string>
+  <string name="message_selectitems">Atleast 1 žurnāla ierakstam ir jābūt atlasītam</string>
+  <string name="message_download_coju">Coju ir integrēts kontaktu vadība app. Tā ir visas iespējas šo app plus papildu iespējas. Vai vēlaties lejupielādēt Coju?</string>
+  <string name="message_contact_permissions_missing">Kontaktpersonas atļaujas ir nepieciešamas šo app strādāt. App būs tagad aizvērt, lūdzu piešķirt atļaujas, un mēģiniet vēlreiz</string>
+  <string name="message_other_permissions_missing">Pieprasītais atļaujas ir nepieciešamas šo app līdzekli strādāt.
+        Lūdzu piešķirt pieprasītās atļaujas un mēģiniet vēlreiz</string>
+</resources>

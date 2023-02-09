@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">ติดต่อเวียน</string>
+  <string name="action_merge">ผสานผู้ติดต่อ</string>
+  <string name="message_merge_title">ข้อควรระวัง</string>
+  <string name="message_merge_confirm">โปรดยืนยันว่า คุณต้องการผสานผู้ติดต่อที่เลือก หมายเลขโทรศัพท์ อีเมล์ ที่อยู่ไปรษณีย์ หมายเหตุ และกิจกรรมของผู้ติดต่อที่เลือกทั้งหมดจะถูกผสานเป็นหนึ่งเดียวติดต่อกับชื่อ: </string>
+  <string name="message_merge_complete">ผู้ติดต่อที่เลือกได้ถูกผสาน</string>
+  <string name="progressbar_merge_data">รวมรายชื่อ...</string>
+</resources>

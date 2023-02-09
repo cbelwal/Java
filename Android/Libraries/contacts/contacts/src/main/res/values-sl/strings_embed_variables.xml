@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">Priključen na napravo.
+        Pritisnite \'Send\' za prenos kontaktnimi podatki: </string>
+  <string name="message_bt_conn_failed">Povezava ni uspela v napravo.
+    Prosim zavarujejo, da ta program nameščen in Bluetooth zaslon je odprt v: </string>
+  <string name="message_bt_sent_error">Strjena lava ne presavitev te številke za stike: </string>
+  <string name="message_bt_recv_error">Ni bilo mogoče ustvariti te številke za stike: </string>
+  <string name="message_bt_create_complete">Prejetih stike, ki so ustvarili: </string>
+  <string name="message_bt_sent_complete">Stiki pošljejo naprave: </string>
+  <string name="progressbar_bt_send_data">Prenos edinstveno stike </string>
+  <string name="progressbar_bt_bytes">bajtov </string>
+  <string name="progressbar_bt_create_contacts">Ustvarjanje stike (stike s sliko zahtevajo več časa)</string>
+  <string name="message_free_version_selection">
+        Največ stikov, ki jih lahko izberete v prost prevod je: </string>
+  <string name="progressbar_delete_data">
+        Brisanje edinstveno stike </string>
+</resources>

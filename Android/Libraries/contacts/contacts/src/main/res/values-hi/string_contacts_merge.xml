@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">संपर्क मर्ज</string>
+  <string name="action_merge">संपर्कों को मर्ज</string>
+  <string name="message_merge_title">सावधानी</string>
+  <string name="message_merge_confirm">कृपया पुष्टि करें, तो आप चयनित संपर्कों को मर्ज करना चाहते हैं? फोन नंबर, ईमेल पता, डाक का पता, नोट और घटनाओं सभी चयनित संपर्कों के नाम के साथ एक एकल संपर्क में मर्ज किया जा करेगा: </string>
+  <string name="message_merge_complete">चयनित संपर्क मर्ज किया गया है</string>
+  <string name="progressbar_merge_data">संपर्कों का विलय...</string>
+</resources>

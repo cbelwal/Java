@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Arama kaydı</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">Bilinmiyor</string>
+  <string name="button_Yes">Evet</string>
+  <string name="button_No">Hayır</string>
+  <string name="button_Apply">Uygula</string>
+  <string name="button_Close">Kapat</string>
+  <string name="general_not_Available">Mevcut değil</string>
+  <string name="general_items">Ürün (ler)</string>
+  <string name="general_selected_items">Seçili</string>
+  <string name="title_confirm">Onayla</string>
+  <string name="title_dialog_coju">Coju indir</string>
+  <string name="message_selectitems">En az 1 günlük girdisi seçilmiş olması gerekir</string>
+  <string name="message_download_coju">Coju bir tümleşik iletişim yönetimi uygulaması var. Bu app artı ek yetenekler tüm özelliklere sahiptir. Coju indirmek sever mi?</string>
+  <string name="message_contact_permissions_missing">Kişiler izin çalışmak için bu app için gereklidir. App şimdi, lütfen izin vermek kapatıp yeniden deneyin</string>
+  <string name="message_other_permissions_missing">İstenen izinleri bu app özelliğinin çalışması için gereklidir.
+        Lütfen istenen izinleri vermek ve yeniden deneyin</string>
+</resources>

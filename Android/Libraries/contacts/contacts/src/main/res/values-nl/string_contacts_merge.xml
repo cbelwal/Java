@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Contactpersonen samenvoegen</string>
+  <string name="action_merge">Samenvoegen van de contactpersonen die</string>
+  <string name="message_merge_title">Let op</string>
+  <string name="message_merge_confirm">Gelieve te bevestigen als u wilt samenvoegen van geselecteerde contactpersonen? Het telefoonnummer, e-mailadres, postadres, opmerking en evenementen van alle geselecteerde contacten zullen worden samengevoegd met één enkele contactpersoon met de naam: </string>
+  <string name="message_merge_complete">Geselecteerde contactpersonen zijn samengevoegd</string>
+  <string name="progressbar_merge_data">Fuserende contacten...</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Peg Solitaire Problemlösaren</string>
+  <string name="message_tellafriend">Denna app är mentalt challening omgång Peg Solitaire kallas även marmor solitaire eller Brainvita. Målet med spelet är att komma till det minsta antalet pinnar som möjligt. Peggar flyttas till ett tomt hål efter hoppa över en annan pinne i en rak linje. Peg hoppade över tas bort, detta sätt efter varje flytta antalet pinnar reduceras med en. \n\n Förutom vanliga spelet, denna app kan du ställa in din egen anpassade styrelsen att lösa. Det är tillbaka och framåt-knapparna som kan du gå tillbaka till valfritt antal drag och spelet också håller hög scores.\n\n men vad gör denna app unik är dess kraftfulla peg solitaire Problemlösaren. Problemlösaren använder en anständighet \'state-space\ \"algoritm för att lösa någon given styrelse. Problemlösaren kommer med alla de åtgärder som krävs för att komma till minsta möjliga antal pinnar.
+        Om du kör Problemlösaren från början på en ny styrelse kommer det visa dig alla turer som kommer att leda till en peg. Eftersom den hittar en lösning till alla ombord, Problemlösaren kan ta några minuter att komma till en solution.\n\n ge det ett försök! \n</string>
+</resources>

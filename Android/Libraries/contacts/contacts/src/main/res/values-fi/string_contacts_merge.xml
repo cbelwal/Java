@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Yhteystietojen yhdistäminen</string>
+  <string name="action_merge">Yhdistä yhteystiedot</string>
+  <string name="message_merge_title">Varoitus</string>
+  <string name="message_merge_confirm">Voisitteko vahvistaa, jos haluat yhdistää valitut yhteystiedot? Puhelinnumero, sähköpostiosoite, postiosoite, huomautus ja kaikki valitut yhteystiedot tapahtumat yhdistetään yksi ainoa yhteys nimi: </string>
+  <string name="message_merge_complete">Valitut yhteystiedot on yhdistetty</string>
+  <string name="progressbar_merge_data">Yhteystietojen yhdistäminen...</string>
+</resources>

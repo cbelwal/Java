@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Tapa Solitaire Solver</string>
+  <string name="message_tellafriend">Šī app ir garīgi challening spēli Pasjanss Peg pazīstams arī kā marmors pasjansu vai Brainvita. Spēles mērķis ir iegūt minimālo skaitu naglas, cik vien iespējams. Naglas tiek pārvietotas uz tukšo caurumu pēc lēkšanu pār citu tapa taisnā līnijā. Tapa pārlēca tiek noņemta, šādā veidā pēc tam, kad katru pārvietot naglas skaits tiek samazināts par vienu. \n\n neatkarīgi no standarta spēļu, šī app ļauj iestatīt savu pielāgoto valdes atrisināt. Ir atpakaļ un uz priekšu pogas, kas ļauj jums iet atpakaļ uz jebkādu gājienu skaitu un spēlē arī uztur augstu scores.\n\n tomēr, kas padara šo app patiesi unikālu ir tās spēcīgs tapa pasjansa Risinātājs. Risinātājs izmanto pieklājības \'state-space\ \"algoritmu, lai atrisinātu jebkuru konkrētā kuģa. Risinātājs nāks klajā ar pārceļas, kas nepieciešamas, lai nāk uz minimālo iespējamo skaitu, naglas.
+        Ja jūs vadāt Risinātājs no sākuma jaunā valde, tas parādīs visas kustības, kas novedīs pie viena kāja. Jo tas atrod risinājumu uz jebkura kuģa, Risinātājs var veikt dažas minūtes ierasties solution.\n\n pamēģināt! \n</string>
+</resources>

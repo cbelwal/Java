@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">Ha van egy probléma-val a app, will szeretne e-mail a kiadó, és oldja meg a problémát?</string>
+  <string name="message_check_for_rating">Will szeretne visszajelzés a ez app?</string>
+  <string name="message_tellafriend_subject">Ellenőriz ez app</string>
+  <string name="message_email_send_error">Hiba az e-mail küldése</string>
+  <string name="message_tellafriend_body">Hé Nézd meg a cool app:\n</string>
+  <string name="message_start_activity_error">Volt egy probléma a kezdő tevékenység. \n</string>
+  <string name="message_demo_video">Ha szeretnék egy bemutató videót.
+        (Ez az üzenet jelenik meg csak egyszer)?</string>
+  <string name="message_help_documentation_fail">Nem sikerült betölteni a súgót.
+    Kérjük, látogasson el http://www.dasmic.com a böngésző, hogy segítsen.</string>
+  <string name="message_rate_this_app">Tud segíteni mások rating ez app által?</string>
+  <string name="message_rate_this_app_error">Rating oldal megnyitása nem sikerült. Lépned a Google Store játék segítségével</string>
+  <string name="message_feedback_subject">App visszajelzés</string>
+</resources>

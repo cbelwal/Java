@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic, LLC</string>
+  <string name="feedback_no_email">아니 이메일 클라이언트 발견</string>
+  <string name="button_yes">예</string>
+  <string name="button_no">없음</string>
+  <string name="nav_menu_help_doc">도움말 설명서</string>
+  <string name="button_rate_never">결코</string>
+  <string name="button_rate_later">나중</string>
+  <string name="button_rate_now">지금</string>
+  <string name="title_rate_this_app">이 애플 리 케이이 션을 평가해 주십시오</string>
+  <string name="title_feedback">전자 메일 옵션을 선택...</string>
+  <string name="title_demo_video">데모 비디오</string>
+  <string name="title_tellafriend">통해 친구에 게...</string>
+  <string name="title_send_feedback">저희에 게 연락</string>
+  <string name="title_rate_app">속도 애플 리 케이 션</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Atleast 1 선택이 필요</string>
+  <string name="message_save_external">APK 파일 외부 폴더에 저장: </string>
+  <string name="message_free_version_selection">3 애플 리 케이 션은 무료 버전에서는 한 번에 선택할 수 있습니다</string>
+  <string name="message_free_version_option">이 옵션은 전용 유료 버전에 사용할 수</string>
+  <string name="message_activity_load_fail">응용 프로그램을 시작할 수 없습니다.</string>
+  <string name="message_activity_loading">응용 프로그램을 시작...</string>
+  <string name="message_loading_files">로컬 폴더를 검색...</string>
+  <string name="message_deleting_files">선택한 각 패키지에 대 한 개별적으로 확인 하시기 바랍니다.
+    시스템 패키지 사용자 계정에서 제거</string>
+  <string name="message_save_external_suffix">. 귀하의 휴대 전화를 USB 등을 통해 컴퓨터에 연결 하 여 폴더를 액세스할 수 있습니다. </string>
+  <string name="message_rate_this_app_error">등급 페이지를 열 수 없습니다.</string>
+  <string name="message_share_link_prefix">안녕하세요, \r\n\r\nCheck이이 아웃: </string>
+  <string name="message_share_link_suffix">APKit을 통해</string>
+  <string name="message_share_report_prefix">패키지 보고서</string>
+  <string name="message_share_report_suffix">생성 하 고 통해 전송</string>
+  <string name="message_other_permissions_missing">요청 된 권한은이 기능이 작동 하려면 필요 합니다. 요청 된 권한을 부여 하 고 다시 시도 하십시오
+    </string>
+  <string name="message_purchase_error">
+        Google 서버에 연결할 수 없습니다. 응용 프로그램을 다시 시작 하 고 다시 시도 하십시오
+    </string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Navn + WhatsApp nummer kamp</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">Samme WhatsApp nummer i flere navn</string>
+  <string name="duplicate_options_name_matches_email_phone">Navn + Phone/Email kamp</string>
+  <string name="duplicate_options_name_matches_phone">Navn + telefon kamp</string>
+  <string name="duplicate_options_name_matches_email">Navn + e-kamp</string>
+  <string name="duplicate_options_same_number_multi_name">Samme nummer i flere navn</string>
+  <string name="duplicate_options_same_email_multi_name">Samme email inne flere navn</string>
+  <string name="duplicate_options_none">Ingen</string>
+  <string name="progressbar_sel_duplicates">Søker etter duplikater...</string>
+  <string name="message_duplicates_selected">Trykk på Slett-ikonet for å slette valgte duplicate(s). Original(master)-verdien for hver kopi er valgt ikke og vil ikke bli slettet.</string>
+  <string name="choose_duplicate_option">Velg kriteriet for å identifisere duplikater.
+        Duplikater sammen med deres original(master)-verdi vises i hovedskjermbildet og blir automatisk merket for sletting. Original(Master) verdien er ikke kontrollert.</string>
+  <string name="startup_message">Bruk kopiikonet i øvre høyre for å angi alternativet etter duplikater</string>
+  <string name="message_duplicates_backup">Det anbefales at du sikkerhetskopierer kontaktene før du sletter dem.</string>
+</resources>

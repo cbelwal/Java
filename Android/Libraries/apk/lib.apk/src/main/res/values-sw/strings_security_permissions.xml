@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permission_inapp_billing">Kutumia kadi yako ya mkopo.</string>
+  <string name="permission_read_sms">Unaweza kusoma ujumbe wako.</string>
+  <string name="permission_send_sms">Unaweza kutuma ujumbe kwa wengine.</string>
+  <string name="permission_mic">Unaweza kurekodi sauti kutoka mikrofoni yako.</string>
+  <string name="permission_camera">Unaweza kusoma picha kutoka kwa kamera yako.</string>
+  <string name="permission_read_contacts">Unaweza kusoma orodha yako ya wawasiliani.</string>
+  <string name="permission_write_contacts">Unaweza kuandika kwenye orodha yako ya wawasiliani.</string>
+  <string name="permission_read_ext_storage">Unaweza kusoma faili kutoka katika makabrasha ya kufikiwa ya USB.</string>
+  <string name="permission_write_ext_storage">Unaweza kuandika faili kwa folda ya kufikiwa ya USB.</string>
+  <string name="permission_read_call_log">Unaweza kujua nani kuitwa na wakati.</string>
+  <string name="permission_location_fine">Anajua eneo lako halisi.</string>
+  <string name="permission_location_coarse">Anajua ukadiriaji wa eneo lako.</string>
+  <string name="permission_read_calender">Unaweza kusoma Calender yako.</string>
+  <string name="permission_write_calender">Unaweza kuandika kwenye Calender yako.</string>
+  <string name="permission_call_phone">Unaweza Piga simu yoyote bila ufahamu wako.</string>
+  <string name="permission_call_privileged">Unaweza Piga simu yoyote, ikiwa ni pamoja na dharura, bila ufahamu wako.</string>
+  <string name="permission_install_packages">Unaweza kusakinisha programu zingine.</string>
+  <string name="permission_internet">Unaweza kutuma taarifa kupitia tovuti.</string>
+  <string name="permission_wake_lock">Unaweza kuzuia kifaa kutoka kwenda kulala hali.</string>
+  <string name="permission_network_state">Inaweza kufikia hali ya mtandao.</string>
+  <string name="permission_read_voicemail">Unaweza kusoma salamu yako.</string>
+</resources>

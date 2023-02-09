@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Gump;Forrest;;;;
+FN:Forrest Gump
+ORG:Bubba Gump Shrimp Co.
+TITLE:Shrimp Man
+TEL;TYPE=work,voice;VALUE=uri:tel:+11115551212
+TEL;TYPE=home,voice;VALUE=uri:tel:+14045551212
+EMAIL;TYPE=home:forrestgump@example.com
+ADR;TYPE=work;LABEL="100 Waters Edge\nBaytown, LA 30314\nUnited States of America":;;100 Waters Edge;Baytown;LA;30314;United States of America
+ADR;TYPE=home;LABEL="42 Plantation St.\nBaytown, LA 30314\nUnited States of America":;;42 Plantation St.;Baytown;LA;30314;United States of America
+PHOTO;ENCODING=;JPEG:
+
+NOTE:This is a test note
+END:VCARD

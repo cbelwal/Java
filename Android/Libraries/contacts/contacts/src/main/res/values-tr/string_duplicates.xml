@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Adı + WhatsApp numara maç</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">Birden çok adı aynı WhatsApp sayısında</string>
+  <string name="duplicate_options_name_matches_email_phone">Adı + telefon/Email maç</string>
+  <string name="duplicate_options_name_matches_phone">Adı + telefon maç</string>
+  <string name="duplicate_options_name_matches_email">Adı + e-posta maç</string>
+  <string name="duplicate_options_same_number_multi_name">Birden çok adı aynı sayısında</string>
+  <string name="duplicate_options_same_email_multi_name">Aynı e-posta birden çok ad</string>
+  <string name="duplicate_options_none">Hiçbiri</string>
+  <string name="progressbar_sel_duplicates">Çoğaltmaları taranıyor...</string>
+  <string name="message_duplicates_selected">Silmek için seçilen duplicate(s) Sil simgesine basýn. Her kopyayı original(master) değeri seçili değilse ve silinmez.</string>
+  <string name="choose_duplicate_option">Çoğaltmaları tanımlamak için ölçüt seçin.
+        Çoğaltmaları onların original(master) değeri ile birlikte ana ekranında görüntülenir ve silinmek üzere otomatik kontrol olacak. Original(Master) değer denetlenir.</string>
+  <string name="startup_message">Yinelenen simge sağ üst içinde çoğaltmalar için görünüm seçeneği belirlemek için kullanın</string>
+  <string name="message_duplicates_backup">Silmeden önce kişilerinizi yedeklemeniz önerilir</string>
+</resources>

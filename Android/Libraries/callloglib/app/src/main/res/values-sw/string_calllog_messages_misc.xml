@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Ruhusa ya kupiga simu si amepewa na programu hii</string>
+  <string name="message_search_number_security_exception">Haiwezi kutafutiza namba hii ya simu! Tafuta na Google ni kuwezeshwa au kibali si amepewa katika kifaa hiki</string>
+  <string name="message_free_version_selection">
+        Maingizo ya logi ya juu zaidi ambayo inaweza kuteuliwa kwenye toleo la bure ni: </string>
+  <string name="message_purchase_error">
+        Haiwezi kuunganisha kwa seva za Google. Tafadhali anzisha upya programu na jaribu tena
+    </string>
+</resources>

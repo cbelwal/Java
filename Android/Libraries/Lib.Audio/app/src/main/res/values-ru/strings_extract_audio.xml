@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Имя файла:</string>
+  <string name="text_ep_file_size">Размер:</string>
+  <string name="text_ep_modified_date">Дата изменения:</string>
+  <string name="text_ep_duration">Продолжительность:</string>
+  <string name="title_search_depth">Глубина поиска (большие значения займет несколько минут)</string>
+  <string name="progressbar_extracting_audio">Извлечение аудио (может занять несколько минут)...</string>
+  <string name="progressbar_loading_audio">Загрузка аудио файл Подробнее...</string>
+  <string name="text_ep_time_start">Начать time(seconds)</string>
+  <string name="text_ep_period">Продолжительность каждого аудио file(seconds)</string>
+  <string name="text_ep_store">Храните новый аудио файлов, как:</string>
+  <string name="text_ep_share_external">Поместите в папку внешних</string>
+  <string name="text_ep_share_app">Использование приложений</string>
+  <string name="message_extract_complete"> Были созданы файлы m4a</string>
+  <string name="message_extract_error">Произошла ошибка при создании аудио файлов</string>
+  <string name="message_search_depth_updated">Глубина поиска был обновлен</string>
+  <string name="message_search_depth_error">Ошибка при обновлении глубина поиска</string>
+  <string name="message_load_complete">Загрузить аудио файл детали</string>
+  <string name="message_load_error">Произошла ошибка при загрузке аудио</string>
+  <string name="message_extract_duration_reduced"> Последние аудио файл продолжительность была сокращена, как был достигнут конец аудио </string>
+  <string name="message_extract_incomplete"> %1$ d аудио файлы не могут быть созданы или неполной информации</string>
+  <string name="message_extract_signature">Послал через терку аудио от coju.mobi™</string>
+</resources>

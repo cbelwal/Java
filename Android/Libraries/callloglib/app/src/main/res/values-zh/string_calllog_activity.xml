@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_add_call_log">添加</string>
+  <string name="activity_edit_call_log">编辑</string>
+  <string name="activity_share_call_log">共享</string>
+  <string name="activity_export_call_log">出口</string>
+  <string name="activity_import_call_log">导入</string>
+  <string name="activity_bluetooth_call_log">蓝牙传输</string>
+  <string name="activity_backup_call_log">备份</string>
+  <string name="activity_restore_call_log">还原</string>
+  <string name="activity_filter_call_log">显示筛选程序</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Nome + número fósforo WhatsApp</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">Mesmo número do WhatsApp em vários nomes de</string>
+  <string name="duplicate_options_name_matches_email_phone">Nome + jogo de telefone/Email</string>
+  <string name="duplicate_options_name_matches_phone">Nome + jogo de telefone</string>
+  <string name="duplicate_options_name_matches_email">Nome + correspondência de E-mail</string>
+  <string name="duplicate_options_same_number_multi_name">Mesmo número em vários nomes de</string>
+  <string name="duplicate_options_same_email_multi_name">Mesmo email em vários nomes de</string>
+  <string name="duplicate_options_none">Nenhum</string>
+  <string name="progressbar_sel_duplicates">Verificação de duplicatas...</string>
+  <string name="message_duplicates_selected">Para excluir o duplicate(s) selecionado pressione o ícone \' excluir \'. O valor de original(master) para cada duplicata não está selecionado e não será excluído.</string>
+  <string name="choose_duplicate_option">Escolha o critério para a identificação de duplicatas.
+        Duplicatas, juntamente com o valor de original(master) serão exibidas na tela principal e serão auto-marcada para exclusão. Valor de original(Master) não é verificada.</string>
+  <string name="startup_message">Use o ícone duplicado no canto superior direito para definir a opção de modo de exibição de duplicatas</string>
+  <string name="message_duplicates_backup">É recomendável que você faça backup de seus contatos antes de excluí-los</string>
+</resources>

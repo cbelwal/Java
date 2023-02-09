@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Anzahl der ausgewählten Anruf-Protokolle: </string>
+  <string name="text_bt_paired_devices"> Gekoppelte Geräte (Select zum Connect)</string>
+  <string name="text_bt_new_devices"> Neue Geräte (Select zum Connect)</string>
+  <string name="message_bt_scan_devices">Geräte werden gesucht...</string>
+  <string name="message_bt_scan_complete">Fertige Scan für Geräte</string>
+  <string name="message_bt_pair_devices">Geräte koppeln...</string>
+  <string name="message_bt_new_none">Keine neue Geräte gefunden</string>
+  <string name="message_bt_pair_none">Keine Geräte gefunden</string>
+  <string name="message_bt_conn_lost">Verbindung zu Gerät verloren</string>
+  <string name="message_bt_connecting">Anschluss an: </string>
+  <string name="message_bt_not_enabled">Bluetooth nicht aktiviert, schließen Bluetooth-Übertragung</string>
+  <string name="message_bt_status_listening">Hören...</string>
+  <string name="message_bt_status_connecting">Verbindung wird hergestellt...</string>
+  <string name="message_bt_status_connected">Verbunden</string>
+  <string name="message_bt_testdata_sent">Testdata gesendet</string>
+  <string name="message_bt_no_contacts">Keine Kontakte zum Senden ausgewählt.</string>
+  <string name="message_bt_recv_complete">Komplette Daten empfangen</string>
+  <string name="message_bt_not_connected">Nicht an jedem Gerät angeschlossen</string>
+  <string name="message_bt_adapter_error">Es gab einen Fehler beim Einrichten des Bluetooth.
+            Bitte überprüfen Sie, ob Ihr Telefon verfügt über Bluetooth und der Bluetooth-Adapter aktiviert ist</string>
+  <string name="menu_bt_make_discoverable">Gerät sichtbar machen</string>
+  <string name="progressbar_bt_recv_data">Bereit, um Kontaktdaten zu erhalten...</string>
+  <string name="message_bt_connected">Gerät verbunden.
+        \'Send\ drücken Sie die Taste \"Anruf-Protokolle zu übertragen: </string>
+  <string name="message_bt_conn_failed">Verbindung fehlgeschlagen Gerät.
+    Stellen Sie sicher, dass diese app installiert und Bluetooth-Bildschirm geöffnet in: </string>
+  <string name="message_bt_sent_error">Diese Anzahl von Anruf-Protokolle können nicht übertragen werden: </string>
+  <string name="message_bt_recv_error">Diese Anzahl der Anruf-Protokolle konnte nicht erstellt werden: </string>
+  <string name="message_bt_create_complete">Anruf-Protokolle erstellt: </string>
+  <string name="message_bt_sent_complete">Anruf-Protokolle an Gerät gesendet: </string>
+  <string name="progressbar_bt_send_data">Übertragung von Anruf-Protokolle </string>
+  <string name="progressbar_bt_bytes">Byte </string>
+  <string name="progressbar_bt_create_contacts">Anruf-Protokolle erstellen</string>
+  <string name="progressbar_delete_data">
+        Anruf-Protokolle löschen </string>
+  <string name="button_scan">Scan</string>
+  <string name="button_send">Senden</string>
+</resources>

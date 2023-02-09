@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_reading_import_file">ファイルを読んで、これは数分をかかることがあります.</string>
+  <string name="message_exporting_contacts">連絡先を抽出しています.</string>
+  <string name="message_exporting_contacts_ready">連絡先をエクスポートする準備を.</string>
+  <string name="message_exporting_contacts_write_file">ファイルを書き込んでいます.</string>
+  <string name="text_import_file_name">ファイル名:</string>
+  <string name="text_import_file_size">ファイル サイズ (バイト):</string>
+  <string name="text_unknown_file_size">不明</string>
+</resources>

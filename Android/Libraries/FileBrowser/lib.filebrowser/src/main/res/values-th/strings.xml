@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">รายการ</string>
+  <string name="general_selected_items">เลือก</string>
+  <string name="general_error">ข้อผิดพลาด</string>
+  <string name="title_confirm">ยืนยัน</string>
+  <string name="button_ok">ตกลง, ได้</string>
+  <string name="button_cancel">ยกเลิก</string>
+  <string name="free_space">เนื้อที่รวม:</string>
+  <string name="title_share">แบ่งปันโดยใช้:</string>
+  <string name="title_rename">ป้อนชื่อใหม่  </string>
+  <string name="title_create_folder">ป้อนชื่อโฟลเดอร์  </string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_delete_confirm_cl">Избраното повикване log(s) подробности ще бъдат изтрити. Това действие не може да бъде отменено. Продължите?</string>
+  <string name="message_delete_complete_cl"> покана log(s) данни изтрити</string>
+</resources>

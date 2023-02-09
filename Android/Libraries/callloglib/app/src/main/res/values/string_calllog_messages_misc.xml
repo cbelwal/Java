@@ -1,0 +1,12 @@
+<resources>
+    <string name="message_call_security_exception">Permission to make calls
+        has not been granted to this app</string>
+    <string name="message_search_number_security_exception">Could not search this phone number ! Google
+    search is not enabled or permission has not been granted in this device</string>
+    <string name="message_free_version_selection">
+        Maximum log entries that can be selected in the free version is: </string>
+    <string name="message_purchase_error">
+        Could not connect to Google server. Please restart app and try again
+    </string>
+
+</resources>

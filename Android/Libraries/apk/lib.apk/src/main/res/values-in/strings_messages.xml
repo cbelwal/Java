@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Atleast 1 pilihan diperlukan</string>
+  <string name="message_save_external">APK file disimpan dalam folder eksternal: </string>
+  <string name="message_free_version_selection">Hanya 3 apps dapat dipilih pada suatu waktu dalam versi gratis</string>
+  <string name="message_free_version_option">Opsi ini hanya tersedia untuk versi yang dibayar</string>
+  <string name="message_activity_load_fail">Aplikasi tidak dapat dimulai</string>
+  <string name="message_activity_loading">Mulai aplikasi...</string>
+  <string name="message_loading_files">Mencari folder lokal...</string>
+  <string name="message_deleting_files">Silakan konfirmasi secara individual untuk setiap paket yang dipilih.
+    Sistem paket akan menghapus hanya dari account pengguna</string>
+  <string name="message_save_external_suffix">. Folder dapat diakses dengan menghubungkan telepon Anda ke komputer Anda melalui USB dll. </string>
+  <string name="message_rate_this_app_error">Tidak dapat membuka halaman peringkat</string>
+  <string name="message_share_link_prefix">Hi, \r\n\r\nCheck ini: </string>
+  <string name="message_share_link_suffix">Dikirim melalui APKit</string>
+  <string name="message_share_report_prefix">Paket laporan</string>
+  <string name="message_share_report_suffix">Dihasilkan dan dikirim melalui</string>
+  <string name="message_other_permissions_missing">Diminta izin diperlukan untuk fitur ini untuk bekerja. Silakan memberikan izin yang diminta dan coba lagi
+    </string>
+  <string name="message_purchase_error">
+        Tidak dapat menyambung ke Google server. Silakan restart aplikasi dan coba lagi
+    </string>
+</resources>

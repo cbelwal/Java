@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Vinjari</string>
+  <string name="backup_options_backupusing">Kutumia chelezo</string>
+  <string name="export_options_externalStorage">Hifadhi nje ya kifaa hiki</string>
+  <string name="share_options_shareas">Kushiriki kama:</string>
+  <string name="share_options_allshare">Kushiriki maombi (wingu, barua pepe,...)</string>
+  <string name="share_options_share_using">Shiriki kutumia:</string>
+  <string name="share_options_sms">Ujumbe</string>
+  <string name="share_options_clipboard">Nakili kwenye Ubaoklipu</string>
+  <string name="export_options_ExportUsing">Hifadhi faili katika:</string>
+  <string name="progressbar_prepare_data">Kutayarisha orodha ya logi wito...</string>
+  <string name="progressbar_backup">Inacheleza faili logi wito, hii inaweza kuchukua dakika kadhaa...</string>
+  <string name="backup_options_using">Akibisha Jalada chelezo katika:</string>
+  <string name="menu_import_help">Msaada</string>
+  <string name="text_import_file_name">Jina la faili teuliwa:</string>
+  <string name="text_import_file_size">Size(bytes) faili teuliwa:</string>
+  <string name="text_unknown_file_size">Haijulikani</string>
+  <string name="message_backup_options">Inashauriwa chelezo katika maombi ya kushiriki kama wingu, Email nk.
+        Hii itaruhusu kufufua logi wito iwapo uliwahi kupoteza simu yako.
+        Kurejesha mawasiliano kutoka barua pepe/wingu kwa mkono isipokuwa wito chelezo faili logi kutoka akaunti yako ya barua pepe/wingu hadi katika mahali popote katika kifaa hiki. Matumizi ya Leta/kurejesha mapenzi kisha otomatiki kupata faili.</string>
+  <string name="message_importing_contacts">Inaleta wito log(s)...</string>
+  <string name="message_reading_import_file">Kusoma faili, hii inaweza kuchukua dakika kadhaa...</string>
+  <string name="export_options_plain_text">Matini ghafi</string>
+  <string name="export_options_indv_clm">Binafsi CLM faili</string>
+  <string name="export_options_combined_clm">Pamoja CLM faili </string>
+  <string name="export_generated_footer">Inayozalishwa kupitia wito logi Meneja Coju</string>
+  <string name="export_sent_footer">Inayozalishwa kupitia Meneja ya logi ya wito</string>
+  <string name="export_generated_header">Wito logi maelezo</string>
+  <string name="message_clipboard_copy">Kunakiliwa kwenye Ubaoklipu</string>
+  <string name="message_exporting_calllog">Kuchimba mwasiliani unayetaka...</string>
+  <string name="message_exporting_calllog_ready">Kupata tayari kuhamisha mwasiliani unayetaka...</string>
+  <string name="message_exporting_calllog_write_file">Kuandika faili...</string>
+  <string name="message_import_help">Tu faili iliyotengenezwa kutoka programu hii (*. Faili ya CLM) nje</string>
+  <string name="message_import_invalid_file">Si wito halali logi faili</string>
+  <string name="message_importing_complete">wito log(s) nje</string>
+  <string name="message_restore_complete">Maingizo ya logi wito kurejeshwa kutoka kwenye chelezo</string>
+  <string name="message_restore_fail">
+        Unaweza kurejesha kutoka kwenye chelezo, faili chelezo ni limepotea au haribika
+                </string>
+  <string name="message_backup_stored_freeversion">
+        Toleo la bure tu inaruhusu chelezo ya 9 hadi simu log(s).
+        Log(s) ya simu kuwa wamekuwa wakisaidiwa-juu katika faili:
+    </string>
+  <string name="message_backup_failed">
+        Imeshindwa kuhifadhi chelezo faili, Tafadhali jaribu tena. Kama tatizo litaendelea Tafadhali ripoti suala kwa mchapishaji wa programu kutumia chaguo la maoni katika programu hii.
+    </string>
+  <string name="message_restore_selection_finish">
+        Kumbukumbu ya wito wa chelezo kurejeshwa
+    </string>
+  <string name="message_clm_file_not_found">
+        Meneja hakuna ya logi wito (*. CLM) faili katika kifaa hiki
+    </string>
+  <string name="message_backup_file_not_found">
+        Hakuna chelezo faili katika kifaa hiki
+    </string>
+  <string name="message_backup_stored">Wawasiliani kuwa wamekuwa wakisaidiwa-hadi katika faili:</string>
+  <string name="message_save_external">Wito kuingia zilizohifadhiwa katika nje kabrasha: </string>
+  <string name="message_loading_files">Inatafutiza kabrasha ndani...</string>
+  <string name="message_loading_backup_files">Inatafutiza kifaa kwa ajili ya faili chelezo...</string>
+  <string name="message_backup_freeversion">
+        Namba ya juu ya kumbukumbu ya simu ambayo inaweza kuchelezwa katika toleo hili bure ni:
+    </string>
+  <string name="message_backup_paidversion">
+        Wote wito magogo kwa ufanisi zimechelezwa katika faili
+    </string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_delete_confirm_cl">Detalhes de registros de chamada selecionada serão apagados. Esta ação não pode ser desfeita. Proceder?</string>
+  <string name="message_delete_complete_cl"> chamar o detalhes de registros excluídos</string>
+</resources>

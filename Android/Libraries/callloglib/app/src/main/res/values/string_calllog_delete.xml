@@ -1,0 +1,16 @@
+<resources>
+    <string name="message_delete_confirm_cl">Selected call log(s) details  will be deleted. This action cannot be undone. Proceed ?</string>
+    <string name="message_delete_complete_cl"> call log(s) details deleted</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">Jauna spēle</string>
+  <string name="button_switch_board">Switch Board</string>
+  <string name="button_custom_board">Iestatīt pielāgotas Board</string>
+  <string name="button_high_scores">Rekordi</string>
+  <string name="button_rate_app">Novērtēt šo game</string>
+  <string name="button_tell_a_friend">Pastāsti draugam</string>
+  <string name="button_paid_version">Samaksājis versiju</string>
+  <string name="button_help_documentation">Palīdzība dokumentācija</string>
+  <string name="button_demo_video">Demonstrācijas Video</string>
+  <string name="button_ok">labi</string>
+  <string name="button_yes">jā</string>
+  <string name="button_no">nē</string>
+  <string name="button_start">Sākums</string>
+  <string name="button_cancel">Atcelt</string>
+  <string name="button_abort">Priekšlaikus pārtraukt</string>
+  <string name="button_high_score_close">Aizveriet</string>
+  <string name="title_high_score">Top Ten augstas rādītājus</string>
+  <string name="text_high_score_none">Nē rezultāts</string>
+  <string name="text_high_score_pegs">Pārējie peg(s)</string>
+  <string name="text_high_score_time">Laiks</string>
+</resources>

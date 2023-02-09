@@ -1,0 +1,11 @@
+<resources>
+    <string name="message_backup_stored_freeversion">
+        Free version only allows backup of up to 200 contacts.
+        Contacts have been backed-up in file:
+    </string>
+    <string name="message_backup_failed">
+        Failed to save Backup file, please try again. If problem persists please
+        report issue to app publisher using the Feedback option in this app.
+    </string>
+
+</resources>

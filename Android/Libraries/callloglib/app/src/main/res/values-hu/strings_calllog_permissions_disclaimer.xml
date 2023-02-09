@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        Ez app most kérni fogja a hívás log és névjegyek adatainak eléréséhez szükséges engedélyek.
+        Ezeket az engedélyeket szükség ez app-hoz dolgozik, és nem célja, hogy bármilyen más módon használni. Elvisszük a magány nagyon komolyan, és hívás napló és a névjegyzék adatait nem lesz megosztva minden fél, beleértve a coju.mobi™, a kiadók, ez app.
+    </string>
+  <string name="button_permissions_ack">
+        Tudomásul veszi
+    </string>
+  <string name="title_ack_confirm">
+        Engedélyek jogi nyilatkozat
+    </string>
+</resources>

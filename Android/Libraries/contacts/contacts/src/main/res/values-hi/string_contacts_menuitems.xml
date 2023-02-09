@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">सामान्य</string>
+  <string name="nav_menu_group_help">मदद</string>
+  <string name="nav_menu_group_viewoptions">विकल्प</string>
+  <string name="nav_menu_group_views">विचारों</string>
+  <string name="nav_menu_group_operations">कार्रवाई</string>
+  <string name="nav_menu_group_backup">बैकअप</string>
+  <string name="nav_menu_rate_this_app">प्रतिक्रिया</string>
+  <string name="nav_menu_backup_contacts">सभी संपर्कों का बैकअप लें</string>
+  <string name="nav_menu_restore_contacts">बैकअप से संपर्क पुनर्स्थापित करें</string>
+  <string name="nav_menu_upgrade">प्रो संस्करण में अपग्रेड करें</string>
+  <string name="nav_menu_filter">फ़िल्टर प्रदर्शित करें</string>
+  <string name="nav_menu_duplicates">डुप्लिकेट टूलकिट</string>
+  <string name="nav_menu_tellafriend">किसी मित्र को बताएं</string>
+  <string name="nav_menu_feedback">संपर्क Dasmic</string>
+  <string name="nav_menu_demovideo">डेमो वीडियो</string>
+  <string name="nav_menu_coju_outlook">Microsoft Outlook के लिए Coju</string>
+  <string name="nav_menu_coju">डाउनलोड Coju</string>
+  <string name="display_options_all_TimesContacted">समय से हल किया संपर्क</string>
+  <string name="display_options_all_last_contact">अंतिम संपर्क समय के अनुसार सॉर्ट किया गया</string>
+  <string name="display_options_all">नाम से सॉर्ट किया गया</string>
+  <string name="display_options_phonenumber">फ़ोन नंबर सुलझाएं</string>
+  <string name="display_options_email">हल किए गए ईमेल पते</string>
+  <string name="display_options_deleted">हटाए गए संपर्क</string>
+  <string name="display_options_refresh">प्रदर्शन ताज़ा करें</string>
+  <string name="action_Operations">बल्क अद्यतन</string>
+  <string name="action_Export">संपर्क निर्यात करें</string>
+  <string name="action_delete">संपर्क हटाएं</string>
+  <string name="action_Import">संपर्क आयात करें</string>
+  <string name="action_edit">संपर्क संपादित करें</string>
+  <string name="action_add">संपर्क जोड़ें</string>
+  <string name="action_share">साझा संपर्क (s)</string>
+  <string name="action_bluetooth">ब्लूटूथ स्थानांतरण</string>
+</resources>

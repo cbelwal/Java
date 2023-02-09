@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">دمج جهات الاتصال</string>
+  <string name="action_merge">دمج جهات الاتصال</string>
+  <string name="message_merge_title">تنبيه</string>
+  <string name="message_merge_confirm">يرجى تأكيد إذا كنت تريد دمج جهات الاتصال المحددة؟ رقم الهاتف وعنوان البريد الإلكتروني، والعنوان البريدي، وملاحظة والأحداث من جهات الاتصال المحددة كل سيتم دمجها في جهة واحدة باسم: </string>
+  <string name="message_merge_complete">وقد تم دمج جهات الاتصال المحددة</string>
+  <string name="progressbar_merge_data">دمج جهات الاتصال...</string>
+</resources>

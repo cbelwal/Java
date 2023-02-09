@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">Nuovo gioco</string>
+  <string name="button_switch_board">Quadro di comando</string>
+  <string name="button_custom_board">Set tavola personalizzata</string>
+  <string name="button_high_scores">Punteggi più alti</string>
+  <string name="button_rate_app">Vota il gioco</string>
+  <string name="button_tell_a_friend">Dillo a un amico</string>
+  <string name="button_paid_version">Versione a pagamento</string>
+  <string name="button_help_documentation">Documentazione di aiuto</string>
+  <string name="button_demo_video">Video demo</string>
+  <string name="button_ok">Ok</string>
+  <string name="button_yes">Sì</string>
+  <string name="button_no">No</string>
+  <string name="button_start">Inizio</string>
+  <string name="button_cancel">Annulla</string>
+  <string name="button_abort">Abort</string>
+  <string name="button_high_score_close">Chiudere</string>
+  <string name="title_high_score">Top Ten High Scores</string>
+  <string name="text_high_score_none">Nessun punteggio</string>
+  <string name="text_high_score_pegs">Rimanenti peg(s)</string>
+  <string name="text_high_score_time">Tempo</string>
+</resources>

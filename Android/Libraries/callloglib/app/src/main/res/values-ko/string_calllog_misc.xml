@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">호출 로그</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">알 수 없는</string>
+  <string name="button_Yes">예</string>
+  <string name="button_No">없음</string>
+  <string name="button_Apply">적용</string>
+  <string name="button_Close">닫기</string>
+  <string name="general_not_Available">사용할 수 없음</string>
+  <string name="general_items">항목</string>
+  <string name="general_selected_items">선택</string>
+  <string name="title_confirm">확인</string>
+  <string name="title_dialog_coju">Coju 다운로드</string>
+  <string name="message_selectitems">Atleast 1 로그 항목 선택 해야</string>
+  <string name="message_download_coju">Coju는 통합된 연락처 관리 응용 프로그램입니다. 그것은이 응용 프로그램 추가 기능의 모든 기능을가지고. 것입니다 Coju를 다운로드 하 시겠습니까?</string>
+  <string name="message_contact_permissions_missing">연락처 권한은 작동 하도록이 응용 프로그램에 필요한입니다. 애플 리 케이 션 것입니다 지금 닫습니다, 그리고 권한을 부여 하 고 다시 시도 하십시오</string>
+  <string name="message_other_permissions_missing">요청 된 권한은이 애플 리 케이 션 기능이 작동 하려면 필요 합니다.
+        요청 된 권한을 부여 하 고 다시 시도 하십시오</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">Свързан към устройство.
+        Натиснете \'Send\ \"за прехвърляне на контакти за: </string>
+  <string name="message_bt_conn_failed">Неуспешна връзка към устройството.
+    Моля, са сигурни, че този апартамент е инсталиран и Bluetooth екран е отворен в: </string>
+  <string name="message_bt_sent_error">P.t. от can не пренасям тези броя на контакти: </string>
+  <string name="message_bt_recv_error">Не можа да създаде тези броя на контакти: </string>
+  <string name="message_bt_create_complete">Получените контакта(ите) създава: </string>
+  <string name="message_bt_sent_complete">Контакти, изпратени към устройството: </string>
+  <string name="progressbar_bt_send_data">Прехвърляне на уникални контакта(ите) </string>
+  <string name="progressbar_bt_bytes">байтове </string>
+  <string name="progressbar_bt_create_contacts">Създаване на контакти (контакти с картина изисква повече време)</string>
+  <string name="message_free_version_selection">
+        Максимална контакти, които могат да бъдат избрани в безплатната версия е: </string>
+  <string name="progressbar_delete_data">
+        Изтриване на уникални контакта(ите) </string>
+</resources>

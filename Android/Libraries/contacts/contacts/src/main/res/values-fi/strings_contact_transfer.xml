@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Selaa</string>
+  <string name="backup_options_backupusing">Varmuuskopio</string>
+  <string name="transfer_address_home">Etusivu</string>
+  <string name="transfer_address_office">Office</string>
+  <string name="transfer_contact_office">(W).</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(M)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">Suosikit</string>
+  <string name="transfer_not_in_favorites">Vasta Suosikit</string>
+  <string name="transfer_times_contacted">Kertaa yhteyttä:</string>
+  <string name="transfer_last_time_contacted">Viimeksi yhteyttä:</string>
+  <string name="transfer_organization">Organisaatio</string>
+  <string name="transfer_title">Otsikko</string>
+  <string name="transfer_event_birthday">Syntymäpäivä</string>
+  <string name="transfer_event_anniv">Vuosipäivä</string>
+  <string name="transfer_event_other">Muut</string>
+  <string name="check_phone">Puhelinnumero(t)</string>
+  <string name="check_email">Sähköposti</string>
+  <string name="csv_header_name">Nimi</string>
+  <string name="csv_header_phone">Puhelinnumero(t)</string>
+  <string name="csv_header_email">Sähköpostiosoitteet</string>
+  <string name="csv_header_postal">Postiosoite-osoitteet</string>
+  <string name="csv_header_timescontacted">Kertaa yhteyttä</string>
+  <string name="csv_header_lasttimecontact">Yhteyttä viimeksi</string>
+  <string name="csv_header_favorite">Suosikki tila</string>
+  <string name="csv_header_organization">Organisaatio</string>
+  <string name="check_postaladdress">Postiosoite</string>
+  <string name="check_timescontacted">Monta kertaa yhteyttä</string>
+  <string name="check_lastcontact">Yhteyttä viimeksi</string>
+  <string name="check_isfavorite">Suosikki tila</string>
+  <string name="share_options_ShareAs">Jaetaan nimellä:</string>
+  <string name="share_options_ShareUsing">Jaa, käyttäen:</string>
+  <string name="share_options_sms">Viestintä</string>
+  <string name="share_options_allshare">Jakaa sovelluksia (Cloud, sähköposti,...)</string>
+  <string name="share_options_Clipboard">Kopioi leikepöydälle</string>
+  <string name="share_options_plaintext">Vain teksti</string>
+  <string name="share_options_vcf">Yksittäisten Vcard-tiedostot</string>
+  <string name="share_options_combinedvcf">Yhdistetty Vcard-tiedosto</string>
+  <string name="export_options_textfile">Tavallinen tekstitiedosto</string>
+  <string name="export_options_combinedvcf_21">Yhdistetty vCard 2.1-tiedosto</string>
+  <string name="export_options_individualvcf_21">Yksittäisten vCard 2.1 tiedostot</string>
+  <string name="export_options_combinedvcf_40">Yhdistetty vCard 4.0-tiedosto</string>
+  <string name="export_options_individualvcf_40">Yksittäisten vCard 4.0 tiedostot</string>
+  <string name="export_options_csvfile">CSV (*.csv) erillinen tiedosto</string>
+  <string name="export_options_externalStorage">Ulkonaiset seikat muisti laitteen</string>
+  <string name="export_options_ExportAs">Vientimuodon malli:</string>
+  <string name="export_options_ExportUsing">Tallenna kohteeseen:</string>
+  <string name="message_import_invalid_file">Ei voimassa yhteystietotiedosto
+        </string>
+  <string name="backup_options_using">Backup tiedosto tallennetaan:</string>
+  <string name="menu_import_help">Apua</string>
+  <string name="message_backup_options">On suositeltavaa taaksepäin jakaa sovelluksia kuin pilvi, sähköposti jne.
+        Näin voit palauttaa yhteystiedot, jos unohdat puhelimen.
+        Palauttaa yhteystiedot sähköposti/Cloud manuaalisesti tallentaa yhteystiedot varmuuskopiotiedoston Email/Cloud-tilin mistä tahansa laitteen. Tuo apuohjelma paikantaa automaattisesti tiedoston.</string>
+  <string name="message_restore_fail">
+        Ei voinut palauttaa varmuuskopiosta, taaksepäin arkistoida on puuttuva eli lahjoa
+                </string>
+  <string name="message_restore_refresh">Yhteystiedot palautetaan varmuuskopiosta. Päivitä näytön nähdä kaikki tuodut yhteystiedot</string>
+  <string name="message_restore_selection_finish">Yhteystiedot palautetaan varmuuskopiosta. Voit sulkea tämän näytön tai tuominen toisesta varmuuskopio tiedostosta</string>
+  <string name="message_restore_legacy_name">Taaksepäin arkistoida maine \'BackupAllContacts.vcf\ \"vanhemmissa</string>
+</resources>

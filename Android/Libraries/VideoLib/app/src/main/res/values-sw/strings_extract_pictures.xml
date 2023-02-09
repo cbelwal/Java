@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Jina la faili:</string>
+  <string name="text_ep_file_size">Ukubwa:</string>
+  <string name="text_ep_modified_date">Tarehe ya marekebisho:</string>
+  <string name="text_ep_video_duration">Muda:</string>
+  <string name="title_search_depth">Utafutaji wa kina (thamani kubwa itachukua dakika kadhaa)</string>
+  <string name="nav_menu_search_entire_phone">Simu ya nzima ya utafutaji</string>
+  <string name="nav_menu_search_media_folders">Tafutiza folda ya vyombo vya habari</string>
+  <string name="nav_menu_search_external_folders">Nje ya kabrasha tafutizi</string>
+  <string name="progressbar_extracting_pictures">Kuchomoa picha...</string>
+  <string name="text_ep_time_start">Kuanza time(seconds)</string>
+  <string name="text_ep_period">Nafasi iliyopo kati ya pictures(seconds)</string>
+  <string name="text_ep_no_of_pictures">Idadi ya picha</string>
+  <string name="text_ep_store">Kuhifadhi picha kuondolewa kama:</string>
+  <string name="text_ep_share_external">Weka katika folda ya nje</string>
+  <string name="text_ep_share_app">Kushiriki kwa kutumia maombi</string>
+  <string name="message_extract_complete"> picture(s) kuondolewa</string>
+  <string name="message_extract_error">Kosa limejitokeza katika kuchimba picha</string>
+  <string name="message_search_depth_updated">Kina utafutaji Ilisasishwa</string>
+  <string name="message_search_depth_error">Kosa katika kusasaisha utafutaji wa kina</string>
+</resources>

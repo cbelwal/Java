@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> kontakty zostaną zaktualizowane. Tej akcji nie można cofnąć. Kontynuować?</string>
+  <string name="message_update_complete"> Aktualizacja kontaktów</string>
+  <string name="message_save_external">Kontakty z folderu zewnętrznego: </string>
+  <string name="message_import">Tylko pliki Vcard i CSV można importować (Użyj \'Browse\' załadować pliki z innych źródeł</string>
+  <string name="message_loading_files">Wyszukiwanie lokalne foldery...</string>
+  <string name="message_loading_backup_files">Wyszukiwania, urządzenie do tworzenia kopii zapasowych plików...</string>
+  <string name="message_importing_contacts_complete">kontakty zaimportowane</string>
+  <string name="message_save_external_suffix">. Folder jest możliwy przez Podłączanie telefonu do komputera za pośrednictwem USB itp. </string>
+  <string name="message_selectitems">Conajmniej 1 kontaktu musi być zaznaczone</string>
+  <string name="message_delete_confirm">Wybrane kontakty szczegóły zostaną usunięte. Tej akcji nie można cofnąć. Kontynuować?</string>
+  <string name="message_delete_complete"> Szczegóły usunięte (y)</string>
+  <string name="message_free_import_limit">Plik zawiera więcej kontaktów niż dozwolone w wersji darmowej</string>
+  <string name="message_rate_this_app_error">Nie można otworzyć stronę. Proszę goto Google Play i Oceń odpowiednio</string>
+  <string name="message_edit">Tylko 1 kontakt można edytować naraz. </string>
+  <string name="message_backup_stored">Kontakty mają zostały kopii zapasowej w pliku:</string>
+  <string name="message_download_coju">Coju to aplikacja zintegrowanego zarządzania kontaktami. Posiada wszystkie funkcje tej aplikacji plus dodatkowe możliwości. Będzie jak pobrac Coju?</string>
+  <string name="message_contact_permissions_missing">Kontakty uprawnienia są wymagane dla tej aplikacji do pracy. Aplikacja będzie teraz Zamknij, proszę dać uprawnienia i spróbuj ponownie</string>
+  <string name="message_other_permissions_missing">Wymagane uprawnienia są wymagane dla tej funkcji aplikacji do pracy.
+        Proszę podać żądane uprawnienia i spróbuj ponownie</string>
+  <string name="message_backup_freeversion">
+        Jest maksymalną liczbę kontaktów, które mogą być kopii zapasowej w tej wersji darmowej:
+    </string>
+  <string name="message_backup_paidversion">
+        Wszystkie kontakty masz zostały pomyślnie kopię zapasową w pliku
+    </string>
+  <string name="message_purchase_error">
+        Nie można połączyć się serwerem Google. Uruchom ponownie aplikację i spróbuj ponownie
+    </string>
+</resources>

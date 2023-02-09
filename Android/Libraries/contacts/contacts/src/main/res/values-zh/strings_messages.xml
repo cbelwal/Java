@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm">联系人将被更新。此操作无法撤消。是否继续？</string>
+  <string name="message_update_complete">联系人更新</string>
+  <string name="message_save_external">在外部文件夹中存储的联系人︰</string>
+  <string name="message_import">只有电子名片和 CSV 文件可以导入 (使用 \'Browse\' 从其他源加载文件</string>
+  <string name="message_loading_files">正在搜索本地文件夹...</string>
+  <string name="message_loading_backup_files">正在搜索设备备份文件...</string>
+  <string name="message_importing_contacts_complete">导入联系人</string>
+  <string name="message_save_external_suffix">.可以通过将您的电话连接到您的计算机通过 USB 等访问文件夹。</string>
+  <string name="message_selectitems">至少 1 接触需要选择</string>
+  <string name="message_delete_confirm">所选联系人的详细信息将被删除。此操作无法撤消。是否继续？</string>
+  <string name="message_delete_complete">contact(s) 删除的详细信息</string>
+  <string name="message_free_import_limit">文件包含比免费版中允许更多联系人</string>
+  <string name="message_rate_this_app_error">不能打开评级页面。请转至谷歌播放并因此率</string>
+  <string name="message_edit">只有 1 接触可以一次编辑。</string>
+  <string name="message_backup_stored">联系人有了备份文件中︰</string>
+  <string name="message_download_coju">Coju 是一个综合的联系人管理应用程序。它有此应用程序加上附加功能的所有功能。将你喜欢下载 Coju？</string>
+  <string name="message_contact_permissions_missing">联系人权限所需的这个应用程序工作。应用程序将关闭，请授予权限并再试一次</string>
+  <string name="message_other_permissions_missing">请求的权限都需要使用该应用程序功能。
+        请给请求的权限，然后重试</string>
+  <string name="message_backup_freeversion">可以在此免费版本备份的联系人的最大数目是︰</string>
+  <string name="message_backup_paidversion">您的联系人已成功备份在一个文件中</string>
+  <string name="message_purchase_error">无法连接到谷歌服务器。请重新启动应用程序，再试一次
+    </string>
+</resources>

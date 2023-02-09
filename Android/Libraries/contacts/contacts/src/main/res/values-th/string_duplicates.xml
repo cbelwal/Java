@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">ชื่อ + WhatsApp เลขตรง</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">WhatsApp หมายเลขเดียวกันในหลายชื่อ</string>
+  <string name="duplicate_options_name_matches_email_phone">ชื่อ + จับคู่โทรศัพท์/อีเมล์</string>
+  <string name="duplicate_options_name_matches_phone">ชื่อ + โทรศัพท์ตรง</string>
+  <string name="duplicate_options_name_matches_email">ชื่อ + อีตรง</string>
+  <string name="duplicate_options_same_number_multi_name">เลขเดียวกันในหลายชื่อ</string>
+  <string name="duplicate_options_same_email_multi_name">อีเมล์เดียวกันในหลายชื่อ</string>
+  <string name="duplicate_options_none">ไม่มี</string>
+  <string name="progressbar_sel_duplicates">การสแกนรายการซ้ำ...</string>
+  <string name="message_duplicates_selected">การลบ duplicate(s) เลือกกดไอคอนลบ ค่า original(master) สำหรับแต่ละรายการซ้ำไม่เลือก และจะไม่ถูกลบ</string>
+  <string name="choose_duplicate_option">เลือกเกณฑ์สำหรับการระบุรายการซ้ำ
+        ซ้ำกับของค่า original(master) จะแสดงในหน้าจอหลัก และจะตรวจสอบโดยอัตโนมัติสำหรับการลบ ไม่มีการตรวจสอบค่า Original(master)</string>
+  <string name="startup_message">ใช้ไอคอนที่ซ้ำกันในขวาเพื่อตั้งค่าตัวเลือกมุมมองสำหรับรายการที่ซ้ำกัน</string>
+  <string name="message_duplicates_backup">แนะนำให้ คุณสำรองข้อมูลผู้ติดต่อของคุณก่อนที่จะลบพวกเขา</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_share">共享</string>
+  <string name="action_delete">删除</string>
+  <string name="action_filter">滤波器</string>
+  <string name="action_copy">复制</string>
+  <string name="action_rename">重 命名</string>
+  <string name="action_create_folder">创建文件夹</string>
+  <string name="action_move">移动</string>
+  <string name="action_share_zip">共享为 Zip</string>
+  <string name="action_zip">Zip</string>
+  <string name="nav_menu_view_name">按名称查看</string>
+  <string name="nav_menu_view_size">按大小查看</string>
+  <string name="nav_menu_view_modified">按修改日期查看</string>
+  <string name="nav_menu_view_refresh">刷新</string>
+  <string name="nav_menu_view_close">关闭</string>
+  <string name="nav_menu_group_general">一般</string>
+  <string name="nav_menu_group_viewoptions">查看选项</string>
+  <string name="nav_menu_rate_this_app">反馈</string>
+  <string name="nav_menu_upgrade">升级到付费版本</string>
+  <string name="nav_menu_tellafriend">告诉朋友</string>
+  <string name="nav_menu_feedback">联系我们</string>
+  <string name="nav_menu_group_help">帮助</string>
+  <string name="nav_menu_demovideo">演示视频</string>
+  <string name="nav_menu_help_doc">帮助文档</string>
+</resources>

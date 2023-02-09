@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_add_call_log">Προσθέστε</string>
+  <string name="activity_edit_call_log">Επεξεργασία</string>
+  <string name="activity_share_call_log">Μετοχή</string>
+  <string name="activity_export_call_log">Εξαγωγή</string>
+  <string name="activity_import_call_log">Εισαγωγή</string>
+  <string name="activity_bluetooth_call_log">Μεταφορά Bluetooth</string>
+  <string name="activity_backup_call_log">Δημιουργία αντιγράφων ασφαλείας</string>
+  <string name="activity_restore_call_log">Επαναφορά</string>
+  <string name="activity_filter_call_log">Φίλτρο εμφάνισης</string>
+</resources>

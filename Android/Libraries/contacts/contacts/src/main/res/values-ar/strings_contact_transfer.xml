@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">تصفح</string>
+  <string name="backup_options_backupusing">استخدام النسخ الاحتياطي</string>
+  <string name="transfer_address_home">الصفحة الرئيسية</string>
+  <string name="transfer_address_office">مكتب</string>
+  <string name="transfer_contact_office">(ث).</string>
+  <string name="transfer_contact_home">(ح)</string>
+  <string name="transfer_contact_mobile">(م)</string>
+  <string name="transfer_contact_other">(س)</string>
+  <string name="transfer_in_favorites">في المفضلة</string>
+  <string name="transfer_not_in_favorites">لا في المفضلة</string>
+  <string name="transfer_times_contacted">مرات الاتصال:</string>
+  <string name="transfer_last_time_contacted">المرة الأخيرة التي اتصلت:</string>
+  <string name="transfer_organization">المنظمة</string>
+  <string name="transfer_title">عنوان</string>
+  <string name="transfer_event_birthday">عيد ميلاد</string>
+  <string name="transfer_event_anniv">الذكرى السنوية</string>
+  <string name="transfer_event_other">الأخرى</string>
+  <string name="check_phone">أرقام الهاتف</string>
+  <string name="check_email">البريد الإلكتروني</string>
+  <string name="csv_header_name">اسم</string>
+  <string name="csv_header_phone">أرقام الهاتف</string>
+  <string name="csv_header_email">عنوان (عناوين) البريد الإلكتروني</string>
+  <string name="csv_header_postal">عنوان (عناوين) البريد</string>
+  <string name="csv_header_timescontacted">أوقات الاتصال</string>
+  <string name="csv_header_lasttimecontact">المرة الأخيرة التي اتصلت</string>
+  <string name="csv_header_favorite">مركز المفضلة</string>
+  <string name="csv_header_organization">المنظمة</string>
+  <string name="check_postaladdress">العنوان البريدي</string>
+  <string name="check_timescontacted">عدد مرات الاتصال</string>
+  <string name="check_lastcontact">آخر وقت الاتصال</string>
+  <string name="check_isfavorite">مركز المفضلة</string>
+  <string name="share_options_ShareAs">مشاركة:</string>
+  <string name="share_options_ShareUsing">مشاركة باستخدام:</string>
+  <string name="share_options_sms">المراسلة</string>
+  <string name="share_options_allshare">مشاركة التطبيقات (سحابة، البريد الإلكتروني،...)</string>
+  <string name="share_options_Clipboard">نسخ إلى الحافظة</string>
+  <string name="share_options_plaintext">نص عادي</string>
+  <string name="share_options_vcf">ملفات Vcard الفردية</string>
+  <string name="share_options_combinedvcf">ملف Vcard مجتمعة</string>
+  <string name="export_options_textfile">ملف نص عادي</string>
+  <string name="export_options_combinedvcf_21">ملف vCard المجمعة 2.1</string>
+  <string name="export_options_individualvcf_21">ملفات vCard الفردية 2.1</string>
+  <string name="export_options_combinedvcf_40">ملف vCard مجتمعة 4.0</string>
+  <string name="export_options_individualvcf_40">ملفات vCard الفردية 4.0</string>
+  <string name="export_options_csvfile">ملف فصل (*.csv) فاصلة</string>
+  <string name="export_options_externalStorage">التخزين الخارجي لهذا الجهاز</string>
+  <string name="export_options_ExportAs">تنسيق التصدير:</string>
+  <string name="export_options_ExportUsing">حفظ الملف في:</string>
+  <string name="message_import_invalid_file">ليس ملف صالح الاتصال
+        </string>
+  <string name="backup_options_using">حفظ ملف النسخ الاحتياطي في:</string>
+  <string name="menu_import_help">تعليمات</string>
+  <string name="message_backup_options">من المستحسن بالنسخ الاحتياطي في حصة التطبيقات مثل السحابة، إلخ البريد الإلكتروني.
+        هذا سوف يسمح لك لاسترداد جهات الاتصال إذا كنت من أي وقت مضى تفقد الهاتف الخاص بك.
+        لاستعادة جهات الاتصال من البريد الإلكتروني/سحابة يدوياً حفظ ملف النسخ الاحتياطي جهات الاتصال من حساب البريد الإلكتروني/السحب الخاصة بك إلى أي مكان في هذا الجهاز. ثم حدد الأداة المساعدة استيراد موقع الملف تلقائياً.</string>
+  <string name="message_restore_fail">
+        تعذر استعادة من النسخة الاحتياطية، وملف النسخ الاحتياطي مفقود أو معطوب
+                </string>
+  <string name="message_restore_refresh">يتم الآن استعادة جهات الاتصال من ملف النسخ الاحتياطي. الرجاء تحديث العرض لمشاهدة كافة جهات الاتصال المستوردة</string>
+  <string name="message_restore_selection_finish">يتم الآن استعادة جهات الاتصال من ملف النسخ الاحتياطي. يمكنك الآن إغلاق هذه الشاشة أو استيراد من ملف النسخ الاحتياطي آخر</string>
+  <string name="message_restore_legacy_name">تمت تسمية ملف النسخ الاحتياطي \'BackupAllContacts.vcf\ \' في الإصدارات القديمة</string>
+</resources>

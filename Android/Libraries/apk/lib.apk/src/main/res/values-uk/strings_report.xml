@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="report_app_name">Назва App: </string>
+  <string name="report_package_name">Ім\'я пакета: </string>
+  <string name="report_source_folder">Вихідна папка: </string>
+  <string name="report_size">Size(Mb): </string>
+  <string name="report_launch_intent">Запуск намір: </string>
+  <string name="report_installed_on">Встановлені на: </string>
+  <string name="report_updated_on">Оновлений на: </string>
+  <string name="report_system_app">Система App: </string>
+  <string name="report_security_permission">Permission(s) безпеки: </string>
+  <string name="report_yes">Так</string>
+  <string name="report_no">Ні</string>
+</resources>

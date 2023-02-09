@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tag_formatted_name">名前:</string>
+  <string name="tag_formatted_number">番号:</string>
+  <string name="tag_formatted_type">タイプ:</string>
+  <string name="tag_formatted_datetime">日付/時刻。</string>
+  <string name="tag_formatted_duration">期間:</string>
+  <string name="tag_formatted_location">場所:</string>
+  <string name="tag_formatted_type_incoming">@string/spinner_calllog_type_incoming</string>
+  <string name="tag_formatted_type_outgoing">@string/spinner_calllog_type_outgoing</string>
+  <string name="tag_formatted_type_missed">@string/spinner_calllog_type_missed</string>
+  <string name="tag_chm_number">番号:</string>
+  <string name="tag_chm_date">日付:</string>
+  <string name="tag_chm_duration">期間:</string>
+</resources>

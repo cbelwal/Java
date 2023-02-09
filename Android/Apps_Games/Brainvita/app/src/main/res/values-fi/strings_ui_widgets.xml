@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">Uusi peli</string>
+  <string name="button_switch_board">Kytkinlevyyn</string>
+  <string name="button_custom_board">Aseta Mukautetut pelilauta</string>
+  <string name="button_high_scores">Parhaat tulokset</string>
+  <string name="button_rate_app">Arvioi peli</string>
+  <string name="button_tell_a_friend">Kerro kaverille</string>
+  <string name="button_paid_version">Maksettu versio</string>
+  <string name="button_help_documentation">Ohjeessa</string>
+  <string name="button_demo_video">Mielenosoitus televisio</string>
+  <string name="button_ok">Okei</string>
+  <string name="button_yes">Kyllä</string>
+  <string name="button_no">Ei</string>
+  <string name="button_start">Käynnistä</string>
+  <string name="button_cancel">Peruuta</string>
+  <string name="button_abort">Keskeytä</string>
+  <string name="button_high_score_close">Sulje</string>
+  <string name="title_high_score">Top Ten korkea tulokset</string>
+  <string name="text_high_score_none">Ei Pisteet</string>
+  <string name="text_high_score_pegs">Loput peg(s)</string>
+  <string name="text_high_score_time">Aika</string>
+</resources>

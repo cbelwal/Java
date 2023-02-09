@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="company_name">Dasmic, LLC</string>
+    <string name="feedback_no_email">No email clients found</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+    <string name="nav_menu_help_doc">Help Documentation</string>
+
+    <string name="button_rate_never">Never</string>
+    <string name="button_rate_later">Later</string>
+    <string name="button_rate_now">Now</string>
+
+    <string name="title_rate_this_app">Please rate this app</string>
+    <string name="title_feedback">Select email option ...</string>
+    <string name="title_demo_video">Demo Video</string>
+    <string name="title_tellafriend">Tell a friend via ...</string>
+    <string name="title_send_feedback">Contact Us</string>
+    <string name="title_rate_app">Rate app</string>
+</resources>

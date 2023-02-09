@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">नाम + WhatsApp नंबर मैच</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">एकाधिक नामों में एक ही WhatsApp नंबर</string>
+  <string name="duplicate_options_name_matches_email_phone">नाम + फोन/ईमेल मैच</string>
+  <string name="duplicate_options_name_matches_phone">नाम + फोन मैच</string>
+  <string name="duplicate_options_name_matches_email">नाम + ईमेल मैच</string>
+  <string name="duplicate_options_same_number_multi_name">एकाधिक नामों में एक ही नंबर</string>
+  <string name="duplicate_options_same_email_multi_name">एकाधिक नामों में एक ही ई-मेल</string>
+  <string name="duplicate_options_none">कोई नहीं</string>
+  <string name="progressbar_sel_duplicates">डुप्लिकेट के लिए स्कैन कर रहा है...</string>
+  <string name="message_duplicates_selected">हटाने के लिए चयनित duplicate(s) हटाएँ चिह्न दबाएँ। प्रत्येक डुप्लिकेट के लिए original(master) मान चयनित नहीं है और हटाया नहीं जाएगा।</string>
+  <string name="choose_duplicate_option">डुप्लिकेट की पहचान करने के लिए मापदंड का चयन करें।
+        उनके original(master) मान के साथ डुप्लिकेट मुख्य स्क्रीन में प्रदर्शित किया जाएगा और ऑटो-चेक हटाने के लिए किया जाएगा। Original(master) मान की जाँच नहीं है।</string>
+  <string name="startup_message">डुप्लिकेटों के लिए दृश्य विकल्प सेट करने के लिए ऊपरी-दाएँ में डुप्लिकेट चिह्न का उपयोग करें</string>
+  <string name="message_duplicates_backup">यह अनुशंसित है कि आप उन्हें हटाने से पहले अपने संपर्क बैकअप</string>
+</resources>

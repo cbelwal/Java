@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Peg Solitaire çözücü</string>
+  <string name="message_tellafriend">Bu app zihinsel challening oyunu Peg Solitaire olarak da bilinen mermer solitaire veya Brainvita olduğunu. Oyunun amacı mümkün olduğunca mandal en az sayıda elde etmektir. Mandal başka bir peg düz bir çizgi üzerinde atladıktan sonra boş bir delik için taşınır. Üzerinden atladı peg kaldırılır, bu şekilde her taşıdıktan sonra mandal sayısı tarafından standart oyunun oynanması dışında bir. \n\n azalır, bu app çözmek için kendi özel kurulu ayarlamanıza olanak sağlar. Orada arka ve sağlayan ileri düğmeleri gitmek geri herhangi bir sayıda hamle ve oyun da yüksek scores.\n\n tutar bu app gerçekten benzersiz kılan onun güçlü peg solitaire çözücü be. Çözücü bir görgü \'state-space\ kullanır \' verilen herhangi bir yönetim kurulu çözmek için algoritma. Çözücü mandal olası en az sayıda gelmek için gerekli olan tüm hareketleri ile gelecek.
+        Çözücü başından itibaren yeni bir gemide çalıştırırsanız bu size bir peg götürecek tüm hareketleri gösterir. Çünkü herhangi bir yönetim kurulu bir çözüm bulur, Çözücü alabilir bir solution.\n\n gelmek birkaç dakika vermek o a denemek! \n</string>
+</resources>

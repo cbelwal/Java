@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Numéro d’appel sélectionné ou les journaux : </string>
+  <string name="text_bt_paired_devices"> Appareils associés (sélectionnez se connecter)</string>
+  <string name="text_bt_new_devices"> Nouveaux dispositifs (sélectionnez se connecter)</string>
+  <string name="message_bt_scan_devices">Détection de périphériques...</string>
+  <string name="message_bt_scan_complete">Scan terminé pour les périphériques</string>
+  <string name="message_bt_pair_devices">Dispositifs de couplage...</string>
+  <string name="message_bt_new_none">Aucun nouveau périphérique trouvé</string>
+  <string name="message_bt_pair_none">Aucun appareils appariés trouvés</string>
+  <string name="message_bt_conn_lost">Connexion perdue au périphérique</string>
+  <string name="message_bt_connecting">Connexion à : </string>
+  <string name="message_bt_not_enabled">Ne pas compatible, de Bluetooth Bluetooth transfert de clôture</string>
+  <string name="message_bt_status_listening">À l’écoute...</string>
+  <string name="message_bt_status_connecting">Connexion...</string>
+  <string name="message_bt_status_connected">Relié</string>
+  <string name="message_bt_testdata_sent">TestData envoyé</string>
+  <string name="message_bt_no_contacts">Pas de contacts sélectionnés pour envoyer</string>
+  <string name="message_bt_recv_complete">Recevoir des données complète</string>
+  <string name="message_bt_not_connected">Pas connecté à n’importe quel périphérique</string>
+  <string name="message_bt_adapter_error">Il y avait un créant erreur Bluetooth.
+            S’il vous plaît vérifiez si votre téléphone est Bluetooth et l’adaptateur Bluetooth est activé</string>
+  <string name="menu_bt_make_discoverable">Rendre le périphérique détectable</string>
+  <string name="progressbar_bt_recv_data">Prêt à recevoir les données de contact...</string>
+  <string name="message_bt_connected">Connecté à l’appareil.
+        Appuyez sur \'Send\' pour transférer l’appel ou les journaux à : </string>
+  <string name="message_bt_conn_failed">Échec de la connexion au périphérique.
+    S’il vous plaît s’assurer que ce soft est installé et Bluetooth écran est ouvert : </string>
+  <string name="message_bt_sent_error">Pouvait pas transférer ces numéro d’appel ou les journaux : </string>
+  <string name="message_bt_recv_error">Impossible de créer ces nombre d’appel ou les journaux : </string>
+  <string name="message_bt_create_complete">Appels reçus ou les journaux créés : </string>
+  <string name="message_bt_sent_complete">Appelez ou les journaux envoyés au périphérique : </string>
+  <string name="progressbar_bt_send_data">Transfert d’appel ou les journaux </string>
+  <string name="progressbar_bt_bytes">octets </string>
+  <string name="progressbar_bt_create_contacts">Création d’appel ou les journaux</string>
+  <string name="progressbar_delete_data">
+        Suppression d’appel ou les journaux </string>
+  <string name="button_scan">Scan</string>
+  <string name="button_send">Envoyer</string>
+</resources>

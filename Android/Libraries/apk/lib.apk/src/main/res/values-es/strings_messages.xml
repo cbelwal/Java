@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Se requiere la selección de al menos 1</string>
+  <string name="message_save_external">APK archivo (s) almacenados en la carpeta externa: </string>
+  <string name="message_free_version_selection">Sólo 3 aplicaciones pueden seleccionarse a la vez en la versión gratuita</string>
+  <string name="message_free_version_option">Esta opción sólo está disponible para la versión de pago</string>
+  <string name="message_activity_load_fail">No se pudo iniciar la aplicación</string>
+  <string name="message_activity_loading">A partir de aplicación...</string>
+  <string name="message_loading_files">Busca las carpetas locales...</string>
+  <string name="message_deleting_files">Por favor confirmar individualmente para cada paquete seleccionado.
+    Paquetes de sistema desinstala solamente desde la cuenta de usuario</string>
+  <string name="message_save_external_suffix">. Carpeta se puede acceder conectando el teléfono al ordenador mediante USB etc.. </string>
+  <string name="message_rate_this_app_error">No se pudo abrir página de calificación</string>
+  <string name="message_share_link_prefix">Hola, \r\n\r\nCheck este: </string>
+  <string name="message_share_link_suffix">Enviada por APKit</string>
+  <string name="message_share_report_prefix">Informe de paquete</string>
+  <string name="message_share_report_suffix">Genera y envía a través de</string>
+  <string name="message_other_permissions_missing">Permisos solicitados se requieren para esta función a trabajar. Por favor dar permisos solicitados e inténtelo de nuevo
+    </string>
+  <string name="message_purchase_error">
+        No se pudo conectar al servidor de Google. Reinicie la aplicación y vuelva a intentarlo
+    </string>
+</resources>

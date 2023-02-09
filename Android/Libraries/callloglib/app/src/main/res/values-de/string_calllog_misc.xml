@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Anrufprotokoll</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">Unbekannt</string>
+  <string name="button_Yes">Ja</string>
+  <string name="button_No">Nein</string>
+  <string name="button_Apply">Gelten</string>
+  <string name="button_Close">In der Nähe</string>
+  <string name="general_not_Available">Nicht verfügbar</string>
+  <string name="general_items">Position (en)</string>
+  <string name="general_selected_items">ausgewählt</string>
+  <string name="title_confirm">Bestätigen</string>
+  <string name="title_dialog_coju">Download Coju</string>
+  <string name="message_selectitems">Mindestens 1 Log-Eintrag muss ausgewählt werden</string>
+  <string name="message_download_coju">Coju ist eine integrierte Kontakt-Management-app. Es hat alle Funktionen dieser app plus zusätzliche Funktionen. Mögen Sie Coju herunterladen?</string>
+  <string name="message_contact_permissions_missing">Kontakte-Berechtigungen sind erforderlich für diese app arbeitet. App jetzt schließen, bitte geben Sie Berechtigungen und versuchen Sie es erneut</string>
+  <string name="message_other_permissions_missing">Angeforderte Berechtigungen sind erforderlich für dieses app-Feature funktioniert.
+        Bitte geben Sie angeforderte Berechtigungen und versuchen Sie es erneut</string>
+</resources>

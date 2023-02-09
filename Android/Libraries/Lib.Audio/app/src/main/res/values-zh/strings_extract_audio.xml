@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">文件名:</string>
+  <string name="text_ep_file_size">大小：</string>
+  <string name="text_ep_modified_date">修改日期:</string>
+  <string name="text_ep_duration">时间：</string>
+  <string name="title_search_depth">搜索深度 (较大的值将需要几分钟时间)</string>
+  <string name="progressbar_extracting_audio">提取音频 (可能需要几分钟)..。</string>
+  <string name="progressbar_loading_audio">正在加载音频文件详细信息..。</string>
+  <string name="text_ep_time_start">开始时间 (秒)</string>
+  <string name="text_ep_period">每个音频文件的持续时间 (秒)</string>
+  <string name="text_ep_store">将新音频文件存储为:</string>
+  <string name="text_ep_share_external">放置在外部文件夹中</string>
+  <string name="text_ep_share_app">使用应用程序共享</string>
+  <string name="message_extract_complete">已创建 m4a 文件</string>
+  <string name="message_extract_error">创建音频文件时遇到错误</string>
+  <string name="message_search_depth_updated">已更新搜索深度</string>
+  <string name="message_search_depth_error">更新搜索深度时出错</string>
+  <string name="message_load_complete">已加载音频文件详细信息</string>
+  <string name="message_load_error">加载音频时出错</string>
+  <string name="message_extract_duration_reduced">最后一个音频文件持续时间缩短, 因为达到了音频结束</string>
+  <string name="message_extract_incomplete">无法创建% 1$d 音频文件或信息不完整</string>
+  <string name="message_extract_signature">从焦罐发送的音频光栅。</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">Kohteet</string>
+  <string name="general_selected_items">valittu</string>
+  <string name="general_error">Virhe</string>
+  <string name="title_confirm">Vahvista</string>
+  <string name="button_ok">Okei</string>
+  <string name="button_cancel">Peruuta</string>
+  <string name="free_space">Vapaa tila:</string>
+  <string name="title_share">Jaa, käyttäen:</string>
+  <string name="title_rename">Anna uusi nimi  </string>
+  <string name="title_create_folder">Kirjoita kansionimi  </string>
+</resources>

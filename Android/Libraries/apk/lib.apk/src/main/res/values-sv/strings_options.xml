@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="share_options_ShareUsing">Dela med hjälp av:</string>
+  <string name="share_options_allshare">E-post/Wifi/moln lagring (stor fil (er) kan ha problem)</string>
+  <string name="export_options_externalStorage">Extern lagring</string>
+  <string name="export_options_ExportAs">Exportformat:</string>
+  <string name="export_options_ExportUsing">Dela APK filen/filerna via:</string>
+  <string name="progressbar_prepare_data">Förbereder paket... </string>
+</resources>

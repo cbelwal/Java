@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_share">Delež</string>
+  <string name="action_delete">Izbrisati</string>
+  <string name="action_filter">Filter</string>
+  <string name="action_copy">Izvod</string>
+  <string name="action_rename">Preimenovanje</string>
+  <string name="action_create_folder">Ustvarite mapo</string>
+  <string name="action_move">Premikanje</string>
+  <string name="action_share_zip">Delež kot Zip</string>
+  <string name="action_extract_pictures">Citat slišan</string>
+  <string name="action_zip">Zip</string>
+  <string name="nav_menu_view_name">Glede na ime datoteke</string>
+  <string name="nav_menu_view_size">Glede na velikost</string>
+  <string name="nav_menu_view_modified">Glede na spremenjen datum</string>
+  <string name="nav_menu_view_refresh">Osveži</string>
+  <string name="nav_menu_view_close">Blizu</string>
+  <string name="nav_menu_search_default">Išči Media trgovina (privzeto)</string>
+  <string name="nav_menu_search_entire_phone">Išči celotne telefonske</string>
+  <string name="nav_menu_search_media_folders">Išči medijev mape</string>
+  <string name="nav_menu_search_external_folders">Iskanje zunanjimi map</string>
+  <string name="nav_menu_group_general">Splošna</string>
+  <string name="nav_menu_group_viewoptions">Ogled možnosti</string>
+  <string name="nav_menu_group_searchoptions">Možnosti iskanja</string>
+  <string name="nav_menu_rate_this_app">Povratne informacije</string>
+  <string name="nav_menu_upgrade">Vzpenjajoč se v plačan prevod</string>
+  <string name="nav_menu_tellafriend">Povej prijatelju</string>
+  <string name="nav_menu_feedback">Kontakt</string>
+  <string name="nav_menu_group_help">pomoč</string>
+  <string name="nav_menu_demovideo">Demonstracija televizija</string>
+  <string name="nav_menu_help_doc">Dokumentacijo s pomočjo</string>
+</resources>

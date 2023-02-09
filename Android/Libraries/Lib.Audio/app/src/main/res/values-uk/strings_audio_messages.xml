@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Не вдалося підключитися до сервера Google. Будь ласка, перезапустіть застосунок і повторіть спробу
+    </string>
+  <string name="progressbar_load_data">Пошук аудіо файлів...</string>
+  <string name="message_selectitems">Atleast 1 вибір не потрібно</string>
+  <string name="message_activity_load_fail">Не вдається запустити застосунок</string>
+  <string name="message_activity_loading">Запуск застосунку...</string>
+  <string name="message_other_permissions_missing">Потрібні дозволи, необхідні для цієї функції для роботи. Будь ласка дайте потрібні дозволи і повторіть спробу
+    </string>
+  <string name="message_no_read_permission">Не Читайте дозвіл
+    </string>
+  <string name="message_cannot_go_in">Не вдалося перейти всередині виділеної папки
+    </string>
+  <string name="message_delete_confirm">Вибрані файли (и) буде видалено. Цю дію скасувати не можна. Продовжити?</string>
+  <string name="progressbar_delete_data">
+        Видалення файлів </string>
+  <string name="message_delete_complete"> файлу / папки Видалені</string>
+  <string name="message_free_version_selection">
+        Максимум файлів, які можна вибрати у безкоштовній версії є: </string>
+  <string name="message_max_allowed_one">
+        Цей параметр працює лише за один  </string>
+  <string name="message_only_file">
+        Цей параметр працює лише для файлу (ів)  </string>
+  <string name="message_copying_file">
+        Копіювання файлу...  </string>
+  <string name="message_copy_complete">
+        Повна копія файлу. Імена файлів займе декілька хвилин з\'являтися в магазині ЗМІ.  </string>
+  <string name="message_copy_error">
+        Не вдалося створити копію частину файлів. Переконайтеся, що немає вільного місця, і мати доступ до папки.</string>
+  <string name="message_share_error">
+        Сталася помилка під час копіювання. Будь ласка, перевірте, якщо у вас є достатньо місця для зберігання в кеші спільні файли  </string>
+  <string name="message_zipping_files">
+        Архівація файлів / папок...  </string>
+  <string name="message_zipping_completed">
+        Всі йли / папки переїхали в zip архів  </string>
+  <string name="message_zipping_error">
+        Не могли б zip файли / папки. Будь ласка, перевірте, якщо вибраних папок не є пустим, і у вас є достатньо місця для зберігання</string>
+  <string name="message_rename_complete">
+        Перейменування файлу/папки повний. Нове ім\'я займе декілька хвилин, щоб показати в сховище медіа.  </string>
+  <string name="message_rename_error">
+        Не вдалося перейменувати файл або папку  </string>
+  <string name="message_create_folder_complete">
+        Папки, створені  </string>
+  <string name="message_create_folder_error">
+        Не вдалося створити папку  </string>
+  <string name="message_error_audio_play">
+        Не може відтворювати аудіо </string>
+</resources>

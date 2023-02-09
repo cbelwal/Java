@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Сортирани по време</string>
+  <string name="nav_view_outgoingcalls_cl">Изходящи повиквания</string>
+  <string name="nav_view_incomingcalls_cl">Входящи повиквания</string>
+  <string name="nav_view_missedcalls_cl">Пропуснати повиквания</string>
+  <string name="nav_view_callduration_cl">Сортирани по продължителност</string>
+  <string name="nav_view_geocoded_location_cl">Сортирани по местоположение</string>
+  <string name="nav_view_refresh_cl">Обновяване</string>
+  <string name="nav_view_100_records">Upto 100</string>
+  <string name="nav_view_500_records">Upto 500</string>
+  <string name="nav_view_all_records">Всички налични</string>
+  <string name="nav_menu_group_general_cl">Общи</string>
+  <string name="nav_menu_group_help_cl">Помощ</string>
+  <string name="nav_menu_group_log_length">Преглед на граф</string>
+  <string name="nav_menu_group_viewoptions_cl">Опции</string>
+  <string name="nav_menu_group_views_cl">Видяна</string>
+  <string name="nav_menu_group_operations_cl">Операции</string>
+  <string name="nav_menu_group_backup_cl">Архивиране</string>
+  <string name="nav_menu_rate_this_app_cl">Обратна връзка</string>
+  <string name="nav_menu_backup_contacts_cl">Архивиране на всички записи в регистъра на повикване</string>
+  <string name="nav_menu_restore_contacts_cl">Възстановяване на обаждане от Архив</string>
+  <string name="nav_menu_upgrade_cl">Надграждане до Pro версия</string>
+  <string name="nav_menu_filter_cl">Дисплей филтър</string>
+  <string name="nav_menu_duplicates_cl">Дубликати инструментариум</string>
+  <string name="nav_menu_tellafriend_cl">Кажи на приятел</string>
+  <string name="nav_menu_feedback_cl">Контакт Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Видео демонстрация</string>
+  <string name="nav_menu_coju_cl">Изтегляне Coju</string>
+  <string name="menu_operations_cl">Изпращане на насипни актуализации</string>
+  <string name="menu_add_cl">Добавяне</string>
+  <string name="menu_edit_cl">Редактиране</string>
+  <string name="menu_update_cl">Актуализация</string>
+  <string name="menu_share_cl">Дял</string>
+  <string name="menu_export_cl">Износ</string>
+  <string name="menu_import_cl">Импортиране</string>
+  <string name="menu_delete_cl">Изтриване</string>
+  <string name="menu_bluetooth_cl">Bluetooth прехвърляне</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Име на файла:</string>
+  <string name="text_ep_file_size">Размер:</string>
+  <string name="text_ep_modified_date">Дата на модификация:</string>
+  <string name="text_ep_duration">Продължителност:</string>
+  <string name="title_search_depth">Дълбочина на търсене (големи стойности ще отнеме няколко минути)</string>
+  <string name="progressbar_extracting_audio">Извличане на аудио (може да отнеме няколко минути)...</string>
+  <string name="progressbar_loading_audio">Зареждане на аудио файл детайли...</string>
+  <string name="text_ep_time_start">Начало time(seconds)</string>
+  <string name="text_ep_period">Продължителността на всяка аудио file(seconds)</string>
+  <string name="text_ep_store">Съхранява новите аудио файлове като:</string>
+  <string name="text_ep_share_external">Поставете в външни папка</string>
+  <string name="text_ep_share_app">Споделяне с помощта на приложения</string>
+  <string name="message_extract_complete"> M4A файлове са създадени</string>
+  <string name="message_extract_error">Възникна грешка при създаване на аудио файлове</string>
+  <string name="message_search_depth_updated">Дълбочината на търсенето е актуализирана</string>
+  <string name="message_search_depth_error">Грешка при актуализиране на дълбочина на търсене</string>
+  <string name="message_load_complete">Аудио файл детайли са били натоварени</string>
+  <string name="message_load_error">Възникна грешка при зареждане на аудио</string>
+  <string name="message_extract_duration_reduced"> Последните аудио файл продължителност е намален, тъй като е достигнат края на аудио </string>
+  <string name="message_extract_incomplete"> %1$ d аудио файловете не можа да бъде създадена или имат непълна информация</string>
+  <string name="message_extract_signature">Изпратен по аудио ренде от coju.mobi™</string>
+</resources>

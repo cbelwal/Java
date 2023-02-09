@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">Készülékhez csatlakoztatva.
+        Nyomja meg a \'Send\ \"át-kapcsolattartók: </string>
+  <string name="message_bt_conn_failed">Kapcsolat eszköz nem sikerült.
+    Kérjük biztosítani, hogy ez app van telepítve, és Bluetooth képernyő nyitva: </string>
+  <string name="message_bt_sent_error">Ezek száma a partner nem tudott átvitel: </string>
+  <string name="message_bt_recv_error">Nem sikerült létrehozni a partner ezek száma: </string>
+  <string name="message_bt_create_complete">Készítette: kapott partner: </string>
+  <string name="message_bt_sent_complete">Kapcsolatok küldött-hoz eszköz: </string>
+  <string name="progressbar_bt_send_data">Átadó egyedi partner </string>
+  <string name="progressbar_bt_bytes">bájt </string>
+  <string name="progressbar_bt_create_contacts">Létrehozása partner (a kapcsolattartás kép több időt igényel)</string>
+  <string name="message_free_version_selection">
+        Maximális kapcsolatok, hogy lehet kiválasztani a szabad változat van: </string>
+  <string name="progressbar_delete_data">
+        Egyedi partner törlése </string>
+</resources>

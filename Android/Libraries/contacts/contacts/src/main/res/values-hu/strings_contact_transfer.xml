@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Tallózás</string>
+  <string name="backup_options_backupusing">Biztonsági másolat használatával</string>
+  <string name="transfer_address_home">Haza</string>
+  <string name="transfer_address_office">Office</string>
+  <string name="transfer_contact_office">(W).</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(M)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">Kedvencek</string>
+  <string name="transfer_not_in_favorites">Nem a Kedvencek</string>
+  <string name="transfer_times_contacted">Idő a kapcsolatot:</string>
+  <string name="transfer_last_time_contacted">Utóbbi időben a kapcsolatot:</string>
+  <string name="transfer_organization">Szervezet</string>
+  <string name="transfer_title">Cím</string>
+  <string name="transfer_event_birthday">Születésnap</string>
+  <string name="transfer_event_anniv">Évforduló</string>
+  <string name="transfer_event_other">Egyéb</string>
+  <string name="check_phone">Hívószám</string>
+  <string name="check_email">E-mailben</string>
+  <string name="csv_header_name">név</string>
+  <string name="csv_header_phone">Hívószám</string>
+  <string name="csv_header_email">E-mail címe(i)</string>
+  <string name="csv_header_postal">Postai címe</string>
+  <string name="csv_header_timescontacted">Alkalommal a kapcsolatot</string>
+  <string name="csv_header_lasttimecontact">Utoljára a kapcsolatot</string>
+  <string name="csv_header_favorite">Kedvenc állapota</string>
+  <string name="csv_header_organization">Szervezet</string>
+  <string name="check_postaladdress">Postázási cím</string>
+  <string name="check_timescontacted">Többször kapcsolatba</string>
+  <string name="check_lastcontact">Utolsó behatási idő</string>
+  <string name="check_isfavorite">Kedvenc állapota</string>
+  <string name="share_options_ShareAs">Ossza meg, mint:</string>
+  <string name="share_options_ShareUsing">Ossza meg használ:</string>
+  <string name="share_options_sms">Üzenetküldés</string>
+  <string name="share_options_allshare">Osztozik pályázatokat (felhő, E-mail,...)</string>
+  <string name="share_options_Clipboard">Másolása a vágólapra</string>
+  <string name="share_options_plaintext">Egyszerű szöveg</string>
+  <string name="share_options_vcf">Egyéni Vcard-fájl (ok)</string>
+  <string name="share_options_combinedvcf">Kombinált Vcard-fájlt</string>
+  <string name="export_options_textfile">Sima szöveges fájl</string>
+  <string name="export_options_combinedvcf_21">2.1 kombinált vCard-fájlt</string>
+  <string name="export_options_individualvcf_21">Egyéni vCard 2.1 fájl(ok)</string>
+  <string name="export_options_combinedvcf_40">4.0 kombinált vCard-fájlt</string>
+  <string name="export_options_individualvcf_40">Egyéni vCard 4.0 fájl(ok)</string>
+  <string name="export_options_csvfile">Vesszővel tagolt (*.csv) fájlok</string>
+  <string name="export_options_externalStorage">Külső tároló készülék</string>
+  <string name="export_options_ExportAs">Exportálási formátum:</string>
+  <string name="export_options_ExportUsing">Mentse a fájlt:</string>
+  <string name="message_import_invalid_file">Nem egy érvényes kapcsolat-fájl
+        </string>
+  <string name="backup_options_using">A biztonságimásolat-fájl mentése:</string>
+  <string name="menu_import_help">segítség</string>
+  <string name="message_backup_options">Ajánlott, hogy biztonsági mentés részesedése alkalmazások, mint a felhő, E-mail stb.
+        Ez lehetővé teszi, hogy visszaszerezze a kapcsolatot, ha valaha elveszíti a telefont.
+        Vissza a névjegyek E-mail/Cloud kézzel menteni a kapcsolatok biztonságimásolat-fájl E-mail/Cloud számlájáról bármilyen helyre, a készülék. Az import segédprogram lesz majd automatikusan keresse meg a fájlt.</string>
+  <string name="message_restore_fail">
+        Nem tudott visszaállítani biztonsági másolatból, a biztonságimásolat-fájl hiányzik vagy sérült
+                </string>
+  <string name="message_restore_refresh">Kapcsolatok a visszaállítandó biztonságimásolat-fájlból. Kérjük frissítse a képernyőt, hogy minden importált névjegyek</string>
+  <string name="message_restore_selection_finish">Kapcsolatok a visszaállítandó biztonságimásolat-fájlból. Most zárja be ezt a képernyőt, vagy egy másik biztonságimásolat-fájl importálása</string>
+  <string name="message_restore_legacy_name">Biztonságimásolat-fájl \'BackupAllContacts.vcf\ nevezték \"a régebbi verziókban</string>
+</resources>

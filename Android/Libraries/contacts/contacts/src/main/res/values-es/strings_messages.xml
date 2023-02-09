@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> contactos se actualizará. Esta acción no se puede deshacer. ¿Proceder?</string>
+  <string name="message_update_complete"> contactos actualizados</string>
+  <string name="message_save_external">Contactos almacenados en la carpeta externa: </string>
+  <string name="message_import">Sólo se pueden importadas archivos Vcard y CSV (usar \'Browse\' para cargar archivos desde otras fuentes</string>
+  <string name="message_loading_files">Busca las carpetas locales...</string>
+  <string name="message_loading_backup_files">Dispositivo de copia de seguridad archivos en busca...</string>
+  <string name="message_importing_contacts_complete">contactos importados</string>
+  <string name="message_save_external_suffix">. Carpeta se puede acceder conectando el teléfono al ordenador mediante USB etc.. </string>
+  <string name="message_selectitems">Contacto de al menos 1 debe ser seleccionado</string>
+  <string name="message_delete_confirm">Selecciona contactos detalles serán eliminados. Esta acción no se puede deshacer. ¿Proceder?</string>
+  <string name="message_delete_complete"> eliminadas los datos de contacto</string>
+  <string name="message_free_import_limit">El archivo contiene contactos más que permitido en versión libre</string>
+  <string name="message_rate_this_app_error">No se pudo abrir la página de clasificación. Vaya Google Play y en consecuencia la tarifa</string>
+  <string name="message_edit">Solo 1 contacto se puede editar a la vez. </string>
+  <string name="message_backup_stored">Contactos han sido respaldados en archivo:</string>
+  <string name="message_download_coju">Coju es una aplicación de gestión integrada de los contactos. Tiene todas las características de esta aplicación además de funciones adicionales. ¿Se quieres descargar Coju?</string>
+  <string name="message_contact_permissions_missing">Contactos permisos son necesarios para esta aplicación al trabajo. La aplicación ahora cerca, por favor dar permisos y vuelva a intentarlo</string>
+  <string name="message_other_permissions_missing">Permisos solicitados se requieren para esta función de aplicación al trabajo.
+        Por favor dar permisos solicitados e inténtelo de nuevo</string>
+  <string name="message_backup_freeversion">
+        Número máximo de contactos que puede ser copia de seguridad en esta versión gratuita es:
+    </string>
+  <string name="message_backup_paidversion">
+        Todo lo que los contactos han sido con éxito respaldados en un archivo
+    </string>
+  <string name="message_purchase_error">
+        No se pudo conectar al servidor de Google. Reinicie la aplicación y vuelva a intentarlo
+    </string>
+</resources>

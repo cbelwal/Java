@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">หมายเลขโทรศัพท์</string>
+  <string name="text_calllog_date">วัน</string>
+  <string name="text_calllog_time">เวลา</string>
+  <string name="text_calllog_duration">Duration(s)</string>
+  <string name="text_calllog_type">ชนิด</string>
+  <string name="spinner_calllog_type_incoming">ขาเข้า</string>
+  <string name="spinner_calllog_type_outgoing">ขาออก</string>
+  <string name="spinner_calllog_type_missed">พลาด</string>
+  <string name="message_calllog_added">เพิ่มโทรเข้าสู่ระบบเรียบร้อยแล้ว</string>
+  <string name="message_calllog_added_error">ความล้มเหลวในการเพิ่มการบันทึกโทร</string>
+  <string name="message_calllog_edited">บันทึกการโทรที่ปรับปรุงเรียบร้อยแล้ว</string>
+  <string name="message_calllog_edited_error">ความล้มเหลวในการปรับปรุงบันทึกการโทร</string>
+</resources>

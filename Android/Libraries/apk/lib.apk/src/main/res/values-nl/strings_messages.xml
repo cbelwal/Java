@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Atleast 1 selectie is vereist</string>
+  <string name="message_save_external">APK bestanden opgeslagen in de externe map: </string>
+  <string name="message_free_version_selection">Slechts 3 apps kunnen worden geselecteerd op een moment in de gratis versie</string>
+  <string name="message_free_version_option">Deze optie is alleen beschikbaar voor de betaalde versie</string>
+  <string name="message_activity_load_fail">Programma kan niet worden gestart</string>
+  <string name="message_activity_loading">Starten van toepassing...</string>
+  <string name="message_loading_files">Lokale mappen zoeken...</string>
+  <string name="message_deleting_files">Bevestig afzonderlijk voor elk pakket dat is geselecteerd.
+    Systeempakketten zal alleen van gebruikersaccount verwijderen</string>
+  <string name="message_save_external_suffix">. Map kan worden geopend door uw telefoon verbinden met uw computer via USB enz. </string>
+  <string name="message_rate_this_app_error">Rating pagina kon niet worden geopend</string>
+  <string name="message_share_link_prefix">Hallo, \r\n\r\nCheck dit uit: </string>
+  <string name="message_share_link_suffix">Verzonden via APKit</string>
+  <string name="message_share_report_prefix">Pakket Report</string>
+  <string name="message_share_report_suffix">Gegenereerd en verstuurd via</string>
+  <string name="message_other_permissions_missing">Gevraagde machtigingen zijn vereist voor deze functie werkt. Geef de gevraagde machtigingen en probeer het opnieuw
+    </string>
+  <string name="message_purchase_error">
+        Kan geen verbinding maken met server van Google. Gelieve opnieuw app en probeer het opnieuw
+    </string>
+</resources>

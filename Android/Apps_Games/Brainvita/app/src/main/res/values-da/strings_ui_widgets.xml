@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">Nye spil</string>
+  <string name="button_switch_board">Switch bord</string>
+  <string name="button_custom_board">Sæt brugerdefinerede bestyrelsen</string>
+  <string name="button_high_scores">High Scores</string>
+  <string name="button_rate_app">Vurder dette spil</string>
+  <string name="button_tell_a_friend">Fortæl en ven</string>
+  <string name="button_paid_version">Betalt version</string>
+  <string name="button_help_documentation">Hjælp-dokumentation</string>
+  <string name="button_demo_video">Demo Video</string>
+  <string name="button_ok">Ok</string>
+  <string name="button_yes">Ja</string>
+  <string name="button_no">Nej</string>
+  <string name="button_start">Start</string>
+  <string name="button_cancel">Annuller</string>
+  <string name="button_abort">Afbryd</string>
+  <string name="button_high_score_close">Luk</string>
+  <string name="title_high_score">Top ti High Scores</string>
+  <string name="text_high_score_none">Ingen Score</string>
+  <string name="text_high_score_pegs">Resterende peg(s)</string>
+  <string name="text_high_score_time">Tid</string>
+</resources>

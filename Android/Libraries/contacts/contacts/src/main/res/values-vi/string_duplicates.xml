@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Tên + WhatsApp số trận đấu</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">Tương tự WhatsApp số trong nhiều tên</string>
+  <string name="duplicate_options_name_matches_email_phone">Tên + phù hợp với điện thoại/Email</string>
+  <string name="duplicate_options_name_matches_phone">Tên + phù hợp với điện thoại</string>
+  <string name="duplicate_options_name_matches_email">Tên + Email phù hợp</string>
+  <string name="duplicate_options_same_number_multi_name">Cùng một số trong nhiều tên</string>
+  <string name="duplicate_options_same_email_multi_name">Email cùng một trong nhiều tên</string>
+  <string name="duplicate_options_none">Không có</string>
+  <string name="progressbar_sel_duplicates">Quét bản sao...</string>
+  <string name="message_duplicates_selected">Để xóa được lựa chọn duplicate(s) nhấn biểu tượng xóa. Giá trị original(master) cho mỗi bản sao không được chọn và sẽ không bị xóa.</string>
+  <string name="choose_duplicate_option">Chọn các tiêu chí để xác định liệu.
+        Bản sao cùng với giá trị original(master) của họ sẽ được hiển thị trong màn hình chính và sẽ được tự động kiểm tra để xóa bỏ. Original(Master) giá trị không được kiểm tra.</string>
+  <string name="startup_message">Sử dụng biểu tượng trùng lặp trong cùng bên phải để xem tùy chọn cho các bản sao</string>
+  <string name="message_duplicates_backup">Đó là khuyến cáo rằng bạn sao lưu danh bạ của bạn trước khi xóa chúng</string>
+</resources>

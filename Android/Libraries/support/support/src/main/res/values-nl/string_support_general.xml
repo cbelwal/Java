@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic, LLC</string>
+  <string name="feedback_no_email">Geen e-mailclients gevonden</string>
+  <string name="button_yes">Ja</string>
+  <string name="button_no">No</string>
+  <string name="nav_menu_help_doc">Help-documentatie</string>
+  <string name="button_rate_never">Nooit</string>
+  <string name="button_rate_later">Later</string>
+  <string name="button_rate_now">Nu</string>
+  <string name="title_rate_this_app">Beoordeel deze app</string>
+  <string name="title_feedback">Selecteer de optie e-mail...</string>
+  <string name="title_demo_video">Video van de manifestatie</string>
+  <string name="title_tellafriend">Vertel een vriend via...</string>
+  <string name="title_send_feedback">Neem contact op met ons</string>
+  <string name="title_rate_app">Tarief app</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic, LLC</string>
+  <string name="feedback_no_email">Nem található e-mail kliensek</string>
+  <string name="button_yes">igen</string>
+  <string name="button_no">nem</string>
+  <string name="nav_menu_help_doc">Súgó, dokumentáció</string>
+  <string name="button_rate_never">Soha nem</string>
+  <string name="button_rate_later">Később</string>
+  <string name="button_rate_now">Most</string>
+  <string name="title_rate_this_app">Kérjük, értékelje ezt a app</string>
+  <string name="title_feedback">A beállítással e-mailt...</string>
+  <string name="title_demo_video">Tüntetés Video</string>
+  <string name="title_tellafriend">Egy barátnak keresztül...</string>
+  <string name="title_send_feedback">Lépjen kapcsolatba velünk</string>
+  <string name="title_rate_app">Alkalmazás mértéke</string>
+</resources>

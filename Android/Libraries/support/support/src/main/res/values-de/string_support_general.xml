@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">DasMic, LLC</string>
+  <string name="feedback_no_email">Keine e-Mail-Clients gefunden</string>
+  <string name="button_yes">Ja</string>
+  <string name="button_no">Nein</string>
+  <string name="nav_menu_help_doc">Hilfe-Dokumentation</string>
+  <string name="button_rate_never">Nie</string>
+  <string name="button_rate_later">Später</string>
+  <string name="button_rate_now">Jetzt</string>
+  <string name="title_rate_this_app">Bitte bewerten Sie diese app</string>
+  <string name="title_feedback">Wählen Sie die Option \"e-Mail\"...</string>
+  <string name="title_demo_video">Demo-Video</string>
+  <string name="title_tellafriend">Informieren Sie einen Freund über...</string>
+  <string name="title_send_feedback">Kontaktieren Sie uns</string>
+  <string name="title_rate_app">Preis app</string>
+</resources>

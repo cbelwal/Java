@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Engedély-hoz csinál hív ez app nem adtak</string>
+  <string name="message_search_number_security_exception">Ez a telefonszám nem tudta megkeresni! Google keresés nincs engedélyezve, vagy az engedélyt nem adták meg a készülék</string>
+  <string name="message_free_version_selection">
+        Maximális naplóbejegyzések, hogy lehet kiválasztani a szabad változat van: </string>
+  <string name="message_purchase_error">
+        Nem sikerült csatlakozni a Google szolgál. Indítsa újra a app, és próbálja újra
+    </string>
+</resources>

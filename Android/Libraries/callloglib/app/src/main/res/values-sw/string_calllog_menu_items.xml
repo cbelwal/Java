@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Pangwa kwa wakati</string>
+  <string name="nav_view_outgoingcalls_cl">Wito anayemaliza muda wake</string>
+  <string name="nav_view_incomingcalls_cl">Simu zinazoingia</string>
+  <string name="nav_view_missedcalls_cl">Zilizopita</string>
+  <string name="nav_view_callduration_cl">Zimepangwa kwa muda</string>
+  <string name="nav_view_geocoded_location_cl">Pangwa na mahali</string>
+  <string name="nav_view_refresh_cl">Onyesha upya</string>
+  <string name="nav_view_100_records">Upto 100</string>
+  <string name="nav_view_500_records">Upto 500</string>
+  <string name="nav_view_all_records">Wote</string>
+  <string name="nav_menu_group_general_cl">Mkuu</string>
+  <string name="nav_menu_group_help_cl">Msaada</string>
+  <string name="nav_menu_group_log_length">Hesabu ya Mwoneko</string>
+  <string name="nav_menu_group_viewoptions_cl">Machaguo</string>
+  <string name="nav_menu_group_views_cl">Maoni</string>
+  <string name="nav_menu_group_operations_cl">Operesheni</string>
+  <string name="nav_menu_group_backup_cl">Chelezo</string>
+  <string name="nav_menu_rate_this_app_cl">Maoni</string>
+  <string name="nav_menu_backup_contacts_cl">Chelezo maingizo yote ya logi ya wito</string>
+  <string name="nav_menu_restore_contacts_cl">Rejesha faili logi wito kutoka kwenye chelezo</string>
+  <string name="nav_menu_upgrade_cl">Pandisha daraja kwenda Pro toleo</string>
+  <string name="nav_menu_filter_cl">Onyesha Kichujio</string>
+  <string name="nav_menu_duplicates_cl">Rudufu Toolkit ya uendeshaji</string>
+  <string name="nav_menu_tellafriend_cl">Mwambie rafiki</string>
+  <string name="nav_menu_feedback_cl">Wasiliana na Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Video ya demo</string>
+  <string name="nav_menu_coju_cl">Pakua Coju</string>
+  <string name="menu_operations_cl">Sasishi ya wingi</string>
+  <string name="menu_add_cl">Ongeza</string>
+  <string name="menu_edit_cl">Hariri</string>
+  <string name="menu_update_cl">Sasisha</string>
+  <string name="menu_share_cl">Kushiriki</string>
+  <string name="menu_export_cl">Hamisha</string>
+  <string name="menu_import_cl">Leta</string>
+  <string name="menu_delete_cl">Futa</string>
+  <string name="menu_bluetooth_cl">Uhamisho wa Bluetooth</string>
+</resources>

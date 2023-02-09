@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">Diblokir contact(s)</string>
+  <string name="display_options_blocked">Diblokir contact(s)</string>
+  <string name="action_block">Blok</string>
+  <string name="action_unblock">Membuka blokir</string>
+  <string name="message_blocking_contacts">Memblokir contact(s)</string>
+  <string name="message_unblocking_contacts">Blokir contact(s)</string>
+  <string name="message_block_unblock_complete">Diperbarui semua dipilih contact(s) </string>
+  <string name="message_block_unblock_error">Ada kesalahan dalam memperbarui beberapa contact(s) yang dipilih</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">Número de teléfono</string>
+  <string name="text_calllog_date">Fecha</string>
+  <string name="text_calllog_time">Tiempo</string>
+  <string name="text_calllog_duration">Duraciones</string>
+  <string name="text_calllog_type">Tipo</string>
+  <string name="spinner_calllog_type_incoming">Entrada</string>
+  <string name="spinner_calllog_type_outgoing">Saliente</string>
+  <string name="spinner_calllog_type_missed">Perdido</string>
+  <string name="message_calllog_added">Agregado exitosamente para registro de llamadas</string>
+  <string name="message_calllog_added_error">Fracaso en adición al registro de llamadas</string>
+  <string name="message_calllog_edited">Registro actualizados correctamente</string>
+  <string name="message_calllog_edited_error">Insuficiencia en la actualización de registro de llamadas</string>
+</resources>

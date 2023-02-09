@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">항목</string>
+  <string name="general_selected_items">선택</string>
+  <string name="general_error">오류</string>
+  <string name="title_confirm">확인</string>
+  <string name="button_ok">그래</string>
+  <string name="button_cancel">취소</string>
+  <string name="free_space">총 여유 공간:</string>
+  <string name="title_share">공유를 사용 하 여:</string>
+  <string name="title_rename">새 이름 입력  </string>
+  <string name="title_create_folder">폴더 이름 입력  </string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">지난 30 일 동안 설치 된</string>
+  <string name="filter_adv_options_security_inappbilling">-응용 프로그램 결제는</string>
+  <string name="filter_adv_options_security_readsms">SMS를 읽을 수 있습니다.</string>
+  <string name="filter_adv_options_security_sendsms">SMS를 보낼 수 있습니다.</string>
+  <string name="filter_adv_options_security_readcontacts">연락처를 읽을 수 있습니다.</string>
+  <string name="filter_adv_options_security_readcalllog">콜 로그를 읽을 수 있습니다.</string>
+  <string name="filter_adv_options_security_readcalender">캘린더를 읽을 수 있습니다.</string>
+  <string name="filter_adv_options_security_writeexternalstorage">외부 저장소에 쓸 수 있습니다.</string>
+  <string name="filter_adv_options_security_camera">카메라에 액세스할 수 있습니다.</string>
+  <string name="filter_adv_options_security_mic">오디오를 녹음할 수 있습니다.</string>
+  <string name="filter_adv_options_security_location">위치를 액세스할 수 있습니다.</string>
+  <string name="filter_adv_options_filter">보안 필터를 활성화</string>
+  <string name="filter_main_text">보안 필터 옵션 (애플 리 케이 션에만 일치 하는 이러한 조건 중 하나가 표시 됩니다):</string>
+  <string name="activity_security_filter">악성 코드 표시 필터</string>
+</resources>

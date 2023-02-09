@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Объединение контактов</string>
+  <string name="action_merge">Объединить контакты</string>
+  <string name="message_merge_title">Предупреждение</string>
+  <string name="message_merge_confirm">Пожалуйста, подтвердите, если вы хотите объединить выбранные контакты? Номер телефона, адрес электронной почты, почтовый адрес, Примечание и события всех выбранных контактов, будут объединены в один единый контакт с именем: </string>
+  <string name="message_merge_complete">Выбранные контакты были объединены</string>
+  <string name="progressbar_merge_data">Объединение контактов...</string>
+</resources>

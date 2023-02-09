@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">Asennettu viime 30 päivän aikana</string>
+  <string name="filter_adv_options_security_inappbilling">On-app laskutus</string>
+  <string name="filter_adv_options_security_readsms">Lue SMS</string>
+  <string name="filter_adv_options_security_sendsms">Lähettää SMS</string>
+  <string name="filter_adv_options_security_readcontacts">Lue yhteystiedot</string>
+  <string name="filter_adv_options_security_readcalllog">Lukea puhelulokin</string>
+  <string name="filter_adv_options_security_readcalender">Lukea kalenteri</string>
+  <string name="filter_adv_options_security_writeexternalstorage">Voit kirjoittaa ulkoisen tallennuksen</string>
+  <string name="filter_adv_options_security_camera">Käyttää kameran</string>
+  <string name="filter_adv_options_security_mic">Voi äänittää</string>
+  <string name="filter_adv_options_security_location">Käyttää sijaintisi</string>
+  <string name="filter_adv_options_filter">Aktivoi turvallisuus suodattimet</string>
+  <string name="filter_main_text">Suojausasetukset suodatin (vain Apps vastaa jokin näistä kriteeri näkyvät):</string>
+  <string name="activity_security_filter">Malware Näytä suodatin</string>
+</resources>

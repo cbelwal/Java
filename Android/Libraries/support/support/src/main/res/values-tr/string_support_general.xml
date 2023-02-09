@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic, LLC</string>
+  <string name="feedback_no_email">Hiçbir e-posta istemcileri bulundu</string>
+  <string name="button_yes">Evet</string>
+  <string name="button_no">Hayır</string>
+  <string name="nav_menu_help_doc">Yardım belgeleri</string>
+  <string name="button_rate_never">Asla</string>
+  <string name="button_rate_later">Daha sonra</string>
+  <string name="button_rate_now">Şimdi</string>
+  <string name="title_rate_this_app">Lütfen bu app oranı</string>
+  <string name="title_feedback">E-posta seçeneğini belirleyin.</string>
+  <string name="title_demo_video">Demo Video</string>
+  <string name="title_tellafriend">Tell a friend üzerinden...</string>
+  <string name="title_send_feedback">Bize ulaşın</string>
+  <string name="title_rate_app">Oranı app</string>
+</resources>

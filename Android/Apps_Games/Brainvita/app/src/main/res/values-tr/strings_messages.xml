@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Tebrikler, yüksek bir puan var!</string>
+  <string name="message_game_end_new_game">Geçerli oyun doldu! Yeni bir oyun başlatmak sever mi?</string>
+  <string name="message_custom_board">Bir peg hızı boş delik dokunun. Zaman komple kilit düğmesine dokunun</string>
+  <string name="message_custom_board_done">Özel kurulu Kur, sen oynamaya başlayabilirsiniz.
+    Not Özel panoları için yüksek skorlar kayıtlı değil</string>
+  <string name="message_intro_first">
+        Düz bir çizgi üzerinde başka bir peg atlama kullanılabilir bir deliğe peg taşımak
+    </string>
+  <string name="message_intro_second">Üzerinden atladı peg kaldırılır</string>
+  <string name="message_intro_third">Mümkün olduğunca çok sayıda mandal kaldırmayı deneyin</string>
+  <string name="message_intro_fourth">Sadece 1 peg kalan hedef alınıyor</string>
+  <string name="message_board_reset_confirm">Bu mevcut Yönetim Kurulu iptal eder. Devam etmek istiyor musunuz?</string>
+  <string name="message_game_over">Başka hamle yok mümkündür. Oyun bitti!</string>
+  <string name="message_solver_complete">Çözücü pegs.\n\nUse en az sayıda yönetim kurulu hamle görmek için İleri düğmesini yol hamle hesaplanan.</string>
+  <string name="message_solver_complete_free">Çözücü en az sayıda mandal için yol hamle hesaplanan. Bu ücretsiz bir sürümü olduğu için çözücü en az 3 mandal sadece için önde gelen bir çözüm bulabilirsiniz. İçinde belgili tanımlık ödenmiş yorum çözücü bir çözüm 1 peg.\n\nUse ile yönetim kurulu hamle görmek için İleri düğmesini bulabilirsiniz.
+    </string>
+  <string name="message_solver_complete_title">Mandal çözüm bulundu: </string>
+  <string name="message_solver_inprogress_title">Çözüm için aranıyor...</string>
+  <string name="message_solver_inprogress">Şu anki en düşük peg sayısı: </string>
+  <string name="message_solver_start_confirm">Mevcut Yönetim Kurulu bağlı olarak, Çözücü bir çözüm mandal en az sayıda bilgisayar birkaç dakika için bir kaç saniye sürebilir.
+    Çözücü hesaplamaları bir sürü yapıyor bu yana, pil gücü tüketmek.
+        Bu çözücü başlamadan önce şarj Telefonunuzu koymak tavsiye edilir.
+    Çalışırken herhangi bir anda çözücü durdurulabilir ve en son peg sonuç-ecek var olmak elde edilebilir.</string>
+  <string name="message_solver_mode_play_board">
+        Çözücü modunda oyun oynayamazsın. Yeni bir oyuna başlamak için oyun seçin</string>
+  <string name="message_confirm_switch_from_standard">
+        Mevcut Yönetim Kurulu standardına ayarlamak, Fransız kuruluna değiştirmek istiyor musunuz?</string>
+  <string name="message_confirm_switch_from_French">
+        Mevcut Yönetim Kurulu Fransızca için ayarlanır, standart kuruluna değiştirmek istiyor musunuz?</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        Programu tumizi hii sasa kuomba ruhusa ya kufikia wito logi na mawasiliano data yako.
+        Vibali hivi zinahitajika kwa programu hii kufanya kazi na ni kwa si nia kwa ajili ya kutumika katika njia ingine yoyote. Sisi huchukua siri yako kwa umakini sana, na wito logi na mawasiliano data yako halitatumika ubia na chama chochote ikiwa ni pamoja coju.mobi™, wachapishaji wa programu hii.
+    </string>
+  <string name="button_permissions_ack">
+        Kukiri
+    </string>
+  <string name="title_ack_confirm">
+        Kanusho ya vibali
+    </string>
+</resources>

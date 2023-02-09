@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">ब्राउज़ करें</string>
+  <string name="backup_options_backupusing">बैकअप का उपयोग कर</string>
+  <string name="transfer_address_home">घर</string>
+  <string name="transfer_address_office">कार्यालय</string>
+  <string name="transfer_contact_office">(W)।</string>
+  <string name="transfer_contact_home">(ज)</string>
+  <string name="transfer_contact_mobile">(M)</string>
+  <string name="transfer_contact_other">(ओ)</string>
+  <string name="transfer_in_favorites">पसंदीदा में</string>
+  <string name="transfer_not_in_favorites">पसंदीदा में</string>
+  <string name="transfer_times_contacted">बार संपर्क किया:</string>
+  <string name="transfer_last_time_contacted">पिछले समय से संपर्क:</string>
+  <string name="transfer_organization">संगठन</string>
+  <string name="transfer_title">शीर्षक</string>
+  <string name="transfer_event_birthday">जन्मदिन</string>
+  <string name="transfer_event_anniv">शादी की सालगिरह</string>
+  <string name="transfer_event_other">अन्य</string>
+  <string name="check_phone">फोन नंबर (नंबरों)</string>
+  <string name="check_email">ई-मेल</string>
+  <string name="csv_header_name">नाम</string>
+  <string name="csv_header_phone">फोन नंबर (नंबरों)</string>
+  <string name="csv_header_email">ईमेल पता (पते)</string>
+  <string name="csv_header_postal">डाक पता (पते)</string>
+  <string name="csv_header_timescontacted">बार संपर्क किया</string>
+  <string name="csv_header_lasttimecontact">अंतिम बार संपर्क किया</string>
+  <string name="csv_header_favorite">पसंदीदा स्थिति</string>
+  <string name="csv_header_organization">संगठन</string>
+  <string name="check_postaladdress">डाक का पता</string>
+  <string name="check_timescontacted">कई बार संपर्क किया</string>
+  <string name="check_lastcontact">पिछली बार जब संपर्क</string>
+  <string name="check_isfavorite">पसंदीदा स्थिति</string>
+  <string name="share_options_ShareAs">के रूप में साझा करें:</string>
+  <string name="share_options_ShareUsing">साझा का उपयोग कर:</string>
+  <string name="share_options_sms">संदेश सेवा</string>
+  <string name="share_options_allshare">साझा अनुप्रयोगों (बादल, ईमेल,...)</string>
+  <string name="share_options_Clipboard">क्लिपबोर्ड पर प्रतिलिपि बनाएँ</string>
+  <string name="share_options_plaintext">सादा पाठ</string>
+  <string name="share_options_vcf">अलग-अलग Vcard फ़ाइल (फ़ाइलें)</string>
+  <string name="share_options_combinedvcf">संयुक्त Vcard फ़ाइल</string>
+  <string name="export_options_textfile">सादा पाठ फ़ाइल</string>
+  <string name="export_options_combinedvcf_21">संयुक्त vCard 2.1 फ़ाइल</string>
+  <string name="export_options_individualvcf_21">अलग-अलग vCard 2.1 फ़ाइल (फ़ाइलें)</string>
+  <string name="export_options_combinedvcf_40">संयुक्त vCard 4.0 फ़ाइल</string>
+  <string name="export_options_individualvcf_40">अलग-अलग vCard 4.0 फ़ाइल (फ़ाइलें)</string>
+  <string name="export_options_csvfile">अल्पविराम Separated (*.csv) फ़ाइल</string>
+  <string name="export_options_externalStorage">इस डिवाइस के बाह्य भंडारण</string>
+  <string name="export_options_ExportAs">निर्यात स्वरूप:</string>
+  <string name="export_options_ExportUsing">फ़ाइल में सहेजें:</string>
+  <string name="message_import_invalid_file">नहीं कोई मान्य संपर्क फ़ाइल
+        </string>
+  <string name="backup_options_using">बैकअप फ़ाइल में सहेजें:</string>
+  <string name="menu_import_help">मदद</string>
+  <string name="message_backup_options">यह करने के लिए अनुशंसित है बादल, ईमेल आदि जैसे साझा अनुप्रयोगों में बैकअप।
+        यह अगर तुम कभी अपने फोन खो संपर्क पुनर्प्राप्त करने के लिए आप की अनुमति देगा।
+        संपर्क ईमेल/बादल से मैन्युअल रूप से आपके ईमेल/बादल खाते से संपर्क बैकअप फ़ाइल इस डिवाइस में किसी भी स्थान को बचाने को पुनर्स्थापित करने के लिए। आयात उपयोगिता तब स्वचालित रूप से फ़ाइल की स्थिति जानें होगा।</string>
+  <string name="message_restore_fail">
+        बैकअप से पुनर्स्थापित नहीं कर सका, बैकअप फ़ाइल अनुपलब्ध है या दूषित है
+                </string>
+  <string name="message_restore_refresh">संपर्क बैकअप फ़ाइल से पुनर्स्थापित की जा रही हैं। कृपया सभी आयात किए गए संपर्कों को देखने के लिए प्रदर्शन को ताज़ा करें</string>
+  <string name="message_restore_selection_finish">संपर्क बैकअप फ़ाइल से पुनर्स्थापित की जा रही हैं। आप अब इस स्क्रीन को बंद कर सकते हैं या किसी अन्य बैकअप फ़ाइल से आयात करें</string>
+  <string name="message_restore_legacy_name">बैकअप फ़ाइल \'BackupAllContacts.vcf\ का नाम था \' पुराने संस्करणों में</string>
+</resources>

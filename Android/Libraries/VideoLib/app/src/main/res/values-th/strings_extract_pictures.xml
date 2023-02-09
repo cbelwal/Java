@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">ชื่อแฟ้ม:</string>
+  <string name="text_ep_file_size">ขนาด:</string>
+  <string name="text_ep_modified_date">วันที่แก้ไข:</string>
+  <string name="text_ep_video_duration">ระยะเวลา:</string>
+  <string name="title_search_depth">ค้นหาความลึก (ค่าขนาดใหญ่จะใช้เวลาหลายนาที)</string>
+  <string name="nav_menu_search_entire_phone">ค้นหาโทรศัพท์ทั้งหมด</string>
+  <string name="nav_menu_search_media_folders">ค้นหาโฟลเดอร์สื่อ</string>
+  <string name="nav_menu_search_external_folders">โฟลเดอร์การค้นหาภายนอก</string>
+  <string name="progressbar_extracting_pictures">แยกรูปภาพ...</string>
+  <string name="text_ep_time_start">เริ่ม time(seconds)</string>
+  <string name="text_ep_period">ช่วงเวลาระหว่าง pictures(seconds)</string>
+  <string name="text_ep_no_of_pictures">จำนวนรูปภาพ</string>
+  <string name="text_ep_store">เก็บรูปแยกเป็น:</string>
+  <string name="text_ep_share_external">วางในโฟลเดอร์ภายนอก</string>
+  <string name="text_ep_share_app">แบ่งปันการใช้งาน</string>
+  <string name="message_extract_complete"> แยก picture(s)</string>
+  <string name="message_extract_error">เกิดข้อผิดพลาดในการแยกภาพ</string>
+  <string name="message_search_depth_updated">ความลึกการค้นหาการปรับปรุง</string>
+  <string name="message_search_depth_error">ข้อผิดพลาดในการปรับปรุงการค้นหาความลึก</string>
+</resources>

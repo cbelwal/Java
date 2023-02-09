@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">ビデオのおろし金</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="activity_extract_pictures">画像を抽出します。</string>
+  <string name="button_Select_All">すべてを選択します。</string>
+  <string name="button_UnSelect_All">すべての選択を解除します</string>
+  <string name="button_Delete">削除</string>
+  <string name="button_Update">更新</string>
+  <string name="button_Share">共有</string>
+  <string name="button_Yes">うん</string>
+  <string name="button_No">違います</string>
+  <string name="button_apply">適用</string>
+  <string name="button_browse">[参照]</string>
+  <string name="button_close">閉じる</string>
+  <string name="button_Confirm">確認します。</string>
+  <string name="button_Ok">わかりました</string>
+  <string name="text_import_file_name">名</string>
+  <string name="text_import_file_size">サイズ</string>
+  <string name="general_items">同</string>
+  <string name="general_selected_items">選択</string>
+  <string name="general_error">エラー</string>
+  <string name="title_confirm">確認します。</string>
+  <string name="button_ok">わかりました</string>
+  <string name="button_cancel">キャンセル</string>
+  <string name="free_space">総空き容量:</string>
+  <string name="title_share">共有を使用します。</string>
+  <string name="title_rename">新しい名前を入力してください。</string>
+  <string name="title_create_folder">フォルダー名を入力します。</string>
+</resources>

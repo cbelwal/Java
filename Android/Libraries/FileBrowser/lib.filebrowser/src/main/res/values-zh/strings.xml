@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">项 (s)</string>
+  <string name="general_selected_items">选定</string>
+  <string name="general_error">错误</string>
+  <string name="title_confirm">确认</string>
+  <string name="button_ok">还行</string>
+  <string name="button_cancel">取消</string>
+  <string name="free_space">总可用空间:</string>
+  <string name="title_share">共享使用:</string>
+  <string name="title_rename">输入新名称</string>
+  <string name="title_create_folder">输入文件夹名称</string>
+</resources>

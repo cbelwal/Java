@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">الشرط</string>
+  <string name="filter_text_option">خيارات</string>
+  <string name="filter_text_value_days">أيام</string>
+  <string name="filter_text_value_duration">Duration(s)</string>
+  <string name="filter_text_value_location">موقع</string>
+  <string name="filter_options_from_stored_contacts">من جهات الاتصال المخزنة</string>
+  <string name="filter_options_more_than_entered_days">أكثر من أيام</string>
+  <string name="filter_options_less_than_entered_days">أقل من الأيام</string>
+  <string name="filter_options_more_than_duration">أكثر من المدة</string>
+  <string name="filter_options_less_than_duration">أقل من المدة</string>
+  <string name="filter_options_from_entered_location">من الموقع</string>
+  <string name="filter_options_none">لا يوجد عامل تصفية</string>
+  <string name="filter_show_show">إظهار</string>
+  <string name="filter_show_noshow">عدم إظهار</string>
+</resources>

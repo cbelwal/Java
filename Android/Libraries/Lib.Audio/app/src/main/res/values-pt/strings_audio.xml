@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Ralador de áudio</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="activity_extract_pictures">Extrair o áudio</string>
+  <string name="button_Select_All">Selecionar tudo</string>
+  <string name="button_UnSelect_All">Un-selecionar tudo</string>
+  <string name="button_Delete">Excluir</string>
+  <string name="button_Update">Atualização</string>
+  <string name="button_Share">Compartilhar</string>
+  <string name="button_Yes">Sim</string>
+  <string name="button_No">Não</string>
+  <string name="button_apply">Aplicam-se</string>
+  <string name="button_browse">Procurar</string>
+  <string name="button_close">Fechar</string>
+  <string name="button_play">Jogar</string>
+  <string name="button_stop">Pare</string>
+  <string name="button_Confirm">Confirmar</string>
+  <string name="button_Ok">Okey</string>
+  <string name="text_import_file_name">Nome</string>
+  <string name="text_import_file_size">Tamanho</string>
+  <string name="general_items">Item (ns)</string>
+  <string name="general_selected_items">selecionado</string>
+  <string name="general_error">Erro</string>
+  <string name="title_confirm">Confirmar</string>
+  <string name="button_ok">Okey</string>
+  <string name="button_cancel">Cancelar</string>
+  <string name="free_space">Espaço livre total:</string>
+  <string name="title_share">Compartilhe usando:</string>
+  <string name="title_rename">Digite o novo nome  </string>
+  <string name="title_create_folder">Digite o nome da pasta  </string>
+</resources>

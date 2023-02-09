@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">Mã (s)</string>
+  <string name="general_selected_items">lựa chọn</string>
+  <string name="general_error">Lỗi</string>
+  <string name="title_confirm">Xác nhận</string>
+  <string name="button_ok">Ok</string>
+  <string name="button_cancel">Hủy bỏ</string>
+  <string name="free_space">Tất cả các không gian trống:</string>
+  <string name="title_share">Chia sẻ bằng cách sử dụng:</string>
+  <string name="title_rename">Nhập tên mới  </string>
+  <string name="title_create_folder">Nhập tên thư mục  </string>
+</resources>

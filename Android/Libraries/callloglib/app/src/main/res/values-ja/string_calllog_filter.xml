@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">条件</string>
+  <string name="filter_text_option">オプション</string>
+  <string name="filter_text_value_days">日</string>
+  <string name="filter_text_value_duration">Duration(s)</string>
+  <string name="filter_text_value_location">場所</string>
+  <string name="filter_options_from_stored_contacts">付き合いをしまっておくから</string>
+  <string name="filter_options_more_than_entered_days">日以上</string>
+  <string name="filter_options_less_than_entered_days">日未満</string>
+  <string name="filter_options_more_than_duration">以上の期間</string>
+  <string name="filter_options_less_than_duration">期間よりも短く</string>
+  <string name="filter_options_from_entered_location">場所から</string>
+  <string name="filter_options_none">フィルターなし</string>
+  <string name="filter_show_show">ショー</string>
+  <string name="filter_show_noshow">表示しません。</string>
+</resources>

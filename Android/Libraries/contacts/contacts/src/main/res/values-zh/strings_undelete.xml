@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">所选的联系人将撤消删除。请确认是否您要继续？</string>
+  <string name="message_undelete_complete">恢复的联系人</string>
+  <string name="message_undelete_notice">此选项将列出的联系人，可以撤消删除然后取决于您的设备或 Android 版本的制造商。联系人不能恢复如果设备不允许它，联系人删除了几个小时前或从 SIM 卡中删除了联系人。</string>
+  <string name="message_undelete_option_invalid">此选项无效，无法删除的联系人</string>
+  <string name="message_undelete_help">请选择联系人，并使用撤消删除图标在右上角撤消删除它们</string>
+  <string name="progressbar_undelete_data">未删除联系人</string>
+  <string name="action_undelete">撤消删除联系人</string>
+  <string name="button_understand">我理解</string>
+  <string name="title_disclaimer">免责声明</string>
+  <string name="title_no_undelete_found">抱歉 ！</string>
+  <string name="message_no_undelete_found">我们很抱歉，没有可恢复删除的联系人被发现 ！你可以尝试恢复他们使用手动的方式来提出谷歌的 Android 开发者。
+        将您想要参观的谷歌支持网页具有手动恢复指令吗？
+    </string>
+</resources>

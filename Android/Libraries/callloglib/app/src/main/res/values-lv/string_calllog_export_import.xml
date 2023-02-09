@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Pārlūkot</string>
+  <string name="backup_options_backupusing">Dublēšanu, izmantojot</string>
+  <string name="export_options_externalStorage">Ārējās atmiņas ierīces</string>
+  <string name="share_options_shareas">Dalīties, kā:</string>
+  <string name="share_options_allshare">Koplietot lietojumprogrammas (mākonis,... e-pasts)</string>
+  <string name="share_options_share_using">Koplietot, izmantojot:</string>
+  <string name="share_options_sms">Ziņapmaiņa</string>
+  <string name="share_options_clipboard">Kopēt uz starpliktuvi</string>
+  <string name="export_options_ExportUsing">Saglabāt failu:</string>
+  <string name="progressbar_prepare_data">Notiek gatavošanās zvanu žurnālu sarakstu...</string>
+  <string name="progressbar_backup">Zvanu urnāls dublēšana, tas var ilgt vairākas minūtes...</string>
+  <string name="backup_options_using">Lai saglabātu dublējuma failu:</string>
+  <string name="menu_import_help">palīgā</string>
+  <string name="text_import_file_name">Atlasītā faila nosaukums:</string>
+  <string name="text_import_file_size">Atlasīto failu Size(bytes):</string>
+  <string name="text_unknown_file_size">Nezināms</string>
+  <string name="message_backup_options">Ir ieteicams rezerves daļu lietojumprogrammās kā mākonis, e-pasts utt.
+        Tas ļaus jums atgūt zvanu žurnālu, ja kādreiz pazaudējat savu tālruni.
+        Lai atjaunotu kontaktus no e-pasta/mākonis manuāli saglabāt zvanu žurnālu dublējuma failu no jūsu kontu e-pastu/mākonis uz jebkuru vietu šajā ierīcē. Importa/atjaunošanas utilīta pēc tam automātiski atrodiet failu.</string>
+  <string name="message_importing_contacts">Importējot zvanu log(s)...</string>
+  <string name="message_reading_import_file">Lasot failu, tas var ilgt vairākas minūtes...</string>
+  <string name="export_options_plain_text">Vienkārša teksta</string>
+  <string name="export_options_indv_clm">Atsevišķiem SSE faili</string>
+  <string name="export_options_combined_clm">CLM Apvienoto failu </string>
+  <string name="export_generated_footer">Ģenerēta, izmantojot zvanu žurnālu pārvaldnieks Coju</string>
+  <string name="export_sent_footer">Ģenerēta, izmantojot zvanu žurnālu pārvaldnieks</string>
+  <string name="export_generated_header">Zvanu žurnāls detaļas</string>
+  <string name="message_clipboard_copy">Iekopēts starpliktuvē</string>
+  <string name="message_exporting_calllog">Ieguves kontakts (i)...</string>
+  <string name="message_exporting_calllog_ready">Gatavojas eksportēt kontakts (i)...</string>
+  <string name="message_exporting_calllog_write_file">Rakstot failu (s)...</string>
+  <string name="message_import_help">Tikai failu, kas iegūti no šo app (*. Var importēt failus, SSE)</string>
+  <string name="message_import_invalid_file">Nav derīgs zvanu log failu</string>
+  <string name="message_importing_complete">zvaniet log(s), importēt</string>
+  <string name="message_restore_complete">Zvanu žurnāla ierakstus, kas atjaunota no dublējuma</string>
+  <string name="message_restore_fail">
+        Nevarēja atjaunot no dublējuma, dublējuma faila trūkst vai ir bojāti
+                </string>
+  <string name="message_backup_stored_freeversion">
+        Bezmaksas versija ļauj tikai dublējuma līdz 9 zvanu log(s).
+        Zvanu Log(s) ir bijis dublētos failā:
+    </string>
+  <string name="message_backup_failed">
+        Neizdevās saglabāt dublējuma failu. Lūdzu, mēģiniet vēlreiz. Ja problēma netiek novērsta lūdzu jautājumu ziņot app izdevējs, izmantojot šo app atsauksmju opcijas.
+    </string>
+  <string name="message_restore_selection_finish">
+        Ir atjaunota dublējuma zvanu žurnālus
+    </string>
+  <string name="message_clm_file_not_found">
+        Neviens zvans žurnālu pārvaldnieks (*. Atrada šīs ierīces SSE) failus
+    </string>
+  <string name="message_backup_file_not_found">
+        Atrada šīs ierīces dublējuma faili
+    </string>
+  <string name="message_backup_stored">Kontakti ir bijuši dublētos failā:</string>
+  <string name="message_save_external">Zvanu urnāls saglabāti ārējā mapē: </string>
+  <string name="message_loading_files">Lokālās mapes meklēšana...</string>
+  <string name="message_loading_backup_files">Meklē ierīci dublējuma faili...</string>
+  <string name="message_backup_freeversion">
+        Maksimālais skaits zvanu žurnālus, kas var dublēt šo bezmaksas versija ir:
+    </string>
+  <string name="message_backup_paidversion">
+        Visu zvanu žurnālus ir veiksmīgi dublēts failā
+    </string>
+</resources>

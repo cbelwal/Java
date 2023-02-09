@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">Nowa gra</string>
+  <string name="button_switch_board">Rozdzielnica</string>
+  <string name="button_custom_board">Zestaw deska niestandardowe</string>
+  <string name="button_high_scores">Wysokie wyniki</string>
+  <string name="button_rate_app">Oceń tę grę</string>
+  <string name="button_tell_a_friend">Powiadom znajomego</string>
+  <string name="button_paid_version">Wersja płatna</string>
+  <string name="button_help_documentation">Dokumentacja pomocy</string>
+  <string name="button_demo_video">Film demonstracyjny</string>
+  <string name="button_ok">Ok</string>
+  <string name="button_yes">Tak</string>
+  <string name="button_no">Nr</string>
+  <string name="button_start">Początek</string>
+  <string name="button_cancel">Anuluj</string>
+  <string name="button_abort">Abort</string>
+  <string name="button_high_score_close">Zamknij</string>
+  <string name="title_high_score">Top dziesięć wysokie wyniki</string>
+  <string name="text_high_score_none">Ocena nie na</string>
+  <string name="text_high_score_pegs">Pozostałe peg(s)</string>
+  <string name="text_high_score_time">Czas</string>
+</resources>

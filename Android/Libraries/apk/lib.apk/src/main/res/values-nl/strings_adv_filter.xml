@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">Geïnstalleerd in de laatste 30 dagen</string>
+  <string name="filter_adv_options_security_inappbilling">In-app facturering heeft</string>
+  <string name="filter_adv_options_security_readsms">SMS kan lezen</string>
+  <string name="filter_adv_options_security_sendsms">Kan SMS versturen</string>
+  <string name="filter_adv_options_security_readcontacts">Contactpersonen kunt lezen</string>
+  <string name="filter_adv_options_security_readcalllog">Bellijst kunt lezen</string>
+  <string name="filter_adv_options_security_readcalender">Kalender kunt lezen</string>
+  <string name="filter_adv_options_security_writeexternalstorage">Kunt schrijven naar een extern opslagmedium</string>
+  <string name="filter_adv_options_security_camera">Toegang tot Camera</string>
+  <string name="filter_adv_options_security_mic">Audio kunt opnemen</string>
+  <string name="filter_adv_options_security_location">Toegang tot uw locatie</string>
+  <string name="filter_adv_options_filter">Veiligheid filter/de filters te activeren</string>
+  <string name="filter_main_text">Filter beveiligingsopties (alleen Apps matching om het even wie van deze criterium wordt getoond):</string>
+  <string name="activity_security_filter">Malware weergavefilter</string>
+</resources>

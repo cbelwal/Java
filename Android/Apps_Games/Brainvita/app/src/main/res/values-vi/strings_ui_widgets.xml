@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">Trò chơi mới</string>
+  <string name="button_switch_board">Chuyển đổi bảng</string>
+  <string name="button_custom_board">Thiết lập tùy chỉnh bảng</string>
+  <string name="button_high_scores">Điểm cao</string>
+  <string name="button_rate_app">Tỷ lệ này trò chơi</string>
+  <string name="button_tell_a_friend">Nói cho một người bạn</string>
+  <string name="button_paid_version">Phiên bản trả tiền</string>
+  <string name="button_help_documentation">Tài liệu trợ giúp</string>
+  <string name="button_demo_video">Demo Video</string>
+  <string name="button_ok">Ok</string>
+  <string name="button_yes">Có</string>
+  <string name="button_no">Không</string>
+  <string name="button_start">Bắt đầu</string>
+  <string name="button_cancel">Hủy bỏ</string>
+  <string name="button_abort">Hủy bỏ</string>
+  <string name="button_high_score_close">Đóng</string>
+  <string name="title_high_score">Top 10 cao điểm</string>
+  <string name="text_high_score_none">Không có điểm</string>
+  <string name="text_high_score_pegs">Còn peg(s)</string>
+  <string name="text_high_score_time">Thời gian</string>
+</resources>

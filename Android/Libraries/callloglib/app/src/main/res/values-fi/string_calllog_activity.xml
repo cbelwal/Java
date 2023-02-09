@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_add_call_log">Lisää</string>
+  <string name="activity_edit_call_log">Muokkaa</string>
+  <string name="activity_share_call_log">Osuus</string>
+  <string name="activity_export_call_log">Vienti</string>
+  <string name="activity_import_call_log">Tuonti</string>
+  <string name="activity_bluetooth_call_log">Bluetooth siirto</string>
+  <string name="activity_backup_call_log">Varmuuskopiointi</string>
+  <string name="activity_restore_call_log">Palauttaa</string>
+  <string name="activity_filter_call_log">Näytä suodatin</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">Numéro de téléphone</string>
+  <string name="text_calllog_date">Date</string>
+  <string name="text_calllog_time">Temps</string>
+  <string name="text_calllog_duration">Durée</string>
+  <string name="text_calllog_type">Type de</string>
+  <string name="spinner_calllog_type_incoming">Entrants</string>
+  <string name="spinner_calllog_type_outgoing">Sortants</string>
+  <string name="spinner_calllog_type_missed">Manqué</string>
+  <string name="message_calllog_added">Ajouté avec succès pour appeler Journal</string>
+  <string name="message_calllog_added_error">Défaut dans Ajout d’appeler Journal</string>
+  <string name="message_calllog_edited">Journal des appels avec succès mis à jour</string>
+  <string name="message_calllog_edited_error">Échec dans la mise à jour le journal des appels</string>
+</resources>

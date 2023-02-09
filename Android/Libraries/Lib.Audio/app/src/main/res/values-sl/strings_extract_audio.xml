@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Ime datoteke:</string>
+  <string name="text_ep_file_size">Velikost:</string>
+  <string name="text_ep_modified_date">Datum spremembe:</string>
+  <string name="text_ep_duration">Trajanje:</string>
+  <string name="title_search_depth">Globina iskanja (velike vrednosti traja nekaj minut)</string>
+  <string name="progressbar_extracting_audio">Izvor slišan (lahko traja nekaj minut)...</string>
+  <string name="progressbar_loading_audio">Nalaganje zvočne datoteke podrobnosti...</string>
+  <string name="text_ep_time_start">Začetek time(seconds)</string>
+  <string name="text_ep_period">Trajanje vsakega avdio file(seconds)</string>
+  <string name="text_ep_store">Shranjevanje nove zvočne datoteke kot:</string>
+  <string name="text_ep_share_external">Mesto v zunanjih mapo</string>
+  <string name="text_ep_share_app">Omogočanje skupne rabe prek aplikacije</string>
+  <string name="message_extract_complete"> M4A datoteke so bile ustvarjene</string>
+  <string name="message_extract_error">Prišlo je do napake pri ustvarjanju zvočnih datotek</string>
+  <string name="message_search_depth_updated">Globina iskanja je bila posodobljena</string>
+  <string name="message_search_depth_error">Napaka pri posodabljanju globina iskanja</string>
+  <string name="message_load_complete">Zvočne datoteke podrobnosti naložen</string>
+  <string name="message_load_error">Prišlo je do napake pri nakladanju audio</string>
+  <string name="message_extract_duration_reduced"> Zadnji audio datoteko trajanje zmanjšala kot je bil dosežen konec avdio </string>
+  <string name="message_extract_incomplete"> %1$ d avdio datoteke ni mogoče ustvariti ali nepopolne informacije</string>
+  <string name="message_extract_signature">Poslano Audio Rende od coju.mobi™</string>
+</resources>

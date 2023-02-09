@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Peg Solitaire Oplosser</string>
+  <string name="message_tellafriend">Dit app is het geestelijk uitdagende spel van Peg Solitaire, ook bekend als Marble solitaire of Brainvita. Het doel van het spel is om naar het minimum aantal pinnen mogelijk. Haringen worden verplaatst naar een leeg gat na het springen over een ander peg in een rechte lijn. De sprong over peg wordt verwijderd, op deze manier na elk verplaatsen het aantal pinnen zijn verminderd door één. \n\n afgezien van de standaard spel, deze app kunt u uw eigen aangepaste board op te lossen. Er zijn Back en Forward knoppen waarmee u kunt teruggaan naar een willekeurig aantal bewegingen en het spel houdt ook hoge scores.\n\n echter wat dit app echt uniek maakt is zijn krachtige peg solitaire Oplosser. De Oplosser maakt gebruik van een fatsoen \'state-space\' algoritme om op te lossen van een bepaald bestuur. De Oplosser zal komen met alle bewegingen die nodig zijn om te komen tot het minimum aantal pinnen.
+        Als u de Oplosser vanaf het begin op een nieuw bestuur zal tonen u alle bewegingen die tot een peg leiden zal. Omdat het een oplossing voor een Raad van bestuur vindt, de Oplosser kan duren een paar minuten om te komen tot een solution.\n\n verlenen op te uitproberen! \n</string>
+</resources>

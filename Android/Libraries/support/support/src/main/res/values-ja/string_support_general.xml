@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic、LLC</string>
+  <string name="feedback_no_email">電子メール クライアントが見つかりません</string>
+  <string name="button_yes">うん</string>
+  <string name="button_no">違います</string>
+  <string name="nav_menu_help_doc">ヘルプ ドキュメント</string>
+  <string name="button_rate_never">ぜんぜん</string>
+  <string name="button_rate_later">あとで</string>
+  <string name="button_rate_now">今</string>
+  <string name="title_rate_this_app">このアプリを評価してください。</string>
+  <string name="title_feedback">電子メール オプションを選択してください.</string>
+  <string name="title_demo_video">デモ ・ ビデオ</string>
+  <string name="title_tellafriend">を介して友達に教える.</string>
+  <string name="title_send_feedback">お問い合わせ</string>
+  <string name="title_rate_app">料金アプリ</string>
+</resources>

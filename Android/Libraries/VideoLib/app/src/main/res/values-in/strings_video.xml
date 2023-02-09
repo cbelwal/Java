@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video parutan</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="activity_extract_pictures">Ekstrak gambar</string>
+  <string name="button_Select_All">Pilih Semua</string>
+  <string name="button_UnSelect_All">Un Pilih Semua</string>
+  <string name="button_Delete">Hapus</string>
+  <string name="button_Update">Update</string>
+  <string name="button_Share">Berbagi</string>
+  <string name="button_Yes">Ya</string>
+  <string name="button_No">Tidak</string>
+  <string name="button_apply">Menerapkan</string>
+  <string name="button_browse">Jelajahi</string>
+  <string name="button_close">Tutup</string>
+  <string name="button_Confirm">Konfirmasi</string>
+  <string name="button_Ok">Oke</string>
+  <string name="text_import_file_name">Nama</string>
+  <string name="text_import_file_size">Ukuran</string>
+  <string name="general_items">item</string>
+  <string name="general_selected_items">dipilih</string>
+  <string name="general_error">Kesalahan</string>
+  <string name="title_confirm">Konfirmasi</string>
+  <string name="button_ok">Oke</string>
+  <string name="button_cancel">Batal</string>
+  <string name="free_space">Jumlah ruang gratis:</string>
+  <string name="title_share">Berbagi menggunakan:</string>
+  <string name="title_rename">Masukkan nama baru  </string>
+  <string name="title_create_folder">Masukkan nama folder  </string>
+</resources>

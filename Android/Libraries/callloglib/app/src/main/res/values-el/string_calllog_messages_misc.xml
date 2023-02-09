@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Δεν έχει χορηγηθεί άδεια για την πραγματοποίηση κλήσεων σε αυτό το app</string>
+  <string name="message_search_number_security_exception">Δεν θα μπορούσε να αναζήτηση σε αυτόν τον αριθμό τηλεφώνου! Αναζήτηση Google δεν είναι ενεργοποιημένη ή δεν έχει χορηγηθεί άδεια σε αυτήν τη συσκευή</string>
+  <string name="message_free_version_selection">
+        Καταχωρήσεις αρχείου καταγραφής μέγιστο που μπορεί να επιλεγεί στη δωρεάν έκδοση είναι: </string>
+  <string name="message_purchase_error">
+        Δεν μπόρεσαν να συνδεθούν σε διακομιστή της Google. Επανεκκινήστε την εφαρμογή και προσπαθήστε ξανά
+    </string>
+</resources>

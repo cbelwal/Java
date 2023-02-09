@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Bellijst</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">Onbekend</string>
+  <string name="button_Yes">Ja</string>
+  <string name="button_No">No</string>
+  <string name="button_Apply">Toepassing</string>
+  <string name="button_Close">Sluiten</string>
+  <string name="general_not_Available">Niet beschikbaar</string>
+  <string name="general_items">item (s)</string>
+  <string name="general_selected_items">geselecteerd</string>
+  <string name="title_confirm">Bevestigen</string>
+  <string name="title_dialog_coju">Downloaden Coju</string>
+  <string name="message_selectitems">Atleast 1 logboek een vermelding moet worden geselecteerd</string>
+  <string name="message_download_coju">Coju is een geïntegreerde Contactbeheer app. Het heeft alle functies van deze app plus extra mogelijkheden. Zal u willen downloaden van Coju?</string>
+  <string name="message_contact_permissions_missing">Contactpersonen machtigingen zijn vereist voor dit app om te werken. App zal nu sluiten, Geef machtigingen en probeer het opnieuw</string>
+  <string name="message_other_permissions_missing">Gevraagde machtigingen zijn vereist voor de functie van deze app om te werken.
+        Geef de gevraagde machtigingen en probeer het opnieuw</string>
+</resources>

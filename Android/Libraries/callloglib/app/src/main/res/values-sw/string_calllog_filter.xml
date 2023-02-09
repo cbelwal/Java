@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">Hali</string>
+  <string name="filter_text_option">Machaguo</string>
+  <string name="filter_text_value_days">Siku</string>
+  <string name="filter_text_value_duration">Duration(s)</string>
+  <string name="filter_text_value_location">Mahali pa</string>
+  <string name="filter_options_from_stored_contacts">Kutoka kwa Wawasiliani zilizohifadhiwa</string>
+  <string name="filter_options_more_than_entered_days">Zaidi ya siku</string>
+  <string name="filter_options_less_than_entered_days">Chini ya siku</string>
+  <string name="filter_options_more_than_duration">Zaidi ya muda</string>
+  <string name="filter_options_less_than_duration">Chini ya muda</string>
+  <string name="filter_options_from_entered_location">Kutoka mahali</string>
+  <string name="filter_options_none">Kichujio hakuna</string>
+  <string name="filter_show_show">Onyesha</string>
+  <string name="filter_show_noshow">Onyesha</string>
+</resources>

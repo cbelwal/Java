@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">اگر مشکلی در نرم افزار شما می خواهم به ایمیل ناشر و حل مسئله است؟</string>
+  <string name="message_check_for_rating">می خواهید به ترک انتقادات و پیشنهادات برای این برنامه?</string>
+  <string name="message_tellafriend_subject">این برنامه را بررسی کنید</string>
+  <string name="message_email_send_error">خطا در ارسال ایمیل</string>
+  <string name="message_tellafriend_body">بررسی هی, از این app:\n سرد</string>
+  <string name="message_start_activity_error">یک مشکلی در شروع فعالیت. \n</string>
+  <string name="message_demo_video">شما می خواهم به تماشای ویدئو تظاهرات.
+        (این پیام تنها یک بار نشان داده شده است)؟</string>
+  <string name="message_help_documentation_fail">قادر به بارگیری راهنمای نمی باشد.
+    لطفا http://www.dasmic.com از مرورگر به کمک.</string>
+  <string name="message_rate_this_app">شما دیگران را با امتیاز این برنامه کمک می توانید است؟</string>
+  <string name="message_rate_this_app_error">رتبه صفحه را باز کند. لطفا فروشگاه بازی گوگل را برای دادن امتیاز استفاده از</string>
+  <string name="message_feedback_subject">نرم افزار بازخورد برای</string>
+</resources>

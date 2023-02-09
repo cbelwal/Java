@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Atleast 1 atlase nav jāveic</string>
+  <string name="message_save_external">APK faili, kas saglabāti ārējā mapē: </string>
+  <string name="message_free_version_selection">Tikai 3 progr bezmaksas versija vienlaikus var atlasīt</string>
+  <string name="message_free_version_option">Šī opcija ir pieejama tikai tām samaksājis versiju</string>
+  <string name="message_activity_load_fail">Lietojumprogrammu nevar startēt</string>
+  <string name="message_activity_loading">Sākot programmu...</string>
+  <string name="message_loading_files">Lokālās mapes meklēšana...</string>
+  <string name="message_deleting_files">Lūdzu, apstipriniet individuāli katram iepakojumam izvēlēts.
+    Pakotņu sistēma būs atinstalēt tikai no lietotāja konta</string>
+  <string name="message_save_external_suffix">. Var piekļūt mapes, savienojot tālruni ar datoru, izmantojot USB utt. </string>
+  <string name="message_rate_this_app_error">Nevarēja atvērt lapu reitings</string>
+  <string name="message_share_link_prefix">Sveiki, \r\n\r\nCheck to: </string>
+  <string name="message_share_link_suffix">Nosūtīts, izmantojot APKit</string>
+  <string name="message_share_report_prefix">Pakotnes pārskats</string>
+  <string name="message_share_report_suffix">Ģenerēt un nosūtīt, izmantojot</string>
+  <string name="message_other_permissions_missing">Pieprasīto atļauju ir nepieciešami šo funkciju, lai strādātu. Lūdzu piešķirt pieprasītās atļaujas un mēģiniet vēlreiz
+    </string>
+  <string name="message_purchase_error">
+        Nevar izveidot savienojumu ar Google serveri. Lūdzu, restartējiet app un mēģiniet vēlreiz
+    </string>
+</resources>

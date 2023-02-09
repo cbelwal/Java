@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Dosya adı:</string>
+  <string name="text_ep_file_size">Boyut:</string>
+  <string name="text_ep_modified_date">Değiştirme tarihi:</string>
+  <string name="text_ep_duration">Süre:</string>
+  <string name="title_search_depth">Arama derinliği (büyük değerler birkaç dakika sürer)</string>
+  <string name="progressbar_extracting_audio">(Birkaç dakika sürebilir) ses çıkarma...</string>
+  <string name="progressbar_loading_audio">Ses dosyası bilgileri yükleniyor...</string>
+  <string name="text_ep_time_start">Başlangıç time(seconds)</string>
+  <string name="text_ep_period">Her ses file(seconds) süresi</string>
+  <string name="text_ep_store">Yeni ses dosyaları olarak depola:</string>
+  <string name="text_ep_share_external">Dış klasörüne yerleştirin</string>
+  <string name="text_ep_share_app">Uygulamaları kullanarak paylaşmak</string>
+  <string name="message_extract_complete"> M4A dosya (lar) oluşturulan</string>
+  <string name="message_extract_error">Ses dosyalarını oluştururken bir hatayla karşılaşıldı</string>
+  <string name="message_search_depth_updated">Arama derinliği güncelleştirildi</string>
+  <string name="message_search_depth_error">Arama derinliği güncelleştirme hatası</string>
+  <string name="message_load_complete">Ses dosyası ayrıntıları yüklü</string>
+  <string name="message_load_error">Ses yüklenirken bir hata oluştu</string>
+  <string name="message_extract_duration_reduced"> Ses sonuna ulaşıldı gibi son ses dosyası süresi düşürüldü </string>
+  <string name="message_extract_incomplete"> %1$ d ses dosya oluşturulamadı ya da eksik bilgi var</string>
+  <string name="message_extract_signature">Coju.mobi™ ses rende ile gönderilen</string>
+</resources>

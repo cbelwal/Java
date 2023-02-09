@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Ime + število WhatsApp tekmo</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">Enakim številom WhatsApp v več imen</string>
+  <string name="duplicate_options_name_matches_email_phone">Ime + telefon/Email tekmo</string>
+  <string name="duplicate_options_name_matches_phone">Ime + telefon tekmo</string>
+  <string name="duplicate_options_name_matches_email">Ime + Email tekmo</string>
+  <string name="duplicate_options_same_number_multi_name">Isto številko v več imen</string>
+  <string name="duplicate_options_same_email_multi_name">Isto email v več imen</string>
+  <string name="duplicate_options_none">Nobena</string>
+  <string name="progressbar_sel_duplicates">Iskanje podvojene...</string>
+  <string name="message_duplicates_selected">Če želite izbrisati izbrane duplicate(s) pritisnite ikono Izbriši. Original(master) vrednost za vsako dvojnik ni izbrana in ne bodo izbrisani.</string>
+  <string name="choose_duplicate_option">Izberite merilo za ugotavljanje dvojnike.
+        Dvojnike skupaj z njihovo original(master) vrednost prikaže v glavnem zaslonu in bo samodejno preveril za brisanje. Original(Master) vrednost se ne preverja.</string>
+  <string name="startup_message">Uporabite podvojene ikono v zgornjem desnem nastaviti možnost, da za dvojnike</string>
+  <string name="message_duplicates_backup">Priporočljivo je, da naredite varnostno kopijo vaših stikov pred brisanjem</string>
+</resources>

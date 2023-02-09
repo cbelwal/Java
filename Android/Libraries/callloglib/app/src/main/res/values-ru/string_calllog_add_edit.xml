@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">Номер телефона</string>
+  <string name="text_calllog_date">Дата</string>
+  <string name="text_calllog_time">Время</string>
+  <string name="text_calllog_duration">Duration(s)</string>
+  <string name="text_calllog_type">Тип</string>
+  <string name="spinner_calllog_type_incoming">Входящие</string>
+  <string name="spinner_calllog_type_outgoing">Исходящие</string>
+  <string name="spinner_calllog_type_missed">Пропустили</string>
+  <string name="message_calllog_added">Успешно добавлены в журнал вызовов</string>
+  <string name="message_calllog_added_error">Неудача в добавление к журнал вызовов</string>
+  <string name="message_calllog_edited">Успешно Обновлено звонков</string>
+  <string name="message_calllog_edited_error">Сбой при обновлении журнала вызовов</string>
+</resources>

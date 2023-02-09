@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">電話番号</string>
+  <string name="text_calllog_date">日付</string>
+  <string name="text_calllog_time">時間</string>
+  <string name="text_calllog_duration">Duration(s)</string>
+  <string name="text_calllog_type">タイプ</string>
+  <string name="spinner_calllog_type_incoming">着信</string>
+  <string name="spinner_calllog_type_outgoing">発信</string>
+  <string name="spinner_calllog_type_missed">逃した</string>
+  <string name="message_calllog_added">コールログに追加されました</string>
+  <string name="message_calllog_added_error">コールログに追加できません。</string>
+  <string name="message_calllog_edited">正常に更新された呼出し丸太</string>
+  <string name="message_calllog_edited_error">呼び出しログの更新に失敗</string>
+</resources>

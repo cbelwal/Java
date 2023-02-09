@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Peg Solitaire Solver</string>
+  <string name="message_tellafriend">Aplikasi ini adalah mental challening permainan solitaire Peg juga dikenal sebagai marmer solitaire atau Brainvita. Tujuan dari permainan adalah untuk mendapatkan jumlah minimal satu pasak sebanyak mungkin. Pasak akan dipindahkan ke lubang kosong setelah melompati pasak lain dalam garis lurus. Pasak melompati dihapus, cara ini setelah masing-masing bergerak jumlah pasak berkurang oleh satu. \n\n dari permainan standar, aplikasi ini memungkinkan Anda untuk mengatur Forum kustom Anda sendiri untuk memecahkan. Ada Back dan Forward tombol yang memungkinkan Anda kembali ke sejumlah bergerak dan permainan juga terus tinggi scores.\n\n Namun, apa yang membuat aplikasi ini benar-benar unik adalah yang kuat pasak solitaire solver. Solver menggunakan \'state-space\ kepatutan \' algoritma untuk memecahkan setiap papan tertentu. Solver akan datang dengan semua langkah yang diperlukan untuk datang ke minimum jumlah mungkin pasak.
+        Jika Anda menjalankan pemecah dari awal di papan baru itu akan menunjukkan semua gerakan yang akan membawa kepada satu pasak. Karena menemukan solusi untuk setiap papan, solver dapat mengambil beberapa menit untuk datang ke solution.\n\n mencobanya! \n</string>
+</resources>

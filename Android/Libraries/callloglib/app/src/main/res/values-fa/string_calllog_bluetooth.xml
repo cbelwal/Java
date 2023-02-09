@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">شماره تماس انتخابی log(s): </string>
+  <string name="text_bt_paired_devices"> دستگاه زوج (جهت اتصال را انتخاب کنید)</string>
+  <string name="text_bt_new_devices"> دستگاه های جدید (جهت اتصال را انتخاب کنید)</string>
+  <string name="message_bt_scan_devices">اسکن برای دستگاه های...</string>
+  <string name="message_bt_scan_complete">اسکن تمام شده برای دستگاه های</string>
+  <string name="message_bt_pair_devices">جفت سازی دستگاه...</string>
+  <string name="message_bt_new_none">دستگاه های جدید پیدا کردم</string>
+  <string name="message_bt_pair_none">هیچ دستگاه زوج یافت</string>
+  <string name="message_bt_conn_lost">اتصال به دستگاه از دست داده</string>
+  <string name="message_bt_connecting">اتصال به: </string>
+  <string name="message_bt_not_enabled">بلوتوث فعال نشده، بسته شدن انتقال بلوتوث</string>
+  <string name="message_bt_status_listening">گوش دادن...</string>
+  <string name="message_bt_status_connecting">اتصال...</string>
+  <string name="message_bt_status_connected">متصل</string>
+  <string name="message_bt_testdata_sent">Testdata ارسال</string>
+  <string name="message_bt_no_contacts">هیچ تماسی انتخاب شده ارسال</string>
+  <string name="message_bt_recv_complete">دریافت اطلاعات کامل</string>
+  <string name="message_bt_not_connected">به هر دستگاه متصل</string>
+  <string name="message_bt_adapter_error">خطایى در تنظیمات بلوتوث وجود دارد.
+            اگر تلفن شما دارای بلوتوث و آداپتور بلوتوث را فعال کنید لطفا</string>
+  <string name="menu_bt_make_discoverable">دستگاه پدیدار کنید</string>
+  <string name="progressbar_bt_recv_data">آماده برای دریافت داده های تماس...</string>
+  <string name="message_bt_connected">به دستگاه متصل.
+        \'Send\ را فشار دهید \"برای انتقال تماس log(s) به: </string>
+  <string name="message_bt_conn_failed">اتصال به دستگاه ناموفق بود.
+    لطفا مطمئن باشید که این برنامه نصب شده است و صفحه بلوتوث در باز است: </string>
+  <string name="message_bt_sent_error">قادر به انتقال این شماره تماس log(s) نیست: </string>
+  <string name="message_bt_recv_error">قادر به ایجاد این شماره تماس log(s) نیست: </string>
+  <string name="message_bt_create_complete">ایجاد تماس دریافت log(s): </string>
+  <string name="message_bt_sent_complete">log(s) تماس ارسال به دستگاه: </string>
+  <string name="progressbar_bt_send_data">انتقال تماس log(s) </string>
+  <string name="progressbar_bt_bytes">کلمه در ادامه متن </string>
+  <string name="progressbar_bt_create_contacts">ایجاد تماس log(s)</string>
+  <string name="progressbar_delete_data">
+        حذف تماس log(s) </string>
+  <string name="button_scan">اسکن</string>
+  <string name="button_send">ارسال</string>
+</resources>

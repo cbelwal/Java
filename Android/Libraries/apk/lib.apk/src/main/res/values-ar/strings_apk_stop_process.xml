@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">إيقاف تشغيل</string>
+  <string name="message_stop_tasks">إيقاف تشغيل المهام...</string>
+  <string name="message_user_tasks_stopped">مهام المستخدم إيقاف</string>
+  <string name="message_system_tasks_stopped">توقف مهام النظام</string>
+  <string name="message_process_still_running">المهام التي لا تزال قيد التشغيل</string>
+  <string name="message_stop_running_tasks">إيقاف تشغيل تطبيقات وإغلاق بلوتوث لاسلكية؟</string>
+  <string name="message_stopping_running_tasks">إيقاف بلوتوث والاتصالات اللاسلكية</string>
+  <string name="message_battery_current_percentage">الحالي % مستوى البطارية:</string>
+  <string name="message_no_user_process">لا توجد عملية المستخدم قيد التشغيل العثور على</string>
+</resources>

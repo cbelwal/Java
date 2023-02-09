@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">Conectat la aparat.
+        Apăsaţi \'Send\' pentru a transfera contacte la: </string>
+  <string name="message_bt_conn_failed">Conexiunea a eşuat la dispozitiv.
+    Vă rugăm să vă asigura că această app este instalat şi Bluetooth ecran este deschisă în: </string>
+  <string name="message_bt_sent_error">Ar putea transfera aceste numărul de persoana de contact: </string>
+  <string name="message_bt_recv_error">Imposibil de creat aceste numărul de persoana de contact: </string>
+  <string name="message_bt_create_complete">Persoana de contact primite creat: </string>
+  <string name="message_bt_sent_complete">Contactele trimise la aparat: </string>
+  <string name="progressbar_bt_send_data">Transferul de contactele unice </string>
+  <string name="progressbar_bt_bytes">octeţi </string>
+  <string name="progressbar_bt_create_contacts">Crearea persoana de contact (contact cu imagine necesita mai mult timp)</string>
+  <string name="message_free_version_selection">
+        Contacte maxime care pot fi selectate în versiunea gratuită este: </string>
+  <string name="progressbar_delete_data">
+        Şterge persoana de contact unic </string>
+</resources>

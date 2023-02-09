@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">전화 번호</string>
+  <string name="text_calllog_date">날짜</string>
+  <string name="text_calllog_time">시간</string>
+  <string name="text_calllog_duration">Duration(s)</string>
+  <string name="text_calllog_type">유형</string>
+  <string name="spinner_calllog_type_incoming">들어오</string>
+  <string name="spinner_calllog_type_outgoing">나가는</string>
+  <string name="spinner_calllog_type_missed">보고 싶 었 어</string>
+  <string name="message_calllog_added">성공적으로 로그를 호출에 추가</string>
+  <string name="message_calllog_added_error">전화 로그를 추가에 실패</string>
+  <string name="message_calllog_edited">성공적으로 업데이트 호출 로그</string>
+  <string name="message_calllog_edited_error">콜 로그를 업데이트 실패</string>
+</resources>

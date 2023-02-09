@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> partner frissülni fog. Ez a művelet nem vonható vissza. Folytatja?</string>
+  <string name="message_update_complete"> partner frissítve</string>
+  <string name="message_save_external">A külső mappában tárolt kapcsolatokat: </string>
+  <string name="message_import">Csak a Vcard és a CSV fájl importálható (használ \'Browse\' betöltéséhez a fájl (ok) más forrásokból</string>
+  <string name="message_loading_files">Helyi mappák keresése...</string>
+  <string name="message_loading_backup_files">Hát fájlokat() eszköz keresése...</string>
+  <string name="message_importing_contacts_complete">partner importálása</string>
+  <string name="message_save_external_suffix">. Mappa érhető a telefon csatlakoztatása a számítógéphez USB stb. </string>
+  <string name="message_selectitems">Atleast 1 kapcsolat ki kell választani</string>
+  <string name="message_delete_confirm">Kijelölt partner adatait törölni kell. Ez a művelet nem vonható vissza. Folytatja?</string>
+  <string name="message_delete_complete"> Contact(s) törölt adatot</string>
+  <string name="message_free_import_limit">Fájl tartalmaz több partner, mint az ingyenes változat engedélyezett</string>
+  <string name="message_rate_this_app_error">Rating oldal megnyitása nem sikerült. Kérjük, goto Google Play, és ennek megfelelően mértéke</string>
+  <string name="message_edit">Egy időben csak 1 kapcsolat lehet szerkeszteni. </string>
+  <string name="message_backup_stored">Kapcsolatok van már mentett fájl:</string>
+  <string name="message_download_coju">Coju egy integrált kapcsolat vezetés app. Ez birtokol minden a jellegét meghatározza-ból ez app plusz további lehetőségeket. Majd kíván letölteni Coju?</string>
+  <string name="message_contact_permissions_missing">Ez app, hogy a munka kapcsolatok engedélyek szükségesek. App most zárja be, kérjük adjon, és próbálja újra</string>
+  <string name="message_other_permissions_missing">Ez app vonás-hoz dolgozik kért engedélyek szükségesek.
+        Kérjük adja meg a kért engedélyeket, majd próbálkozzon újra</string>
+  <string name="message_backup_freeversion">
+        Az, hogy ez szabad változat lehet elmentett kapcsolatok maximális száma:
+    </string>
+  <string name="message_backup_paidversion">
+        Minden, amit a partnerek sikeres mentett fájl
+    </string>
+  <string name="message_purchase_error">
+        Nem sikerült csatlakozni a Google szolgál. Indítsa újra a app, és próbálja újra
+    </string>
+</resources>

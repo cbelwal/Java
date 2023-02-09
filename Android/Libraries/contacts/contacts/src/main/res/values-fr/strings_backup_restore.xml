@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        Version gratuite seulement permet la sauvegarde des contacts jusqu\'à 200.
+        Contacts ont été sauvegardés dans le fichier :
+    </string>
+  <string name="message_backup_failed">
+        Impossible d’enregistrer le fichier de sauvegarde, s’il vous plaît essayer à nouveau. Si le problème persiste Veuillez signaler problème éditeur app à l’aide de l’option de retour dans cette application.
+    </string>
+</resources>

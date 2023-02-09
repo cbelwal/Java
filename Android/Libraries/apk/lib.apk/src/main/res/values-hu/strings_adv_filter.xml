@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">Az elmúlt 30 napban telepített</string>
+  <string name="filter_adv_options_security_inappbilling">A számlázás-app</string>
+  <string name="filter_adv_options_security_readsms">Tudja olvasni az SMS</string>
+  <string name="filter_adv_options_security_sendsms">Tud küld SMS</string>
+  <string name="filter_adv_options_security_readcontacts">Olvasható névjegyzék</string>
+  <string name="filter_adv_options_security_readcalllog">Tudja olvasni a hívásnapló</string>
+  <string name="filter_adv_options_security_readcalender">Tudja olvasni a naptár</string>
+  <string name="filter_adv_options_security_writeexternalstorage">Lehet írni, hogy a külső tároló</string>
+  <string name="filter_adv_options_security_camera">Hozzáférhet a kamera</string>
+  <string name="filter_adv_options_security_mic">Tud feljegyzés Audio</string>
+  <string name="filter_adv_options_security_location">Lehet a helyadataihoz való hozzáférést</string>
+  <string name="filter_adv_options_filter">Aktiválása a biztonsági szűrő</string>
+  <string name="filter_main_text">Biztonsági beállítások szűrése (csak Apps egyező, az egyik ilyen kritérium jelenik meg):</string>
+  <string name="activity_security_filter">Malware megjelenítési szűrő</string>
+</resources>

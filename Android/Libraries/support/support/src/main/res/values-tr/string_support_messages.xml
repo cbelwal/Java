@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">Belgili tanımlık app ile ilgili bir sorun varsa, publisher e-posta ve sorunu çözmek sever mi?</string>
+  <string name="message_check_for_rating">Bu uygulama için geribildirim sever mi?</string>
+  <string name="message_tellafriend_subject">Bu app kontrol edin</string>
+  <string name="message_email_send_error">E-posta gönderme hata</string>
+  <string name="message_tellafriend_body">Hey, kontrol bu serin app:\n</string>
+  <string name="message_start_activity_error">Etkinlik. \n başlayan bir sorun vardı</string>
+  <string name="message_demo_video">Watch gösteri video gibi olacak.
+        (Bu iletiyi yalnızca bir kez gösterilir)?</string>
+  <string name="message_help_documentation_fail">Yardım belgelerine yüklenemedi.
+    Lütfen http://www.dasmic.com görmek için ziyaret edin yardım.</string>
+  <string name="message_rate_this_app">Bu app derecelendirerek başkalarına yardım edebilirim?</string>
+  <string name="message_rate_this_app_error">Beğeni sayfası açılamadı. Lütfen bir derece vermek için Google oyun deposu kullanın</string>
+  <string name="message_feedback_subject">App geribildirim için</string>
+</resources>

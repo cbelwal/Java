@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video raastin</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="activity_extract_pictures">Ote kuvia</string>
+  <string name="button_Select_All">Valitse kaikki</string>
+  <string name="button_UnSelect_All">Un-Valitse kaikki</string>
+  <string name="button_Delete">Poista</string>
+  <string name="button_Update">Päivitys</string>
+  <string name="button_Share">Osuus</string>
+  <string name="button_Yes">Kyllä</string>
+  <string name="button_No">Ei</string>
+  <string name="button_apply">Sovelletaan</string>
+  <string name="button_browse">Selaa</string>
+  <string name="button_close">Sulje</string>
+  <string name="button_Confirm">Vahvista</string>
+  <string name="button_Ok">Okei</string>
+  <string name="text_import_file_name">Nimi</string>
+  <string name="text_import_file_size">Kokoa</string>
+  <string name="general_items">Kohteet</string>
+  <string name="general_selected_items">valittu</string>
+  <string name="general_error">Virhe</string>
+  <string name="title_confirm">Vahvista</string>
+  <string name="button_ok">Okei</string>
+  <string name="button_cancel">Peruuta</string>
+  <string name="free_space">Vapaa tila:</string>
+  <string name="title_share">Jaa, käyttäen:</string>
+  <string name="title_rename">Anna uusi nimi  </string>
+  <string name="title_create_folder">Kirjoita kansionimi  </string>
+</resources>

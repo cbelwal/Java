@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Nama + nomor WhatsApp pertandingan</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">Nomor WhatsApp sama di beberapa nama</string>
+  <string name="duplicate_options_name_matches_email_phone">Nama + pertandingan telepon/Email</string>
+  <string name="duplicate_options_name_matches_phone">Nama + telepon pertandingan</string>
+  <string name="duplicate_options_name_matches_email">Nama + Email pertandingan</string>
+  <string name="duplicate_options_same_number_multi_name">Nomor yang sama di beberapa nama</string>
+  <string name="duplicate_options_same_email_multi_name">Email yang sama di beberapa nama</string>
+  <string name="duplicate_options_none">Tidak ada</string>
+  <string name="progressbar_sel_duplicates">Pemindaian untuk duplikat...</string>
+  <string name="message_duplicates_selected">Untuk menghapus dipilih duplicate(s) tekan ikon Hapus. Nilai original(master) untuk setiap duplikat tidak dipilih dan tidak akan dihapus.</string>
+  <string name="choose_duplicate_option">Memilih kriteria untuk mengidentifikasi duplikat.
+        Duplikat dengan nilai original(master) mereka akan ditampilkan di layar utama dan akan auto-dicek untuk penghapusan. Original(master) nilai tidak dicentang.</string>
+  <string name="startup_message">Gunakan ikon duplikat di kanan untuk mengatur view pilihan bagi duplikat</string>
+  <string name="message_duplicates_backup">Dianjurkan bahwa Anda membuat cadangan kontak Anda sebelum menghapusnya</string>
+</resources>

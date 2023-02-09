@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Jina la faili:</string>
+  <string name="text_ep_file_size">Ukubwa:</string>
+  <string name="text_ep_modified_date">Tarehe ya marekebisho:</string>
+  <string name="text_ep_duration">Muda:</string>
+  <string name="title_search_depth">Utafutaji wa kina (thamani kubwa itachukua dakika kadhaa)</string>
+  <string name="progressbar_extracting_audio">Kuchimba sauti (inaweza kuchukua dakika kadhaa)...</string>
+  <string name="progressbar_loading_audio">Kupakia faili sikizi maelezo...</string>
+  <string name="text_ep_time_start">Kuanza time(seconds)</string>
+  <string name="text_ep_period">Muda wa file(seconds) kila sauti</string>
+  <string name="text_ep_store">Hifadhi faili mpya sauti kama:</string>
+  <string name="text_ep_share_external">Weka katika folda ya nje</string>
+  <string name="text_ep_share_app">Kushiriki kwa kutumia maombi</string>
+  <string name="message_extract_complete"> Faili ya M4A kuundwa</string>
+  <string name="message_extract_error">Kosa limejitokeza katika kuunda faili sikizi</string>
+  <string name="message_search_depth_updated">Kina utafutaji Ilisasishwa</string>
+  <string name="message_search_depth_error">Kosa katika kusasaisha utafutaji wa kina</string>
+  <string name="message_load_complete">Maelezo ya Faili Sikizi pakiwa</string>
+  <string name="message_load_error">Kulikuwa na kosa katika kupakia sikizi</string>
+  <string name="message_extract_duration_reduced"> Muda ya Faili Sikizi ya mwisho alikuwa kupunguzwa kama mwisho wa sauti yalifikiwa </string>
+  <string name="message_extract_incomplete"> %1$ d sauti Faili haikuweza kuundwa au kuwa na taarifa kamili</string>
+  <string name="message_extract_signature">Zilizotumwa kupitia sauti Grater coju.mobi™</string>
+</resources>

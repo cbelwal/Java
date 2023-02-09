@@ -1,0 +1,49 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:title="Search"
+        app:showAsAction="always|collapseActionView"
+        app:actionLayout="@layout/ui_searchview_fb"
+        android:orderInCategory="1"/>
+    <!--item android:id="@+id/action_filter" android:title="@string/action_filter"
+        android:orderInCategory="3" app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_filter_list_black_48dp"/-->
+    <item android:id="@+id/action_delete" android:title="@string/action_delete"
+        android:orderInCategory="2" app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_delete" />
+    <item android:id="@+id/action_share"
+        android:title="@string/action_share"
+        android:orderInCategory="4" app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_share" />
+    <item android:id="@+id/menu_dts_overflow"
+        android:icon="@drawable/abc_ic_menu_overflow_material"
+        android:orderInCategory="6"
+        app:showAsAction="ifRoom"
+        android:title="overflow">
+        <menu>
+            <item android:id="@+id/action_copy"
+                android:title="@string/action_copy"
+                android:orderInCategory="8" app:showAsAction="always|withText"
+                android:icon="@drawable/ic_content_copy_black_48dp" />
+            <item android:id="@+id/action_rename"
+                android:title="@string/action_rename"
+                android:orderInCategory="10" app:showAsAction="always|withText"
+                android:icon="@drawable/ic_trending_flat_black_48dp" />
+            <item android:id="@+id/action_create_folder"
+                android:title="@string/action_create_folder"
+                android:orderInCategory="12" app:showAsAction="always|withText"
+                android:icon="@drawable/ic_create_new_folder_black_48dp"
+                android:visible="false"/>
+            <!-- item android:id="@+id/action_move"
+                android:title="@string/action_move"
+                android:orderInCategory="10" app:showAsAction="ifRoom"
+                android:icon="@drawable/ic_details_black_48dp" /-->
+            <item android:id="@+id/action_share_zip"
+                android:title="@string/action_share_zip"
+                android:orderInCategory="14" app:showAsAction="always|withText"
+                android:icon="@drawable/ic_archive_black_48dp" />
+        </menu>
+    </item>
+
+</menu>

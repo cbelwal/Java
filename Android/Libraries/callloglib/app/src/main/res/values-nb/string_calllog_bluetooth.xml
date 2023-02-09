@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Antall valgte oppringingen loggene: </string>
+  <string name="text_bt_paired_devices"> Sammenkoblede enheter (Velg koble)</string>
+  <string name="text_bt_new_devices"> Nye enheter (Velg koble)</string>
+  <string name="message_bt_scan_devices">Søker etter enheter...</string>
+  <string name="message_bt_scan_complete">Ferdig skanning for enheter</string>
+  <string name="message_bt_pair_devices">Sammenkobling enheter...</string>
+  <string name="message_bt_new_none">Ingen nye enheter funnet</string>
+  <string name="message_bt_pair_none">Ingen sammenkoblede enheter funnet</string>
+  <string name="message_bt_conn_lost">Tilkobling mistet til enheten</string>
+  <string name="message_bt_connecting">Koble til: </string>
+  <string name="message_bt_not_enabled">Bluetooth ikke er aktivert, lukke Bluetooth overføring</string>
+  <string name="message_bt_status_listening">Lytte...</string>
+  <string name="message_bt_status_connecting">Koble...</string>
+  <string name="message_bt_status_connected">Koblet</string>
+  <string name="message_bt_testdata_sent">Testdata sendt</string>
+  <string name="message_bt_no_contacts">Ingen kontakter å sende</string>
+  <string name="message_bt_recv_complete">Motta data fullført</string>
+  <string name="message_bt_not_connected">Ikke koblet til en enhet</string>
+  <string name="message_bt_adapter_error">Det oppstod en feil ved innstilling Bluetooth.
+            Kontroller om telefonen har Bluetooth og Bluetooth-kortet er aktivert</string>
+  <string name="menu_bt_make_discoverable">Gjør enheten oppdagbar</string>
+  <string name="progressbar_bt_recv_data">Klar til å motta kontaktdata...</string>
+  <string name="message_bt_connected">Koblet til enheten.
+        Trykk \'Send\' å overføre samtale loggene: </string>
+  <string name="message_bt_conn_failed">Tilkobling mislyktes til enheten.
+    Vennligst sikre at dette programmet er installert, og Bluetooth-skjermen er åpen: </string>
+  <string name="message_bt_sent_error">Kan ikke overføre disse antall samtale loggene: </string>
+  <string name="message_bt_recv_error">Kan ikke opprette disse antall samtale loggene: </string>
+  <string name="message_bt_create_complete">Innkommende anropet loggene opprettet: </string>
+  <string name="message_bt_sent_complete">samtale loggene sendes til enheten: </string>
+  <string name="progressbar_bt_send_data">Overføre samtale loggene </string>
+  <string name="progressbar_bt_bytes">byte </string>
+  <string name="progressbar_bt_create_contacts">Opprette samtale loggene</string>
+  <string name="progressbar_delete_data">
+        Slette samtale loggene </string>
+  <string name="button_scan">Skanning</string>
+  <string name="button_send">Sende</string>
+</resources>

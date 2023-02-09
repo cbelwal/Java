@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">실행을 중지합니다</string>
+  <string name="message_stop_tasks">작업 실행 중지...</string>
+  <string name="message_user_tasks_stopped">사용자 작업 중지</string>
+  <string name="message_system_tasks_stopped">시스템 작업 중지</string>
+  <string name="message_process_still_running">아직 실행 하는 작업</string>
+  <string name="message_stop_running_tasks">애플 리 케이 션을 실행을 중지 하 고 블루투스/무선을 닫습니다?</string>
+  <string name="message_stopping_running_tasks">블루투스 및 무선 중지</string>
+  <string name="message_battery_current_percentage">현재 배터리 수준 %:</string>
+  <string name="message_no_user_process">없음 실행 중인 사용자 프로세스</string>
+</resources>

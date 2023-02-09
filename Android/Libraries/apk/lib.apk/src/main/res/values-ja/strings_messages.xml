@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">少なくとも 1 の選択が必要です。</string>
+  <string name="message_save_external">APK ファイルは外部フォルダーに格納されている:</string>
+  <string name="message_free_version_selection">のみ 3 時無料版でアプリを選択できます。</string>
+  <string name="message_free_version_option">このオプションは、有料版の</string>
+  <string name="message_activity_load_fail">アプリケーションを開始できませんでした。</string>
+  <string name="message_activity_loading">アプリケーションを開始しています.</string>
+  <string name="message_loading_files">ローカル フォルダーを検索しています.</string>
+  <string name="message_deleting_files">選択されているパッケージごとに、個別にご確認ください。
+    システム パッケージをユーザー アカウントからのみアンインストールします。</string>
+  <string name="message_save_external_suffix">.フォルダーは、あなたの携帯電話を USB 等を経由してコンピューターに接続することでアクセスできます。</string>
+  <string name="message_rate_this_app_error">評価ページを開くことができません。</string>
+  <string name="message_share_link_prefix">こんにちは、\r\n\r\nCheck これを。</string>
+  <string name="message_share_link_suffix">APKit 経由で送信</string>
+  <string name="message_share_report_prefix">パッケージのレポート</string>
+  <string name="message_share_report_suffix">生成され、経由で送信</string>
+  <string name="message_other_permissions_missing">要求されたアクセス許可は、この機能が動作するために必要です。要求されたアクセス許可を与える、やり直してください。
+    </string>
+  <string name="message_purchase_error">Google のサーバーに接続できませんでした。アプリを再起動してもう一度やり直して
+    </string>
+</resources>

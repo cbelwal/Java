@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic, LLC</string>
+  <string name="feedback_no_email">Inga e-postklienter hittade</string>
+  <string name="button_yes">Ja</string>
+  <string name="button_no">Nej</string>
+  <string name="nav_menu_help_doc">Hjälpdokumentation</string>
+  <string name="button_rate_never">Aldrig</string>
+  <string name="button_rate_later">Senare</string>
+  <string name="button_rate_now">Nu</string>
+  <string name="title_rate_this_app">Vänligen Betygsätt denna app</string>
+  <string name="title_feedback">Välj e-postalternativet...</string>
+  <string name="title_demo_video">Demovideo</string>
+  <string name="title_tellafriend">Tipsa en vän via...</string>
+  <string name="title_send_feedback">Kontakta oss</string>
+  <string name="title_rate_app">Rate-appen</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">हालत</string>
+  <string name="filter_text_option">विकल्प</string>
+  <string name="filter_text_value_days">दिन</string>
+  <string name="filter_text_value_duration">Duration(s)</string>
+  <string name="filter_text_value_location">स्थान</string>
+  <string name="filter_options_from_stored_contacts">संग्रहीत संपर्कों से</string>
+  <string name="filter_options_more_than_entered_days">दिनों से अधिक</string>
+  <string name="filter_options_less_than_entered_days">दिनों से कम</string>
+  <string name="filter_options_more_than_duration">अवधि से अधिक</string>
+  <string name="filter_options_less_than_duration">अवधि से कम</string>
+  <string name="filter_options_from_entered_location">स्थान से</string>
+  <string name="filter_options_none">कोई फ़िल्टर</string>
+  <string name="filter_show_show">दिखाएँ</string>
+  <string name="filter_show_noshow">न दिखाएँ</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        Bezmaksas versija ļauj tikai dublējuma līdz 200 kontakti.
+        Kontakti ir bijuši dublētos failā:
+    </string>
+  <string name="message_backup_failed">
+        Neizdevās saglabāt dublējuma failu. Lūdzu, mēģiniet vēlreiz. Ja problēma netiek novērsta lūdzu jautājumu ziņot app izdevējs, izmantojot šo app atsauksmju opcijas.
+    </string>
+</resources>

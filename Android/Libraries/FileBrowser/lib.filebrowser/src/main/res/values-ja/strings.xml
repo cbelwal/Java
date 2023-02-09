@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">同</string>
+  <string name="general_selected_items">選択</string>
+  <string name="general_error">エラー</string>
+  <string name="title_confirm">確認します。</string>
+  <string name="button_ok">わかりました</string>
+  <string name="button_cancel">キャンセル</string>
+  <string name="free_space">総空き容量:</string>
+  <string name="title_share">共有を使用します。</string>
+  <string name="title_rename">新しい名前を入力してください。</string>
+  <string name="title_create_folder">フォルダー名を入力します。</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Contatto/i selezionato verrà annullati. Si prega di confermare se si desidera procedere?</string>
+  <string name="message_undelete_complete"> contatti recuperati</string>
+  <string name="message_undelete_notice">Questa opzione elenca i contatti che possono essere eliminate e dipende dal produttore del dispositivo o la versione di Android. Contatti non possono essere recuperato se il dispositivo non lo consentano, contatti sono stati eliminati diverse ore fa o contatti sono stati eliminati dalla scheda SIM.</string>
+  <string name="message_undelete_option_invalid">Questa opzione non è valida per i contatti eliminati
+        </string>
+  <string name="message_undelete_help">Si prega di selezionare il contatto (s) e utilizzare l\'icona di undelete in alto a destra per recuperarli</string>
+  <string name="progressbar_undelete_data">Annullamento dell\'eliminazione contatto (s) </string>
+  <string name="action_undelete">Undelete contatto (s)</string>
+  <string name="button_understand">Capisco</string>
+  <string name="title_disclaimer">DICHIARAZIONE DI NON RESPONSABILITÀ</string>
+  <string name="title_no_undelete_found">Mi dispiace!</string>
+  <string name="message_no_undelete_found">
+        Siamo spiacenti, non recuperabili contatti eliminati sono stati trovati! È possibile tentare di recuperarli utilizzando un modo manuale suggerito da Google, gli sviluppatori di Android.
+        Piacerebbe visitare la pagina Web di assistenza di Google che ha istruzioni di ripristino manuale?
+    </string>
+</resources>

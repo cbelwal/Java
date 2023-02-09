@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">在过去的 30 天内安装</string>
+  <string name="filter_adv_options_security_inappbilling">已在应用程序计费</string>
+  <string name="filter_adv_options_security_readsms">可以读短信</string>
+  <string name="filter_adv_options_security_sendsms">可以发送短信</string>
+  <string name="filter_adv_options_security_readcontacts">可以读取联系人</string>
+  <string name="filter_adv_options_security_readcalllog">可以读取调用日志</string>
+  <string name="filter_adv_options_security_readcalender">可以读取日历</string>
+  <string name="filter_adv_options_security_writeexternalstorage">可以写入外部存储</string>
+  <string name="filter_adv_options_security_camera">可以访问摄像头</string>
+  <string name="filter_adv_options_security_mic">可以录制音频</string>
+  <string name="filter_adv_options_security_location">可以访问您所在的位置</string>
+  <string name="filter_adv_options_filter">激活安全筛选器</string>
+  <string name="filter_main_text">安全筛选器选项 （只有应用程序匹配这些标准中的任何一个将显示）︰</string>
+  <string name="activity_security_filter">恶意软件显示筛选程序</string>
+</resources>

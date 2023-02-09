@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        Diese app wird nun Berechtigungen Zugriff auf Ihre Anruf-Log und Kontakte-Daten anfordern.
+        Diese Berechtigungen sind erforderlich, damit diese app funktioniert und nicht in irgendeiner anderen Weise verwendet werden soll. Wir nehmen Ihre Privatsphäre sehr ernst, und Ihre Gesprächsdaten Log und Kontakte nicht mit irgendeiner Partei, einschließlich coju.mobi™, die Verlage dieser App weitergegeben.
+    </string>
+  <string name="button_permissions_ack">
+        Bestätigen
+    </string>
+  <string name="title_ack_confirm">
+        Berechtigungen-Disclaimer
+    </string>
+</resources>

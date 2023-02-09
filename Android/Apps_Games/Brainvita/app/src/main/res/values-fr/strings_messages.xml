@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Félicitations, vous avez obtenu un score élevé !</string>
+  <string name="message_game_end_new_game">Jeu en cours est en ligne ! Vous aimerez à commencer une nouvelle partie ?</string>
+  <string name="message_custom_board">Tapez sur les trous vides pour rythmer une cheville. Appuyez sur le bouton de verrouillage lorsque vous avez terminé</string>
+  <string name="message_custom_board_done">Conseil personnalisé est configuré, vous pouvez commencer à jouer.
+    Notez que les scores élevés pour les cartes personnalisées ne sont pas signalés</string>
+  <string name="message_intro_first">
+        Déplacer une cheville dans un trou disponible en ligne droite en sautant par-dessus un autre peg
+    </string>
+  <string name="message_intro_second">La cheville a sauté par-dessus est supprimée</string>
+  <string name="message_intro_third">Essayez de supprimer les chevilles autant que possible</string>
+  <string name="message_intro_fourth">Obtenir seulement 1 cheville restant est l’objectif</string>
+  <string name="message_board_reset_confirm">Ceci annulera l’actuel Conseil d’administration. Vous voulez procéder ?</string>
+  <string name="message_game_over">Pas plus de mouvements sont possibles. Jeu est en place !</string>
+  <string name="message_solver_complete">Solveur a calculé les mouvements qui conduisent à un nombre minimal de pegs.\n\nUse la touche avant de voir que le Conseil se déplace.</string>
+  <string name="message_solver_complete_free">Solveur a calculé les mouvements qui mènent à un nombre minimal de chevilles. Puisqu’il s’agit d’une version gratuite, le Solveur puisse trouver une solution conduisant à un minimum de 3 chevilles seulement. Dans la version payante, le solveur peut trouver une solution avec 1 peg.\n\nUse le bouton avant de voir que le Conseil se déplace.
+    </string>
+  <string name="message_solver_complete_title">Trouvé la solution avec des chevilles : </string>
+  <string name="message_solver_inprogress_title">Vous cherchez une solution...</string>
+  <string name="message_solver_inprogress">Nombre actuel de cheville le plus bas : </string>
+  <string name="message_solver_start_confirm">Selon l’actuel Conseil d’administration, le solveur peut prendre quelques secondes à plusieurs minutes dans le calcul d’une solution avec nombre de chevilles.
+    Étant donné que le solveur fait beaucoup de calculs, il épuisera la batterie.
+        Il est conseillé que vous mettez votre téléphone en charge avant de commencer le solveur.
+    Pendant la course, le solveur peut être interrompu à tout moment et le dernier résultat de peg sera disponible.</string>
+  <string name="message_solver_mode_play_board">
+        Ne peut pas jouer le jeu en mode de solveur. Sélectionnez New Game pour démarrer un nouveau jeu</string>
+  <string name="message_confirm_switch_from_standard">
+        Conseil actuel a la valeur Standard, vous voulez changer Français ?</string>
+  <string name="message_confirm_switch_from_French">
+        Actuel Conseil d’administration est sur le Français, vous souhaitez mettre en place les plaques Standard ?</string>
+</resources>

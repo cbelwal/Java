@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        Kostenlose Version erlaubt nur backup von bis zu 200 Kontakte.
+        Kontakte haben in Datei gesichert worden:
+    </string>
+  <string name="message_backup_failed">
+        Sicherungsdatei Speichern fehlgeschlagen, bitte versuchen Sie es erneut. Wenn das Problem weiterhin besteht melden Sie bitte Problem app-Herausgeber über die Feedback-Option in dieser app.
+    </string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        नि: शुल्क संस्करण केवल 200 संपर्कों का बैकअप की अनुमति देता है।
+        संपर्क फ़ाइल में बैकअप किया गया:
+    </string>
+  <string name="message_backup_failed">
+        बैकअप फ़ाइल को सहेजने में विफल रहा, कृपया पुनः प्रयास करें। यदि समस्या बनी रहती है, तो कृपया समस्या app प्रकाशक इस app में आपके सुझाव विकल्प का उपयोग करने के लिए रिपोर्ट करें।
+    </string>
+</resources>

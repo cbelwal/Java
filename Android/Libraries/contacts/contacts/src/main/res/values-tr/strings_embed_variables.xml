@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">Aygıta bağlı.
+        \'Send\ basın \' aktarmak için kişiler için: </string>
+  <string name="message_bt_conn_failed">Bağlantı aygıtı için başarısız oldu.
+    Lütfen bu app yüklü ve Bluetooth ekran açık içinde sigorta: </string>
+  <string name="message_bt_sent_error">Bu kişileri sayısı aktaramadı: </string>
+  <string name="message_bt_recv_error">Bu kişileri sayısı oluşturulamadı: </string>
+  <string name="message_bt_create_complete">Alınan kişileri oluşturma: </string>
+  <string name="message_bt_sent_complete">Aygıta gönderilen kişiler: </string>
+  <string name="progressbar_bt_send_data">Benzersiz kişileri aktarma </string>
+  <string name="progressbar_bt_bytes">bayt </string>
+  <string name="progressbar_bt_create_contacts">Oluşturma kişileri (resim kişilerle daha uzun süre gereklidir)</string>
+  <string name="message_free_version_selection">
+        Ücretsiz sürümünde seçilebilir maksimum kişiler olduğunu: </string>
+  <string name="progressbar_delete_data">
+        Benzersiz kişileri silme </string>
+</resources>

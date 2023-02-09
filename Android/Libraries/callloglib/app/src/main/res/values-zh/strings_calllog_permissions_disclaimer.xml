@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">此应用程序现在将请求访问您的通话记录和联系人数据的权限。
+        这些权限是此应用程序工作所必需的, 不应以任何其他方式使用。我们非常重视您的隐私, 您的通话记录和联系人数据将不会与任何方共享, 包括 coju.mobi ™, 这个应用程序的出版商。
+    </string>
+  <string name="button_permissions_ack">承认</string>
+  <string name="title_ack_confirm">权限免责声明</string>
+</resources>

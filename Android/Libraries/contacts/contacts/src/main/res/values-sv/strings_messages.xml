@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> kontakter kommer att uppdateras. Denna åtgärd kan inte ångras. Vill du fortsätta?</string>
+  <string name="message_update_complete"> kontakter uppdaterad</string>
+  <string name="message_save_external">Kontakter som lagras i externa mapp: </string>
+  <string name="message_import">Bara Vcard och CSV-filer kan importeras (Använd \'Browse\' att ladda fil(er) från andra källor</string>
+  <string name="message_loading_files">Söker lokala mappar...</string>
+  <string name="message_loading_backup_files">Söker enhet för säkerhetskopiering fil(er)...</string>
+  <string name="message_importing_contacts_complete">kontakter importeras</string>
+  <string name="message_save_external_suffix">. Mappen kan nås genom att ansluta telefonen till datorn via USB etc. </string>
+  <string name="message_selectitems">Iallafall 1 kontakt måste väljas</string>
+  <string name="message_delete_confirm">Markerade kontakter detaljer kommer att raderas. Denna åtgärd kan inte ångras. Vill du fortsätta?</string>
+  <string name="message_delete_complete"> Contact(s) Detaljer bort</string>
+  <string name="message_free_import_limit">Filen innehåller fler kontakter än tillåtna i gratisversionen</string>
+  <string name="message_rate_this_app_error">Värdering Sidan kunde inte öppnas. Vänligen goto Google Play och Betygsätt med detta</string>
+  <string name="message_edit">Endast 1 kontakt kan redigeras i taget. </string>
+  <string name="message_backup_stored">Kontakter har varit säkerhetskopierade i filen:</string>
+  <string name="message_download_coju">Coju är en integrerad kontakthantering app. Den har alla funktioner i denna app plus ytterligare funktioner. Kommer du vilja hämta Coju?</string>
+  <string name="message_contact_permissions_missing">Kontakter behörigheter som krävs för den här appen ska fungera. Appen kommer nu nära, ge behörigheter och försök igen</string>
+  <string name="message_other_permissions_missing">Önskade behörigheter som krävs för denna app funktionen ska fungera.
+        Vänligen ge önskade behörigheter och försök igen</string>
+  <string name="message_backup_freeversion">
+        Maximala antalet kontakter som kan säkerhetskopieras i denna gratis version är:
+    </string>
+  <string name="message_backup_paidversion">
+        Alla har kontakter varit framgångsrikt säkerhetskopierades i en fil
+    </string>
+  <string name="message_purchase_error">
+        Kunde inte ansluta till Google-servern. Starta om appen och försök igen
+    </string>
+</resources>

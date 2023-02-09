@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">المبشاره الفيديو</string>
+  <string name="app_name_small">فيديوجراتير</string>
+  <string name="activity_extract_pictures">استخراج الصور</string>
+  <string name="button_Select_All">حدد كافة</string>
+  <string name="button_UnSelect_All">الأمم المتحدة تحديد الكل</string>
+  <string name="button_Delete">حذف</string>
+  <string name="button_Update">التحديث</string>
+  <string name="button_Share">حصة</string>
+  <string name="button_Yes">نعم</string>
+  <string name="button_No">لا</string>
+  <string name="button_apply">تطبيق</string>
+  <string name="button_browse">تصفح</string>
+  <string name="button_close">قم بإغلاق</string>
+  <string name="button_Confirm">تأكيد</string>
+  <string name="button_Ok">موافق</string>
+  <string name="text_import_file_name">الاسم</string>
+  <string name="text_import_file_size">الحجم</string>
+  <string name="general_items">العنصر (العناصر)</string>
+  <string name="general_selected_items">تحديد</string>
+  <string name="general_error">خطأ</string>
+  <string name="title_confirm">تأكيد</string>
+  <string name="button_ok">موافق</string>
+  <string name="button_cancel">إلغاء الأمر</string>
+  <string name="free_space">إجمالي المساحة الحرة:</string>
+  <string name="title_share">مشاركة باستخدام:</string>
+  <string name="title_rename">قم بإدخال اسم جديد  </string>
+  <string name="title_create_folder">أدخل اسم المجلد  </string>
+</resources>

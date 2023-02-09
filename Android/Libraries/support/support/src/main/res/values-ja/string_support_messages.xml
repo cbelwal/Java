@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">パブリッシャーをメールで送信し、問題を解決するには、アプリに問題がある場合が欲しいですか。</string>
+  <string name="message_check_for_rating">このアプリのためのフィードバックを残すことでしょうか?</string>
+  <string name="message_tellafriend_subject">このアプリをチェック アウト</string>
+  <string name="message_email_send_error">メールを送信する際にエラー</string>
+  <string name="message_tellafriend_body">ねえ、このクールな app:\n をチェックします。</string>
+  <string name="message_start_activity_error">活動。 \n の開始に問題が発生しました</string>
+  <string name="message_demo_video">デモンストレーション ビデオを見て好きになるでしょう。
+        (一度だけはこのメッセージを表示?)</string>
+  <string name="message_help_documentation_fail">ヘルプ ドキュメントを読み込めませんでした。
+    ブラウザーを参照してください、http://www.dasmic.com を参照してくださいヘルプ。</string>
+  <string name="message_rate_this_app">このアプリを評価して他の人を助けることができるか。</string>
+  <string name="message_rate_this_app_error">評価ページを開けませんでした。評価を与えるに Google Play でストアを使用してください。</string>
+  <string name="message_feedback_subject">アプリケーション フィードバック</string>
+</resources>

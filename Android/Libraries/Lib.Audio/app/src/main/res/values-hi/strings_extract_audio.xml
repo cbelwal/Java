@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">फ़ाइल का नाम:</string>
+  <string name="text_ep_file_size">आकार:</string>
+  <string name="text_ep_modified_date">संशोधित तिथि:</string>
+  <string name="text_ep_duration">अवधि:</string>
+  <string name="title_search_depth">खोज गहराई (बड़े मानों में कई मिनट लगेंगे)</string>
+  <string name="progressbar_extracting_audio">ऑडियो निकालने (कई मिनट लग सकते हैं).. ।</string>
+  <string name="progressbar_loading_audio">ऑडियो फ़ाइल विवरण लोड कर रहा है.. ।</string>
+  <string name="text_ep_time_start">प्रारंभ समय (सेकंड्स)</string>
+  <string name="text_ep_period">प्रत्येक ऑडियो फ़ाइल की अवधि (सेकंड्स)</string>
+  <string name="text_ep_store">नई ऑडियो फ़ाइल (फ़ाइलें) इस रूप में संग्रहीत करना:</string>
+  <string name="text_ep_share_external">बाहरी फ़ोल्डर में रखें</string>
+  <string name="text_ep_share_app">अनुप्रयोगों का उपयोग करके साझा करें</string>
+  <string name="message_extract_complete"> M4A फ़ाइल (s) बनाया गया है</string>
+  <string name="message_extract_error">ऑडियो फ़ाइलें बनाने में कोई त्रुटि आई</string>
+  <string name="message_search_depth_updated">खोज गहराई अद्यतन किया गया था</string>
+  <string name="message_search_depth_error">खोज गहराई अद्यतन करने में त्रुटि</string>
+  <string name="message_load_complete">ऑडियो फ़ाइल विवरण लोड किया गया है</string>
+  <string name="message_load_error">ऑडियो लोड करने में कोई त्रुटि थी</string>
+  <string name="message_extract_duration_reduced"> ऑडियो के अंत तक अंतिम ऑडियो फ़ाइल अवधि कम हो गई थी </string>
+  <string name="message_extract_incomplete"> % 1 $ d ऑडियो फ़ाइल (फ़ाइलें) नहीं बनाई जा सकी या अपूर्ण जानकारी है</string>
+  <string name="message_extract_signature">coju.mobi ™ से ऑडियो घिसे के माध्यम से भेजा</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        این برنامه در حال حاضر درخواست مجوز برای دسترسی به اطلاعات ورود به سیستم و تماس با ما تماس خود را.
+        این مجوزها برای این برنامه به کار می باشند و به هیچ وجه دیگر مورد استفاده قرار گیرد در نظر گرفته شده است. ما را حریم خصوصی شما بسیار جدی و اطلاعات ورود به سیستم و تماس با ما تماس خود را با هر حزب از جمله coju.mobi™، ناشران این برنامه مشترک خواهد شد.
+    </string>
+  <string name="button_permissions_ack">
+        موافقید
+    </string>
+  <string name="title_ack_confirm">
+        مجوز سلب مسئولیت
+    </string>
+</resources>

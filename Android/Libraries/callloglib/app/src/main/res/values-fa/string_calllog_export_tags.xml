@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tag_formatted_name">نام:</string>
+  <string name="tag_formatted_number">شماره:</string>
+  <string name="tag_formatted_type">نوع:</string>
+  <string name="tag_formatted_datetime">تاریخ/زمان:</string>
+  <string name="tag_formatted_duration">مدت زمان:</string>
+  <string name="tag_formatted_location">محل سکونت:</string>
+  <string name="tag_formatted_type_incoming">@string/spinner_calllog_type_incoming</string>
+  <string name="tag_formatted_type_outgoing">@string/spinner_calllog_type_outgoing</string>
+  <string name="tag_formatted_type_missed">@string/spinner_calllog_type_missed</string>
+  <string name="tag_chm_number">شماره:</string>
+  <string name="tag_chm_date">تاریخ:</string>
+  <string name="tag_chm_duration">مدت زمان:</string>
+</resources>

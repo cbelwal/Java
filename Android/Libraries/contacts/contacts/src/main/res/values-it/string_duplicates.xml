@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Nome + partita numero WhatsApp</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">Stesso numero di WhatsApp in più nomi</string>
+  <string name="duplicate_options_name_matches_email_phone">Nome + telefono/E-mail match</string>
+  <string name="duplicate_options_name_matches_phone">Nome + telefono match</string>
+  <string name="duplicate_options_name_matches_email">Nome + E-mail match</string>
+  <string name="duplicate_options_same_number_multi_name">Stesso numero di più nomi</string>
+  <string name="duplicate_options_same_email_multi_name">Stessa email a più nomi</string>
+  <string name="duplicate_options_none">Nessuno</string>
+  <string name="progressbar_sel_duplicates">Scansione di duplicati...</string>
+  <string name="message_duplicates_selected">Per eliminare duplicate(s) selezionato premere sull\'icona Elimina. Il valore di original(master) per ogni duplicato non è selezionato e non verrà eliminato.</string>
+  <string name="choose_duplicate_option">Scegliere il criterio per individuare i duplicati.
+        Duplicati insieme al loro valore di original(master) verranno visualizzati nella schermata principale e saranno auto-controllato per l\'eliminazione. Valore Original(Master) non viene verificata.</string>
+  <string name="startup_message">Utilizzare l\'icona duplicata in alto a destra per impostare l\'opzione di visualizzazione per i duplicati</string>
+  <string name="message_duplicates_backup">È consigliabile eseguire il backup i contatti prima di eliminarli</string>
+</resources>

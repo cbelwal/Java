@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="duplicate_whatsapp_name_all_match">Name + WhatsApp number match</string>
+    <string name="duplicate_whatsapp_same_number_multi_name">Same WhatsApp number in multiple names</string>
+    <string name="duplicate_options_name_matches_email_phone">Name + Phone/Email match</string>
+    <string name="duplicate_options_name_matches_phone">Name + Phone match</string>
+    <string name="duplicate_options_name_matches_email">Name + Email match</string>
+    <string name="duplicate_options_same_number_multi_name">Same number in multiple names</string>
+    <string name="duplicate_options_same_email_multi_name">Same email in multiple names</string>
+    <string name="duplicate_options_none">None</string>
+    <string name="progressbar_sel_duplicates">Scanning for duplicates  ...</string>
+    <string name="message_duplicates_selected">To delete selected duplicate(s) press the
+    delete icon. The original(master) value for each duplicate is not selected and will not be deleted.</string>
+    <string name="choose_duplicate_option">Choose the criterion for identifying duplicates.
+        Duplicates along with their original(master) value will be displayed in main screen and
+        will be auto-checked for deletion. Original(master) value is not checked.</string>
+    <string name="startup_message">Use the duplicate icon in top-right to set view option
+        for duplicates</string>
+    <string name="message_duplicates_backup">It is recommended that you backup your contacts before deleting them</string>
+</resources>

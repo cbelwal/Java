@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> επαφές θα ενημερωθεί. Αυτή η ενέργεια δεν μπορεί να αναιρεθεί. Προχωρήσει;</string>
+  <string name="message_update_complete"> επαφές, ενημέρωση</string>
+  <string name="message_save_external">Επαφές που είναι αποθηκευμένες στον εξωτερικό φάκελο: </string>
+  <string name="message_import">Μόνο για αρχεία Vcard και CSV μπορούν να εισαχθούν (χρήση \'Browse\» για να φορτώσετε αρχεία από άλλες πηγές</string>
+  <string name="message_loading_files">Αναζήτηση τοπικών φακέλων...</string>
+  <string name="message_loading_backup_files">Αναζήτηση συσκευής αντιγράφων ασφαλείας αρχείων...</string>
+  <string name="message_importing_contacts_complete">επαφές που εισάγονται</string>
+  <string name="message_save_external_suffix">. Φάκελος μπορεί να προσπελαστεί από τη σύνδεση του τηλεφώνου σας στον υπολογιστή σας μέσω USB κλπ. </string>
+  <string name="message_selectitems">Atleast 1 επαφή πρέπει να επιλέγεται</string>
+  <string name="message_delete_confirm">Επιλεγμένες επαφές λεπτομέρειες θα διαγραφούν. Αυτή η ενέργεια δεν μπορεί να αναιρεθεί. Προχωρήσει;</string>
+  <string name="message_delete_complete"> επαφές διαγραμμένα στοιχεία</string>
+  <string name="message_free_import_limit">Το αρχείο περιέχει περισσότερες επαφές από ό, τι επιτρέπεται στην δωρεάν έκδοση</string>
+  <string name="message_rate_this_app_error">Δεν είναι δυνατή η εκτίμηση σελίδα. Παρακαλώ goto Google Play και αναλόγως το ρυθμό</string>
+  <string name="message_edit">Μόνο 1 επαφή μπορεί να επεξεργαστεί τη φορά. </string>
+  <string name="message_backup_stored">Επαφές έχουν ήδη αντίγραφα σε αρχείο:</string>
+  <string name="message_download_coju">Coju είναι μια εφαρμογή ενσωματωμένη διαχείριση επαφών. Έχει όλα τα χαρακτηριστικά της αυτό το app συν επιπλέον δυνατότητες. Θα θέλατε να κατεβάσετε Coju;</string>
+  <string name="message_contact_permissions_missing">Επαφές άδειες που απαιτούνται για αυτό το app να εργαστείτε. App θα τώρα κλείστε, παρακαλείστε να δώσετε δικαιώματα και προσπαθήστε ξανά</string>
+  <string name="message_other_permissions_missing">Ζητήσει τα δικαιώματα που απαιτούνται για να λειτουργεί αυτή η δυνατότητα app.
+        Παρακαλώ δώστε τα απαιτούμενα δικαιώματα και προσπαθήστε ξανά</string>
+  <string name="message_backup_freeversion">
+        Μέγιστος αριθμός των επαφών που μπορούν να αντιγραφούν σε αυτή την δωρεάν έκδοση είναι:
+    </string>
+  <string name="message_backup_paidversion">
+        Όλους εσάς τις επαφές έχουν δημιουργηθεί επιτυχώς αντίγραφα σε ένα αρχείο
+    </string>
+  <string name="message_purchase_error">
+        Δεν μπόρεσαν να συνδεθούν σε διακομιστή της Google. Επανεκκινήστε την εφαρμογή και προσπαθήστε ξανά
+    </string>
+</resources>

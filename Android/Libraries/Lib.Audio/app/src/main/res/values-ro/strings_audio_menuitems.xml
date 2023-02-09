@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_share">Cota</string>
+  <string name="action_delete">Şterge</string>
+  <string name="action_filter">Filtru</string>
+  <string name="action_copy">Copie</string>
+  <string name="action_rename">Redenumire</string>
+  <string name="action_create_folder">Creaţi folderul</string>
+  <string name="action_move">Muta</string>
+  <string name="action_share_zip">Parts ca Zip</string>
+  <string name="action_extract_pictures">Extrage Audio</string>
+  <string name="action_zip">Zip</string>
+  <string name="nav_menu_view_name">Vezi de nume de fişier</string>
+  <string name="nav_menu_view_size">Vezi de mărimea</string>
+  <string name="nav_menu_view_modified">Vezi de modificat data</string>
+  <string name="nav_menu_view_refresh">Reîmprospătare</string>
+  <string name="nav_menu_view_close">Închide</string>
+  <string name="nav_menu_search_default">Căutare Media Magazin (implicit)</string>
+  <string name="nav_menu_search_entire_phone">Căutare întreaga telefon</string>
+  <string name="nav_menu_search_media_folders">Căutare media folder(e)</string>
+  <string name="nav_menu_search_external_folders">Folderele de căutare extern</string>
+  <string name="nav_menu_group_general">Generale</string>
+  <string name="nav_menu_group_viewoptions">Vezi opţiuni</string>
+  <string name="nav_menu_group_searchoptions">Opţiuni de căutare</string>
+  <string name="nav_menu_rate_this_app">Feedback-ul</string>
+  <string name="nav_menu_upgrade">Upgrade la versiunea plătit</string>
+  <string name="nav_menu_tellafriend">Spuneţi-i unui prieten</string>
+  <string name="nav_menu_feedback">Contactati-ne</string>
+  <string name="nav_menu_group_help">ajutor</string>
+  <string name="nav_menu_demovideo">Demo Video</string>
+  <string name="nav_menu_help_doc">Documentaţie de ajutor</string>
+</resources>

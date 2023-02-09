@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">कॉल लॉग</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">अज्ञात</string>
+  <string name="button_Yes">हाँ</string>
+  <string name="button_No">नहीं</string>
+  <string name="button_Apply">लागू करें</string>
+  <string name="button_Close">बंद करें</string>
+  <string name="general_not_Available">उपलब्ध नहीं</string>
+  <string name="general_items">मद (s)</string>
+  <string name="general_selected_items">चयनित</string>
+  <string name="title_confirm">की पुष्टि करें</string>
+  <string name="title_dialog_coju">Coju डाउनलोड</string>
+  <string name="message_selectitems">कम से कम 1 लॉग प्रविष्टि चयनित होने की जरूरत</string>
+  <string name="message_download_coju">Coju एक एकीकृत संपर्क प्रबंधन app है। यह इस app प्लस अतिरिक्त क्षमताओं के सभी सुविधाओं है। आप Coju डाउनलोड करने के लिए पसंद करेंगे?</string>
+  <string name="message_contact_permissions_missing">संपर्क अनुमतियाँ इस app के लिए काम करने के लिए आवश्यक हैं। App जाएगा अब बंद करें, कृपया अनुमति देने और पुन: प्रयास करें</string>
+  <string name="message_other_permissions_missing">अनुरोध की गई अनुमतियाँ इस app सुविधा के लिए काम करने के लिए आवश्यक हैं।
+        कृपया अनुरोध अनुमति दें और पुन: प्रयास करें</string>
+</resources>

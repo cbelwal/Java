@@ -1,0 +1,25 @@
+<resources>
+    <string name="message_selectitems">Atleast 1 selection is required</string>
+    <string name="message_save_external">APK file(s) stored in external folder: </string>
+    <string name="message_free_version_selection">Only 3 apps can be selected at a time in the free version</string>
+    <string name="message_single_selection">Only 1 app can be selected for this operation</string>
+    <string name="message_free_version_option">This option is only available for the paid version</string>
+    <string name="message_activity_load_fail">Application could not be started</string>
+    <string name="message_activity_loading">Starting application ...</string>
+    <string name="message_loading_files">Searching local folders ...</string>
+    <string name="message_deleting_files">Please confirm individually for each package selected.
+    System packages will uninstall only from user account</string>
+    <string name="message_save_external_suffix">.Folder can be accessed by connecting your phone to your computer through USB etc. </string>
+    <string name="message_rate_this_app_error">Could not open rating page</string>
+    <string name="message_share_link_prefix">Hi,\r\n\r\nCheck this out: </string>
+    <string name="message_share_link_suffix">Sent via APKit</string>
+    <string name="message_share_report_prefix">Package Report</string>
+    <string name="message_share_report_suffix">Generated and Sent via</string>
+
+    <string name="message_other_permissions_missing">Requested permissions
+    are required for this feature to work. Please give requested permissions and try again
+    </string>
+    <string name="message_purchase_error">
+        Could not connect to Google server. Please restart app and try again
+    </string>
+</resources>

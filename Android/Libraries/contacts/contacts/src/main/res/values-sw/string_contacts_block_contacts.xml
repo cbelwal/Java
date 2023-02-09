@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">Mwasiliani unayetaka unblocked</string>
+  <string name="display_options_blocked">Mwasiliani unayetaka zuiliwa</string>
+  <string name="action_block">Umbo la</string>
+  <string name="action_unblock">Usizuie</string>
+  <string name="message_blocking_contacts">Kuzuia mwasiliani unayetaka</string>
+  <string name="message_unblocking_contacts">Mwasiliani unayetaka unblocking</string>
+  <string name="message_block_unblock_complete">Kusasaishwa mwasiliani unayetaka zote teuliwa </string>
+  <string name="message_block_unblock_error">Kulikuwa na kosa katika kusasaisha baadhi mwasiliani unayetaka teuliwa</string>
+</resources>

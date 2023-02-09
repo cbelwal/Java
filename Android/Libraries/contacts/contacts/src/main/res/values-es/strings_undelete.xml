@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Contactos seleccionados será sin eliminar. ¿Por favor confirmar si desea continuar?</string>
+  <string name="message_undelete_complete"> contactos Data Retrieval</string>
+  <string name="message_undelete_notice">Esta opción mostrará los contactos que pueden sin eliminar y depende del fabricante de su dispositivo o la versión de Android. Contactos no pueden ser recuperados si el dispositivo no lo permite, contactos se borraron hace varias horas o contactos fueron borrados de la tarjeta SIM.</string>
+  <string name="message_undelete_option_invalid">Esta opción no es válida para los contactos borrados
+        </string>
+  <string name="message_undelete_help">Seleccione contactos y utilice el icono recuperar en parte superior derecha para recuperarlos</string>
+  <string name="progressbar_undelete_data">Recuperar contactos </string>
+  <string name="action_undelete">Recuperar contactos</string>
+  <string name="button_understand">Entiendo</string>
+  <string name="title_disclaimer">DESCARGO DE RESPONSABILIDAD</string>
+  <string name="title_no_undelete_found">¡ Lo siento!</string>
+  <string name="message_no_undelete_found">
+        Lo sentimos, no hay contactos borrados recuperables se encontraron! Puede intentar recuperarlos usando una vía manual sugerida por Google, los desarrolladores de Android.
+        ¿Se quieres visitar la Página Web de soporte de Google que tiene instrucciones de recuperación manual?
+    </string>
+</resources>

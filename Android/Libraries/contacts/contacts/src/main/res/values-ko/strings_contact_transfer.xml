@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">찾아보기</string>
+  <string name="backup_options_backupusing">백업 사용 하 여</string>
+  <string name="transfer_address_home">홈</string>
+  <string name="transfer_address_office">사무실</string>
+  <string name="transfer_contact_office">(W)</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(M)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">즐겨찾기에</string>
+  <string name="transfer_not_in_favorites">즐겨찾기 안에</string>
+  <string name="transfer_times_contacted">연락 시간:</string>
+  <string name="transfer_last_time_contacted">마지막으로 연락:</string>
+  <string name="transfer_organization">조직</string>
+  <string name="transfer_title">제목</string>
+  <string name="transfer_event_birthday">생일</string>
+  <string name="transfer_event_anniv">기념일</string>
+  <string name="transfer_event_other">다른</string>
+  <string name="check_phone">전화 번호</string>
+  <string name="check_email">메일 주소</string>
+  <string name="csv_header_name">이름</string>
+  <string name="csv_header_phone">전화 번호</string>
+  <string name="csv_header_email">이메일 주소</string>
+  <string name="csv_header_postal">우편 주소</string>
+  <string name="csv_header_timescontacted">연락 하는 시간</string>
+  <string name="csv_header_lasttimecontact">마지막으로 연락</string>
+  <string name="csv_header_favorite">좋아하는 상태</string>
+  <string name="csv_header_organization">조직</string>
+  <string name="check_postaladdress">우편 주소</string>
+  <string name="check_timescontacted">연락 횟수</string>
+  <string name="check_lastcontact">마지막 연락처 시간</string>
+  <string name="check_isfavorite">좋아하는 상태</string>
+  <string name="share_options_ShareAs">공유:</string>
+  <string name="share_options_ShareUsing">공유를 사용 하 여:</string>
+  <string name="share_options_sms">메시징</string>
+  <string name="share_options_allshare">공유 애플 리 케이 션 (클라우드, 이메일,...)</string>
+  <string name="share_options_Clipboard">클립보드에 복사</string>
+  <string name="share_options_plaintext">일반 텍스트</string>
+  <string name="share_options_vcf">개별 Vcard 파일</string>
+  <string name="share_options_combinedvcf">Vcard 파일 결합된</string>
+  <string name="export_options_textfile">일반 텍스트 파일</string>
+  <string name="export_options_combinedvcf_21">결합 된 vCard 2.1 파일</string>
+  <string name="export_options_individualvcf_21">개별 vCard 2.1 파일</string>
+  <string name="export_options_combinedvcf_40">결합 된 vCard 4.0 파일</string>
+  <string name="export_options_individualvcf_40">개별 vCard 4.0 파일</string>
+  <string name="export_options_csvfile">쉼표로 분리 된 (*.csv) 파일</string>
+  <string name="export_options_externalStorage">이 디바이스의 외부 스토리지</string>
+  <string name="export_options_ExportAs">내보내기 형식:</string>
+  <string name="export_options_ExportUsing">파일에 저장:</string>
+  <string name="message_import_invalid_file">아닙니다 유효한 연락처 파일
+        </string>
+  <string name="backup_options_using">백업 파일에 저장:</string>
+  <string name="menu_import_help">도움말</string>
+  <string name="message_backup_options">하는 것이 좋습니다 클라우드, 이메일 등 같은 응용 프로그램 공유에에서 백업.
+        이렇게 하면 혹시 귀하의 휴대 전화를 분실 한 경우 연락처를 복구할 수 있습니다.
+        에 이메일/구름에서 연락처 복원 수동으로이 장치에 어떤 위치 든 지에 당신의 이메일/클라우드 계정에서 연락처 백업 파일을 저장 합니다. 가져오기 유틸리티는 자동으로 파일을 찾습니다 다음 것입니다.</string>
+  <string name="message_restore_fail">
+        백업에서 복원 하지 수, 백업 파일은 없거나 손상 된
+                </string>
+  <string name="message_restore_refresh">연락처 백업 파일에서 복원 되 고 있습니다. 모든 가져온된 연락처를 볼 수 표시를 새로 고치 시기 바랍니다</string>
+  <string name="message_restore_selection_finish">연락처 백업 파일에서 복원 되 고 있습니다. 이제이 화면을 종료 하거나 다른 백업 파일에서 가져올 수 있습니다.</string>
+  <string name="message_restore_legacy_name">백업 파일 \'BackupAllContacts.vcf\의 이름을 따서 \' 이전 버전에서</string>
+</resources>

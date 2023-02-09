@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Răsfoire</string>
+  <string name="backup_options_backupusing">Backup folosind</string>
+  <string name="transfer_address_home">Casa</string>
+  <string name="transfer_address_office">Birou</string>
+  <string name="transfer_contact_office">(W).</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(M)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">În favorite</string>
+  <string name="transfer_not_in_favorites">Nu în favorite</string>
+  <string name="transfer_times_contacted">Ori contactat:</string>
+  <string name="transfer_last_time_contacted">Ultima dată când a contactat:</string>
+  <string name="transfer_organization">Organizarea</string>
+  <string name="transfer_title">Titlu</string>
+  <string name="transfer_event_birthday">Ziua de nastere</string>
+  <string name="transfer_event_anniv">Aniversare</string>
+  <string name="transfer_event_other">Alte</string>
+  <string name="check_phone">Numărul de telefon</string>
+  <string name="check_email">E-mail</string>
+  <string name="csv_header_name">nume</string>
+  <string name="csv_header_phone">Numărul de telefon</string>
+  <string name="csv_header_email">Adresa de e-mail</string>
+  <string name="csv_header_postal">Adresa postala</string>
+  <string name="csv_header_timescontacted">Contactat de ori</string>
+  <string name="csv_header_lasttimecontact">Ultima dată când a contactat</string>
+  <string name="csv_header_favorite">Statutul de favorit</string>
+  <string name="csv_header_organization">Organizarea</string>
+  <string name="check_postaladdress">Adresa poştală</string>
+  <string name="check_timescontacted">Multe ori contactat</string>
+  <string name="check_lastcontact">Ultima data contact</string>
+  <string name="check_isfavorite">Statutul de favorit</string>
+  <string name="share_options_ShareAs">Cota ca:</string>
+  <string name="share_options_ShareUsing">Cota folosind:</string>
+  <string name="share_options_sms">Mesagerie</string>
+  <string name="share_options_allshare">Partajaţi aplicaţii (nor, E-mail,...)</string>
+  <string name="share_options_Clipboard">Copiaţi în Clipboard</string>
+  <string name="share_options_plaintext">Text simplu</string>
+  <string name="share_options_vcf">Individuale Vcard fişiere</string>
+  <string name="share_options_combinedvcf">Combinate fişier Vcard</string>
+  <string name="export_options_textfile">Fişier text simplu</string>
+  <string name="export_options_combinedvcf_21">Fişier vCard combinate 2.1</string>
+  <string name="export_options_individualvcf_21">Individuale vCard 2.1 fisier(e)</string>
+  <string name="export_options_combinedvcf_40">Fişier vCard combinate 4.0</string>
+  <string name="export_options_individualvcf_40">Fişiere individuale vCard 4.0</string>
+  <string name="export_options_csvfile">Virgulă dosar separat (*.csv)</string>
+  <string name="export_options_externalStorage">Stocare externă de acest dispozitiv</string>
+  <string name="export_options_ExportAs">Format de export:</string>
+  <string name="export_options_ExportUsing">Salvaţi fişierul în:</string>
+  <string name="message_import_invalid_file">Nu un fişier valid contact
+        </string>
+  <string name="backup_options_using">Salvați fișierul copie de rezervă în:</string>
+  <string name="menu_import_help">ajutor</string>
+  <string name="message_backup_options">Este recomandabil să rezervă în cota de aplicaţii cum ar fi nor, E-mail etc.
+        Acest lucru vă va permite să recupera contactele dacă pierzi vreodata telefonul.
+        Pentru a restaura contactele la E-mail/Cloud manual salvaţi fişierul copie de rezervă contactele din contul de E-mail/Cloud pentru orice locatie din acest aparat. Import utilitate apoi va localiza automat fişierul.</string>
+  <string name="message_restore_fail">
+        Nu ar putea restabili la spate, spate dosar este lipsă sau corupte
+                </string>
+  <string name="message_restore_refresh">Contacte sunt restaurate din fişierul copie de rezervă. Vă rugăm să reîmprospătaţi ecranul pentru a vedea toate contactele importate</string>
+  <string name="message_restore_selection_finish">Contacte sunt restaurate din fişierul copie de rezervă. Acum puteţi închide acest ecran sau import din alt fisier de Backup</string>
+  <string name="message_restore_legacy_name">Fișierul copie de rezervă a fost numit \'BackupAllContacts.vcf\' în versiuni mai vechi</string>
+</resources>

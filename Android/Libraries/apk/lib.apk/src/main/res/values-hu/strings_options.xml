@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="share_options_ShareUsing">Ossza meg használ:</string>
+  <string name="share_options_allshare">Wifi/e-mail/Cloud tárolás (nagy fájl(ok) lehet, hogy probléma)</string>
+  <string name="export_options_externalStorage">Külső tároló</string>
+  <string name="export_options_ExportAs">Exportálási formátum:</string>
+  <string name="export_options_ExportUsing">Ossza meg a APK fájl (ok) keresztül:</string>
+  <string name="progressbar_prepare_data">Felkészülés a csomag... </string>
+</resources>

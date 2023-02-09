@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Nume + WhatsApp numărul meci</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">Acelaşi număr de WhatsApp în mai multe nume</string>
+  <string name="duplicate_options_name_matches_email_phone">Nume + telefon/Email meci</string>
+  <string name="duplicate_options_name_matches_phone">Nume + telefon meci</string>
+  <string name="duplicate_options_name_matches_email">Nume + Email meci</string>
+  <string name="duplicate_options_same_number_multi_name">Acelaşi număr în mai multe nume</string>
+  <string name="duplicate_options_same_email_multi_name">Aceeaşi adresă de email în mai multe nume</string>
+  <string name="duplicate_options_none">Nici unul</string>
+  <string name="progressbar_sel_duplicates">Scanare pentru duplicate...</string>
+  <string name="message_duplicates_selected">Pentru a şterge selectat duplicate(s) apăsaţi pe pictograma Ştergere. Valoarea original(master) pentru fiecare duplicat nu este selectată și nu vor fi şterse.</string>
+  <string name="choose_duplicate_option">Alege criteriul de identificare duplicate.
+        Duplicate împreună cu valoarea lor de original(master) vor fi afişate în ecranul principal și va fi auto-verificate pentru ștergere. Valoarea original(Master) nu este verificat.</string>
+  <string name="startup_message">Utilizaţi pictograma duplicat în dreapta-sus pentru a seta vedere opţiunea duplicate</string>
+  <string name="message_duplicates_backup">Este recomandabil că rezervă contacte inainte de a le şterge</string>
+</resources>

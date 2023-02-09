@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permission_inapp_billing">Kunt uw credit card.</string>
+  <string name="permission_read_sms">Uw berichten kunt lezen.</string>
+  <string name="permission_send_sms">Berichten kunt naar anderen verzenden.</string>
+  <string name="permission_mic">Kan audio opnemen van uw microfoon.</string>
+  <string name="permission_camera">Afbeeldingen kunt van uw camera lezen.</string>
+  <string name="permission_read_contacts">Uw lijst met contactpersonen kunt lezen.</string>
+  <string name="permission_write_contacts">Aan uw lijst met contactpersonen kunt schrijven.</string>
+  <string name="permission_read_ext_storage">Kunnen bestanden van USB-toegankelijke mappen lezen.</string>
+  <string name="permission_write_ext_storage">Bestanden kunt naar USB-toegankelijke mappen schrijven.</string>
+  <string name="permission_read_call_log">Kunt te weten komen wie u geroepen en wanneer.</string>
+  <string name="permission_location_fine">Weet uw exacte locatie.</string>
+  <string name="permission_location_coarse">Weet uw geschatte locatie.</string>
+  <string name="permission_read_calender">Vindt uw kalender.</string>
+  <string name="permission_write_calender">Kunnen schrijven naar uw kalender.</string>
+  <string name="permission_call_phone">Kunt bellen met een telefoon zonder uw medeweten.</string>
+  <string name="permission_call_privileged">Kunt bellen met een telefoon, met inbegrip van noodmaatregelen, zonder uw medeweten.</string>
+  <string name="permission_install_packages">Andere apps kunt installeren.</string>
+  <string name="permission_internet">Kan het verzenden van informatie via het Internet.</string>
+  <string name="permission_wake_lock">Kunt voorkomen dat apparaat naar slaap modus te gaan.</string>
+  <string name="permission_network_state">Status van netwerk bereikbaar.</string>
+  <string name="permission_read_voicemail">Vindt uw voicemail.</string>
+</resources>

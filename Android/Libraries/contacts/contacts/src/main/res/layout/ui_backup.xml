@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:ads="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        >
+
+        <Button
+            android:id="@+id/btnCancel"
+            android:text="@string/button_Close"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="-4dp"
+            android:layout_marginLeft="-5dp"
+            />
+
+
+        <Button
+            android:id="@+id/btnSend"
+            android:text="@string/button_Apply"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="-4dp"
+            android:layout_marginRight="-5dp"/>
+
+        <!--android:layout_marginLeft="-5dp"-->
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="-1dp"
+        >
+
+        <ScrollView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+                <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginTop="5dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/message_backup_options"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginTop="3dp"
+                        android:layout_marginBottom="5dp"
+                        android:textAlignment="center"
+                        android:textSize="15sp"
+                        android:textStyle="normal"
+                        />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/backup_options_using"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        />
+
+                    <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:id="@+id/radioShareOptions"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_marginTop="5dp">
+
+                        <RadioButton xmlns:android="http://schemas.android.com/apk/res/android"
+                            android:id="@+id/radioExternalStorage"
+                            android:text="@string/export_options_externalStorage"
+                            android:checked="true"
+                            android:textSize="16sp"
+                            android:layout_height="wrap_content"
+                            android:layout_width="match_parent"
+                            />
+
+                        <RadioButton xmlns:android="http://schemas.android.com/apk/res/android"
+                            android:id="@+id/radioShareApplications"
+                            android:text="@string/share_options_allshare"
+                            android:checked="false"
+                            android:textSize="16sp"
+                            android:layout_height="wrap_content"
+                            android:layout_width="match_parent"
+                            />
+                    </RadioGroup>
+                </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</LinearLayout>

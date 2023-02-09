@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">Telefon numarası</string>
+  <string name="text_calllog_date">Tarihi</string>
+  <string name="text_calllog_time">Zaman</string>
+  <string name="text_calllog_duration">Duration(s)</string>
+  <string name="text_calllog_type">Türü</string>
+  <string name="spinner_calllog_type_incoming">Gelen</string>
+  <string name="spinner_calllog_type_outgoing">Giden</string>
+  <string name="spinner_calllog_type_missed">Cevapsız</string>
+  <string name="message_calllog_added">Arama kaydı için başarıyla eklendi</string>
+  <string name="message_calllog_added_error">Arama kaydı ekleme hatası</string>
+  <string name="message_calllog_edited">Başarıyla Güncellenme Zamanı arama kaydı</string>
+  <string name="message_calllog_edited_error">Arama kaydı güncelleştirme hatası</string>
+</resources>

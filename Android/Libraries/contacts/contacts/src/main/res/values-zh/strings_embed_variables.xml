@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">连接到设备。
+        按 \'Send\' 转移联系人 ︰</string>
+  <string name="message_bt_conn_failed">连接到设备失败。
+    请确保此应用程序安装和蓝牙屏幕是在中打开 ︰</string>
+  <string name="message_bt_sent_error">无法传输这些联系人的数目 ︰</string>
+  <string name="message_bt_recv_error">无法创建这些联系人的数目 ︰</string>
+  <string name="message_bt_create_complete">创建接收的联系人 ︰</string>
+  <string name="message_bt_sent_complete">发送到设备的联系人 ︰</string>
+  <string name="progressbar_bt_send_data">转移的唯一联系人</string>
+  <string name="progressbar_bt_bytes">字节</string>
+  <string name="progressbar_bt_create_contacts">创建联系人 （与图片联系需要更多时间）</string>
+  <string name="message_free_version_selection">最多可以选择的免费版的联系是 ︰</string>
+  <string name="progressbar_delete_data">正在删除独特联系人</string>
+</resources>

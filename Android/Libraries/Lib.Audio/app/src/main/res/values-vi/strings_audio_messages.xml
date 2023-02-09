@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Không thể kết nối đến máy chủ Google. Xin vui lòng khởi động lại ứng dụng và thử lại
+    </string>
+  <string name="progressbar_load_data">Tìm kiếm các tập tin âm thanh...</string>
+  <string name="message_selectitems">Atleast 1 lựa chọn là cần thiết</string>
+  <string name="message_activity_load_fail">Không thể chạy được ứng dụng</string>
+  <string name="message_activity_loading">Khởi động ứng dụng...</string>
+  <string name="message_other_permissions_missing">Yêu cầu cấp phép được yêu cầu cho tính năng này để làm việc. Xin vui lòng cung cấp cho quyền được yêu cầu và thử lại
+    </string>
+  <string name="message_no_read_permission">Không có quyền đọc
+    </string>
+  <string name="message_cannot_go_in">Có thể không đi vào bên trong thư mục được chọn
+    </string>
+  <string name="message_delete_confirm">Tệp đã chọn (s) sẽ bị xóa. Hành động này không thể hoàn tác. Tiến hành không?</string>
+  <string name="progressbar_delete_data">
+        Đang xóa bỏ tệp </string>
+  <string name="message_delete_complete"> tập tin / cặp bị xóa</string>
+  <string name="message_free_version_selection">
+        Tối đa các tập tin có thể được lựa chọn trong các phiên bản miễn phí là: </string>
+  <string name="message_max_allowed_one">
+        Tùy chọn này chỉ hoạt động cho một sự lựa chọn duy nhất  </string>
+  <string name="message_only_file">
+        Tùy chọn này chỉ hoạt động cho (các) tệp  </string>
+  <string name="message_copying_file">
+        Sao chép tập tin...  </string>
+  <string name="message_copy_complete">
+        Sao chép tập tin hoàn thành. Tên tập tin sẽ mất vài phút để hiển thị trong cửa hàng phương tiện truyền thông.  </string>
+  <string name="message_copy_error">
+        Không thể tạo một bản sao của một số tệp. Đảm bảo không gian trống và bạn có quyền truy cập ghi vào thư mục.</string>
+  <string name="message_share_error">
+        Một lỗi bắt gặp trong quá trình sao chép. Xin vui lòng kiểm tra xem nếu bạn có đủ không gian lưu trữ để chia sẻ tệp bộ nhớ cache  </string>
+  <string name="message_zipping_files">
+        Nén các tệp / cặp...  </string>
+  <string name="message_zipping_completed">
+        Tất cả các tệp / các cặp chuyển đến zip lưu trữ  </string>
+  <string name="message_zipping_error">
+        Không có số zip tệp / cặp. Vui lòng kiểm tra nếu cặp đã chọn không có sản phẩm nào và bạn có đủ dung lượng lưu trữ</string>
+  <string name="message_rename_complete">
+        Đổi tên của tập tin/thư mục hoàn tất. Tên mới sẽ mất vài phút để hiển thị trong cửa hàng phương tiện truyền thông.  </string>
+  <string name="message_rename_error">
+        Không thể đổi tên tập tin/thư mục  </string>
+  <string name="message_create_folder_complete">
+        Thư mục tạo  </string>
+  <string name="message_create_folder_error">
+        Không thể tạo thư mục  </string>
+  <string name="message_error_audio_play">
+        Không thể chơi âm thanh </string>
+</resources>

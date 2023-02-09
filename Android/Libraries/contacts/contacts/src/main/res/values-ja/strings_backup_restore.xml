@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">無料版のみ最大 200 の連絡先のバックアップを作成できます。
+        連絡先がされてバックアップ ファイル。
+    </string>
+  <string name="message_backup_failed">バックアップ ファイルの保存に失敗しました、再試行してください。問題が解決しない場合は、問題をこのアプリでフィード バック オプションを使用してアプリの発行者に報告してください。
+    </string>
+</resources>

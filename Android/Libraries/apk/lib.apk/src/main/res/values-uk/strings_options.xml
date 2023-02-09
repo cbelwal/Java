@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="share_options_ShareUsing">Спільний доступ за допомогою:</string>
+  <string name="share_options_allshare">Електронна пошта, Wifi, Хмара зберігання (великі файли можуть виникнути проблеми)</string>
+  <string name="export_options_externalStorage">Зовнішнього зберігання</string>
+  <string name="export_options_ExportAs">Формат експорту:</string>
+  <string name="export_options_ExportUsing">Частка APK файл (и) за допомогою:</string>
+  <string name="progressbar_prepare_data">Підготовка пакунок... </string>
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Vinjari</string>
+  <string name="backup_options_backupusing">Kutumia chelezo</string>
+  <string name="transfer_address_home">Nyumbani</string>
+  <string name="transfer_address_office">Ofisi</string>
+  <string name="transfer_contact_office">(W).</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(M)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">Katika Vipendwa</string>
+  <string name="transfer_not_in_favorites">Si katika Vipendwa</string>
+  <string name="transfer_times_contacted">Mara kuwasiliana:</string>
+  <string name="transfer_last_time_contacted">Mara ya mwisho kuwasiliana:</string>
+  <string name="transfer_organization">Shirika la</string>
+  <string name="transfer_title">Kichwa</string>
+  <string name="transfer_event_birthday">Siku ya kuzaliwa</string>
+  <string name="transfer_event_anniv">Maadhimisho ya miaka</string>
+  <string name="transfer_event_other">Wengine</string>
+  <string name="check_phone">Simu Number(s)</string>
+  <string name="check_email">Barua pepe</string>
+  <string name="csv_header_name">Jina</string>
+  <string name="csv_header_phone">Simu Number(s)</string>
+  <string name="csv_header_email">Anwani za baruapepe</string>
+  <string name="csv_header_postal">Address(es) wa posta</string>
+  <string name="csv_header_timescontacted">Mara kuwasiliana</string>
+  <string name="csv_header_lasttimecontact">Mara ya mwisho kuwasiliana</string>
+  <string name="csv_header_favorite">Hali Pendwa</string>
+  <string name="csv_header_organization">Shirika la</string>
+  <string name="check_postaladdress">Anwani ya posta</string>
+  <string name="check_timescontacted">Idadi ya mara kuwasiliana</string>
+  <string name="check_lastcontact">Mara ya mwisho ya mwasiliani</string>
+  <string name="check_isfavorite">Hali Pendwa</string>
+  <string name="share_options_ShareAs">Kushiriki kama:</string>
+  <string name="share_options_ShareUsing">Shiriki kutumia:</string>
+  <string name="share_options_sms">Ujumbe</string>
+  <string name="share_options_allshare">Kushiriki maombi (wingu, barua pepe,...)</string>
+  <string name="share_options_Clipboard">Nakili kwenye Ubaoklipu</string>
+  <string name="share_options_plaintext">Matini ghafi</string>
+  <string name="share_options_vcf">Faili KADIV binafsi</string>
+  <string name="share_options_combinedvcf">Jalada la Vcard pamoja</string>
+  <string name="export_options_textfile">Faili ya matini ghafi</string>
+  <string name="export_options_combinedvcf_21">Jalada la vCard pamoja 2.1</string>
+  <string name="export_options_individualvcf_21">Faili KADIV binafsi 2.1</string>
+  <string name="export_options_combinedvcf_40">Jalada la vCard pamoja 4.0</string>
+  <string name="export_options_individualvcf_40">Faili KADIV binafsi 4.0</string>
+  <string name="export_options_csvfile">Mkato Separated (*.csv) faili</string>
+  <string name="export_options_externalStorage">Hifadhi nje ya kifaa hiki</string>
+  <string name="export_options_ExportAs">Hamisha umbizo:</string>
+  <string name="export_options_ExportUsing">Hifadhi faili katika:</string>
+  <string name="message_import_invalid_file">Si halali mawasiliano faili
+        </string>
+  <string name="backup_options_using">Akibisha Jalada chelezo katika:</string>
+  <string name="menu_import_help">Msaada</string>
+  <string name="message_backup_options">Inashauriwa chelezo katika maombi ya kushiriki kama wingu, Email nk.
+        Hii itaruhusu kufufua wawasiliani iwapo uliwahi kupoteza simu yako.
+        Kurejesha mawasiliano kutoka barua pepe/wingu kwa mkono isipokuwa wawasiliani chelezo faili kutoka akaunti yako ya barua pepe/wingu eneo lolote katika kifaa hiki. Matumizi ya Leta mapenzi kisha otomatiki kupata faili.</string>
+  <string name="message_restore_fail">
+        Unaweza kurejesha kutoka kwenye chelezo, faili chelezo ni limepotea au haribika
+                </string>
+  <string name="message_restore_refresh">Wawasiliani unahifadhiwa kutoka faili chelezo. Tafadhali Onesha upya kiwamba ili kuona wawasiliani wote nje</string>
+  <string name="message_restore_selection_finish">Wawasiliani unahifadhiwa kutoka faili chelezo. Unaweza sasa Funga ukurasa huu au Leta kutoka faili chelezo nyingine</string>
+  <string name="message_restore_legacy_name">Faili chelezo aliitwa \'BackupAllContacts.vcf\' katika matoleo ya zamani</string>
+</resources>

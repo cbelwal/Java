@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Allmänna</string>
+  <string name="nav_menu_group_help">Hjälp</string>
+  <string name="nav_menu_group_viewoptions">Alternativ</string>
+  <string name="nav_menu_group_views">Visningar</string>
+  <string name="nav_menu_group_operations">Verksamhet</string>
+  <string name="nav_menu_group_backup">Säkerhetskopiering</string>
+  <string name="nav_menu_rate_this_app">Feedback</string>
+  <string name="nav_menu_backup_contacts">Säkerhetskopiera alla kontakter</string>
+  <string name="nav_menu_restore_contacts">Återställa kontakter från en säkerhetskopia</string>
+  <string name="nav_menu_upgrade">Uppgradera till Pro versionen</string>
+  <string name="nav_menu_filter">Visa Filter</string>
+  <string name="nav_menu_duplicates">Dubbletter Toolkit</string>
+  <string name="nav_menu_tellafriend">Tipsa en vän</string>
+  <string name="nav_menu_feedback">Kontakta Dasmic</string>
+  <string name="nav_menu_demovideo">Demovideo</string>
+  <string name="nav_menu_coju_outlook">Coju för Microsoft Outlook</string>
+  <string name="nav_menu_coju">Hämta Coju</string>
+  <string name="display_options_all_TimesContacted">Sorterade efter gånger kontaktat</string>
+  <string name="display_options_all_last_contact">Sorterade efter senaste kontakt tid</string>
+  <string name="display_options_all">Sorterade efter namn</string>
+  <string name="display_options_phonenumber">Sorterade telefonnummer</string>
+  <string name="display_options_email">Sorterade e-postadresser</string>
+  <string name="display_options_deleted">Borttagna kontakter</string>
+  <string name="display_options_refresh">Uppdatera visningen</string>
+  <string name="action_Operations">Bulk uppdateringar</string>
+  <string name="action_Export">Exportera kontakter</string>
+  <string name="action_delete">Radera kontakter</string>
+  <string name="action_Import">Importera kontakter</string>
+  <string name="action_edit">Redigera kontakt</string>
+  <string name="action_add">Lägg till kontakt</string>
+  <string name="action_share">Dela kontakter</string>
+  <string name="action_bluetooth">Bluetooth-överföring</string>
+</resources>

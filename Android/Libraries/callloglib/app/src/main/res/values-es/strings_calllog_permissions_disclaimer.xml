@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        Esta aplicación ahora solicitará permisos para acceder a sus datos de contactos y registro de llamadas.
+        Estos permisos son necesarios para esta aplicación trabajar y no están destinados a ser utilizados en cualquier otra forma. Tomamos su privacidad muy en serio, y sus datos de contactos y registro de llamadas no serán compartidos con terceros incluyendo coju.mobi™, los editores de esta aplicación.
+    </string>
+  <string name="button_permissions_ack">
+        Reconoce
+    </string>
+  <string name="title_ack_confirm">
+        Renuncia de permisos
+    </string>
+</resources>

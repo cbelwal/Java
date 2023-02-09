@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">Çalışmıyor</string>
+  <string name="message_stop_tasks">Çalışan görevleri durdurma...</string>
+  <string name="message_user_tasks_stopped">Kullanıcı görevleri durdu</string>
+  <string name="message_system_tasks_stopped">Sistem görevleri durdu</string>
+  <string name="message_process_still_running">Hala çalışan görevler</string>
+  <string name="message_stop_running_tasks">Apps çalışmasını durdurmak ve kablosuz/Bluetooth kapatmak?</string>
+  <string name="message_stopping_running_tasks">Bluetooth ve kablosuz durdurma</string>
+  <string name="message_battery_current_percentage">Geçerli pil seviyesi %:</string>
+  <string name="message_no_user_process">Hiçbir çalışan kullanıcı işlemi bulundu</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Не може да се свърже със сървъра Google. Рестартирайте приложението и опитайте отново
+    </string>
+  <string name="progressbar_load_data">Търсене на видео файлове...</string>
+  <string name="message_selectitems">Се изисква поне 1 селекция</string>
+  <string name="message_activity_load_fail">Приложението не можа да бъде стартирана</string>
+  <string name="message_activity_loading">Стартиране на приложението...</string>
+  <string name="message_other_permissions_missing">Исканият разрешения са необходими за този черта към работа. Моля, дайте исканите разрешения и опитайте отново
+    </string>
+  <string name="message_no_read_permission">Няма права за четене
+    </string>
+  <string name="message_cannot_go_in">Не можех да отида в избраната папка
+    </string>
+  <string name="message_delete_confirm">Избраните файлове (s) ще бъдат изтрити. Това действие не може да бъде отменено. Продължите?</string>
+  <string name="progressbar_delete_data">
+        Изтриване на файлове </string>
+  <string name="message_delete_complete"> файлове / папки заличава</string>
+  <string name="message_free_version_selection">
+        Максимална файлове, които могат да бъдат избрани в безплатната версия е: </string>
+  <string name="message_max_allowed_one">
+        Тази опция работи само за един избор  </string>
+  <string name="message_only_file">
+        Тази опция работи само за файлове  </string>
+  <string name="message_copying_file">
+        Копиране на файл...  </string>
+  <string name="message_copy_complete">
+        Пълно копие на файл  </string>
+  <string name="message_copy_error">
+        Не можа да се създаде копие на някои файлове. Уверете се, че има свободно пространство и да имате писмен достъп до папката.</string>
+  <string name="message_share_error">
+        Възникна грешка по време на копие. Проверете дали имате достатъчно свободно място да кешира споделени файлове  </string>
+  <string name="message_zipping_files">
+        Компресиране на файлове / папки...  </string>
+  <string name="message_zipping_completed">
+        Всички ързани файлове / папки се премества в zip Архив  </string>
+  <string name="message_zipping_error">
+        Не може да zip файлове / папки. Моля проверете избраните папки не са празни и имате достатъчно пространство за съхранение</string>
+  <string name="message_rename_complete">
+        Преименуване на файл/папка пълна  </string>
+  <string name="message_rename_error">
+        Неуспешно преименуване на файл/папка  </string>
+  <string name="message_create_folder_complete">
+        Създадена папка  </string>
+  <string name="message_create_folder_error">
+        Не можа да създаде папка  </string>
+</resources>

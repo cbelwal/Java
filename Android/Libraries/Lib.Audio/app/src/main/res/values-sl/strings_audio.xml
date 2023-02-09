@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Avdio Rende</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="activity_extract_pictures">Citat slišan</string>
+  <string name="button_Select_All">Izberi vse</string>
+  <string name="button_UnSelect_All">Un-Izberi vse</string>
+  <string name="button_Delete">Izbrisati</string>
+  <string name="button_Update">Posodobitev</string>
+  <string name="button_Share">Delež</string>
+  <string name="button_Yes">da</string>
+  <string name="button_No">ne</string>
+  <string name="button_apply">Uporablja</string>
+  <string name="button_browse">Prebrskaj</string>
+  <string name="button_close">Blizu</string>
+  <string name="button_play">Igra</string>
+  <string name="button_stop">ustavi se</string>
+  <string name="button_Confirm">Potrditev</string>
+  <string name="button_Ok">v redu</string>
+  <string name="text_import_file_name">ime</string>
+  <string name="text_import_file_size">Velikost</string>
+  <string name="general_items">elemente</string>
+  <string name="general_selected_items">izbrani</string>
+  <string name="general_error">Napaka</string>
+  <string name="title_confirm">Potrditev</string>
+  <string name="button_ok">v redu</string>
+  <string name="button_cancel">Prekliči</string>
+  <string name="free_space">Vsota prost prostor:</string>
+  <string name="title_share">Omogočanje skupne rabe prek:</string>
+  <string name="title_rename">Vnesite novo ime  </string>
+  <string name="title_create_folder">Vnesite ime mape  </string>
+</resources>

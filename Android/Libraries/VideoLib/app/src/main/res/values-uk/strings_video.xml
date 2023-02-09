@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Відео тертці</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="activity_extract_pictures">Витяги зображень</string>
+  <string name="button_Select_All">Виділити все</string>
+  <string name="button_UnSelect_All">Зніміть виділення всього документа</string>
+  <string name="button_Delete">Видалити</string>
+  <string name="button_Update">Оновлення</string>
+  <string name="button_Share">Частка</string>
+  <string name="button_Yes">Так</string>
+  <string name="button_No">Ні</string>
+  <string name="button_apply">Застосувати</string>
+  <string name="button_browse">Огляд</string>
+  <string name="button_close">Закрити</string>
+  <string name="button_Confirm">Підтвердити</string>
+  <string name="button_Ok">Гаразд</string>
+  <string name="text_import_file_name">Ім\'я</string>
+  <string name="text_import_file_size">Розмір</string>
+  <string name="general_items">пункт (и)</string>
+  <string name="general_selected_items">вибрані</string>
+  <string name="general_error">Помилка</string>
+  <string name="title_confirm">Підтвердити</string>
+  <string name="button_ok">Гаразд</string>
+  <string name="button_cancel">\"Скасувати\"</string>
+  <string name="free_space">Всього вільного місця:</string>
+  <string name="title_share">Спільний доступ за допомогою:</string>
+  <string name="title_rename">Введіть нове ім\'я  </string>
+  <string name="title_create_folder">Введіть ім\'я папки  </string>
+</resources>

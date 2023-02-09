@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        App ini sekarang akan meminta izin untuk mengakses data log dan kontak telepon Anda.
+        Izin diperlukan untuk aplikasi ini untuk bekerja dan tidak dimaksudkan untuk digunakan dengan cara lain. Kami mengambil privasi Anda serius, dan data log dan kontak telepon Anda tidak akan dibagi dengan pihak termasuk coju.mobi™, penerbit dari aplikasi ini.
+    </string>
+  <string name="button_permissions_ack">
+        Mengakui
+    </string>
+  <string name="title_ack_confirm">
+        Izin Disclaimer
+    </string>
+</resources>

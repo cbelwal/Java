@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Spoji stike</string>
+  <string name="action_merge">Spojiti stike</string>
+  <string name="message_merge_title">Pozor</string>
+  <string name="message_merge_confirm">Potrdite, če želite spojiti izbrane stike? Telefonska številka, e-mail, poštni naslov, Opomba in dogodki vse izbrane stike bodo spojeni v en sam stik z imenom: </string>
+  <string name="message_merge_complete">Izbrani stiki so bile spojene</string>
+  <string name="progressbar_merge_data">Združujejo stike...</string>
+</resources>

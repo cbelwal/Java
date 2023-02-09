@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">Podłączony do urządzenia.
+        Naciśnij \'Send\' aby przenieść kontakty do: </string>
+  <string name="message_bt_conn_failed">Połączenie nie powiodło się do urządzenia.
+    Upewnij się, że ta aplikacja jest zainstalowana i w otwarciu ekranu Bluetooth: </string>
+  <string name="message_bt_sent_error">Nie można przenieść te liczby kontaktów: </string>
+  <string name="message_bt_recv_error">Nie można utworzyć te liczby kontaktów: </string>
+  <string name="message_bt_create_complete">Otrzymane Kontakty utworzone: </string>
+  <string name="message_bt_sent_complete">Kontakty do urządzenia: </string>
+  <string name="progressbar_bt_send_data">Przesyłanie kontaktów unikatowy </string>
+  <string name="progressbar_bt_bytes">bajtów </string>
+  <string name="progressbar_bt_create_contacts">Tworzenie kontaktów (kontakty z obrazu wymaga więcej czasu)</string>
+  <string name="message_free_version_selection">
+        Maksymalna kontaktów, które można wybrać w wersji darmowej jest: </string>
+  <string name="progressbar_delete_data">
+        Usuwanie kontaktów unikatowy </string>
+</resources>

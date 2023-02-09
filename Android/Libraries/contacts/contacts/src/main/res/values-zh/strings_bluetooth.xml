@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">选定联系人的数量:</string>
+  <string name="text_bt_paired_devices">配对设备 (选择连接)</string>
+  <string name="text_bt_new_devices">新设备 (选择连接)</string>
+  <string name="message_bt_scan_devices">正在扫描设备..。</string>
+  <string name="message_bt_scan_complete">已完成设备扫描</string>
+  <string name="message_bt_pair_devices">配对设备..。</string>
+  <string name="message_bt_new_none">未找到新设备</string>
+  <string name="message_bt_pair_none">未找到配对设备</string>
+  <string name="message_bt_conn_lost">连接丢失到设备</string>
+  <string name="message_bt_connecting">连接到:</string>
+  <string name="message_bt_not_enabled">蓝牙未启用, 关闭蓝牙传输</string>
+  <string name="message_bt_status_listening">听。。。</string>
+  <string name="message_bt_status_connecting">连接。。。</string>
+  <string name="message_bt_status_connected">连接</string>
+  <string name="message_bt_testdata_sent">Testdata 发送</string>
+  <string name="message_bt_no_contacts">未选择要发送的联系人</string>
+  <string name="message_bt_recv_complete">接收数据完成</string>
+  <string name="message_bt_not_connected">未连接到任何设备</string>
+  <string name="message_bt_adapter_error">设置蓝牙时出错。
+            请检查您的手机是否有蓝牙, 并且蓝牙适配器已启用</string>
+  <string name="menu_bt_make_discoverable">使设备可发现</string>
+  <string name="progressbar_bt_recv_data">已准备好接收联系人数据..。</string>
+  <string name="message_bt_startup">确保同一应用正在运行, 并且此屏幕在其他设备中打开</string>
+</resources>

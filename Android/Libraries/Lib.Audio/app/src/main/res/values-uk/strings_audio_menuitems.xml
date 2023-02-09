@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_share">Частка</string>
+  <string name="action_delete">Видалити</string>
+  <string name="action_filter">Фільтр</string>
+  <string name="action_copy">Копія</string>
+  <string name="action_rename">Перейменувати</string>
+  <string name="action_create_folder">Створити папку</string>
+  <string name="action_move">Переміщення</string>
+  <string name="action_share_zip">Частка як Zip</string>
+  <string name="action_extract_pictures">Витягувати аудіо</string>
+  <string name="action_zip">ZIP</string>
+  <string name="nav_menu_view_name">Перегляд за ім\'я файлу</string>
+  <string name="nav_menu_view_size">Перегляд за розміром</string>
+  <string name="nav_menu_view_modified">Перегляд за дата зміни</string>
+  <string name="nav_menu_view_refresh">Оновити</string>
+  <string name="nav_menu_view_close">Закрити</string>
+  <string name="nav_menu_search_default">Пошук медіа магазин (за промовчанням)</string>
+  <string name="nav_menu_search_entire_phone">Пошук весь телефон</string>
+  <string name="nav_menu_search_media_folders">Пошук медіа папок</string>
+  <string name="nav_menu_search_external_folders">Зовнішні папки пошуку</string>
+  <string name="nav_menu_group_general">Загальні</string>
+  <string name="nav_menu_group_viewoptions">Параметри подання</string>
+  <string name="nav_menu_group_searchoptions">Параметри пошуку</string>
+  <string name="nav_menu_rate_this_app">Зворотній зв\'язок</string>
+  <string name="nav_menu_upgrade">Перейти на платну версію</string>
+  <string name="nav_menu_tellafriend">Розповісти другу</string>
+  <string name="nav_menu_feedback">Зв\'язатися з нами</string>
+  <string name="nav_menu_group_help">Допомога</string>
+  <string name="nav_menu_demovideo">Демо-відео</string>
+  <string name="nav_menu_help_doc">Допомогти документації</string>
+</resources>

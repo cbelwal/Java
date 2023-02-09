@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Geral</string>
+  <string name="nav_menu_group_help">Ajuda</string>
+  <string name="nav_menu_group_viewoptions">Opções</string>
+  <string name="nav_menu_group_views">Modos de exibição</string>
+  <string name="nav_menu_group_operations">Operações</string>
+  <string name="nav_menu_group_backup">Backup de</string>
+  <string name="nav_menu_rate_this_app">Gabarito</string>
+  <string name="nav_menu_backup_contacts">Fazer backup de todos os contatos</string>
+  <string name="nav_menu_restore_contacts">Restaurar os contatos de backup</string>
+  <string name="nav_menu_upgrade">Versão de atualização para o Pro</string>
+  <string name="nav_menu_filter">Filtro de visualização</string>
+  <string name="nav_menu_duplicates">Toolkit de duplicatas</string>
+  <string name="nav_menu_tellafriend">Indique a um amigo</string>
+  <string name="nav_menu_feedback">Entre em contato com Dasmic</string>
+  <string name="nav_menu_demovideo">Vídeo de demonstração</string>
+  <string name="nav_menu_coju_outlook">Coju para Microsoft Outlook</string>
+  <string name="nav_menu_coju">Baixar Coju</string>
+  <string name="display_options_all_TimesContacted">Classificados por vezes contactados</string>
+  <string name="display_options_all_last_contact">Classificados por última vez contato</string>
+  <string name="display_options_all">Ordenados por nome</string>
+  <string name="display_options_phonenumber">Números de telefone classificada</string>
+  <string name="display_options_email">Endereços de E-mail classificada</string>
+  <string name="display_options_deleted">Contatos excluídos</string>
+  <string name="display_options_refresh">Atualizar a exibição</string>
+  <string name="action_Operations">Atualizações em massa</string>
+  <string name="action_Export">Contato (s) de exportação</string>
+  <string name="action_delete">Excluir contato (s)</string>
+  <string name="action_Import">Contato (s) de importação</string>
+  <string name="action_edit">Editar contato</string>
+  <string name="action_add">Adicionar contato</string>
+  <string name="action_share">Compartilhar contato (s)</string>
+  <string name="action_bluetooth">Transferência Bluetooth</string>
+</resources>

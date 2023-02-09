@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">บันทึกการโทร</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">ไม่รู้จัก</string>
+  <string name="button_Yes">ใช่</string>
+  <string name="button_No">ไม่ใช่</string>
+  <string name="button_Apply">นำไปใช้</string>
+  <string name="button_Close">ปิด</string>
+  <string name="general_not_Available">ไม่พร้อมใช้งาน</string>
+  <string name="general_items">รายการ</string>
+  <string name="general_selected_items">เลือก</string>
+  <string name="title_confirm">ยืนยัน</string>
+  <string name="title_dialog_coju">ดาวน์โหลด Coju</string>
+  <string name="message_selectitems">ต้องเลือกอย่างน้อย 1 รายการล็อก</string>
+  <string name="message_download_coju">Coju เป็น app แบบบูรณาการการจัดการที่ติดต่อ คุณสมบัติของ app นี้บวกความสามารถเพิ่มเติมได้ คุณจะต้องดาวน์โหลด Coju</string>
+  <string name="message_contact_permissions_missing">ติดต่อสิทธิ์จำเป็นสำหรับโปรแกรมประยุกต์นี้ทำงาน App จะตอนนี้ปิด โปรดให้สิทธิ์ และลองอีกครั้ง</string>
+  <string name="message_other_permissions_missing">ร้องขอสิทธิ์จำเป็นสำหรับคุณลักษณะนี้ app จะทำงาน
+        กรุณาให้ขออนุญาต และลองอีกครั้ง</string>
+</resources>

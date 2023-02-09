@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> Posodobi stike. Tega dejanja ni mogoče razveljaviti. Ali želite nadaljevati?</string>
+  <string name="message_update_complete"> stike, ki so posodobljene</string>
+  <string name="message_save_external">Kontaktov, shranjenih v zunanjih mapo: </string>
+  <string name="message_import">Samo Vcard in CSV datoteke lahko uvozijo (uporabite \'Browse\ \"naložiti datoteke iz drugih virov</string>
+  <string name="message_loading_files">Iskanje lokalne mape...</string>
+  <string name="message_loading_backup_files">Iskanje naprav za varnostno kopiranje datotek...</string>
+  <string name="message_importing_contacts_complete">Uvozi stike</string>
+  <string name="message_save_external_suffix">. Mapo lahko dostopal povezovanje telefona z računalnikom preko USB itd. </string>
+  <string name="message_selectitems">Atleast 1 stik mora biti izbrana</string>
+  <string name="message_delete_confirm">Izbrane stike podrobnosti bodo izbrisani. Tega dejanja ni mogoče razveljaviti. Ali želite nadaljevati?</string>
+  <string name="message_delete_complete"> Contact(s) podrobnosti črta</string>
+  <string name="message_free_import_limit">Datoteka vsebuje več stike, kot je dovoljeno v brezplačno različico</string>
+  <string name="message_rate_this_app_error">Ocena strani ni bilo mogoče odpreti. Prosim pojdi na Google igra in ustrezno stopnjo</string>
+  <string name="message_edit">Naenkrat je mogoče urejati le 1 stik. </string>
+  <string name="message_backup_stored">Stiki so bile kopirane v datoteki:</string>
+  <string name="message_download_coju">Coju je integrirano upravljanje stikov app. Ima vse značilnosti tega app plus dodatne zmogljivosti. Bo vam je všeč, da prenesete Coju?</string>
+  <string name="message_contact_permissions_missing">Stiki dovoljenja so potrebna za to app za delo. App bo zdaj zapreti, navedite dovoljenja ter poskusite znova</string>
+  <string name="message_other_permissions_missing">Zahtevana dovoljenja so potrebna za delovanje te app funkcije.
+        Prosim izročiti zahtevanih dovoljenj in poskusite znova</string>
+  <string name="message_backup_freeversion">
+        Največje število stikov, ki lahko varnostno kopirane v to prost prevod je:
+    </string>
+  <string name="message_backup_paidversion">
+        Vse ste stikov so bili uspešno varnostno kopirali v datoteko
+    </string>
+  <string name="message_purchase_error">
+        Google strežnikom ni bilo mogoče vzpostaviti. Prosim zopet začeti app in poskusite znova
+    </string>
+</resources>

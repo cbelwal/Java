@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Atleast 1 de selecţie este necesară</string>
+  <string name="message_save_external">APK fișierele stocate în folderul externe: </string>
+  <string name="message_free_version_selection">Doar 3 apps poate fi selectat la un moment dat în versiune gratuită</string>
+  <string name="message_free_version_option">Această opţiune este disponibilă numai pentru versiunea plătit</string>
+  <string name="message_activity_load_fail">Imposibil de pornit aplicatia</string>
+  <string name="message_activity_loading">Aplicarea de plecare...</string>
+  <string name="message_loading_files">Căutare dosare locale...</string>
+  <string name="message_deleting_files">Vă rugăm să confirmaţi individual pentru fiecare pachet selectate.
+    Pachete de sistem va dezinstala doar din contul de utilizator</string>
+  <string name="message_save_external_suffix">. Dosarul poate fi accesat prin conectarea telefonului la computer prin USB etc. </string>
+  <string name="message_rate_this_app_error">Nu pot deschide pagina de evaluare</string>
+  <string name="message_share_link_prefix">Salut, \r\n\r\nCheck acest lucru: </string>
+  <string name="message_share_link_suffix">Trimis prin APKit</string>
+  <string name="message_share_report_prefix">Pachet raport</string>
+  <string name="message_share_report_suffix">Generat şi trimis prin intermediul</string>
+  <string name="message_other_permissions_missing">Solicitat permisiuni sunt necessre pentru this feature la spre work. Vă rugăm să da permisiuni solicitate și încercați din nou
+    </string>
+  <string name="message_purchase_error">
+        Nu sa putut conecta la server de Google. Vă rugăm să reporniţi app şi încercaţi din nou
+    </string>
+</resources>

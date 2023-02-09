@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">لعبة جديدة</string>
+  <string name="button_switch_board">المجلس التبديل</string>
+  <string name="button_custom_board">تعيين المجلس المخصصة</string>
+  <string name="button_high_scores">نسبة عالية من الأصوات</string>
+  <string name="button_rate_app">قيم هذه اللعبة</string>
+  <string name="button_tell_a_friend">أخبر صديق</string>
+  <string name="button_paid_version">النسخة المدفوعة</string>
+  <string name="button_help_documentation">وثائق تعليمات</string>
+  <string name="button_demo_video">عرض الفيديو</string>
+  <string name="button_ok">موافق</string>
+  <string name="button_yes">نعم</string>
+  <string name="button_no">لا</string>
+  <string name="button_start">بدء تشغيل</string>
+  <string name="button_cancel">إلغاء الأمر</string>
+  <string name="button_abort">إحباط</string>
+  <string name="button_high_score_close">قم بإغلاق</string>
+  <string name="title_high_score">درجات أعلى عشرة عالية</string>
+  <string name="text_high_score_none">لا توجد نقاط</string>
+  <string name="text_high_score_pegs">Peg(s) المتبقية</string>
+  <string name="text_high_score_time">الوقت</string>
+</resources>

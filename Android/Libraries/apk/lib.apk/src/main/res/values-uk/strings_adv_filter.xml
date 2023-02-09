@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">Встановлена в останні 30 днів</string>
+  <string name="filter_adv_options_security_inappbilling">Має In-app білінгу</string>
+  <string name="filter_adv_options_security_readsms">Можна читати SMS</string>
+  <string name="filter_adv_options_security_sendsms">Можна надіслати SMS</string>
+  <string name="filter_adv_options_security_readcontacts">Можете прочитати контакти</string>
+  <string name="filter_adv_options_security_readcalllog">Можна читати журнал викликів</string>
+  <string name="filter_adv_options_security_readcalender">Можете прочитати календар</string>
+  <string name="filter_adv_options_security_writeexternalstorage">Можна написати зовнішнього зберігання</string>
+  <string name="filter_adv_options_security_camera">Можна отримати доступ до камери</string>
+  <string name="filter_adv_options_security_mic">Може записувати аудіо</string>
+  <string name="filter_adv_options_security_location">Можна отримати доступ до вашого місцезнаходження</string>
+  <string name="filter_adv_options_filter">Активувати безпеки Filter(s)</string>
+  <string name="filter_main_text">Фільтр параметри безпеки (тільки застосунки для відповідності будь-якого одна з цих критерій відображається):</string>
+  <string name="activity_security_filter">Фільтр відображення шкідливих програм</string>
+</resources>

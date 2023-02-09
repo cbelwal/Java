@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Tên tập tin:</string>
+  <string name="text_ep_file_size">Kích thước:</string>
+  <string name="text_ep_modified_date">Sửa đổi ngày:</string>
+  <string name="text_ep_video_duration">Thời gian:</string>
+  <string name="title_search_depth">Tìm kiếm sâu (giá trị lớn sẽ mất vài phút)</string>
+  <string name="nav_menu_search_entire_phone">Tìm toàn bộ điện thoại</string>
+  <string name="nav_menu_search_media_folders">Tìm phương tiện truyền thông cặp</string>
+  <string name="nav_menu_search_external_folders">Thư mục bên ngoài tìm kiếm</string>
+  <string name="progressbar_extracting_pictures">Chiết xuất hình ảnh...</string>
+  <string name="text_ep_time_start">Bắt đầu time(seconds)</string>
+  <string name="text_ep_period">Khoảng cách giữa pictures(seconds)</string>
+  <string name="text_ep_no_of_pictures">Số lượng hình ảnh</string>
+  <string name="text_ep_store">Lưu trữ các hình ảnh được giải nén là:</string>
+  <string name="text_ep_share_external">Đặt trong thư mục bên ngoài</string>
+  <string name="text_ep_share_app">Chia sẻ bằng cách sử dụng ứng dụng</string>
+  <string name="message_extract_complete"> Picture(s) đã được tách ra</string>
+  <string name="message_extract_error">Một lỗi bắt gặp trong chiết xuất hình ảnh</string>
+  <string name="message_search_depth_updated">Độ sâu tìm kiếm đã được Cập Nhật</string>
+  <string name="message_search_depth_error">Lỗi trong việc Cập Nhật tìm sâu</string>
+</resources>

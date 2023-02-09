@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_share">ใช้ร่วมกัน</string>
+  <string name="action_delete">ลบ</string>
+  <string name="action_filter">ตัวกรอง</string>
+  <string name="action_copy">คัดลอก</string>
+  <string name="action_rename">เปลี่ยนชื่อ</string>
+  <string name="action_create_folder">สร้างโฟลเดอร์</string>
+  <string name="action_move">ย้าย</string>
+  <string name="action_share_zip">แชร์เป็น Zip</string>
+  <string name="action_zip">ไปรษณีย์</string>
+  <string name="nav_menu_view_name">ดูตามชื่อ</string>
+  <string name="nav_menu_view_size">ดูตามขนาด</string>
+  <string name="nav_menu_view_modified">ดูตามวันเปลี่ยนแปลง</string>
+  <string name="nav_menu_view_refresh">รีเฟรช</string>
+  <string name="nav_menu_view_close">ปิด</string>
+  <string name="nav_menu_group_general">ทั่วไป</string>
+  <string name="nav_menu_group_viewoptions">ตัวเลือกมุมมอง</string>
+  <string name="nav_menu_rate_this_app">ความคิดเห็น</string>
+  <string name="nav_menu_upgrade">ปรับรุ่นเป็นรุ่นจ่าย</string>
+  <string name="nav_menu_tellafriend">บอกเพื่อน</string>
+  <string name="nav_menu_feedback">ติดต่อเรา</string>
+  <string name="nav_menu_group_help">วิธีใช้</string>
+  <string name="nav_menu_demovideo">วิดีโอสาธิต</string>
+  <string name="nav_menu_help_doc">เอกสารวิธีใช้</string>
+</resources>

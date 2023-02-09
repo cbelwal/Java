@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">Umeunganishwa kwenye kifaa.
+        Bonyeza \'Send\' kuhamisha wawasiliani kwa: </string>
+  <string name="message_bt_conn_failed">Muunganisho umeshindikana kwa kifaa.
+    Tafadhali kuhakikisha kwamba programu tumizi hii imewekwa na screen ya Bluetooth ni wazi katika: </string>
+  <string name="message_bt_sent_error">Haikuweza kuhamisha haya idadi ya mwasiliani unayetaka: </string>
+  <string name="message_bt_recv_error">Haikuweza kuunda haya idadi ya mwasiliani unayetaka: </string>
+  <string name="message_bt_create_complete">Mwasiliani unayetaka kupokea kuundwa: </string>
+  <string name="message_bt_sent_complete">Wawasiliani kwa kifaa: </string>
+  <string name="progressbar_bt_send_data">Kuhamisha mwasiliani unayetaka kipekee </string>
+  <string name="progressbar_bt_bytes">Baiti </string>
+  <string name="progressbar_bt_create_contacts">Mwasiliani unayetaka kujenga (mawasiliano na picha kuhitaji muda zaidi)</string>
+  <string name="message_free_version_selection">
+        Wawasiliani juu zaidi ambayo inaweza kuteuliwa kwenye toleo la bure ni: </string>
+  <string name="progressbar_delete_data">
+        Inafuta mwasiliani unayetaka kipekee </string>
+</resources>

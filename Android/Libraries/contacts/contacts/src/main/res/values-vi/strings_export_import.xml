@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_reading_import_file">Đọc tập tin, điều này có thể mất vài phút...</string>
+  <string name="message_exporting_contacts">Giải nén contact(s)...</string>
+  <string name="message_exporting_contacts_ready">Chuẩn bị sẵn sàng để xuất khẩu contact(s)...</string>
+  <string name="message_exporting_contacts_write_file">Tệp văn bản...</string>
+  <string name="text_import_file_name">Tên tập tin:</string>
+  <string name="text_import_file_size">Size(bytes) tập tin:</string>
+  <string name="text_unknown_file_size">Chưa biết</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Избраните контакти ще бъдат възстановени. Моля да потвърдите дали искате да продължите?</string>
+  <string name="message_undelete_complete"> контакта(ите) неизтрити</string>
+  <string name="message_undelete_notice">Тази опция ще направи списък с контактите, които могат да бъдат възстановени и зависи от производителя на вашето устройство или андроид версия. Контактите не могат да бъдат възстановени, ако устройството не позволява това, контакти са били изтрити преди няколко часа или контакти са били изтрити от SIM картата.</string>
+  <string name="message_undelete_option_invalid">Тази опция не е валидна за изтритите контакти
+        </string>
+  <string name="message_undelete_help">Моля изберете контакта(ите) и използвайте undelete иконата в горния десен ъгъл да ги възстановя</string>
+  <string name="progressbar_undelete_data">Undeleting контакта(ите) </string>
+  <string name="action_undelete">Undelete контакта(ите)</string>
+  <string name="button_understand">Разбирам</string>
+  <string name="title_disclaimer">ОТКАЗ ОТ ОТГОВОРНОСТ</string>
+  <string name="title_no_undelete_found">Съжалявам!</string>
+  <string name="message_no_undelete_found">
+        Ние сме съжалявам, не подлежат на възстановяване изтрити контакти са открити! Можете да опитате да се възстанови тях с помощта на ръчен начин, предложени от Google, разработчиците на андроид.
+        Ще ли да посетите уеб страницата на Google помощ, която има инструкции за ръчно възстановяване?
+    </string>
+</resources>

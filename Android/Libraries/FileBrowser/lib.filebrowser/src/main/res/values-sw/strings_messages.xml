@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Haiwezi kuunganisha kwa seva za Google. Tafadhali anzisha upya programu na jaribu tena
+    </string>
+  <string name="progressbar_load_data">Inapakia taarifa ya kabrasha...</string>
+  <string name="message_selectitems">Uteuzi wa atleast 1 inahitajika</string>
+  <string name="message_activity_load_fail">Programu tumizi haikuweza kuanzishwa</string>
+  <string name="message_activity_loading">Maombi kuanzia...</string>
+  <string name="message_other_permissions_missing">Ruhusa iliyoombwa zinahitajika kwa kipengee hiki kifanye kazi. Tafadhali kutoa ruhusa iliyoombwa na jaribu tena
+    </string>
+  <string name="message_no_read_permission">Hakuna ruhusa ya kusoma
+    </string>
+  <string name="message_cannot_go_in">Hakuweza kwenda ndani ya kabrasha teuliwa
+    </string>
+  <string name="message_delete_confirm">Faili zilizoteuliwa (s) itafutwa. Kitendo hiki hakiwezi kutenduliwa. Kuendelea?</string>
+  <string name="progressbar_delete_data">
+        Inafuta faili </string>
+  <string name="message_delete_complete"> faili / folda kufutwa</string>
+  <string name="message_free_version_selection">
+        Faili ya juu zaidi ambayo inaweza kuteuliwa kwenye toleo la bure ni: </string>
+  <string name="message_max_allowed_one">
+        Chaguo hili tu kazi kwa ajili ya uteuzi moja  </string>
+  <string name="message_only_file">
+        Chaguo hili tu kazi kwa ajili ya faili  </string>
+  <string name="message_copying_file">
+        Inanakili faili...  </string>
+  <string name="message_copy_complete">
+        Faili nakala kamili  </string>
+  <string name="message_copy_error">
+        Haikuweza kuunda nakala ya faili baadhi</string>
+  <string name="message_share_error">
+        Kosa limejitokeza wakati wa nakala. Tafadhali kagua kama una nafasi ya kutosha kuhifadhi kwa data ya faili gawize  </string>
+  <string name="message_zipping_files">
+        Inafinyaza faili / folda...  </string>
+  <string name="message_zipping_completed">
+        Faili yote / folda wakiongozwa na zip nyaraka  </string>
+  <string name="message_zipping_error">
+        Haikuweza zip faili ya / folda. Tafadhali kagua kama folda iliyoteuliwa ni tupu na una nafasi ya kutosha ya kuhifadhi</string>
+  <string name="message_rename_complete">
+        Inabadilisha jina la faili/Kabrasha kamili  </string>
+  <string name="message_rename_error">
+        Haikuweza kuita jina upya faili/kabrasha  </string>
+  <string name="message_create_folder_complete">
+        Kabrasha kuundwa  </string>
+  <string name="message_create_folder_error">
+        Haikuweza kuunda folda  </string>
+  <string name="message_file_open_error">
+        Haikuweza kufungua faili  </string>
+</resources>

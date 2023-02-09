@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_reading_import_file">Arquivo de leitura, isto pode levar alguns minutos...</string>
+  <string name="message_exporting_contacts">Contato (s) de extração...</string>
+  <string name="message_exporting_contacts_ready">Preparando-se exportar contato (s)...</string>
+  <string name="message_exporting_contacts_write_file">Escrevendo o arquivo (s)...</string>
+  <string name="text_import_file_name">Nome do arquivo:</string>
+  <string name="text_import_file_size">Tamanho do arquivo (bytes):</string>
+  <string name="text_unknown_file_size">Desconhecido</string>
+</resources>

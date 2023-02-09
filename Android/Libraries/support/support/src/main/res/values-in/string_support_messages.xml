@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">Jika ada masalah dengan aplikasi, akan Anda ingin email penerbit dan menyelesaikan masalah?</string>
+  <string name="message_check_for_rating">Akan Anda ingin meninggalkan umpan balik untuk aplikasi ini?</string>
+  <string name="message_tellafriend_subject">Memeriksa aplikasi ini</string>
+  <string name="message_email_send_error">Kesalahan dalam mengirim email</string>
+  <string name="message_tellafriend_body">Hei, periksa ini keren app:\n</string>
+  <string name="message_start_activity_error">Ada masalah dalam memulai aktivitas. \n</string>
+  <string name="message_demo_video">Apakah Anda ingin menonton video demonstrasi.
+        (Pesan ini ditampilkan hanya sekali)?</string>
+  <string name="message_help_documentation_fail">Tidak dapat memuat dokumentasi Bantuan.
+    Kunjungi http://www.dasmic.com dari peramban untuk melihat bantuan.</string>
+  <string name="message_rate_this_app">Anda dapat membantu orang lain menurut penilaian aplikasi ini?</string>
+  <string name="message_rate_this_app_error">Tidak dapat membuka halaman peringkat. Silakan gunakan Google Play Store untuk memberikan rating</string>
+  <string name="message_feedback_subject">Umpan-balik App untuk</string>
+</resources>

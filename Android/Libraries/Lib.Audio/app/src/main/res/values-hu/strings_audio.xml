@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Audio reszelő</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="activity_extract_pictures">Kivonat Audio</string>
+  <string name="button_Select_All">Jelölje ki az összes</string>
+  <string name="button_UnSelect_All">Un-kiválasztása minden</string>
+  <string name="button_Delete">Törlése</string>
+  <string name="button_Update">Frissítés</string>
+  <string name="button_Share">Részvény</string>
+  <string name="button_Yes">igen</string>
+  <string name="button_No">nem</string>
+  <string name="button_apply">Alkalmazása</string>
+  <string name="button_browse">Tallózás</string>
+  <string name="button_close">Zár</string>
+  <string name="button_play">Játék</string>
+  <string name="button_stop">állj</string>
+  <string name="button_Confirm">Győződjön meg arról</string>
+  <string name="button_Ok">oké</string>
+  <string name="text_import_file_name">név</string>
+  <string name="text_import_file_size">Méret</string>
+  <string name="general_items">eszköz (ök)</string>
+  <string name="general_selected_items">a kiválasztott</string>
+  <string name="general_error">Hiba</string>
+  <string name="title_confirm">Győződjön meg arról</string>
+  <string name="button_ok">oké</string>
+  <string name="button_cancel">Mégse</string>
+  <string name="free_space">Összes szabad terület:</string>
+  <string name="title_share">Ossza meg használ:</string>
+  <string name="title_rename">Írjon be új nevet  </string>
+  <string name="title_create_folder">Adja meg a mappa neve  </string>
+</resources>

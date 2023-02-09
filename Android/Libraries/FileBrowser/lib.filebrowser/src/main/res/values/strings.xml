@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FileBrowser</string>
+    <string name="general_items">item(s)</string>
+    <string name="general_selected_items">selected</string>
+    <string name="general_error">Error</string>
+    <string name="title_confirm">Confirm</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="free_space">Total free space:</string>
+    <string name="title_share">Share using:</string>
+    <string name="title_rename">Enter new name  </string>
+    <string name="title_create_folder">Enter folder name  </string>
+</resources>

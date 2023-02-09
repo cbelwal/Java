@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic, SRL</string>
+  <string name="feedback_no_email">Nu poştă electronică clients găsite</string>
+  <string name="button_yes">da</string>
+  <string name="button_no">nu</string>
+  <string name="nav_menu_help_doc">Documentaţie de ajutor</string>
+  <string name="button_rate_never">Niciodată</string>
+  <string name="button_rate_later">Mai târziu</string>
+  <string name="button_rate_now">Acum</string>
+  <string name="title_rate_this_app">Vă rugăm să rata acest app</string>
+  <string name="title_feedback">Selectaţi opţiunea de e-mail...</string>
+  <string name="title_demo_video">Demo Video</string>
+  <string name="title_tellafriend">Spune-ţi prieten via...</string>
+  <string name="title_send_feedback">Contactati-ne</string>
+  <string name="title_rate_app">Rata de app</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">اجازه تماس را به این برنامه صادر شده است</string>
+  <string name="message_search_number_security_exception">قادر به جستجو شماره تلفن این نیست! جستجوی گوگل فعال نیست یا اجازه در این دستگاه صادر شده است</string>
+  <string name="message_free_version_selection">
+        مدخل ورود به سیستم حداکثر است که می تواند در نسخه رایگان انتخاب شده است: </string>
+  <string name="message_purchase_error">
+        می تواند اتصال به سرور گوگل. لطفا برنامه را مجدداً راه اندازی کنید و دوباره امتحان کنید
+    </string>
+</resources>

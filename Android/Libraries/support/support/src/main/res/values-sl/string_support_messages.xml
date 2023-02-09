@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">Če obstaja problem z app, boste všeč, da email založnik in odpraviti težavo?</string>
+  <string name="message_check_for_rating">Bodo želeli zapustiti povratne informacije za to app?</string>
+  <string name="message_tellafriend_subject">Preverite to app</string>
+  <string name="message_email_send_error">Napaka pri pošiljanju e-pošte</string>
+  <string name="message_tellafriend_body">Hej, check out to kul app:\n</string>
+  <string name="message_start_activity_error">Tam je bil problem zagon dejavnosti. \n</string>
+  <string name="message_demo_video">Hoteti vi všeč biti paziti predstavitveni video.
+        (To sporočilo je pokazala, samo enkrat)?</string>
+  <string name="message_help_documentation_fail">Pomoč dokumentacije ni bilo mogoče naložiti.
+    Obiščite http://www.dasmic.com iz brskalnika za prikaz pomoči.</string>
+  <string name="message_rate_this_app">Lahko pomagate drugim Ocenite to app?</string>
+  <string name="message_rate_this_app_error">Ocena strani ni bilo mogoče odpreti. Prosimo, uporabite Google igra trgovina podati oceno</string>
+  <string name="message_feedback_subject">App povratne informacije za</string>
+</resources>

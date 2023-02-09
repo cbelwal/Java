@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permission_inapp_billing">Pode usar seu cartão de crédito.</string>
+  <string name="permission_read_sms">Pode ler suas mensagens.</string>
+  <string name="permission_send_sms">Pode enviar mensagens para os outros.</string>
+  <string name="permission_mic">Pode gravar o áudio de seu microfone.</string>
+  <string name="permission_camera">Pode ler imagens de sua câmera.</string>
+  <string name="permission_read_contacts">Pode ler a sua lista de contatos.</string>
+  <string name="permission_write_contacts">Pode escrever a sua lista de contatos.</string>
+  <string name="permission_read_ext_storage">Pode ler arquivos de pastas acessíveis de USB.</string>
+  <string name="permission_write_ext_storage">Pode gravar arquivos em pastas acessíveis USB.</string>
+  <string name="permission_read_call_log">Pode descobrir quem ligou e quando.</string>
+  <string name="permission_location_fine">Sabe sua localização exata.</string>
+  <string name="permission_location_coarse">Sabe a sua localização aproximada.</string>
+  <string name="permission_read_calender">Pode ler o seu calendário.</string>
+  <string name="permission_write_calender">Pode escrever para o seu calendário.</string>
+  <string name="permission_call_phone">Pode chamar qualquer telefone sem o seu conhecimento.</string>
+  <string name="permission_call_privileged">Pode chamar qualquer telefone, inclusive de emergência, sem o seu conhecimento.</string>
+  <string name="permission_install_packages">Pode instalar outros apps.</string>
+  <string name="permission_internet">Pode enviar informações através da Internet.</string>
+  <string name="permission_wake_lock">Pode impedir que dispositivo vai dormir modo.</string>
+  <string name="permission_network_state">Podem acessar o estado da rede.</string>
+  <string name="permission_read_voicemail">Pode ler suas mensagens de voz.</string>
+</resources>

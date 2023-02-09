@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">停止运行</string>
+  <string name="message_stop_tasks">停止正在运行的任务。</string>
+  <string name="message_user_tasks_stopped">用户任务停止</string>
+  <string name="message_system_tasks_stopped">系统任务停止</string>
+  <string name="message_process_still_running">仍在运行的任务</string>
+  <string name="message_stop_running_tasks">停止运行应用程序并关闭蓝牙/无线？</string>
+  <string name="message_stopping_running_tasks">停止的蓝牙和无线</string>
+  <string name="message_battery_current_percentage">当前电池级 %:</string>
+  <string name="message_no_user_process">发现没有正在运行的用户进程</string>
+</resources>

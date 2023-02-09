@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Ім\'я файлу:</string>
+  <string name="text_ep_file_size">Розмір:</string>
+  <string name="text_ep_modified_date">Дата змінення:</string>
+  <string name="text_ep_video_duration">Тривалість:</string>
+  <string name="title_search_depth">Глибина пошуку (великого значення буде тривати кілька хвилин)</string>
+  <string name="nav_menu_search_entire_phone">Пошук весь телефон</string>
+  <string name="nav_menu_search_media_folders">Пошук медіа папок</string>
+  <string name="nav_menu_search_external_folders">Зовнішні папки пошуку</string>
+  <string name="progressbar_extracting_pictures">Витяг зображення...</string>
+  <string name="text_ep_time_start">Почати time(seconds)</string>
+  <string name="text_ep_period">Інтервал між pictures(seconds)</string>
+  <string name="text_ep_no_of_pictures">Кількість зображень</string>
+  <string name="text_ep_store">Зберігати витягнуті зображення як:</string>
+  <string name="text_ep_share_external">Помістити в зовнішніх папки</string>
+  <string name="text_ep_share_app">Спільний доступ за допомогою програм</string>
+  <string name="message_extract_complete"> (і) зображення були витягнуті</string>
+  <string name="message_extract_error">Сталася помилка в витяг зображення</string>
+  <string name="message_search_depth_updated">Глибина пошуку було оновлено</string>
+  <string name="message_search_depth_error">Помилка у відновленні Глибина пошуку</string>
+</resources>

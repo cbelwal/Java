@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">Състояние</string>
+  <string name="filter_text_option">Опции</string>
+  <string name="filter_text_value_days">Дни</string>
+  <string name="filter_text_value_duration">DURATION(s)</string>
+  <string name="filter_text_value_location">Местоположение</string>
+  <string name="filter_options_from_stored_contacts">От запазените контакти</string>
+  <string name="filter_options_more_than_entered_days">Повече от дни</string>
+  <string name="filter_options_less_than_entered_days">По-малко от дни</string>
+  <string name="filter_options_more_than_duration">Повече от продължителността</string>
+  <string name="filter_options_less_than_duration">По-малко от продължителност</string>
+  <string name="filter_options_from_entered_location">От място</string>
+  <string name="filter_options_none">Без филтър</string>
+  <string name="filter_show_show">Покажи</string>
+  <string name="filter_show_noshow">Не показвай</string>
+</resources>

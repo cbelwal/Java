@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">Kama kuna tatizo na programu, itakuwa wewe kama barua pepe mchapishaji na kutatua suala hili?</string>
+  <string name="message_check_for_rating">Je, ungependa kuondoka maoni kwa programu tumizi hii?</string>
+  <string name="message_tellafriend_subject">Angalia programu tumizi hii</string>
+  <string name="message_email_send_error">Kosa katika kutuma barua pepe</string>
+  <string name="message_tellafriend_body">Hey, angalia app:\n hii baridi</string>
+  <string name="message_start_activity_error">Kulikuwa na tatizo katika kuanza shughuli. \n</string>
+  <string name="message_demo_video">Je, wewe kama kuangalia video maandamano.
+        (Ujumbe huu inaonyeshwa tu mara moja)?</string>
+  <string name="message_help_documentation_fail">Haikuweza kupakia nyaraka ya msaada.
+    Tafadhali tembelea http://www.dasmic.com kutoka kivinjari ili kuona msaada.</string>
+  <string name="message_rate_this_app">Unaweza kusaidia wengine binafsi programu tumizi hii?</string>
+  <string name="message_rate_this_app_error">Haikuweza kufungua ukurasa wa binafsi. Tafadhali tumia Google Play kuhifadhi kutoa makadirio</string>
+  <string name="message_feedback_subject">Programu ya maoni kwa</string>
+</resources>

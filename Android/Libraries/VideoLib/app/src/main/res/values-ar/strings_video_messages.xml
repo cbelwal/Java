@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        تعذر الاتصال بخادم Google. الرجاء إعادة تشغيل التطبيق وحاول مرة أخرى
+    </string>
+  <string name="progressbar_load_data">البحث عن ملفات الفيديو...</string>
+  <string name="message_selectitems">Atleast 1 التحديد مطلوب</string>
+  <string name="message_activity_load_fail">لا يمكن بدء تشغيل التطبيق</string>
+  <string name="message_activity_loading">بدء تشغيل تطبيق...</string>
+  <string name="message_other_permissions_missing">طلب أذونات مطلوبة من أجل هذه الميزة للعمل. الرجاء إعطاء الأذونات المطلوبة وحاول مرة أخرى
+    </string>
+  <string name="message_no_read_permission">إذن القراءة لا
+    </string>
+  <string name="message_cannot_go_in">لا يمكن أن تستمر داخل المجلد المحدد
+    </string>
+  <string name="message_delete_confirm">سيتم حذف الملفات المحددة (s). لا يمكن التراجع عن هذا الإجراء. هل تريد المتابعة؟</string>
+  <string name="progressbar_delete_data">
+        حذف الملف (الملفات) </string>
+  <string name="message_delete_complete"> ملف/حذف المجلد (المجلدات)</string>
+  <string name="message_free_version_selection">
+        الحد الأقصى للملفات التي يمكن تحديدها في النسخة المجانية: </string>
+  <string name="message_max_allowed_one">
+        يعمل هذا الخيار فقط لتحديد مفرد  </string>
+  <string name="message_only_file">
+        يعمل هذا الخيار فقط للملف (الملفات)  </string>
+  <string name="message_copying_file">
+        نسخ الملف...  </string>
+  <string name="message_copy_complete">
+        نسخ ملف كامل  </string>
+  <string name="message_copy_error">
+        تعذر إنشاء نسخة من بعض الملفات. تأكد من أن هناك مساحة حرة ولديك حق الوصول للكتابة إلى المجلد.</string>
+  <string name="message_share_error">
+        تمت مصادفة خطأ أثناء نسخ. الرجاء التحقق إذا كان لديك مساحة تخزين كافية التخزين المؤقت للملفات المشتركة  </string>
+  <string name="message_zipping_files">
+        ضغط الملف (الملفات)/المجلد (المجلدات)...  </string>
+  <string name="message_zipping_completed">
+        كل الملف (الملفات)/المجلد (المجلدات) انتقل إلى الرمز البريدي الأرشيف  </string>
+  <string name="message_zipping_error">
+        لا يمكن أن الرمز البريدي الملفات/المجلدات. الرجاء التحقق إذا كان المجلد (المجلدات) المحددة ليست فارغة ولديك مساحة تخزين كافية</string>
+  <string name="message_rename_complete">
+        إعادة تسمية مجلد/ملف كامل  </string>
+  <string name="message_rename_error">
+        تعذر إعادة تسمية الملف/المجلد  </string>
+  <string name="message_create_folder_complete">
+        مجلد تم إنشاؤه  </string>
+  <string name="message_create_folder_error">
+        تعذر إنشاء المجلد  </string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Filnamn:</string>
+  <string name="text_ep_file_size">Storlek:</string>
+  <string name="text_ep_modified_date">Ändringsdatum:</string>
+  <string name="text_ep_video_duration">Spellängd:</string>
+  <string name="title_search_depth">Sök djup (stora värden kommer att ta flera minuter)</string>
+  <string name="nav_menu_search_entire_phone">Sök hela telefonen</string>
+  <string name="nav_menu_search_media_folders">Sök medier mapp(ar)</string>
+  <string name="nav_menu_search_external_folders">Yttre sökmappar</string>
+  <string name="progressbar_extracting_pictures">Extrahera bilder...</string>
+  <string name="text_ep_time_start">Starta time(seconds)</string>
+  <string name="text_ep_period">Intervallet mellan pictures(seconds)</string>
+  <string name="text_ep_no_of_pictures">Antal bilder</string>
+  <string name="text_ep_store">Lagra extraherade bilder som:</string>
+  <string name="text_ep_share_external">Placera i externa mapp</string>
+  <string name="text_ep_share_app">Dela med hjälp av program</string>
+  <string name="message_extract_complete"> bilderna har utvunnits</string>
+  <string name="message_extract_error">Ett fel påträffades i extrahera bilder</string>
+  <string name="message_search_depth_updated">Sök djup uppdaterades</string>
+  <string name="message_search_depth_error">Fel i uppdatering Sök djup</string>
+</resources>

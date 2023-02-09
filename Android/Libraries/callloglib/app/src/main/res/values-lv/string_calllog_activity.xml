@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_add_call_log">Pievienot</string>
+  <string name="activity_edit_call_log">Rediģēt</string>
+  <string name="activity_share_call_log">Akciju</string>
+  <string name="activity_export_call_log">Eksports</string>
+  <string name="activity_import_call_log">Importa</string>
+  <string name="activity_bluetooth_call_log">Bluetooth pārsūtīšana</string>
+  <string name="activity_backup_call_log">Rezerves</string>
+  <string name="activity_restore_call_log">Atjaunošana</string>
+  <string name="activity_filter_call_log">Displejs filtrs</string>
+</resources>

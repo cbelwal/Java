@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Kārtots pēc laika</string>
+  <string name="nav_view_outgoingcalls_cl">Izejošie zvani</string>
+  <string name="nav_view_incomingcalls_cl">Ienākošie zvani</string>
+  <string name="nav_view_missedcalls_cl">Neatbildētie zvani</string>
+  <string name="nav_view_callduration_cl">Kārtots pēc ilguma</string>
+  <string name="nav_view_geocoded_location_cl">Kārtots pēc atrašanās vietas</string>
+  <string name="nav_view_refresh_cl">Atsvaidzināt</string>
+  <string name="nav_view_100_records">Līdz pat 100</string>
+  <string name="nav_view_500_records">Līdz pat 500</string>
+  <string name="nav_view_all_records">Visus pieejamos</string>
+  <string name="nav_menu_group_general_cl">Vispārējā</string>
+  <string name="nav_menu_group_help_cl">palīgā</string>
+  <string name="nav_menu_group_log_length">View Count</string>
+  <string name="nav_menu_group_viewoptions_cl">Opcijas</string>
+  <string name="nav_menu_group_views_cl">Viedokli</string>
+  <string name="nav_menu_group_operations_cl">Operācijas</string>
+  <string name="nav_menu_group_backup_cl">Rezerves</string>
+  <string name="nav_menu_rate_this_app_cl">Atsauksmes</string>
+  <string name="nav_menu_backup_contacts_cl">Dublēt visus zvanu žurnāla ieraksti</string>
+  <string name="nav_menu_restore_contacts_cl">Zvanu urnāls atjaunošana no dublējuma</string>
+  <string name="nav_menu_upgrade_cl">Jaunināšanas uz Pro versiju</string>
+  <string name="nav_menu_filter_cl">Displejs filtrs</string>
+  <string name="nav_menu_duplicates_cl">Dublikāti Toolkit</string>
+  <string name="nav_menu_tellafriend_cl">Pastāsti draugam</string>
+  <string name="nav_menu_feedback_cl">Kontakti Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Demonstrācijas Video</string>
+  <string name="nav_menu_coju_cl">Lejupielādēt Coju</string>
+  <string name="menu_operations_cl">Lielākā daļa atjauninājumu</string>
+  <string name="menu_add_cl">Pievienot</string>
+  <string name="menu_edit_cl">Rediģēt</string>
+  <string name="menu_update_cl">Atjaunināšana</string>
+  <string name="menu_share_cl">Akciju</string>
+  <string name="menu_export_cl">Eksports</string>
+  <string name="menu_import_cl">Importa</string>
+  <string name="menu_delete_cl">Dzēst</string>
+  <string name="menu_bluetooth_cl">Bluetooth pārsūtīšana</string>
+</resources>

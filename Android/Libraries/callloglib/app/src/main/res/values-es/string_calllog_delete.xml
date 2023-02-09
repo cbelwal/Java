@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_delete_confirm_cl">Detalles de registros de llamada seleccionado se borrará. Esta acción no se puede deshacer. ¿Proceder?</string>
+  <string name="message_delete_complete_cl"> llamar los datos de registros borrados</string>
+</resources>

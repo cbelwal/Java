@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">Persoana de contact deblocate</string>
+  <string name="display_options_blocked">Persoanele de contact blocate</string>
+  <string name="action_block">Bloc</string>
+  <string name="action_unblock">Deblocarea</string>
+  <string name="message_blocking_contacts">Blocarea contactele</string>
+  <string name="message_unblocking_contacts">Persoana de contact deblocare</string>
+  <string name="message_block_unblock_complete">Actualizat toate contactele </string>
+  <string name="message_block_unblock_error">Eroare la actualizarea unele persoanele de contact selectate</string>
+</resources>

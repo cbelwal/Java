@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        Denna app kommer nu att begära behörighet att komma åt din data för samtal log och kontakter.
+        Dessa behörigheter krävs för denna app att fungera och är inte avsedda att användas på annat sätt. Vi tar din integritet på allvar och dina samtal log och kontakter data kommer inte att delas med någon part, inklusive coju.mobi™, utgivare av denna app.
+    </string>
+  <string name="button_permissions_ack">
+        Erkänna
+    </string>
+  <string name="title_ack_confirm">
+        Behörigheter Disclaimer
+    </string>
+</resources>

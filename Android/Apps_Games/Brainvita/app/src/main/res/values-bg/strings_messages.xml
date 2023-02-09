@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Честито имаш висок резултат!</string>
+  <string name="message_game_end_new_game">Текущата игра се! Ще искате да започнете нова игра?</string>
+  <string name="message_custom_board">Натиснете върху празни дупки да темпо на колче. Натиснете бутона за заключване, когато бъде завършена</string>
+  <string name="message_custom_board_done">Потребителски съвет е настройка, можете да започнете да играете.
+    Обърнете внимание, че най-високи резултати за персонализирани табла не са записани</string>
+  <string name="message_intro_first">
+        Премести колче наличен дупка в една права линия, скочи върху друго колче
+    </string>
+  <string name="message_intro_second">Колче, прескача се отстранява</string>
+  <string name="message_intro_third">Опитвайте да премахнете колкото се може повече колчета колкото е възможно</string>
+  <string name="message_intro_fourth">Получаване само 1 колче останал е целта</string>
+  <string name="message_board_reset_confirm">Това ще отмени настоящата борда. Искате ли да продължите?</string>
+  <string name="message_game_over">Не повече ходове са възможни. Играта е нагоре!</string>
+  <string name="message_solver_complete">Solver е изчислен ходове, които водят до минимален брой pegs.\n\nUse бутона напред, за да видите на борда се движи.</string>
+  <string name="message_solver_complete_free">Solver е изчислен ходове, които водят до минимален брой клечки. Тъй като това е безплатна версия, solver да намери решение, което води до най-малко 3 колчета само. В платената версия solver да намери решение с 1 peg.\n\nUse бутона напред, за да видите на борда се движи.
+    </string>
+  <string name="message_solver_complete_title">Основавам разтвор с клечки: </string>
+  <string name="message_solver_inprogress_title">Търсене на решение...</string>
+  <string name="message_solver_inprogress">Текущия брой на най-ниската колче: </string>
+  <string name="message_solver_start_confirm">В зависимост от текущата борда Solver може да отнеме няколко секунди до няколко минути в компютрите разтвор с най-малко броят на клечки.
+    Тъй като Solver много изчисления, тя ще разрушават батерията.
+        Препоръчително е, че поставяте телефона си за такса преди започване на solver.
+    Докато вървят Solver може да бъде спряна по всяко време и новите колче резултат ще бъде на разположение.</string>
+  <string name="message_solver_mode_play_board">
+        Не може да играе играта в режим на solver. Изберете нова игра да започнете нова игра</string>
+  <string name="message_confirm_switch_from_standard">
+        Текущата борда е настроен на стандартен, искате ли да промените френски съвет?</string>
+  <string name="message_confirm_switch_from_French">
+        Текущата борда е настроен на френски, искате ли да промените на стандартна дъска?</string>
+</resources>

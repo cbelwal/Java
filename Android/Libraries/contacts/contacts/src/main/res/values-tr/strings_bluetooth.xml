@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Seçili ilgili kişilerin sayısını: </string>
+  <string name="text_bt_paired_devices"> Eþleþtirilmiþ cihazlar (Connect seçim)</string>
+  <string name="text_bt_new_devices"> Yeni aygıtlar (Connect seçim)</string>
+  <string name="message_bt_scan_devices">Aygıtlarını tarama...</string>
+  <string name="message_bt_scan_complete">Bitmiş tarama cihazlar için</string>
+  <string name="message_bt_pair_devices">Aygıt eşleştirme...</string>
+  <string name="message_bt_new_none">Hiçbir yeni aygıtı bulunmadı</string>
+  <string name="message_bt_pair_none">Hiçbir eþleþtirilmiþ cihazlar bulundu</string>
+  <string name="message_bt_conn_lost">Bağlantı aygıtına kaybetti</string>
+  <string name="message_bt_connecting">Bağlama: </string>
+  <string name="message_bt_not_enabled">Etkin değilse, Bluetooth Bluetooth aktarım kapatma</string>
+  <string name="message_bt_status_listening">Dinleme...</string>
+  <string name="message_bt_status_connecting">Bağlanılıyor...</string>
+  <string name="message_bt_status_connected">Bağlı</string>
+  <string name="message_bt_testdata_sent">Gönderilen Testdata</string>
+  <string name="message_bt_no_contacts">Göndermek için seçilen kişi</string>
+  <string name="message_bt_recv_complete">Tam veri almak</string>
+  <string name="message_bt_not_connected">Herhangi bir cihaza bağlı değil</string>
+  <string name="message_bt_adapter_error">Bluetooth bir hata ayarlama yapıldı.
+            Lütfen telefonunuzu Bluetooth vardır ve Bluetooth bağdaştırıcısının etkin olduğunu denetleyin</string>
+  <string name="menu_bt_make_discoverable">Aygıtı bulunabilir duruma getirin</string>
+  <string name="progressbar_bt_recv_data">Kişi verileri almak için hazır...</string>
+  <string name="message_bt_startup">Emin olun aynı app koşma ve açık diğer aygıtlar, bu perde</string>
+</resources>

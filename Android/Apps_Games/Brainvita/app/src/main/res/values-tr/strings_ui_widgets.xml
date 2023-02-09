@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">Yeni oyun</string>
+  <string name="button_switch_board">Anahtar kartı</string>
+  <string name="button_custom_board">Set özel kurulu</string>
+  <string name="button_high_scores">Yüksek skorlar</string>
+  <string name="button_rate_app">Bu oyun oranı</string>
+  <string name="button_tell_a_friend">Tell a friend</string>
+  <string name="button_paid_version">Ödenmiş yorum</string>
+  <string name="button_help_documentation">Yardım belgeleri</string>
+  <string name="button_demo_video">Demo Video</string>
+  <string name="button_ok">Tamam</string>
+  <string name="button_yes">Evet</string>
+  <string name="button_no">Hayır</string>
+  <string name="button_start">Başlat</string>
+  <string name="button_cancel">İptal</string>
+  <string name="button_abort">İptal</string>
+  <string name="button_high_score_close">Kapat</string>
+  <string name="title_high_score">En iyi on yüksek puanları</string>
+  <string name="text_high_score_none">Gol yok</string>
+  <string name="text_high_score_pegs">Kalan peg(s)</string>
+  <string name="text_high_score_time">Zaman</string>
+</resources>

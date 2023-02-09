@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">หยุดการทำงาน</string>
+  <string name="message_stop_tasks">หยุดทำงานอยู่...</string>
+  <string name="message_user_tasks_stopped">ผู้ใช้งานที่หยุด</string>
+  <string name="message_system_tasks_stopped">งานระบบที่หยุด</string>
+  <string name="message_process_still_running">ยังคง ทำงาน</string>
+  <string name="message_stop_running_tasks">หยุดการเรียกใช้โปรแกรมประยุกต์ และปิดไร้</string>
+  <string name="message_stopping_running_tasks">หยุดแบบไร้สายและ Bluetooth</string>
+  <string name="message_battery_current_percentage">ปัจจุบันแบตเตอรี่ระดับ%:</string>
+  <string name="message_no_user_process">กระบวนการผู้ใช้กำลังทำงานอยู่ไม่พบ</string>
+</resources>

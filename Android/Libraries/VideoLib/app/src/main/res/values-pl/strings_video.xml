@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Tarka wideo</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="activity_extract_pictures">Wyodrębnij obrazy</string>
+  <string name="button_Select_All">Zaznacz wszystkie</string>
+  <string name="button_UnSelect_All">Usuń zaznaczenie wszystkich</string>
+  <string name="button_Delete">Usuń</string>
+  <string name="button_Update">Aktualizacja</string>
+  <string name="button_Share">Udostępnij</string>
+  <string name="button_Yes">Tak</string>
+  <string name="button_No">Nr</string>
+  <string name="button_apply">Zastosowanie</string>
+  <string name="button_browse">Przeglądaj</string>
+  <string name="button_close">Zamknij</string>
+  <string name="button_Confirm">Potwierdzić</string>
+  <string name="button_Ok">Ok</string>
+  <string name="text_import_file_name">Nazwa</string>
+  <string name="text_import_file_size">Rozmiar</string>
+  <string name="general_items">elementy</string>
+  <string name="general_selected_items">wybrane</string>
+  <string name="general_error">Błąd</string>
+  <string name="title_confirm">Potwierdzić</string>
+  <string name="button_ok">Ok</string>
+  <string name="button_cancel">Anuluj</string>
+  <string name="free_space">Łączną ilość wolnego miejsca:</string>
+  <string name="title_share">Podziel się za pomocą:</string>
+  <string name="title_rename">Wprowadź nową nazwę  </string>
+  <string name="title_create_folder">Wprowadź nazwę folderu  </string>
+</resources>

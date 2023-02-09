@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">찾아보기</string>
+  <string name="backup_options_backupusing">백업 사용 하 여</string>
+  <string name="export_options_externalStorage">이 디바이스의 외부 스토리지</string>
+  <string name="share_options_shareas">공유:</string>
+  <string name="share_options_allshare">공유 애플 리 케이 션 (클라우드, 이메일,...)</string>
+  <string name="share_options_share_using">공유를 사용 하 여:</string>
+  <string name="share_options_sms">메시징</string>
+  <string name="share_options_clipboard">클립보드에 복사</string>
+  <string name="export_options_ExportUsing">파일에 저장:</string>
+  <string name="progressbar_prepare_data">전화 로그 목록 준비...</string>
+  <string name="progressbar_backup">전화 로그를 백업 몇 분 정도 걸릴 수 있습니다...</string>
+  <string name="backup_options_using">백업 파일에 저장:</string>
+  <string name="menu_import_help">도움말</string>
+  <string name="text_import_file_name">선택한 파일 이름:</string>
+  <string name="text_import_file_size">선택 된 파일 Size(bytes).</string>
+  <string name="text_unknown_file_size">알 수 없는</string>
+  <string name="message_backup_options">하는 것이 좋습니다 클라우드, 이메일 등 같은 응용 프로그램 공유에에서 백업.
+        이렇게 하면 혹시 귀하의 휴대 전화를 분실 한 경우 콜 로그를 복구할 수 있습니다.
+        에 이메일/구름에서 연락처 복원 수동으로 호출 로그 백업 파일 이메일/클라우드 계정에서이 장치에 어떤 위치에 저장 합니다. 가져오기/복원 유틸리티는 자동으로 파일을 찾습니다 다음 것입니다.</string>
+  <string name="message_importing_contacts">전화 log(s) 가져오기...</string>
+  <string name="message_reading_import_file">파일을 읽고, 몇 분 정도 걸릴 수 있습니다...</string>
+  <string name="export_options_plain_text">일반 텍스트</string>
+  <string name="export_options_indv_clm">개별 CLM 파일</string>
+  <string name="export_options_combined_clm">CLM 파일 결합된 </string>
+  <string name="export_generated_footer">전화 로그 관리자 Coju를 통해 생성 된</string>
+  <string name="export_sent_footer">전화 로그 관리자를 통해 생성</string>
+  <string name="export_generated_header">전화 로그 정보</string>
+  <string name="message_clipboard_copy">클립보드에 복사</string>
+  <string name="message_exporting_calllog">연락처를 추출...</string>
+  <string name="message_exporting_calllog_ready">연락처를 내보낼 준비가...</string>
+  <string name="message_exporting_calllog_write_file">파일 쓰기...</string>
+  <string name="message_import_help">만이 응용 프로그램에서 생성 된 파일 (*. CLM 파일)를 가져올 수 있습니다.</string>
+  <string name="message_import_invalid_file">유효한 호출 로그 파일</string>
+  <string name="message_importing_complete">가져온 전화 log(s)</string>
+  <string name="message_restore_complete">호출 로그 항목 백업에서 복원</string>
+  <string name="message_restore_fail">
+        백업에서 복원 하지 수, 백업 파일은 없거나 손상 된
+                </string>
+  <string name="message_backup_stored_freeversion">
+        무료 버전의 최대 9 전화 log(s) 백업 있습니다.
+        전화 Log(s)가 되어 백업 파일:
+    </string>
+  <string name="message_backup_failed">
+        다시 시도 하십시오 백업 파일을 저장 하지 못했습니다. 문제가 지속 되 면 응용 프로그램 게시자이 애플 리 케이이 션에서 사용자 의견 옵션을 사용 하 여 문제를 보고 하십시오.
+    </string>
+  <string name="message_restore_selection_finish">
+        백업 전화 로그 복원
+    </string>
+  <string name="message_clm_file_not_found">
+        아니 콜 로그 매니저 (*. 이 장치에는 CLM) 파일
+    </string>
+  <string name="message_backup_file_not_found">
+        이 장치에 백업 파일이 없습니다
+    </string>
+  <string name="message_backup_stored">연락처가 되어 백업 파일:</string>
+  <string name="message_save_external">외부 폴더에 저장 된 로그를 호출. </string>
+  <string name="message_loading_files">로컬 폴더를 검색...</string>
+  <string name="message_loading_backup_files">백업 파일에 대 한 장치 검색...</string>
+  <string name="message_backup_freeversion">
+        이 무료 버전에서 백업할 수 있는 통화 기록의 최대 수는:
+    </string>
+  <string name="message_backup_paidversion">
+        모든 통화 기록 성공적으로 백업 된 파일에
+    </string>
+</resources>

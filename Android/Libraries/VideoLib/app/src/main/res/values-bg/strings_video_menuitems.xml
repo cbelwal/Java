@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_share">Дял</string>
+  <string name="action_delete">Изтриване</string>
+  <string name="action_filter">Филтър</string>
+  <string name="action_copy">Копие</string>
+  <string name="action_rename">Преименуване</string>
+  <string name="action_create_folder">Създаване на папка</string>
+  <string name="action_move">Премести</string>
+  <string name="action_share_zip">Споделя като Zip</string>
+  <string name="action_extract_pictures">Екстракт снимки</string>
+  <string name="action_zip">ZIP</string>
+  <string name="nav_menu_view_name">Изглед по име на файл</string>
+  <string name="nav_menu_view_size">Изглед по размер</string>
+  <string name="nav_menu_view_modified">Изглед по дата на промяна</string>
+  <string name="nav_menu_view_refresh">Обновяване</string>
+  <string name="nav_menu_view_close">Затвори</string>
+  <string name="nav_menu_group_general">Общи</string>
+  <string name="nav_menu_group_viewoptions">Опции за изглед</string>
+  <string name="nav_menu_rate_this_app">Обратна връзка</string>
+  <string name="nav_menu_upgrade">Надграждане до платената версия</string>
+  <string name="nav_menu_tellafriend">Кажи на приятел</string>
+  <string name="nav_menu_feedback">Свържете се с нас</string>
+  <string name="nav_menu_group_help">Помощ</string>
+  <string name="nav_menu_demovideo">Видео демонстрация</string>
+  <string name="nav_menu_help_doc">Помощната документация</string>
+</resources>

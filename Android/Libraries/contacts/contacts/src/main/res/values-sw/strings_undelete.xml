@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Mwasiliani unayetaka teuliwa itakuwa undeleted. Tafadhali thibitisha kama unataka kuendelea?</string>
+  <string name="message_undelete_complete"> mwasiliani unayetaka undeleted</string>
+  <string name="message_undelete_notice">Chaguo hili orodha wasiliani ambao wanaweza kuwa undeleted na inategemea mtengenezaji wa kifaa chako au toleo la Android. Wawasiliani haiwezi kuwa zinalipwa kama kifaa hairuhusu, wawasiliani zilifutwa masaa kadhaa yaliyopita au wawasiliani zilifutwa kutoka kwa kadi ya SIM.</string>
+  <string name="message_undelete_option_invalid">Chaguo hili ni halali kwa Wawasiliani vilivyofutwa
+        </string>
+  <string name="message_undelete_help">Tafadhali teua mwasiliani unayetaka na kutumia ikoni undelete katika haki ya juu kwa undelete yao</string>
+  <string name="progressbar_undelete_data">Mwasiliani unayetaka undeleting </string>
+  <string name="action_undelete">Undelete mwasiliani unayetaka</string>
+  <string name="button_understand">Ninaelewa</string>
+  <string name="title_disclaimer">KANUSHO</string>
+  <string name="title_no_undelete_found">Samahani!</string>
+  <string name="message_no_undelete_found">
+        Tuwie, wawasiliani vilivyofutwa hakitazidi yaliyopatikana! Unaweza kujaribu kuokoa kwa kutumia njia ya mwongozo unahitajika kwa Google, watengenezaji wa Android.
+        Itakuwa wewe kama kutembelea ukurasa wavuti msaada wa Google ambayo ina maelekezo ya Ufufuzi mwongozo?
+    </string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Toestemming om te bellen is niet verleend aan dit app</string>
+  <string name="message_search_number_security_exception">Kan niet zoeken op dit telefoonnummer! Google zoeken is niet ingeschakeld of is niet toegestaan in dit apparaat</string>
+  <string name="message_free_version_selection">
+        Maximumgrootte van het logboek items die kunnen worden geselecteerd in de gratis versie is: </string>
+  <string name="message_purchase_error">
+        Kan geen verbinding maken met server van Google. Gelieve opnieuw app en probeer het opnieuw
+    </string>
+</resources>

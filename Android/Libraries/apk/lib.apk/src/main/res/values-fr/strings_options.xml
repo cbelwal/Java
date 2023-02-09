@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="share_options_ShareUsing">Partagez à l’aide de :</string>
+  <string name="share_options_allshare">Mail/Wifi/Cloud storage (ou les gros fichiers peuvent avoir des problèmes)</string>
+  <string name="export_options_externalStorage">Stockage externe</string>
+  <string name="export_options_ExportAs">Format d’exportation :</string>
+  <string name="export_options_ExportUsing">Partagez les fichiers APK via :</string>
+  <string name="progressbar_prepare_data">Préparation des colis... </string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Não foi concedida permissão para fazer chamadas para este app</string>
+  <string name="message_search_number_security_exception">Não podia procurar este número de telefone! Pesquisa no Google não está habilitada ou não foi concedida permissão neste dispositivo</string>
+  <string name="message_free_version_selection">
+        Entradas de log máximo que podem ser selecionadas na versão gratuita é: </string>
+  <string name="message_purchase_error">
+        Não foi possível conectar ao servidor do Google. Reinicie o aplicativo e tente novamente
+    </string>
+</resources>

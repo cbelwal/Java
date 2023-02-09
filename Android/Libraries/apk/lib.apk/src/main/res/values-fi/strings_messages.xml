@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Atleast 1 valinta vaaditaan</string>
+  <string name="message_save_external">APK tiedostot ulkoiseen kansiossa: </string>
+  <string name="message_free_version_selection">Vain 3 sovellukset voidaan valita kerrallaan ilmainen versio</string>
+  <string name="message_free_version_option">Tämä vaihtoehto tarjotaan vain maksullisen version</string>
+  <string name="message_activity_load_fail">Sovelluksen käynnistäminen ei onnistu</string>
+  <string name="message_activity_loading">Käynnistetään sovelluksen...</string>
+  <string name="message_loading_files">Etsitään paikallisia kansioita...</string>
+  <string name="message_deleting_files">Vahvista yksilöllisesti kunkin valitun paketin.
+    Järjestelmäpakettien poistamista vain käyttäjätili</string>
+  <string name="message_save_external_suffix">. Kansioon pääsee puhelimen yhdistäminen tietokoneeseen kautta USB jne. </string>
+  <string name="message_rate_this_app_error">Ei voitu avata alustyypin</string>
+  <string name="message_share_link_prefix">Hei \r\n\r\nCheck tätä: </string>
+  <string name="message_share_link_suffix">Lähetetään APKit</string>
+  <string name="message_share_report_prefix">Paketti Report</string>
+  <string name="message_share_report_suffix">Luodaan ja lähetetään</string>
+  <string name="message_other_permissions_missing">Pyydetyt oikeudet tarvitaan tämän ominaisuuden käyttäminen. Antakaa pyydetyt oikeudet ja yritä uudelleen
+    </string>
+  <string name="message_purchase_error">
+        Ei voinut muodostaa Googlen palvelimelle. Käynnistä sovellus ja yritä uudelleen
+    </string>
+</resources>

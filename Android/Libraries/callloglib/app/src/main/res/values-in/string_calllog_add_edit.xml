@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">Nomor telepon</string>
+  <string name="text_calllog_date">Tanggal</string>
+  <string name="text_calllog_time">Waktu</string>
+  <string name="text_calllog_duration">Duration(s)</string>
+  <string name="text_calllog_type">Jenis</string>
+  <string name="spinner_calllog_type_incoming">Masuk</string>
+  <string name="spinner_calllog_type_outgoing">Keluar</string>
+  <string name="spinner_calllog_type_missed">Merindukan</string>
+  <string name="message_calllog_added">Berhasil ditambahkan ke log panggilan</string>
+  <string name="message_calllog_added_error">Kegagalan dalam menambahkan ke log panggilan</string>
+  <string name="message_calllog_edited">Log panggilan berhasil diperbarui</string>
+  <string name="message_calllog_edited_error">Kegagalan dalam memperbarui log panggilan</string>
+</resources>

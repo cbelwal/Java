@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Ім\'я + WhatsApp номера матчу</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">Ж WhatsApp число в кілька імен</string>
+  <string name="duplicate_options_name_matches_email_phone">Ім\'я + телефон/електронної пошти матчу</string>
+  <string name="duplicate_options_name_matches_phone">Ім\'я + телефон матчу</string>
+  <string name="duplicate_options_name_matches_email">Ім\'я + електронної пошти матчу</string>
+  <string name="duplicate_options_same_number_multi_name">Те ж число в кілька імен</string>
+  <string name="duplicate_options_same_email_multi_name">Ж адресу електронної пошти в кілька імен</string>
+  <string name="duplicate_options_none">Жоден</string>
+  <string name="progressbar_sel_duplicates">Сканування на наявність повторів...</string>
+  <string name="message_duplicates_selected">Щоб видалити вибрані duplicate(s) натисніть піктограму \"видалити\". Значення original(master) для кожного дублікат не вибрано і не будуть видалені.</string>
+  <string name="choose_duplicate_option">Виберіть критерій для виявлення дублікатів.
+        Дублікати разом з їх original(master) вартість буде відображатися в головному екрані і буде автоматично перевіряється для видалення. Значення Original(Master) не перевіряється.</string>
+  <string name="startup_message">Використовуйте повторювані значок у верхньому правому, щоб установити параметр подання на наявність повторів</string>
+  <string name="message_duplicates_backup">Рекомендуємо вам резервного копіювання ваших контактів їх видалення перед</string>
+</resources>

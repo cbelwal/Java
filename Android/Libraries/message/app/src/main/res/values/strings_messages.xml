@@ -1,0 +1,36 @@
+<resources>
+    <string name="message_update_confirm"> contact(s) will be updated. This action cannot be undone. Proceed?</string>
+    <string name="message_update_complete"> contact(s) updated</string>
+    <string name="message_save_external">Contacts stored in external folder: </string>
+    <string name="message_import">Only Vcard and CSV file(s) can be imported (use \'Browse\' to load file(s) from other sources</string>
+    <string name="message_loading_files">Searching local folders ...</string>
+    <string name="message_loading_backup_files">Searching device for backup file(s) ...</string>
+    <string name="message_importing_contacts_complete">contact(s) imported</string>
+    <string name="message_save_external_suffix">.Folder can be accessed by connecting your phone to your computer through USB etc. </string>
+    <string name="message_selectitems">Atleast 1 contact needs to be selected</string>
+    <string name="message_delete_confirm">Selected contact(s) details  will be deleted. This action cannot be undone. Proceed ?</string>
+    <string name="message_delete_complete"> contact(s) details deleted</string>
+    <string name="message_free_import_limit">File contains more contact(s) than
+        allowed in Free version</string>
+    <string name="message_rate_this_app_error">Could not open rating page. Please goto Google Play and rate accordingly</string>
+    <string name="message_edit">Only 1 contact can be edited at a time. </string>
+    <string name="message_backup_stored">Contacts have been backed-up in file:</string>
+    <string name="message_download_coju">Coju is an integrated
+     contact management app. It has all the features of this app plus additional
+    capabilities. Will you like to download Coju ?</string>
+    <string name="message_contact_permissions_missing">Contacts Permissions
+    are required for this app to work. App will now close, please give permissions and try again</string>
+    <string name="message_other_permissions_missing">Requested permissions
+    are required for this app feature to work.
+        Please give requested permissions and try again</string>
+    <string name="message_backup_freeversion">
+        Maximum number of contacts that
+        can be backed up in this free version is:
+    </string>
+    <string name="message_backup_paidversion">
+        All you contacts have been successfully backed up in a file
+    </string>
+    <string name="message_purchase_error">
+        Could not connect to Google server. Please restart app and try again
+    </string>
+</resources>

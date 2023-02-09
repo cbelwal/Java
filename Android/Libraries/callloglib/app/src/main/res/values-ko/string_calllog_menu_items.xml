@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">시간으로 정렬</string>
+  <string name="nav_view_outgoingcalls_cl">나가는 호출</string>
+  <string name="nav_view_incomingcalls_cl">들어오는 호출</string>
+  <string name="nav_view_missedcalls_cl">부재중된 전화</string>
+  <string name="nav_view_callduration_cl">기간으로 정렬</string>
+  <string name="nav_view_geocoded_location_cl">위치 별로 정렬</string>
+  <string name="nav_view_refresh_cl">새로 고침</string>
+  <string name="nav_view_100_records">최대 100</string>
+  <string name="nav_view_500_records">최대 500</string>
+  <string name="nav_view_all_records">사용 가능한 모든</string>
+  <string name="nav_menu_group_general_cl">일반</string>
+  <string name="nav_menu_group_help_cl">도움말</string>
+  <string name="nav_menu_group_log_length">보기 수</string>
+  <string name="nav_menu_group_viewoptions_cl">옵션</string>
+  <string name="nav_menu_group_views_cl">레이아웃</string>
+  <string name="nav_menu_group_operations_cl">작업</string>
+  <string name="nav_menu_group_backup_cl">백업</string>
+  <string name="nav_menu_rate_this_app_cl">피드백</string>
+  <string name="nav_menu_backup_contacts_cl">모든 호출 로그 항목 백업</string>
+  <string name="nav_menu_restore_contacts_cl">콜 로그 백업에서 복원</string>
+  <string name="nav_menu_upgrade_cl">프로 업그레이드 버전</string>
+  <string name="nav_menu_filter_cl">표시 필터</string>
+  <string name="nav_menu_duplicates_cl">중복 도구 키트</string>
+  <string name="nav_menu_tellafriend_cl">친구에 게</string>
+  <string name="nav_menu_feedback_cl">연락처 Dasmic</string>
+  <string name="nav_menu_demovideo_cl">데모 비디오</string>
+  <string name="nav_menu_coju_cl">Coju 다운로드</string>
+  <string name="menu_operations_cl">대량 업데이트</string>
+  <string name="menu_add_cl">추가</string>
+  <string name="menu_edit_cl">편집</string>
+  <string name="menu_update_cl">업데이트</string>
+  <string name="menu_share_cl">공유</string>
+  <string name="menu_export_cl">내보내기</string>
+  <string name="menu_import_cl">가져오기</string>
+  <string name="menu_delete_cl">삭제</string>
+  <string name="menu_bluetooth_cl">블루투스 전송</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> kişileri güncelleştirilir. Bu eylem geri alınamaz. Devam edilsin mi?</string>
+  <string name="message_update_complete"> güncelleştirilmiş kişileri</string>
+  <string name="message_save_external">Dış klasöründe saklanan kişiler: </string>
+  <string name="message_import">Yalnızca vCard ve CSV dosyasını/dosyalarını içe aktarılmış olabilir (\'Browse\ kullanın \' diğer kaynaklardan gelen dosyaları yüklemek için</string>
+  <string name="message_loading_files">Yerel klasörler aranıyor...</string>
+  <string name="message_loading_backup_files">Aygıt için yedekleme dosyalar aranıyor...</string>
+  <string name="message_importing_contacts_complete">ithal kişileri</string>
+  <string name="message_save_external_suffix">. Klasör telefonunuzu USB vb üzerinden bilgisayarınıza bağlama tarafından erişilebilir. </string>
+  <string name="message_selectitems">En az 1 kişi seçilmiş olması gerekir</string>
+  <string name="message_delete_confirm">Kişileri seçili Ayrıntılar silinir. Bu eylem geri alınamaz. Devam edilsin mi?</string>
+  <string name="message_delete_complete"> Silinmiş ayrıntıları contact(s)</string>
+  <string name="message_free_import_limit">Daha fazla kişileri daha özgür yorum içinde izin verilen dosya içerir</string>
+  <string name="message_rate_this_app_error">Beğeni sayfası açılamadı. Goto Google oyun lütfen ve buna göre oranı</string>
+  <string name="message_edit">Sadece 1 kişi bir anda düzenlenebilir. </string>
+  <string name="message_backup_stored">Kişiler dosyasında yedeği:</string>
+  <string name="message_download_coju">Coju bir tümleşik iletişim yönetimi uygulaması var. Bu app artı ek yetenekler tüm özelliklere sahiptir. Coju indirmek sever mi?</string>
+  <string name="message_contact_permissions_missing">Kişiler izin çalışmak için bu app için gereklidir. App şimdi, lütfen izin vermek kapatıp yeniden deneyin</string>
+  <string name="message_other_permissions_missing">İstenen izinleri bu app özelliğinin çalışması için gereklidir.
+        Lütfen istenen izinleri vermek ve yeniden deneyin</string>
+  <string name="message_backup_freeversion">
+        Bu ücretsiz sürümünde yedeklenebilir kişiler en fazla sayısıdır:
+    </string>
+  <string name="message_backup_paidversion">
+        Seni rehber başarıyla bir dosyaya yedeklenmiş olan
+    </string>
+  <string name="message_purchase_error">
+        Google sunucusuna bağlanamadı. Lütfen app yeniden başlatın ve yeniden deneyin
+    </string>
+</resources>

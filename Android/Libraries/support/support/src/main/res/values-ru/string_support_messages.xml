@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">Если есть проблемы с приложением, будут вы хотели издателя по электронной почте и решить проблему?</string>
+  <string name="message_check_for_rating">Понравится ли вам оставить отзыв для этого app?</string>
+  <string name="message_tellafriend_subject">Проверить этот app</string>
+  <string name="message_email_send_error">Ошибка при отправке электронной почты</string>
+  <string name="message_tellafriend_body">Эй проверите этот прохладный app:\n</string>
+  <string name="message_start_activity_error">Там была проблема с началом деятельности. \n</string>
+  <string name="message_demo_video">Вам понравится смотреть видео демонстрации.
+        (Это сообщение будет показано только один раз)?</string>
+  <string name="message_help_documentation_fail">Не удалось загрузить справочной документации.
+    Пожалуйста, посетите http://www.dasmic.com из браузера, чтобы увидеть помощь.</string>
+  <string name="message_rate_this_app">Вы можете помочь другим по рейтингу этот app?</string>
+  <string name="message_rate_this_app_error">Не удалось открыть страницы рейтинга. Пожалуйста, используйте Google Play магазин дать рейтинг</string>
+  <string name="message_feedback_subject">App для обратной связи</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">通話ログ</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">不明</string>
+  <string name="button_Yes">うん</string>
+  <string name="button_No">違います</string>
+  <string name="button_Apply">適用</string>
+  <string name="button_Close">閉じる</string>
+  <string name="general_not_Available">利用できません。</string>
+  <string name="general_items">同</string>
+  <string name="general_selected_items">選択</string>
+  <string name="title_confirm">確認します。</string>
+  <string name="title_dialog_coju">Coju をダウンロードします。</string>
+  <string name="message_selectitems">少なくとも 1 ログ エントリを選択する必要があります。</string>
+  <string name="message_download_coju">Coju は、統合連絡先管理アプリです。このアプリも追加機能のすべての機能を持ちます。Coju をダウンロードしますか?</string>
+  <string name="message_contact_permissions_missing">連絡先のアクセス許可は、このアプリケーションが働くために必要です。アプリが今を閉じて、アクセス許可を与える、やり直してください。</string>
+  <string name="message_other_permissions_missing">要求されたアクセス許可は、このアプリの機能を動作させるために必要です。
+        要求されたアクセス許可を与える、やり直してください。</string>
+</resources>

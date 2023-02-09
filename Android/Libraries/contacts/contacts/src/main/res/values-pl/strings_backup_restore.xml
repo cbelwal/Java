@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        Darmowa wersja tylko pozwala na backup kontakty do 200.
+        Kontakty mają zostały kopii zapasowej w pliku:
+    </string>
+  <string name="message_backup_failed">
+        Nie można zapisać kopię zapasową pliku, spróbuj ponownie. Jeśli problem będzie się powtarzał Zgłoś problem do wydawcy aplikacji za pomocą opcji informacje zwrotne w tej aplikacji.
+    </string>
+</resources>

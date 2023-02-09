@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Herzlichen Glückwunsch, haben Sie eine hohe Punktzahl!</string>
+  <string name="message_game_end_new_game">Aktuelle Spiel ist aus! Möchten Sie ein neues Spiel beginnen?</string>
+  <string name="message_custom_board">Tippen Sie auf leeren Löcher auf einen Pflock Tempo. Tippen Sie auf die Sperrschaltfläche, wenn Sie fertig sind</string>
+  <string name="message_custom_board_done">Benutzerdefinierte Board ist Setup, können Sie anfangen zu spielen.
+    Beachten Sie, dass hohe Punktzahlen für custom-Boards nicht erfasst sind</string>
+  <string name="message_intro_first">
+        Bewegen Sie einen Pflock in eine verfügbar Loch in einer geraden Linie springen über ein weiteres Zapfen
+    </string>
+  <string name="message_intro_second">Die Peg sprang über entfernt</string>
+  <string name="message_intro_third">Versuchen Sie, so viele Heringe wie möglich zu entfernen</string>
+  <string name="message_intro_fourth">Das Ziel ist immer nur 1 Peg verbleibende</string>
+  <string name="message_board_reset_confirm">Dadurch wird der derzeitige Vorstand abgebrochen. Möchten Sie fortfahren?</string>
+  <string name="message_game_over">Es sind keine Züge mehr möglich. Spiel ist aus!</string>
+  <string name="message_solver_complete">Solver hat die Züge berechnet, die zu einer minimalen Anzahl an pegs.\n\nUse die Vorwärts-Taste führen zu sehen, dass das Board bewegt.</string>
+  <string name="message_solver_complete_free">Solver hat die Züge berechnet, die zu einer minimalen Anzahl an Heringen führen. Da es sich um eine kostenlose Version handelt, kann der Solver eine Lösung führt zu einem Minimum von 3 Heringe nur finden. In der kostenpflichtigen Version finden der Solver einer Lösung mit 1 peg.\n\nUse die Vorwärts-Taste zu sehen, dass das Board bewegt.
+    </string>
+  <string name="message_solver_complete_title">Gefunden Sie Lösung mit Heringen: </string>
+  <string name="message_solver_inprogress_title">Auf der Suche nach Lösung...</string>
+  <string name="message_solver_inprogress">Aktuelle Anzahl der niedrigsten Peg: </string>
+  <string name="message_solver_start_confirm">Der Solver kann dauern der derzeitige Vorstand wenige Sekunden bis mehrere Minuten in der Datenverarbeitung einer Lösung mit der geringsten Anzahl der Heringe.
+    Da der Solver viele Berechnungen tut, wird es Akkustrom verbrauchen.
+        Es wird empfohlen, dass Sie Ihr Telefon auf Ladung vor dem Start des Solvers.
+    Während der Ausführung der Solver kann jederzeit gestoppt werden und neueste Peg wird führen zur Verfügung.</string>
+  <string name="message_solver_mode_play_board">
+        Kann nicht im Solver-Modus spielen. Wählen Sie New Game um ein neues Spiel zu starten</string>
+  <string name="message_confirm_switch_from_standard">
+        Ist aktuelle Board auf Standard festgelegt, wollen Sie in französischen Board ändern?</string>
+  <string name="message_confirm_switch_from_French">
+        Ist aktuelle Board auf Französisch festgelegt, willst du Standardbrett ändern?</string>
+</resources>

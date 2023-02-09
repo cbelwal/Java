@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Lyd rivjern</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="activity_extract_pictures">Trekke ut lyd</string>
+  <string name="button_Select_All">Velg alle</string>
+  <string name="button_UnSelect_All">Fn Velg alle</string>
+  <string name="button_Delete">Slette</string>
+  <string name="button_Update">Oppdatering</string>
+  <string name="button_Share">Aksje</string>
+  <string name="button_Yes">ja</string>
+  <string name="button_No">nei</string>
+  <string name="button_apply">Bruke</string>
+  <string name="button_browse">Bla gjennom</string>
+  <string name="button_close">Lukk</string>
+  <string name="button_play">Spill</string>
+  <string name="button_stop">stopp</string>
+  <string name="button_Confirm">Bekrefte</string>
+  <string name="button_Ok">ok</string>
+  <string name="text_import_file_name">navn</string>
+  <string name="text_import_file_size">Størrelse</string>
+  <string name="general_items">element(er)</string>
+  <string name="general_selected_items">valgt</string>
+  <string name="general_error">Feil</string>
+  <string name="title_confirm">Bekrefte</string>
+  <string name="button_ok">ok</string>
+  <string name="button_cancel">Avbryt</string>
+  <string name="free_space">Total plass:</string>
+  <string name="title_share">Dele bruker:</string>
+  <string name="title_rename">Angi nytt navn  </string>
+  <string name="title_create_folder">Angi mappenavn  </string>
+</resources>

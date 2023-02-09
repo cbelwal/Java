@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">浏览</string>
+  <string name="backup_options_backupusing">备份使用</string>
+  <string name="export_options_externalStorage">这种装置的外部存储</string>
+  <string name="share_options_shareas">作为共享︰</string>
+  <string name="share_options_allshare">共享应用程序 （云，电子邮件，...）</string>
+  <string name="share_options_share_using">分享使用︰</string>
+  <string name="share_options_sms">消息</string>
+  <string name="share_options_clipboard">复制到剪贴板</string>
+  <string name="export_options_ExportUsing">保存的文件︰</string>
+  <string name="progressbar_prepare_data">正在准备调用日志列表...</string>
+  <string name="progressbar_backup">备份调用日志，这可能需要几分钟的时间...</string>
+  <string name="backup_options_using">保存在备份文件︰</string>
+  <string name="menu_import_help">帮助</string>
+  <string name="text_import_file_name">所选的文件的名称︰</string>
+  <string name="text_import_file_size">选定的文件大小 （字节):</string>
+  <string name="text_unknown_file_size">未知</string>
+  <string name="message_backup_options">它建议备份中共享应用程序，如云，电子邮件等。
+        这将允许您恢复呼叫日志，如果你丢失了你的电话。
+        联系人从还原电子邮件/云手动保存调用日志备份文件从您的电子邮件/云帐户到此设备中的任何位置。然后，导入/恢复实用程序将自动查找的文件。</string>
+  <string name="message_importing_contacts">正在导入呼叫日志...</string>
+  <string name="message_reading_import_file">读取文件，这可能需要几分钟的时间...</string>
+  <string name="export_options_plain_text">纯文本</string>
+  <string name="export_options_indv_clm">个人 CLM 文件</string>
+  <string name="export_options_combined_clm">CLM 的组合的文件</string>
+  <string name="export_generated_footer">通过调用日志管理器 Coju 生成</string>
+  <string name="export_sent_footer">通过调用日志管理器生成</string>
+  <string name="export_generated_header">呼叫日志详细信息</string>
+  <string name="message_clipboard_copy">复制到剪贴板</string>
+  <string name="message_exporting_calllog">正在提取联系人...</string>
+  <string name="message_exporting_calllog_ready">准备导出联系人...</string>
+  <string name="message_exporting_calllog_write_file">正在写入的文件...</string>
+  <string name="message_import_help">只有从这个应用程序生成的文件 (*。CLM 文件） 可以导入</string>
+  <string name="message_import_invalid_file">不是有效的呼叫日志文件</string>
+  <string name="message_importing_complete">呼叫日志导入</string>
+  <string name="message_restore_complete">从备份中还原的呼叫日志条目</string>
+  <string name="message_restore_fail">不能从备份还原、 备份文件已丢失或损坏</string>
+  <string name="message_backup_stored_freeversion">免费版本只允许达 9 呼叫日志的备份。
+        呼叫日志有了备份文件中︰
+    </string>
+  <string name="message_backup_failed">保存备份文件失败，请再试一次。如果问题仍然存在请向应用程序发布服务器在此应用程序中使用反馈选项报告问题。
+    </string>
+  <string name="message_restore_selection_finish">已还原备份调用日志</string>
+  <string name="message_clm_file_not_found">没有呼叫日志管理器 (*。CLM) 文件在此设备中找到
+    </string>
+  <string name="message_backup_file_not_found">没有找到在此设备中的备份文件</string>
+  <string name="message_backup_stored">联系人有了备份文件中︰</string>
+  <string name="message_save_external">呼叫日志存储在外部文件夹中︰</string>
+  <string name="message_loading_files">正在搜索本地文件夹...</string>
+  <string name="message_loading_backup_files">正在搜索设备备份文件...</string>
+  <string name="message_backup_freeversion">可以在此免费版本备份的呼叫日志的最大数目是︰</string>
+  <string name="message_backup_paidversion">所有呼叫日志已成功都备份在一个文件中</string>
+</resources>

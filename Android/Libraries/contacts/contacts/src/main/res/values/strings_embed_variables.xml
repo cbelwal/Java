@@ -1,0 +1,18 @@
+<resources>
+     <string name="message_bt_connected">Connected to device.
+        Press \'Send\' to transfer contacts to: </string>
+       <string name="message_bt_conn_failed">Connection failed to device.
+    Please insure that this app is installed and Bluetooth screen is open in: </string>
+    <string name="message_bt_sent_error">Could not transfer these number of contact(s): </string>
+    <string name="message_bt_recv_error">Could not create these number of contact(s): </string>
+    <string name="message_bt_create_complete">Received contact(s) created: </string>
+    <string name="message_bt_sent_complete">Contacts sent to device: </string>
+    <string name="progressbar_bt_send_data">Transferring unique contact(s) </string>
+    <string name="progressbar_bt_bytes">bytes </string>
+    <string name="progressbar_bt_create_contacts">Creating contact(s)
+        (Contacts with picture require more time)</string>
+    <string name="message_free_version_selection">
+        Maximum contacts that can be selected in the free version is: </string>
+    <string name="progressbar_delete_data">
+        Deleting unique contact(s) </string>
+</resources>

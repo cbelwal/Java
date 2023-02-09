@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Registro chiamate</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">Unknown</string>
+  <string name="button_Yes">Sì</string>
+  <string name="button_No">No</string>
+  <string name="button_Apply">Applicare</string>
+  <string name="button_Close">Chiudere</string>
+  <string name="general_not_Available">Non disponibile</string>
+  <string name="general_items">Item (s)</string>
+  <string name="general_selected_items">selezionato</string>
+  <string name="title_confirm">Confermare</string>
+  <string name="title_dialog_coju">Scarica Coju</string>
+  <string name="message_selectitems">Voce di registro atleast 1 deve essere selezionato</string>
+  <string name="message_download_coju">Coju è un\'app di gestione integrata dei contatti. Ha tutte le caratteristiche di questa app oltre a funzionalità aggiuntive. Piacerebbe scaricare Coju?</string>
+  <string name="message_contact_permissions_missing">Contatti autorizzazioni sono necessarie per questo app per funzionare. App ora sarà chiudere, dare autorizzazioni e riprovare</string>
+  <string name="message_other_permissions_missing">Autorizzazioni richieste sono necessarie per utilizzare questa funzionalità di app.
+        Si prega di dare autorizzazioni richieste e riprovare</string>
+</resources>

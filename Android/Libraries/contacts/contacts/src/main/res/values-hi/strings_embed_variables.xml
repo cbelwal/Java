@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">डिवाइस के लिए कनेक्टेड।
+        \'Send\ प्रेस \' स्थानांतरित करने के लिए संपर्क करने के लिए: </string>
+  <string name="message_bt_conn_failed">डिवाइस से कनेक्शन विफल रहा।
+    कृपया ब्लूटूथ स्क्रीन में खुला है कि इस app स्थापित किया है और बीमा: </string>
+  <string name="message_bt_sent_error">चिह्नित की ये संख्या में स्थानांतरित नहीं कर सका: </string>
+  <string name="message_bt_recv_error">इन चिह्नित की संख्या नहीं बना सका: </string>
+  <string name="message_bt_create_complete">प्राप्त किए गए चिह्नित बनाया गया: </string>
+  <string name="message_bt_sent_complete">संपर्क: डिवाइस के लिए भेजा </string>
+  <string name="progressbar_bt_send_data">अद्वितीय चिह्नित स्थानांतरित कर रहा है </string>
+  <string name="progressbar_bt_bytes">बाइट्स </string>
+  <string name="progressbar_bt_create_contacts">निर्माण चिह्नित (संपर्क चित्र के साथ और अधिक समय की आवश्यकता होती है)</string>
+  <string name="message_free_version_selection">
+        अधिकतम संपर्क नि: शुल्क संस्करण में चुना जा सकता है: </string>
+  <string name="progressbar_delete_data">
+        अद्वितीय चिह्नित हटाने </string>
+</resources>

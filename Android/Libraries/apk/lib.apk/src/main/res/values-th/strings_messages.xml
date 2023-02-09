@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">ต้องมีการเลือกอย่างน้อย 1</string>
+  <string name="message_save_external">APK ไฟล์เก็บไว้ในโฟลเดอร์ภายนอก: </string>
+  <string name="message_free_version_selection">3 apps สามารถเลือกเวลาในรุ่นฟรี</string>
+  <string name="message_free_version_option">ตัวเลือกนี้จะใช้เฉพาะสำหรับรุ่นจ่าย</string>
+  <string name="message_activity_load_fail">ไม่สามารถเริ่มโปรแกรมประยุกต์</string>
+  <string name="message_activity_loading">เริ่มต้นโปรแกรมประยุกต์...</string>
+  <string name="message_loading_files">ค้นหาโฟลเดอร์ท้องถิ่น...</string>
+  <string name="message_deleting_files">กรุณายืนยันเอกลักษณ์สำหรับแต่ละแพคเกจที่เลือก
+    แพคเกจของระบบที่จะถอนจากบัญชีผู้ใช้เท่านั้น</string>
+  <string name="message_save_external_suffix">. โฟลเดอร์สามารถเข้าได้ โดยการเชื่อมต่อโทรศัพท์กับคอมพิวเตอร์ผ่าน USB ฯลฯ </string>
+  <string name="message_rate_this_app_error">ไม่สามารถเปิดหน้าคะแนน</string>
+  <string name="message_share_link_prefix">สวัสดี \r\n\r\nCheck นี้ออก: </string>
+  <string name="message_share_link_suffix">ส่งผ่านทาง APKit</string>
+  <string name="message_share_report_prefix">แพคเกจรายงาน</string>
+  <string name="message_share_report_suffix">สร้าง และส่งผ่าน</string>
+  <string name="message_other_permissions_missing">ร้องขอสิทธิ์จำเป็นสำหรับคุณสมบัตินี้ กรุณาให้ขออนุญาต และลองอีกครั้ง
+    </string>
+  <string name="message_purchase_error">
+        ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ของ Google กรุณารีสตาร์ทแอ และลองอีกครั้ง
+    </string>
+</resources>

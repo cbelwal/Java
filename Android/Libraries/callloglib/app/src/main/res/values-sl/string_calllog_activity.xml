@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_add_call_log">Dodaj</string>
+  <string name="activity_edit_call_log">Urejanje</string>
+  <string name="activity_share_call_log">Delež</string>
+  <string name="activity_export_call_log">Izvoz</string>
+  <string name="activity_import_call_log">Uvoz</string>
+  <string name="activity_bluetooth_call_log">Bluetooth prenos</string>
+  <string name="activity_backup_call_log">Varnostno kopiranje</string>
+  <string name="activity_restore_call_log">Postaviti v prejšnje stanje</string>
+  <string name="activity_filter_call_log">Filter prikaza</string>
+</resources>

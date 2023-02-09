@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">ファイル名:</string>
+  <string name="text_ep_file_size">サイズ:</string>
+  <string name="text_ep_modified_date">最終更新日時:</string>
+  <string name="text_ep_video_duration">期間:</string>
+  <string name="title_search_depth">検索の深さ (大きな値には数分かかります)</string>
+  <string name="nav_menu_search_entire_phone">検索全体の携帯電話</string>
+  <string name="nav_menu_search_media_folders">検索メディア フォルダー</string>
+  <string name="nav_menu_search_external_folders">外部の検索フォルダー</string>
+  <string name="progressbar_extracting_pictures">画像を抽出しています.</string>
+  <string name="text_ep_time_start">開始時間 (秒)</string>
+  <string name="text_ep_period">Pictures(seconds) 間の間隔</string>
+  <string name="text_ep_no_of_pictures">写真の数</string>
+  <string name="text_ep_store">抽出した画像を保存するには。</string>
+  <string name="text_ep_share_external">外部フォルダーに配置します。</string>
+  <string name="text_ep_share_app">共有するアプリケーションを使用して</string>
+  <string name="message_extract_complete">画像が抽出されました。</string>
+  <string name="message_extract_error">写真を抽出でエラーが発生しました</string>
+  <string name="message_search_depth_updated">検索の深さを更新しました</string>
+  <string name="message_search_depth_error">検索の深さを更新中のエラー</string>
+</resources>

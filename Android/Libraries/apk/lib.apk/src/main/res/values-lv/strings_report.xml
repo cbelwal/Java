@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="report_app_name">App. vārds: </string>
+  <string name="report_package_name">Pakotnes nosaukums: </string>
+  <string name="report_source_folder">Avota mapē: </string>
+  <string name="report_size">Size(MB): </string>
+  <string name="report_launch_intent">Nodomu uzsākt: </string>
+  <string name="report_installed_on">Instalētas: </string>
+  <string name="report_updated_on">Atjaunināts: </string>
+  <string name="report_system_app">Sistēma App: </string>
+  <string name="report_security_permission">Drošības Permission(s): </string>
+  <string name="report_yes">jā</string>
+  <string name="report_no">nē</string>
+</resources>

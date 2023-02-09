@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">Ngừng chạy</string>
+  <string name="message_stop_tasks">Dừng chạy nhiệm vụ...</string>
+  <string name="message_user_tasks_stopped">Nhiệm vụ người dùng ngừng</string>
+  <string name="message_system_tasks_stopped">Hệ thống nhiệm vụ dừng lại</string>
+  <string name="message_process_still_running">Nhiệm vụ vẫn đang chạy</string>
+  <string name="message_stop_running_tasks">Ngừng chạy ứng dụng và đóng Bluetooth/Wireless?</string>
+  <string name="message_stopping_running_tasks">Dừng Bluetooth và không dây</string>
+  <string name="message_battery_current_percentage">Hiện nay pin cấp %:</string>
+  <string name="message_no_user_process">Không có quá trình người dùng chạy được tìm thấy</string>
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Огляд</string>
+  <string name="backup_options_backupusing">Резервне копіювання за допомогою</string>
+  <string name="transfer_address_home">Головна</string>
+  <string name="transfer_address_office">Офіс</string>
+  <string name="transfer_contact_office">(ВТ).</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(M)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">У вибране</string>
+  <string name="transfer_not_in_favorites">Не в обране</string>
+  <string name="transfer_times_contacted">Часи зв\'язався з:</string>
+  <string name="transfer_last_time_contacted">Останнім часом зв\'язатися:</string>
+  <string name="transfer_organization">Організація</string>
+  <string name="transfer_title">Назва</string>
+  <string name="transfer_event_birthday">День народження</string>
+  <string name="transfer_event_anniv">Ювілей</string>
+  <string name="transfer_event_other">Інші</string>
+  <string name="check_phone">Телефонні номери таблиць</string>
+  <string name="check_email">Електронна пошта</string>
+  <string name="csv_header_name">Ім\'я</string>
+  <string name="csv_header_phone">Телефонні номери таблиць</string>
+  <string name="csv_header_email">Адреси електронної пошти адресата</string>
+  <string name="csv_header_postal">Поштові адреси</string>
+  <string name="csv_header_timescontacted">Часи зв\'язався</string>
+  <string name="csv_header_lasttimecontact">Останнім часом зв\'язатися</string>
+  <string name="csv_header_favorite">Улюблений статус</string>
+  <string name="csv_header_organization">Організація</string>
+  <string name="check_postaladdress">Поштова адреса</string>
+  <string name="check_timescontacted">Кількість разів, зв\'язався з</string>
+  <string name="check_lastcontact">Останній час контакту</string>
+  <string name="check_isfavorite">Улюблений статус</string>
+  <string name="share_options_ShareAs">Частка як:</string>
+  <string name="share_options_ShareUsing">Спільний доступ за допомогою:</string>
+  <string name="share_options_sms">Обмін повідомленнями</string>
+  <string name="share_options_allshare">Поділитися додатків (хмар, електронній пошті,...)</string>
+  <string name="share_options_Clipboard">Скопіювати до буфера обміну</string>
+  <string name="share_options_plaintext">Звичайний текст</string>
+  <string name="share_options_vcf">Окремі файли Vcard</string>
+  <string name="share_options_combinedvcf">Комбіновані файлу Vcard</string>
+  <string name="export_options_textfile">Простий текстовий файл</string>
+  <string name="export_options_combinedvcf_21">Файлу vCard комбіновані 2.1</string>
+  <string name="export_options_individualvcf_21">Індивідуальні vCard 2.1 файл (и)</string>
+  <string name="export_options_combinedvcf_40">Файлу vCard комбіновані 4,0</string>
+  <string name="export_options_individualvcf_40">Індивідуальні vCard 4.0 файл (и)</string>
+  <string name="export_options_csvfile">Файл даних із роздільниками ВП (*. CSV)</string>
+  <string name="export_options_externalStorage">Зовнішнього зберігання пристрою</string>
+  <string name="export_options_ExportAs">Формат експорту:</string>
+  <string name="export_options_ExportUsing">Збережіть файл у:</string>
+  <string name="message_import_invalid_file">Не є припустимим файлом контактів
+        </string>
+  <string name="backup_options_using">Збереження файлу резервної копії в:</string>
+  <string name="menu_import_help">Допомога</string>
+  <string name="message_backup_options">Рекомендується для резервного копіювання в частку додатків, як хмар, електронній пошті і т. д.
+        Це дозволить вам відновити контакти, якщо ви втратите свій телефон.
+        Щоб відновити контакти електронної пошти/хмара вручну зберегти контакти файл резервної копії з вашого облікового запису електронної пошти/хмара до будь-якого місця в цьому пристрої. Утиліта імпорту потім автоматично знайде файл.</string>
+  <string name="message_restore_fail">
+        Не вдається відновити з резервної копії, резервний файл відсутній або пошкоджений
+                </string>
+  <string name="message_restore_refresh">Контакти відновлюються з резервної копії файлу. Будь ласка, оновіть екран, щоб побачити всі імпортовані контакти</string>
+  <string name="message_restore_selection_finish">Контакти відновлюються з резервної копії файлу. Тепер закрийте це діалогове вікно або можна імпортувати з іншого файлу резервної копії</string>
+  <string name="message_restore_legacy_name">Резервний файл був названий \'BackupAllContacts.vcf\' в старих версіях</string>
+</resources>

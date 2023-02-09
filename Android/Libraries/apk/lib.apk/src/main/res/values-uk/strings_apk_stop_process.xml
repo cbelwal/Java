@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">Завершено</string>
+  <string name="message_stop_tasks">Припинення запуску завдання...</string>
+  <string name="message_user_tasks_stopped">Користувача завдань зупинив</string>
+  <string name="message_system_tasks_stopped">Система завдань зупинив</string>
+  <string name="message_process_still_running">Завдання ще працює</string>
+  <string name="message_stop_running_tasks">Зупинити запускати застосунки та закрити/бездротової Bluetooth?</string>
+  <string name="message_stopping_running_tasks">Зупиняючись Bluetooth і бездротового зв\'язку</string>
+  <string name="message_battery_current_percentage">Поточну батарею рівня %:</string>
+  <string name="message_no_user_process">Немає запущеного процесу користувач знайшов</string>
+</resources>

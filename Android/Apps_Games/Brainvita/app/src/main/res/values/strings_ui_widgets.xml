@@ -1,0 +1,27 @@
+<resources>
+    <string name="button_new_game">New Game</string>
+    <string name="button_switch_board">Switch Board</string>
+    <string name="button_custom_board">Set Custom Board</string>
+    <string name="button_high_scores">High Scores</string>
+    <string name="button_rate_app">Rate this game</string>
+    <string name="button_tell_a_friend">Tell a friend</string>
+    <string name="button_paid_version">Paid version</string>
+    <string name="button_help_documentation">Help documentation</string>
+    <string name="button_demo_video">Demo Video</string>
+
+
+    <string name="button_ok">OK</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+    <string name="button_start">Start</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_abort">Abort</string>
+    <string name="button_high_score_close">Close</string>
+
+    <string name="title_high_score">Top Ten High Scores</string>
+    <string name="text_high_score_none">No Score</string>
+    <string name="text_high_score_pegs">Remaining peg(s)</string>
+    <string name="text_high_score_time">Time</string>
+
+
+</resources>

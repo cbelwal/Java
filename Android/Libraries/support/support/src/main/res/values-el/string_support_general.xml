@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic, LLC</string>
+  <string name="feedback_no_email">Προγράμματα-πελάτες ηλεκτρονικού ταχυδρομείου δεν βρέθηκε</string>
+  <string name="button_yes">Ναι</string>
+  <string name="button_no">Όχι</string>
+  <string name="nav_menu_help_doc">Τεκμηρίωση της βοήθειας</string>
+  <string name="button_rate_never">Ποτέ δεν</string>
+  <string name="button_rate_later">Αργότερα</string>
+  <string name="button_rate_now">Τώρα</string>
+  <string name="title_rate_this_app">Παρακαλώ εκτιμήστε αυτό το app</string>
+  <string name="title_feedback">Επιλέξτε την επιλογή ηλεκτρονικού ταχυδρομείου...</string>
+  <string name="title_demo_video">Βίντεο επίδειξης</string>
+  <string name="title_tellafriend">Πείτε ένα φίλο μέσω του...</string>
+  <string name="title_send_feedback">Επικοινωνήστε μαζί μας</string>
+  <string name="title_rate_app">Ποσοστό app</string>
+</resources>

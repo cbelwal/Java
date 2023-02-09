@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">実行を停止します。</string>
+  <string name="message_stop_tasks">タスクの実行を停止する.</string>
+  <string name="message_user_tasks_stopped">ユーザー タスクの停止</string>
+  <string name="message_system_tasks_stopped">システム タスクの停止</string>
+  <string name="message_process_still_running">実行中のタスク</string>
+  <string name="message_stop_running_tasks">アプリケーションの実行を停止、Bluetooth の無線を閉じますか。</string>
+  <string name="message_stopping_running_tasks">Bluetooth や無線を停止します。</string>
+  <string name="message_battery_current_percentage">現在のバッテリー レベル %:</string>
+  <string name="message_no_user_process">ない実行中のユーザー プロセスが見つかりました</string>
+</resources>

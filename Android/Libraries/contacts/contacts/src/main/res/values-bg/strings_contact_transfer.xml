@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Преглед</string>
+  <string name="backup_options_backupusing">Архивиране с помощта на</string>
+  <string name="transfer_address_home">Начало</string>
+  <string name="transfer_address_office">Офис</string>
+  <string name="transfer_contact_office">(W).</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(М)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">В фаворитите</string>
+  <string name="transfer_not_in_favorites">Не в \"Предпочитани\"</string>
+  <string name="transfer_times_contacted">Време на контакт:</string>
+  <string name="transfer_last_time_contacted">Последен път се свърза с:</string>
+  <string name="transfer_organization">Организация</string>
+  <string name="transfer_title">Заглавие</string>
+  <string name="transfer_event_birthday">Рожден ден</string>
+  <string name="transfer_event_anniv">Годишнина</string>
+  <string name="transfer_event_other">Други</string>
+  <string name="check_phone">Телефонен номер(а)</string>
+  <string name="check_email">Имейл</string>
+  <string name="csv_header_name">Име</string>
+  <string name="csv_header_phone">Телефонен номер(а)</string>
+  <string name="csv_header_email">Имейл адреси</string>
+  <string name="csv_header_postal">Пощенски адрес</string>
+  <string name="csv_header_timescontacted">Пъти се свърза с</string>
+  <string name="csv_header_lasttimecontact">Последен път се свърза с</string>
+  <string name="csv_header_favorite">Любим статус</string>
+  <string name="csv_header_organization">Организация</string>
+  <string name="check_postaladdress">Пощенски адрес</string>
+  <string name="check_timescontacted">Брой пъти в контакт</string>
+  <string name="check_lastcontact">Последно време за контакт</string>
+  <string name="check_isfavorite">Любим статус</string>
+  <string name="share_options_ShareAs">Споделете като:</string>
+  <string name="share_options_ShareUsing">Споделяне с помощта на:</string>
+  <string name="share_options_sms">Съобщения</string>
+  <string name="share_options_allshare">Споделяне на приложения (облак, електронна поща,...)</string>
+  <string name="share_options_Clipboard">Копиране в клипборда</string>
+  <string name="share_options_plaintext">Обикновен текст</string>
+  <string name="share_options_vcf">Индивидуални Vcard файлове</string>
+  <string name="share_options_combinedvcf">Комбиниран Vcard файл</string>
+  <string name="export_options_textfile">Обикновен текстов файл</string>
+  <string name="export_options_combinedvcf_21">Комбинирани vCard 2.1 файл</string>
+  <string name="export_options_individualvcf_21">Индивидуални vCard 2.1 файл(ове)</string>
+  <string name="export_options_combinedvcf_40">Комбинирани vCard 4.0 файл</string>
+  <string name="export_options_individualvcf_40">Индивидуални vCard 4.0 файл(ове)</string>
+  <string name="export_options_csvfile">Запетая разделени (*.csv) файл</string>
+  <string name="export_options_externalStorage">Външен съхранение на това устройство</string>
+  <string name="export_options_ExportAs">Формат за експортиране:</string>
+  <string name="export_options_ExportUsing">Запишете файла в:</string>
+  <string name="message_import_invalid_file">Не валиден файл с контакт
+        </string>
+  <string name="backup_options_using">Запишете архивния файл в:</string>
+  <string name="menu_import_help">Помощ</string>
+  <string name="message_backup_options">Препоръчително е да архивиране в дял приложения като облак, имейл и др.
+        Това ще ви позволи да възстановите контакти, ако някога загубите телефона си.
+        За да възстановите контактите от имейл/облак ръчно запишете архивния файл контактите от вашия имейл/облак акаунт до всяко място в това устройство. Определителен член внасям полезност ще автоматично Намерете файла.</string>
+  <string name="message_restore_fail">
+        Не може да възстанови от резервно копие, архивния файл липсва или е повреден
+                </string>
+  <string name="message_restore_refresh">Контактите са възстановена от архивния файл. Моля обновете дисплея, за да видите всички импортираните контакти</string>
+  <string name="message_restore_selection_finish">Контактите са възстановена от архивния файл. Сега можете да затворите този екран или внос от друг файл с резервно копие</string>
+  <string name="message_restore_legacy_name">Архивният файл е кръстен \'BackupAllContacts.vcf\ \"в по-стари версии</string>
+</resources>

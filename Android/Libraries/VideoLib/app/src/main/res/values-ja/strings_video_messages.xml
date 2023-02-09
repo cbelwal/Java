@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">Google のサーバーに接続できませんでした。アプリを再起動してもう一度やり直して
+    </string>
+  <string name="progressbar_load_data">ビデオ ファイルを検索中.</string>
+  <string name="message_selectitems">少なくとも 1 の選択が必要です。</string>
+  <string name="message_activity_load_fail">アプリケーションを開始できませんでした。</string>
+  <string name="message_activity_loading">アプリケーションを開始しています.</string>
+  <string name="message_other_permissions_missing">要求されたアクセス許可は、この機能が動作するために必要です。要求されたアクセス許可を与える、やり直してください。
+    </string>
+  <string name="message_no_read_permission">読み取りのアクセス許可</string>
+  <string name="message_cannot_go_in">選択したフォルダー内に行くことができません。</string>
+  <string name="message_delete_confirm">選択したファイル (s) が削除されます。この操作は元に戻せません。続行しますか。</string>
+  <string name="progressbar_delete_data">ファイルを削除します。</string>
+  <string name="message_delete_complete">ファイル/フォルダーの削除</string>
+  <string name="message_free_version_selection">無料版で選択できるファイルの最大数です。</string>
+  <string name="message_max_allowed_one">このオプションは、単一選択のみ動作します。</string>
+  <string name="message_only_file">このオプションはのみファイルの機能します。</string>
+  <string name="message_copying_file">ファイルをコピーしています.</string>
+  <string name="message_copy_complete">ファイルのコピーを完了します。</string>
+  <string name="message_copy_error">いくつかのファイルのコピーを作成できませんでした。空き領域があるフォルダーに書き込みアクセス権を持っていることを確認します。</string>
+  <string name="message_share_error">コピー中にエラーが発生しました。共有ファイルをキャッシュする十分なストレージ領域がある場合チェックしてください。 </string>
+  <string name="message_zipping_files">圧縮ファイル/フォルダー.</string>
+  <string name="message_zipping_completed">すべてのファイル/フォルダーは、zip アーカイブに移動</string>
+  <string name="message_zipping_error">可能性がありますいないファイルを zip/フォルダー。かどうか選択したフォルダーが空でないと十分なストレージ領域があることを確認してください。</string>
+  <string name="message_rename_complete">完全なファイル/フォルダーの名前を変更します。</string>
+  <string name="message_rename_error">ファイル/フォルダーの名前を変更できます。</string>
+  <string name="message_create_folder_complete">作成したフォルダー</string>
+  <string name="message_create_folder_error">フォルダーを作成できませんでした。</string>
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Przeglądaj</string>
+  <string name="backup_options_backupusing">Przy użyciu kopii zapasowej</string>
+  <string name="transfer_address_home">Strona główna</string>
+  <string name="transfer_address_office">Biuro</string>
+  <string name="transfer_contact_office">(W).</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(M)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">W Ulubione</string>
+  <string name="transfer_not_in_favorites">Nie w Ulubione</string>
+  <string name="transfer_times_contacted">Razy skontaktować:</string>
+  <string name="transfer_last_time_contacted">Skontaktował się z ostatniego czasu:</string>
+  <string name="transfer_organization">Organizacja</string>
+  <string name="transfer_title">Tytuł</string>
+  <string name="transfer_event_birthday">Urodziny</string>
+  <string name="transfer_event_anniv">Rocznica</string>
+  <string name="transfer_event_other">Inne</string>
+  <string name="check_phone">Numery telefonów</string>
+  <string name="check_email">Adres e-mail</string>
+  <string name="csv_header_name">Nazwa</string>
+  <string name="csv_header_phone">Numery telefonów</string>
+  <string name="csv_header_email">Adres(y) e-mail</string>
+  <string name="csv_header_postal">Adres-y</string>
+  <string name="csv_header_timescontacted">Razy skontaktował się z</string>
+  <string name="csv_header_lasttimecontact">Ostatni raz skontaktował się z</string>
+  <string name="csv_header_favorite">Ulubiony stan</string>
+  <string name="csv_header_organization">Organizacja</string>
+  <string name="check_postaladdress">Adres pocztowy</string>
+  <string name="check_timescontacted">Ile razy skontaktował się z</string>
+  <string name="check_lastcontact">Ostatni czas kontaktu</string>
+  <string name="check_isfavorite">Ulubiony stan</string>
+  <string name="share_options_ShareAs">Podziel się jako:</string>
+  <string name="share_options_ShareUsing">Podziel się za pomocą:</string>
+  <string name="share_options_sms">Wiadomości</string>
+  <string name="share_options_allshare">Udostępnianie aplikacji (Cloud, E-mail,...)</string>
+  <string name="share_options_Clipboard">Kopiuj do schowka</string>
+  <string name="share_options_plaintext">Zwykły tekst</string>
+  <string name="share_options_vcf">Poszczególne pliki Vcard</string>
+  <string name="share_options_combinedvcf">Połączony plik Vcard</string>
+  <string name="export_options_textfile">Plik tekstowy</string>
+  <string name="export_options_combinedvcf_21">Plik vCard Scalonej 2.1</string>
+  <string name="export_options_individualvcf_21">Pliki vCard poszczególnych 2.1</string>
+  <string name="export_options_combinedvcf_40">Plik vCard Scalonej 4.0</string>
+  <string name="export_options_individualvcf_40">Pliki vCard poszczególnych 4.0</string>
+  <string name="export_options_csvfile">Przecinkami (*.csv) oddzielna plik</string>
+  <string name="export_options_externalStorage">Zewnętrznej pamięci masowej urządzenia</string>
+  <string name="export_options_ExportAs">Format eksportu:</string>
+  <string name="export_options_ExportUsing">Zapisz plik w:</string>
+  <string name="message_import_invalid_file">Nie jest prawidłowym plikiem kontakt
+        </string>
+  <string name="backup_options_using">Zapisać plik kopii zapasowej w:</string>
+  <string name="menu_import_help">Pomoc</string>
+  <string name="message_backup_options">Jest zalecana do tworzenia kopii zapasowych w aplikacji udostępnianie jak chmura, E-mail itp.
+        To pozwoli Ci odzyskać kontakty, jeśli kiedykolwiek zgubisz swój telefon.
+        Aby przywrócić kontakty z wiadomości E-mail/chmury ręcznie Zapisz plik kopii zapasowej kontaktów z konta E-mail/Cloud do dowolnej lokalizacji w tym urządzeniu. Narzędzie importu będzie następnie automatycznie zlokalizować plik.</string>
+  <string name="message_restore_fail">
+        Nie można przywrócić z kopia zapasowa, kopia zapasowa pliku lub jest uszkodzony
+                </string>
+  <string name="message_restore_refresh">Przywracane są kontakty z pliku kopii zapasowej. Proszę odświeżyć ekran, aby zobaczyć wszystkie zaimportowane kontakty</string>
+  <string name="message_restore_selection_finish">Przywracane są kontakty z pliku kopii zapasowej. Można teraz zamknąć ten ekran lub zaimportować z innego pliku kopii zapasowej</string>
+  <string name="message_restore_legacy_name">Plik kopii zapasowej został nazwany \'BackupAllContacts.vcf\' w starszych wersjach</string>
+</resources>

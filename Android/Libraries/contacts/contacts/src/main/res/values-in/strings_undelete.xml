@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Contact(s) dipilih akan terhapus. Silakan konfirmasi jika Anda ingin melanjutkan?</string>
+  <string name="message_undelete_complete"> Contact(s) terhapus</string>
+  <string name="message_undelete_notice">Pilihan ini akan daftar kontak yang dapat terhapus dan tergantung pada produsen perangkat atau versi Android. Kontak tidak bisa pulih jika perangkat tidak mengizinkannya, kontak dihapus beberapa jam lalu atau kontak dihapus dari kartu SIM.</string>
+  <string name="message_undelete_option_invalid">Opsi ini ini tidak berlaku untuk kontak yang dihapus
+        </string>
+  <string name="message_undelete_help">Silahkan pilih contact(s) dan menggunakan ikon undelete di kanan atas untuk membatalkan penghapusan mereka</string>
+  <string name="progressbar_undelete_data">Undeleting contact(s) </string>
+  <string name="action_undelete">Membatalkan penghapusan Contact(s)</string>
+  <string name="button_understand">Saya mengerti</string>
+  <string name="title_disclaimer">DISCLAIMER</string>
+  <string name="title_no_undelete_found">Maaf!</string>
+  <string name="message_no_undelete_found">
+        Kami Mohon maaf, kontak hilang dihapus tidak dapat dipulihkan ditemukan! Anda dapat mencoba untuk memulihkan mereka menggunakan cara manual yang disarankan oleh Google, para pengembang Android.
+        Apakah Anda ingin kunjungi dukungan Google halaman web yang memiliki instruksi manual pemulihan?
+    </string>
+</resources>

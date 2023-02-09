@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_import_help" android:title="@string/menu_import_help"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@android:drawable/ic_menu_help"/>
+</menu>

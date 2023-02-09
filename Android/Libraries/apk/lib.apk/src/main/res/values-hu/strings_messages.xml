@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Atleast 1 választás</string>
+  <string name="message_save_external">APK fájl (ok) külső mappában: </string>
+  <string name="message_free_version_selection">Csak 3 apps lehet kiválasztani egy időben a szabad változat</string>
+  <string name="message_free_version_option">Ez választás egyetlen elérhető részére a fizetett változat</string>
+  <string name="message_activity_load_fail">Alkalmazás nem indítható</string>
+  <string name="message_activity_loading">Alkalmazás indítása...</string>
+  <string name="message_loading_files">Helyi mappák keresése...</string>
+  <string name="message_deleting_files">Kérjük erősítse meg, külön-külön az egyes kiválasztott.
+    Rendszer csomagok akarat uninstall, csak a felhasználói fiók</string>
+  <string name="message_save_external_suffix">. Mappa érhető a telefon csatlakoztatása a számítógéphez USB stb. </string>
+  <string name="message_rate_this_app_error">Nem nyitható meg a minősítés oldal</string>
+  <string name="message_share_link_prefix">Szia \r\n\r\nCheck ez ki: </string>
+  <string name="message_share_link_suffix">APKit keresztül</string>
+  <string name="message_share_report_prefix">Csomag-jelentés</string>
+  <string name="message_share_report_suffix">Előállított és küldött keresztül</string>
+  <string name="message_other_permissions_missing">Ez a funkció működik kért engedélyek szükségesek. Kérjük adja meg a kért engedélyeket, majd próbálkozzon újra
+    </string>
+  <string name="message_purchase_error">
+        Nem sikerült csatlakozni a Google szolgál. Indítsa újra a app, és próbálja újra
+    </string>
+</resources>

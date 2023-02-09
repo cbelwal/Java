@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">Telefonsko številko</string>
+  <string name="text_calllog_date">Datum</string>
+  <string name="text_calllog_time">Čas</string>
+  <string name="text_calllog_duration">DURATION(s)</string>
+  <string name="text_calllog_type">Vrsta</string>
+  <string name="spinner_calllog_type_incoming">Dohodni</string>
+  <string name="spinner_calllog_type_outgoing">Odhodne</string>
+  <string name="spinner_calllog_type_missed">Zamudil</string>
+  <string name="message_calllog_added">Uspešno doda zadnji klici</string>
+  <string name="message_calllog_added_error">Napaka pri dodajanju klic dnevnik</string>
+  <string name="message_calllog_edited">Dnevnik klicev uspešno posodobljen</string>
+  <string name="message_calllog_edited_error">Napaka pri posodabljanju dnevnik klicev</string>
+</resources>

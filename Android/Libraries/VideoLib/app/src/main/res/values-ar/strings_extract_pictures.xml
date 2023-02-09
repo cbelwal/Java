@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">اسم الملف:</string>
+  <string name="text_ep_file_size">الحجم:</string>
+  <string name="text_ep_modified_date">تاريخ التعديل:</string>
+  <string name="text_ep_video_duration">المدة:</string>
+  <string name="title_search_depth">عمق البحث (قيم كبيرة سوف يستغرق عدة دقائق)</string>
+  <string name="nav_menu_search_entire_phone">الهاتف البحث بأكمله</string>
+  <string name="nav_menu_search_media_folders">البحث عن وسائط الإعلام المجلد (المجلدات)</string>
+  <string name="nav_menu_search_external_folders">مجلدات البحث الخارجي</string>
+  <string name="progressbar_extracting_pictures">استخراج الصور...</string>
+  <string name="text_ep_time_start">زمن البدء</string>
+  <string name="text_ep_period">الفاصل الزمني بين pictures(seconds)</string>
+  <string name="text_ep_no_of_pictures">عدد الصور</string>
+  <string name="text_ep_store">تخزين الصور والمستخرجة:</string>
+  <string name="text_ep_share_external">وضع في مجلد خارجي</string>
+  <string name="text_ep_share_app">مشاركة التطبيقات باستخدام</string>
+  <string name="message_extract_complete"> وقد تم استخراج صورة (ق)</string>
+  <string name="message_extract_error">تمت مصادفة خطأ في استخراج الصور</string>
+  <string name="message_search_depth_updated">تم تحديث عمق البحث</string>
+  <string name="message_search_depth_error">خطأ في تحديث عمق البحث</string>
+</resources>

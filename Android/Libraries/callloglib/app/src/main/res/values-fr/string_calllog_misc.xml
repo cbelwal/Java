@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Journal des appels</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">Inconnu</string>
+  <string name="button_Yes">Oui</string>
+  <string name="button_No">N°</string>
+  <string name="button_Apply">S’appliquent</string>
+  <string name="button_Close">Fermer</string>
+  <string name="general_not_Available">Non disponible</string>
+  <string name="general_items">article (s)</string>
+  <string name="general_selected_items">sélectionné</string>
+  <string name="title_confirm">Confirmer</string>
+  <string name="title_dialog_coju">Télécharger Coju</string>
+  <string name="message_selectitems">Au moins 1 entrée de journal doit être sélectionné</string>
+  <string name="message_download_coju">Coju est une application intégrée de gestion des contacts. Il possède toutes les caractéristiques de cet app plus de capacités supplémentaires. Vous aimerez Télécharger Coju ?</string>
+  <string name="message_contact_permissions_missing">Contacts des autorisations sont requises pour ce soft travailler. App maintenant ferme, s’il vous plaît donner des autorisations et essayez à nouveau</string>
+  <string name="message_other_permissions_missing">Autorisations demandées sont nécessaires pour cette fonctionnalité app.
+        S’il vous plaît donner les autorisations demandées et essayez à nouveau</string>
+</resources>

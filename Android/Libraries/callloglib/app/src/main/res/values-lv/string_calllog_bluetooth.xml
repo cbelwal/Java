@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Log(s) atlasīto zvanu skaitu: </string>
+  <string name="text_bt_paired_devices"> Pārī savienotās ierīces (izvēlieties Connect)</string>
+  <string name="text_bt_new_devices"> Jaunas ierīces (izvēlieties Connect)</string>
+  <string name="message_bt_scan_devices">Skenēšanas ierīces...</string>
+  <string name="message_bt_scan_complete">Pabeidzis skenēšanu, ierīcēm</string>
+  <string name="message_bt_pair_devices">Savienošana pārī ierīcēm...</string>
+  <string name="message_bt_new_none">Nav atrasta neviena jauna ierīce</string>
+  <string name="message_bt_pair_none">Nav atrastas pārī savienotās ierīces</string>
+  <string name="message_bt_conn_lost">Savienojums zaudēts uz ierīci</string>
+  <string name="message_bt_connecting">Izveidot savienojumu: </string>
+  <string name="message_bt_not_enabled">Bluetooth nav aktivizēts, Bluetooth pārsūtīšanas aizvēršana</string>
+  <string name="message_bt_status_listening">Klausoties...</string>
+  <string name="message_bt_status_connecting">Notiek savienojuma izveide...</string>
+  <string name="message_bt_status_connected">Savienojums</string>
+  <string name="message_bt_testdata_sent">Testdata nosūtīts</string>
+  <string name="message_bt_no_contacts">Nav izvēlēts, lai nosūtītu kontaktpersonu</string>
+  <string name="message_bt_recv_complete">Pilnīga datu saņemšanai</string>
+  <string name="message_bt_not_connected">Nav savienots ar ierīci</string>
+  <string name="message_bt_adapter_error">Radās kļūda, ar ko izveido Bluetooth.
+            Lūdzu, pārbaudiet, vai tālrunim ir Bluetooth un Bluetooth adapteris ir iespējots</string>
+  <string name="menu_bt_make_discoverable">Ierīci padarīt atklājamu</string>
+  <string name="progressbar_bt_recv_data">Gatavs saņemt kontaktu datus...</string>
+  <string name="message_bt_connected">Pievienota ierīcei.
+        Nospiediet \'Send\' pārsūtīt zvanu log(s), lai: </string>
+  <string name="message_bt_conn_failed">Savienojums neizdevās ierīci.
+    Lūdzu, apdrošināt, ka šis app ir uzstādīta un Bluetooth ekrānu ir atvērts: </string>
+  <string name="message_bt_sent_error">Nevar pārsūtīt šīs sarunas log(s) skaits: </string>
+  <string name="message_bt_recv_error">Nevar izveidot šo numuru zvanu log(s): </string>
+  <string name="message_bt_create_complete">Saņemto zvanu log(s) izveidoti: </string>
+  <string name="message_bt_sent_complete">zvanu log(s) nosūtīts uz ierīci: </string>
+  <string name="progressbar_bt_send_data">Pārsūtot zvanu log(s) </string>
+  <string name="progressbar_bt_bytes">baiti </string>
+  <string name="progressbar_bt_create_contacts">Veidojot zvana log(s)</string>
+  <string name="progressbar_delete_data">
+        Dzēšot zvanu log(s) </string>
+  <string name="button_scan">Skenēšana</string>
+  <string name="button_send">Sūtīt</string>
+</resources>

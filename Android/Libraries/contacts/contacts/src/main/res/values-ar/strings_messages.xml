@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> سيتم تحديث جهات الاتصال. لا يمكن التراجع عن هذا الإجراء. هل تريد المتابعة؟</string>
+  <string name="message_update_complete"> تحديث جهات الاتصال</string>
+  <string name="message_save_external">جهات الاتصال المخزنة في مجلد خارجي: </string>
+  <string name="message_import">فقط يمكن أن تكون ملفات Vcard و CSV المستوردة (استخدام \'Browse\ \' لتحميل الملف (الملفات) من مصادر أخرى</string>
+  <string name="message_loading_files">البحث في المجلدات المحلية...</string>
+  <string name="message_loading_backup_files">البحث في الجهاز لملفات النسخ الاحتياطي...</string>
+  <string name="message_importing_contacts_complete">استيراد جهات الاتصال</string>
+  <string name="message_save_external_suffix">. يمكن الوصول إلى مجلد عن طريق توصيل الهاتف الخاص بك إلى جهاز الكمبيوتر الخاص بك عن طريق USB إلخ. </string>
+  <string name="message_selectitems">Atleast 1 الاتصال بحاجة إلى تحديد</string>
+  <string name="message_delete_confirm">تحديد جهات الاتصال سيتم حذف التفاصيل. لا يمكن التراجع عن هذا الإجراء. هل تريد المتابعة؟</string>
+  <string name="message_delete_complete"> contact(s) تفاصيل حذف</string>
+  <string name="message_free_import_limit">ملف يحتوي على جهات الاتصال أكثر من المسموح بها في الإصدار المجاني</string>
+  <string name="message_rate_this_app_error">تعذر فتح صفحة التصويت. يرجى الانتقال إلى اللعب Google ومعدل تبعاً لذلك</string>
+  <string name="message_edit">يمكن تحرير جهة الاتصال فقط 1 في وقت واحد. </string>
+  <string name="message_backup_stored">جهات الاتصال وقد تم احتياطياً في الملف:</string>
+  <string name="message_download_coju">كوجو تطبيق وإدارة متكاملة لاتصال. قد جميع ميزات هذا التطبيق بالإضافة إلى قدرات إضافية. وسوف ترغب في تحميل كوجو؟</string>
+  <string name="message_contact_permissions_missing">الاتصالات أذونات مطلوبة لهذا التطبيق للعمل. التطبيق سيتم الآن إغلاق، يرجى إعطاء الأذونات ثم حاول مرة أخرى</string>
+  <string name="message_other_permissions_missing">طلب أذونات مطلوبة لميزة هذا التطبيق للعمل.
+        الرجاء إعطاء الأذونات المطلوبة وحاول مرة أخرى</string>
+  <string name="message_backup_freeversion">
+        الحد الأقصى لعدد جهات الاتصال التي يمكن أن تدعمها في هذا الإصدار المجاني:
+    </string>
+  <string name="message_backup_paidversion">
+        كافة جهات الاتصال تم بنجاح احتياطياً في ملف
+    </string>
+  <string name="message_purchase_error">
+        تعذر الاتصال بخادم Google. الرجاء إعادة تشغيل التطبيق وحاول مرة أخرى
+    </string>
+</resources>

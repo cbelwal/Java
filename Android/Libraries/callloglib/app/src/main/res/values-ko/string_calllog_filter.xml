@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">조건</string>
+  <string name="filter_text_option">옵션</string>
+  <string name="filter_text_value_days">일</string>
+  <string name="filter_text_value_duration">Duration(s)</string>
+  <string name="filter_text_value_location">위치</string>
+  <string name="filter_options_from_stored_contacts">저장 된 연락처에서</string>
+  <string name="filter_options_more_than_entered_days">일 보다 더</string>
+  <string name="filter_options_less_than_entered_days">일 보다는 더 적은</string>
+  <string name="filter_options_more_than_duration">기간 보다는 더 많은</string>
+  <string name="filter_options_less_than_duration">기간 보다는 더 적은</string>
+  <string name="filter_options_from_entered_location">위치에서</string>
+  <string name="filter_options_none">필터 없음</string>
+  <string name="filter_show_show">보기</string>
+  <string name="filter_show_noshow">표시 하지 않음</string>
+</resources>

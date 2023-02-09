@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ของ Google กรุณารีสตาร์ทแอ และลองอีกครั้ง
+    </string>
+  <string name="progressbar_load_data">ค้นหาไฟล์วิดีโอ...</string>
+  <string name="message_selectitems">ต้องมีการเลือกอย่างน้อย 1</string>
+  <string name="message_activity_load_fail">ไม่สามารถเริ่มโปรแกรมประยุกต์</string>
+  <string name="message_activity_loading">เริ่มต้นโปรแกรมประยุกต์...</string>
+  <string name="message_other_permissions_missing">ร้องขอสิทธิ์จำเป็นสำหรับคุณสมบัตินี้ กรุณาให้ขออนุญาต และลองอีกครั้ง
+    </string>
+  <string name="message_no_read_permission">ไม่มีอ่านสิทธิ์
+    </string>
+  <string name="message_cannot_go_in">ไม่สามารถไปภายในโฟลเดอร์ที่เลือก
+    </string>
+  <string name="message_delete_confirm">เลือกไฟล์ (s) จะถูกลบออก การกระทำนี้ไม่สามารถเลิกทำ ทำอย่างไร</string>
+  <string name="progressbar_delete_data">
+        การลบแฟ้ม </string>
+  <string name="message_delete_complete"> แฟ้มโฟลเดอร์ถูกลบ</string>
+  <string name="message_free_version_selection">
+        ไฟล์สูงสุดที่สามารถเลือกได้ในรุ่นฟรีคือ: </string>
+  <string name="message_max_allowed_one">
+        ตัวเลือกนี้ทำงานสำหรับการเลือกที่เดียวเท่านั้น  </string>
+  <string name="message_only_file">
+        ตัวเลือกนี้ทำงานเฉพาะสำหรับแฟ้ม  </string>
+  <string name="message_copying_file">
+        คัดลอกแฟ้ม...  </string>
+  <string name="message_copy_complete">
+        คัดลอกแฟ้มเสร็จสมบูรณ์  </string>
+  <string name="message_copy_error">
+        ไม่สามารถสร้างสำเนาของแฟ้มบางอย่าง ตรวจสอบว่า มีเนื้อที่ และคุณมีสิทธิ์เขียนไปยังโฟลเดอร์</string>
+  <string name="message_share_error">
+        เกิดข้อผิดพลาดระหว่างการคัดลอก โปรดตรวจสอบว่าคุณมีพื้นที่จัดเก็บที่ใช้ร่วมกันแฟ้มแค  </string>
+  <string name="message_zipping_files">
+        บีบอัดแฟ้ม / โฟลเดอร์...  </string>
+  <string name="message_zipping_completed">
+        ทั้งหมดแฟ้ม / โฟลเดอร์ถูกย้ายการ zip เก็บถาวร  </string>
+  <string name="message_zipping_error">
+        สามารถซิปแฟ้ม / โฟลเดอร์ โปรดตรวจสอบหากไม่มีโฟลเดอร์ที่เลือก และคุณมีพื้นที่จัดเก็บเพียงพอ</string>
+  <string name="message_rename_complete">
+        เปลี่ยนชื่อของไฟล์/โฟลเดอร์ที่สมบูรณ์  </string>
+  <string name="message_rename_error">
+        ไม่สามารถเปลี่ยนชื่อโฟลเดอร์และแฟ้ม  </string>
+  <string name="message_create_folder_complete">
+        โฟลเดอร์ที่สร้าง  </string>
+  <string name="message_create_folder_error">
+        ไม่สามารถสร้างโฟลเดอร์  </string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_add_call_log">Legge til</string>
+  <string name="activity_edit_call_log">Rediger</string>
+  <string name="activity_share_call_log">Aksje</string>
+  <string name="activity_export_call_log">Eksportere</string>
+  <string name="activity_import_call_log">Import</string>
+  <string name="activity_bluetooth_call_log">Bluetooth-overføring</string>
+  <string name="activity_backup_call_log">Sikkerhetskopiering</string>
+  <string name="activity_restore_call_log">Gjenopprette</string>
+  <string name="activity_filter_call_log">Vis Filter</string>
+</resources>

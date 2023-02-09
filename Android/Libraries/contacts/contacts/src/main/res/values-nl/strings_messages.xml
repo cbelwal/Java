@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> contactpersoon/contactpersonen die zal worden bijgewerkt. Deze actie kan niet ongedaan worden gemaakt. Wilt u doorgaan?</string>
+  <string name="message_update_complete"> contactpersoon/contactpersonen die bijgewerkt</string>
+  <string name="message_save_external">Contacten die zijn opgeslagen in de externe map: </string>
+  <string name="message_import">Alleen Vcard en CSV-bestanden geïmporteerd worden kunnen (gebruik \'Browse\' voor het laden van bestanden uit andere bronnen</string>
+  <string name="message_loading_files">Lokale mappen zoeken...</string>
+  <string name="message_loading_backup_files">Apparaat voor back-up bestanden zoeken...</string>
+  <string name="message_importing_contacts_complete">contactpersoon/contactpersonen die geïmporteerd</string>
+  <string name="message_save_external_suffix">. Map kan worden geopend door uw telefoon verbinden met uw computer via USB enz. </string>
+  <string name="message_selectitems">Atleast 1 contactpersoon moet worden geselecteerd</string>
+  <string name="message_delete_confirm">Geselecteerde contactpersoon/contactpersonen die details zullen worden verwijderd. Deze actie kan niet ongedaan worden gemaakt. Wilt u doorgaan?</string>
+  <string name="message_delete_complete"> contact(s) details verwijderd</string>
+  <string name="message_free_import_limit">Bestand bevat meer contact(en) dan toegestaan in gratis versie</string>
+  <string name="message_rate_this_app_error">Rating pagina kan niet worden geopend. Gelieve goto Google Play en dienovereenkomstig stemmen</string>
+  <string name="message_edit">Slechts 1 contactpersoon kan tegelijk worden bewerkt. </string>
+  <string name="message_backup_stored">Contacten hebben is een back-up in een bestand:</string>
+  <string name="message_download_coju">Coju is een geïntegreerde Contactbeheer app. Het heeft alle functies van deze app plus extra mogelijkheden. Zal u willen downloaden van Coju?</string>
+  <string name="message_contact_permissions_missing">Contactpersonen machtigingen zijn vereist voor dit app om te werken. App zal nu sluiten, Geef machtigingen en probeer het opnieuw</string>
+  <string name="message_other_permissions_missing">Gevraagde machtigingen zijn vereist voor de functie van deze app om te werken.
+        Geef de gevraagde machtigingen en probeer het opnieuw</string>
+  <string name="message_backup_freeversion">
+        Maximum aantal contacten die kan worden ondersteund in deze gratis versie is:
+    </string>
+  <string name="message_backup_paidversion">
+        Alles wat je contacten met succes een reservekopie is opgeslagen in een bestand
+    </string>
+  <string name="message_purchase_error">
+        Kan geen verbinding maken met server van Google. Gelieve opnieuw app en probeer het opnieuw
+    </string>
+</resources>

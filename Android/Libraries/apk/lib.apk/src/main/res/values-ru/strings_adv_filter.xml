@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">Установлен в последние 30 дней</string>
+  <string name="filter_adv_options_security_inappbilling">Имеет в app биллинга</string>
+  <string name="filter_adv_options_security_readsms">Можно читать смс</string>
+  <string name="filter_adv_options_security_sendsms">Можно отправить SMS</string>
+  <string name="filter_adv_options_security_readcontacts">Можно читать контакты</string>
+  <string name="filter_adv_options_security_readcalllog">Можно читать журнал вызовов</string>
+  <string name="filter_adv_options_security_readcalender">Можно читать каландр</string>
+  <string name="filter_adv_options_security_writeexternalstorage">Можно написать для внешнего хранения</string>
+  <string name="filter_adv_options_security_camera">Можно получить доступ к камере</string>
+  <string name="filter_adv_options_security_mic">Можно записывать звук</string>
+  <string name="filter_adv_options_security_location">Можно получить доступ к папке</string>
+  <string name="filter_adv_options_filter">Активировать фильтров безопасности</string>
+  <string name="filter_main_text">Опции фильтра безопасности (только Apps соответствия какой-либо из этих критериев будет отображаться):</string>
+  <string name="activity_security_filter">Фильтр отображения вредоносных программ</string>
+</resources>

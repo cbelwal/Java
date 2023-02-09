@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Izin untuk membuat panggilan tidak diberikan untuk aplikasi ini</string>
+  <string name="message_search_number_security_exception">Bisa tidak mencari nomor telepon ini! Pencarian Google tidak diaktifkan atau izin tidak diberikan dalam perangkat ini</string>
+  <string name="message_free_version_selection">
+        Entri log maksimum yang dapat dipilih dalam versi gratis adalah: </string>
+  <string name="message_purchase_error">
+        Tidak dapat menyambung ke Google server. Silakan restart aplikasi dan coba lagi
+    </string>
+</resources>

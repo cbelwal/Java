@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">Không bị chặn contact(s)</string>
+  <string name="display_options_blocked">Bị chặn contact(s)</string>
+  <string name="action_block">Khối</string>
+  <string name="action_unblock">Bỏ chặn</string>
+  <string name="message_blocking_contacts">Ngăn chặn contact(s)</string>
+  <string name="message_unblocking_contacts">Unblocking contact(s)</string>
+  <string name="message_block_unblock_complete">Cập Nhật tất cả được chọn contact(s) </string>
+  <string name="message_block_unblock_error">Đã có lỗi trong việc cập nhật một số contact(s) được chọn</string>
+</resources>

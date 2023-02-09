@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Generelle</string>
+  <string name="nav_menu_group_help">Hjælp</string>
+  <string name="nav_menu_group_viewoptions">Indstillinger</string>
+  <string name="nav_menu_group_views">Udsigt</string>
+  <string name="nav_menu_group_operations">Operationer</string>
+  <string name="nav_menu_group_backup">Backup</string>
+  <string name="nav_menu_rate_this_app">Feedback</string>
+  <string name="nav_menu_backup_contacts">Backup af alle kontakter</string>
+  <string name="nav_menu_restore_contacts">Gendanne kontaktpersoner fra backup</string>
+  <string name="nav_menu_upgrade">Opgradering til Pro version</string>
+  <string name="nav_menu_filter">Display Filter</string>
+  <string name="nav_menu_duplicates">Dubletter Toolkit</string>
+  <string name="nav_menu_tellafriend">Fortæl en ven</string>
+  <string name="nav_menu_feedback">Kontakt Dasmic</string>
+  <string name="nav_menu_demovideo">Demo Video</string>
+  <string name="nav_menu_coju_outlook">Coju til Microsoft Outlook</string>
+  <string name="nav_menu_coju">Download Coju</string>
+  <string name="display_options_all_TimesContacted">Sorteret efter gange kontaktet</string>
+  <string name="display_options_all_last_contact">Sorteret efter sidste kontakttid</string>
+  <string name="display_options_all">Sorteret efter navn</string>
+  <string name="display_options_phonenumber">Sorterede numre</string>
+  <string name="display_options_email">Sorterede E-mail adresser</string>
+  <string name="display_options_deleted">Slettede kontakter</string>
+  <string name="display_options_refresh">Opdater skærm</string>
+  <string name="action_Operations">Bulk opdateringer</string>
+  <string name="action_Export">Eksportere kontaktpersoner</string>
+  <string name="action_delete">Slette kontaktpersoner</string>
+  <string name="action_Import">Importere kontaktpersoner</string>
+  <string name="action_edit">Rediger kontaktperson</string>
+  <string name="action_add">Tilføj kontakt</string>
+  <string name="action_share">Dele kontaktpersoner</string>
+  <string name="action_bluetooth">Bluetooth overførsel</string>
+</resources>

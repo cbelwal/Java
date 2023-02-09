@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">आइटम (आइटंस)</string>
+  <string name="general_selected_items">चयनित</string>
+  <string name="general_error">त्रुटि</string>
+  <string name="title_confirm">पुष्टि</string>
+  <string name="button_ok">ठीक है</string>
+  <string name="button_cancel">रद्द करना</string>
+  <string name="free_space">कुल मुक्त स्थान:</string>
+  <string name="title_share">का उपयोग कर साझा करें:</string>
+  <string name="title_rename">नया नाम दर्ज करें  </string>
+  <string name="title_create_folder">फ़ोल्डर का नाम दर्ज करें  </string>
+</resources>

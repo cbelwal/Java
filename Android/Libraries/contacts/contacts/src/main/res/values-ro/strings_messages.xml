@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> persoana de contact va fi actualizat. Această acţiune nu poate fi anulată. Proceda?</string>
+  <string name="message_update_complete"> persoana de contact actualizate</string>
+  <string name="message_save_external">Contactele stocate în folderul externe: </string>
+  <string name="message_import">Numai Vcard şi CSV fişiere pot fi importate (folos \'Browse\' pentru a încărca fișierele din alte surse</string>
+  <string name="message_loading_files">Căutare dosare locale...</string>
+  <string name="message_loading_backup_files">Dispozitiv pentru fişiere de rezervă în căutare...</string>
+  <string name="message_importing_contacts_complete">Contactele importate</string>
+  <string name="message_save_external_suffix">. Dosarul poate fi accesat prin conectarea telefonului la computer prin USB etc. </string>
+  <string name="message_selectitems">Atleast 1 contact trebuie să fie selectate</string>
+  <string name="message_delete_confirm">Persoana de contact selectată detalii vor fi şterse. Această acţiune nu poate fi anulată. Proceda?</string>
+  <string name="message_delete_complete"> contact(s) detalii şters</string>
+  <string name="message_free_import_limit">Fişierul conţine contactele mai mult decât permis în versiunea gratuită</string>
+  <string name="message_rate_this_app_error">Nu pot deschide pagina de evaluare. Te rog du-te la Google Play şi evalua în mod corespunzător</string>
+  <string name="message_edit">Numai 1 contact pot fi editate într-un moment. </string>
+  <string name="message_backup_stored">Contacte au fost backup în fişier:</string>
+  <string name="message_download_coju">Coju este o aplicatie de management integrat de contact. Aceasta are toate caracteristicile de acest app plus capabilităţi suplimentare. Va place la spre Coju?</string>
+  <string name="message_contact_permissions_missing">Contacte permisiuni sunt necessre pentru acest app pentru a lucra. App va acum închidă, vă rugăm să da permisiuni și încercați din nou</string>
+  <string name="message_other_permissions_missing">Solicitat permisiuni sunt necessre pentru această caracteristică de app la locul de muncă.
+        Vă rugăm să da permisiuni solicitate și încercați din nou</string>
+  <string name="message_backup_freeversion">
+        Numărul maxim de persoane de contact, care pot fi susţinute în această versiune gratuită este:
+    </string>
+  <string name="message_backup_paidversion">
+        Tot ce contacte au fost cu succes susţinute într-un fişier
+    </string>
+  <string name="message_purchase_error">
+        Nu sa putut conecta la server de Google. Vă rugăm să reporniţi app şi încercaţi din nou
+    </string>
+</resources>

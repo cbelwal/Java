@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">차단된 연락처</string>
+  <string name="display_options_blocked">차단 된 연락처</string>
+  <string name="action_block">블록</string>
+  <string name="action_unblock">차단 해제</string>
+  <string name="message_blocking_contacts">연락처 차단</string>
+  <string name="message_unblocking_contacts">차단 해제 연락처</string>
+  <string name="message_block_unblock_complete">선택한 모든 연락처를 업데이트 </string>
+  <string name="message_block_unblock_error">일부 선택 된 연락처를 업데이 트에 오류가 발생 했습니다.</string>
+</resources>

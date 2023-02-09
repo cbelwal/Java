@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Navn + WhatsApp nummer match</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">Samme WhatsApp nummer i flere navne</string>
+  <string name="duplicate_options_name_matches_email_phone">Navn + telefon/Email match</string>
+  <string name="duplicate_options_name_matches_phone">Navn + telefon match</string>
+  <string name="duplicate_options_name_matches_email">Navn + E-mail match</string>
+  <string name="duplicate_options_same_number_multi_name">Samme nummer i flere navne</string>
+  <string name="duplicate_options_same_email_multi_name">Samme e-mail i flere navne</string>
+  <string name="duplicate_options_none">Ingen</string>
+  <string name="progressbar_sel_duplicates">Scanning for dubletter...</string>
+  <string name="message_duplicates_selected">Hvis du vil slette markerede duplicate(s) Tryk på sletteikonet. Original(master) værdi for hver dublet markeres ikke og vil ikke blive slettet.</string>
+  <string name="choose_duplicate_option">Vælg kriterium til at identificere dubletter.
+        Dubletter sammen med deres original(master) værdi vises i hovedskærmen og bliver automatisk markeret til sletning. Original(Master) værdi er ikke markeret.</string>
+  <string name="startup_message">Bruge den dublerede ikon i øverste højre til at angive visningsindstillingen for dubletter</string>
+  <string name="message_duplicates_backup">Det anbefales, at du sikkerhedskopierer dine kontakter før du sletter dem.</string>
+</resources>

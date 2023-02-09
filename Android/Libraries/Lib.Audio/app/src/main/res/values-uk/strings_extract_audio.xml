@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Ім\'я файлу:</string>
+  <string name="text_ep_file_size">Розмір:</string>
+  <string name="text_ep_modified_date">Дата змінення:</string>
+  <string name="text_ep_duration">Тривалість:</string>
+  <string name="title_search_depth">Глибина пошуку (великого значення буде тривати кілька хвилин)</string>
+  <string name="progressbar_extracting_audio">Витягання аудіо (може минути декілька)...</string>
+  <string name="progressbar_loading_audio">Завантаження аудіо файлів деталей...</string>
+  <string name="text_ep_time_start">Почати time(seconds)</string>
+  <string name="text_ep_period">Тривалість кожного аудіо file(seconds)</string>
+  <string name="text_ep_store">Зберігати нові аудіо файли, як:</string>
+  <string name="text_ep_share_external">Помістити в зовнішніх папки</string>
+  <string name="text_ep_share_app">Спільний доступ за допомогою програм</string>
+  <string name="message_extract_complete"> M4A файли були створені</string>
+  <string name="message_extract_error">Знайдено помилку під час створення аудіо-файли</string>
+  <string name="message_search_depth_updated">Глибина пошуку було оновлено</string>
+  <string name="message_search_depth_error">Помилка у відновленні Глибина пошуку</string>
+  <string name="message_load_complete">Аудіо файлів деталей був завантажений</string>
+  <string name="message_load_error">Виявлено помилку в завантаження аудіо</string>
+  <string name="message_extract_duration_reduced"> Останній тривалості аудіо-файл був скорочений, як було досягнуто кінця аудіо </string>
+  <string name="message_extract_incomplete"> %1$ d аудіо файл (и) не вдалося створити або неповної інформації</string>
+  <string name="message_extract_signature">Вони надійшли через аудіо тертці coju.mobi™</string>
+</resources>

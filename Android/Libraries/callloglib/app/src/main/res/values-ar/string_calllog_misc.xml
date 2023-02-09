@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">سجل المكالمات</string>
+  <string name="app_folder">كاللوجماناجير</string>
+  <string name="call_from_unknown">المجهول</string>
+  <string name="button_Yes">نعم</string>
+  <string name="button_No">لا</string>
+  <string name="button_Apply">تطبيق</string>
+  <string name="button_Close">قم بإغلاق</string>
+  <string name="general_not_Available">غير متوفر</string>
+  <string name="general_items">العنصر (العناصر)</string>
+  <string name="general_selected_items">تحديد</string>
+  <string name="title_confirm">تأكيد</string>
+  <string name="title_dialog_coju">تحميل كوجو</string>
+  <string name="message_selectitems">يجب إدخال سجل Atleast 1 تحديد</string>
+  <string name="message_download_coju">كوجو تطبيق وإدارة متكاملة لاتصال. قد جميع ميزات هذا التطبيق بالإضافة إلى قدرات إضافية. وسوف ترغب في تحميل كوجو؟</string>
+  <string name="message_contact_permissions_missing">الاتصالات أذونات مطلوبة لهذا التطبيق للعمل. التطبيق سيتم الآن إغلاق، يرجى إعطاء الأذونات ثم حاول مرة أخرى</string>
+  <string name="message_other_permissions_missing">طلب أذونات مطلوبة لميزة هذا التطبيق للعمل.
+        الرجاء إعطاء الأذونات المطلوبة وحاول مرة أخرى</string>
+</resources>

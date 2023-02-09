@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">연락처 병합</string>
+  <string name="action_merge">연락처 병합</string>
+  <string name="message_merge_title">주의</string>
+  <string name="message_merge_confirm">선택 된 연락처를 병합 하려면 확인 하십시오? 전화 번호, 이메일 주소, 우편 주소, 참고 및 이벤트 선택한 모든 연락처의 이름으로 하나의 단일 연락처에 병합 됩니다. </string>
+  <string name="message_merge_complete">선택 된 연락처 병합 된</string>
+  <string name="progressbar_merge_data">연락처 병합...</string>
+</resources>

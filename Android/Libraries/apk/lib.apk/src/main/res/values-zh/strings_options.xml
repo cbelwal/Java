@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="share_options_ShareUsing">分享使用 ︰</string>
+  <string name="share_options_allshare">电子邮件/Wifi/云存储 （大文件可能有问题）</string>
+  <string name="export_options_externalStorage">外部存储</string>
+  <string name="export_options_ExportAs">导出格式 ︰</string>
+  <string name="export_options_ExportUsing">通过共享 APK 文件 ︰</string>
+  <string name="progressbar_prepare_data">正在准备程序包...</string>
+</resources>

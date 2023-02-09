@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Виділені контакти будуть відновлені. Будь ласка, підтвердіть, якщо ви хочете продовжити?</string>
+  <string name="message_undelete_complete"> контакти, відновлені</string>
+  <string name="message_undelete_notice">Цей параметр буде список контактів, які можна відновити і залежить від виробника пристрою або Android версії. Контакти не можуть бути відновлені, якщо пристрій не дозволяє їй, контакти були видалені кілька годин тому або контакти були видалені з SIM-картки.</string>
+  <string name="message_undelete_option_invalid">Цей параметр неприпустимий для видалені контакти
+        </string>
+  <string name="message_undelete_help">Будь ласка виберіть Контакти і використовувати undelete значок у верхньому правому відновити їх</string>
+  <string name="progressbar_undelete_data">Скасування видалити контакти </string>
+  <string name="action_undelete">Відновити контакти</string>
+  <string name="button_understand">Я розумію</string>
+  <string name="title_disclaimer">ВІДМОВА ВІД ВІДПОВІДАЛЬНОСТІ</string>
+  <string name="title_no_undelete_found">Вибач!</string>
+  <string name="message_no_undelete_found">
+        Перепрошуємо, не можна відновити видалені контакти були знайдені! Ви можете спробувати відновити їх за допомогою ручним способом, запропонованих Google, розробники Android.
+        Ви хотіли, щоб відвідати веб-сторінці підтримки Google, яка має інструкції для ручного відновлення?
+    </string>
+</resources>

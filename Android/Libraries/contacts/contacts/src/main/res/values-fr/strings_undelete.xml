@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Contacts sélectionnés sera restauré. S’il vous plaît confirmer si vous souhaitez procéder ?</string>
+  <string name="message_undelete_complete"> contact (s) annulée</string>
+  <string name="message_undelete_notice">Cette option répertorie les contacts qui peuvent être restauré et dépend du fabricant de votre appareil ou la version Android. Contacts ne peuvent pas être récupérés si l’appareil ne le permet pas, de contacts ont été supprimés il y a plusieurs heures ou de contacts ont été supprimés de la carte SIM.</string>
+  <string name="message_undelete_option_invalid">Cette option n’est pas valide pour les contacts supprimés
+        </string>
+  <string name="message_undelete_help">S’il vous plaît sélectionnez contacts et utilisez l’icône de restauration en haut à droite pour restaurer leur</string>
+  <string name="progressbar_undelete_data">Récupération des contacts </string>
+  <string name="action_undelete">Restaurer les contacts</string>
+  <string name="button_understand">Je comprends</string>
+  <string name="title_disclaimer">CLAUSE DE NON-RESPONSABILITÉ</string>
+  <string name="title_no_undelete_found">Désolé !</string>
+  <string name="message_no_undelete_found">
+        Nous ne sommes désolés, aucun contacts supprimés récupérables ont été trouvés ! Vous pouvez essayer de les récupérer à l’aide d’une manière manuelle proposée par Google, les développeurs d’Android.
+        Vous aimerez visiter la page Web de Support de Google qui a des instructions de récupération manuelle ?
+    </string>
+</resources>

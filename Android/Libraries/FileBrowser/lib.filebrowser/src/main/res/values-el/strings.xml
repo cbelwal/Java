@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">item (s)</string>
+  <string name="general_selected_items">επιλεγμένο</string>
+  <string name="general_error">Σφάλμα</string>
+  <string name="title_confirm">Επιβεβαίωση</string>
+  <string name="button_ok">Ok</string>
+  <string name="button_cancel">Άκυρο</string>
+  <string name="free_space">Συνολικό ελεύθερο χώρο:</string>
+  <string name="title_share">Μοιραστείτε χρησιμοποιώντας:</string>
+  <string name="title_rename">Πληκτρολογήστε νέο όνομα  </string>
+  <string name="title_create_folder">Εισάγετε το όνομα του φακέλου  </string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Αριθμός επιλεγμένων κλήση καταγραφές: </string>
+  <string name="text_bt_paired_devices"> Συζευγμένες συσκευές (επιλέξτε σύνδεση)</string>
+  <string name="text_bt_new_devices"> Νέες συσκευές (επιλέξτε σύνδεση)</string>
+  <string name="message_bt_scan_devices">Σάρωση για συσκευές...</string>
+  <string name="message_bt_scan_complete">Τελικού σάρωση για συσκευές</string>
+  <string name="message_bt_pair_devices">Αντιστοίχιση συσκευών...</string>
+  <string name="message_bt_new_none">Χωρίς νέες συσκευές που βρέθηκαν</string>
+  <string name="message_bt_pair_none">Καμία συζευγμένες συσκευές που βρέθηκαν</string>
+  <string name="message_bt_conn_lost">Σύνδεση χαθεί στη συσκευή</string>
+  <string name="message_bt_connecting">Σύνδεση με: </string>
+  <string name="message_bt_not_enabled">Bluetooth δεν είναι ενεργοποιημένο, κλείσιμο μεταφορά Bluetooth</string>
+  <string name="message_bt_status_listening">Ακρόαση...</string>
+  <string name="message_bt_status_connecting">Σύνδεση...</string>
+  <string name="message_bt_status_connected">Συνδεδεμένοι</string>
+  <string name="message_bt_testdata_sent">TestData αποστέλλονται</string>
+  <string name="message_bt_no_contacts">Χωρίς επαφές που έχετε επιλέξει για την αποστολή</string>
+  <string name="message_bt_recv_complete">Λήψη δεδομένων πλήρης</string>
+  <string name="message_bt_not_connected">Δεν συνδέεται με οποιαδήποτε συσκευή</string>
+  <string name="message_bt_adapter_error">Παρουσιάστηκε ένα σφάλμα εγκατάσταση Bluetooth.
+            Ελέγξτε αν το τηλέφωνό σας διαθέτει Bluetooth και τον προσαρμογέα Bluetooth είναι ενεργοποιημένη</string>
+  <string name="menu_bt_make_discoverable">Κάνετε τη συσκευή ορατή</string>
+  <string name="progressbar_bt_recv_data">Έτοιμοι να λάβετε τα στοιχεία επικοινωνίας...</string>
+  <string name="message_bt_connected">Συνδεθεί στη συσκευή.
+        Πιέστε το πλήκτρο \'Send\' για να μεταφέρετε τις καταγραφές κλήσεων για: </string>
+  <string name="message_bt_conn_failed">Σύνδεση απέτυχε στη συσκευή.
+    Πρέπει να διασφαλίσετε ότι αυτή η εφαρμογή είναι εγκατεστημένη και οθόνη Bluetooth είναι ανοιχτή: </string>
+  <string name="message_bt_sent_error">Δεν θα μπορούσε να μεταφέρει αυτούς αριθμός κλήσης καταγραφές: </string>
+  <string name="message_bt_recv_error">Δεν μπόρεσε να δημιουργήσει αυτούς αριθμός κλήσης καταγραφές: </string>
+  <string name="message_bt_create_complete">Λάβατε κλήση καταγραφές που δημιουργήθηκε: </string>
+  <string name="message_bt_sent_complete">Καλέστε καταγραφές που αποστέλλονται στη συσκευή: </string>
+  <string name="progressbar_bt_send_data">Μεταφορά κλήσης καταγραφές </string>
+  <string name="progressbar_bt_bytes">bytes </string>
+  <string name="progressbar_bt_create_contacts">Δημιουργία καταγραφές κλήσεων</string>
+  <string name="progressbar_delete_data">
+        Διαγραφή κλήσεων καταγραφές </string>
+  <string name="button_scan">Σάρωση</string>
+  <string name="button_send">Αποστολή</string>
+</resources>

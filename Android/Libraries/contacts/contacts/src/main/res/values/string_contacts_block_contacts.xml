@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_options_non_blocked">Unblocked contact(s)</string>
+    <string name="display_options_blocked">Blocked contact(s)</string>
+    <string name="action_block">Block</string>
+    <string name="action_unblock">Unblock</string>
+
+    <string name="message_blocking_contacts">Blocking contact(s)</string>
+    <string name="message_unblocking_contacts">Unblocking contact(s)</string>
+    <string name="message_block_unblock_complete">Updated all selected contact(s) </string>
+    <string name="message_block_unblock_error">There was an error in updating some selected contact(s)</string>
+</resources>

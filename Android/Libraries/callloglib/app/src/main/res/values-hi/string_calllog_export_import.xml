@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">ब्राउज़ करें</string>
+  <string name="backup_options_backupusing">बैकअप का उपयोग कर</string>
+  <string name="export_options_externalStorage">इस डिवाइस के बाह्य भंडारण</string>
+  <string name="share_options_shareas">के रूप में साझा करें:</string>
+  <string name="share_options_allshare">साझा अनुप्रयोगों (बादल, ईमेल,...)</string>
+  <string name="share_options_share_using">साझा का उपयोग कर:</string>
+  <string name="share_options_sms">संदेश सेवा</string>
+  <string name="share_options_clipboard">क्लिपबोर्ड पर प्रतिलिपि बनाएँ</string>
+  <string name="export_options_ExportUsing">फ़ाइल में सहेजें:</string>
+  <string name="progressbar_prepare_data">कॉल लॉग सूची की तैयारी...</string>
+  <string name="progressbar_backup">कॉल लॉग का समर्थन, यह कई मिनट ले सकता है...</string>
+  <string name="backup_options_using">बैकअप फ़ाइल में सहेजें:</string>
+  <string name="menu_import_help">मदद</string>
+  <string name="text_import_file_name">चयनित फ़ाइल नाम:</string>
+  <string name="text_import_file_size">चयनित फ़ाइल Size(bytes):</string>
+  <string name="text_unknown_file_size">अज्ञात</string>
+  <string name="message_backup_options">यह करने के लिए अनुशंसित है बादल, ईमेल आदि जैसे साझा अनुप्रयोगों में बैकअप।
+        यह अगर तुम कभी अपने फोन खो फोन लॉग पुनर्प्राप्त करने के लिए आप की अनुमति देगा।
+        संपर्क ईमेल/बादल से मैन्युअल रूप से कॉल लॉग बैकअप फ़ाइल सहेजें आपके ईमेल/बादल खाते से इस डिवाइस में किसी भी स्थान को पुनर्स्थापित करने के लिए। आयात/पुनर्स्थापना सुविधा तब स्वचालित रूप से फ़ाइल खोजने होंगे।</string>
+  <string name="message_importing_contacts">कॉल log (s) आयात कर रहा है...</string>
+  <string name="message_reading_import_file">फ़ाइल को पढ़ने, यह कई मिनट ले सकता है...</string>
+  <string name="export_options_plain_text">सादा पाठ</string>
+  <string name="export_options_indv_clm">अलग-अलग CLM फ़ाइल (फ़ाइलें)</string>
+  <string name="export_options_combined_clm">संयुक्त CLM फ़ाइल </string>
+  <string name="export_generated_footer">कॉल लॉग प्रबंधक Coju के माध्यम से उत्पन्न</string>
+  <string name="export_sent_footer">कॉल लॉग प्रबंधक द्वारा जनरेट किया गया</string>
+  <string name="export_generated_header">कॉल लॉग विवरण</string>
+  <string name="message_clipboard_copy">क्लिपबोर्ड पर प्रतिलिपि बनाई गई</string>
+  <string name="message_exporting_calllog">संपर्कों निकाला जा रहा है...</string>
+  <string name="message_exporting_calllog_ready">संपर्कों को निर्यात करने के लिए तैयार हो रही...</string>
+  <string name="message_exporting_calllog_write_file">फ़ाइल (फ़ाइलें) लेखन...</string>
+  <string name="message_import_help">केवल इस app से उत्पन्न फ़ाइल (*। CLM फ़ाइलें) आयात किया जा सकता</string>
+  <string name="message_import_invalid_file">नहीं कोई मान्य कॉल लॉग फ़ाइल</string>
+  <string name="message_importing_complete">कॉल आयात log (s)</string>
+  <string name="message_restore_complete">कॉल लॉग प्रविष्टियों बैकअप से बहाल</string>
+  <string name="message_restore_fail">
+        बैकअप से पुनर्स्थापित नहीं कर सका, बैकअप फ़ाइल अनुपलब्ध है या दूषित है
+                </string>
+  <string name="message_backup_stored_freeversion">
+        नि: शुल्क संस्करण केवल 9 कॉल log (s) का बैकअप की अनुमति देता है।
+        कॉल log (s) फ़ाइल में बैकअप किया गया:
+    </string>
+  <string name="message_backup_failed">
+        बैकअप फ़ाइल को सहेजने में विफल रहा, कृपया पुनः प्रयास करें। यदि समस्या बनी रहती है, तो कृपया समस्या अनुप्रयोग प्रकाशक इस app में आपके सुझाव विकल्प का उपयोग करने के लिए रिपोर्ट करें।
+    </string>
+  <string name="message_restore_selection_finish">
+        बैकअप कॉल लॉग पुनर्स्थापित किया गया है
+    </string>
+  <string name="message_clm_file_not_found">
+        कोई कॉल लॉग प्रबंधक (*। CLM) फ़ाइलें इस डिवाइस में पाया
+    </string>
+  <string name="message_backup_file_not_found">
+        कोई बैकअप फ़ाइलें इस डिवाइस में पाया
+    </string>
+  <string name="message_backup_stored">संपर्क फ़ाइल में बैकअप किया गया:</string>
+  <string name="message_save_external">कॉल लॉग में संग्रहीत बाहरी फ़ोल्डर: </string>
+  <string name="message_loading_files">स्थानीय फ़ोल्डर खोज रहा है...</string>
+  <string name="message_loading_backup_files">डिवाइस बैकअप फ़ाइल (फ़ाइलें) के लिए खोज...</string>
+  <string name="message_backup_freeversion">
+        इस मुक्त संस्करण में समर्थित हो सकता है कॉल लॉग्स की अधिकतम संख्या है:
+    </string>
+  <string name="message_backup_paidversion">
+        सभी कॉल लॉग सफलतापूर्वक एक फ़ाइल में बैकअप किया गया है
+    </string>
+</resources>

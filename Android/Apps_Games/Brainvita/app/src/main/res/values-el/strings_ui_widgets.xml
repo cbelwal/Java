@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">Νέο παιχνίδι</string>
+  <string name="button_switch_board">Διοικητικό Συμβούλιο διακόπτη</string>
+  <string name="button_custom_board">Ορισμός προσαρμοσμένο ταμπλό</string>
+  <string name="button_high_scores">Υψηλές βαθμολογίες</string>
+  <string name="button_rate_app">Βαθμολογήστε αυτό το παιχνίδι</string>
+  <string name="button_tell_a_friend">Αποστολή σε φίλο</string>
+  <string name="button_paid_version">Πληρωμένη έκδοση</string>
+  <string name="button_help_documentation">Τεκμηρίωση της βοήθειας</string>
+  <string name="button_demo_video">Βίντεο επίδειξης</string>
+  <string name="button_ok">Ok</string>
+  <string name="button_yes">Ναι</string>
+  <string name="button_no">Όχι</string>
+  <string name="button_start">Έναρξη</string>
+  <string name="button_cancel">\"Άκυρο\"</string>
+  <string name="button_abort">Ματαίωση</string>
+  <string name="button_high_score_close">Κλείστε</string>
+  <string name="title_high_score">Κορυφαία δέκα υψηλής σκορ</string>
+  <string name="text_high_score_none">Δεν υπάρχει βαθμολογία</string>
+  <string name="text_high_score_pegs">Υπόλοιπο peg(s)</string>
+  <string name="text_high_score_time">Χρόνος</string>
+</resources>

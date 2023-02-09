@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">Pārstāt darboties</string>
+  <string name="message_stop_tasks">Apstāšanās palaist uzdevumus...</string>
+  <string name="message_user_tasks_stopped">Apturēts lietotāja uzdevumi</string>
+  <string name="message_system_tasks_stopped">Sistēmas uzdevumus, apstājās</string>
+  <string name="message_process_still_running">Uzdevumi, kas joprojām darbojas</string>
+  <string name="message_stop_running_tasks">Pārstāt darboties apps un aizvērt bezvadu tehnoloģiju Bluetooth?</string>
+  <string name="message_stopping_running_tasks">Apstāšanās Bluetooth un bezvadu</string>
+  <string name="message_battery_current_percentage">Pašreizējo akumulatora līmenis %:</string>
+  <string name="message_no_user_process">Darbojas lietotāja procesi atrada</string>
+</resources>

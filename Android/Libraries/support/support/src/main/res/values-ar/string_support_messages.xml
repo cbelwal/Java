@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">إذا كان هناك مشكلة في التطبيق، سوف تريد أن البريد الإلكتروني الناشر وحل المشكلة؟</string>
+  <string name="message_check_for_rating">وسوف ترغب في ترك ردود الفعل لهذا التطبيق؟</string>
+  <string name="message_tellafriend_subject">تحقق من هذا التطبيق</string>
+  <string name="message_email_send_error">خطأ في إرسال البريد الإلكتروني</string>
+  <string name="message_tellafriend_body">مهلا، تحقق من هذا app:\n بارد</string>
+  <string name="message_start_activity_error">كانت هناك مشكلة في بدء النشاط. \n</string>
+  <string name="message_demo_video">وسوف ترغب في مشاهدة فيديو مظاهرة.
+        (يتم إظهار هذه الرسالة مرة واحدة فقط)؟</string>
+  <string name="message_help_documentation_fail">تعذر تحميل وثائق التعليمات.
+    يرجى زيارة http://www.dasmic.com من المتصفح لمعرفة التعليمات.</string>
+  <string name="message_rate_this_app">يمكنك مساعدة الآخرين بتصنيف هذا التطبيق؟</string>
+  <string name="message_rate_this_app_error">تعذر فتح صفحة التصويت. الرجاء استخدام مخزن لعب جوجل لإعطاء تقييم</string>
+  <string name="message_feedback_subject">ملاحظات التطبيق</string>
+</resources>

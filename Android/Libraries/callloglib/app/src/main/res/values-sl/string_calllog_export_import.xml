@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Prebrskaj</string>
+  <string name="backup_options_backupusing">Prislon using</string>
+  <string name="export_options_externalStorage">Zunanje pomnilne naprave</string>
+  <string name="share_options_shareas">Delež kot:</string>
+  <string name="share_options_allshare">Skupno aplikacije (oblak, Email,...)</string>
+  <string name="share_options_share_using">Omogočanje skupne rabe prek:</string>
+  <string name="share_options_sms">Sporočanje</string>
+  <string name="share_options_clipboard">Kopiranje v odložišče</string>
+  <string name="export_options_ExportUsing">Shranite datoteko v:</string>
+  <string name="progressbar_prepare_data">Priprava seznama dnevnik klicev...</string>
+  <string name="progressbar_backup">Varnostno kopiranje dnevnik klicev, to lahko traja nekaj minut...</string>
+  <string name="backup_options_using">Shranite varnostno kopijo v:</string>
+  <string name="menu_import_help">pomoč</string>
+  <string name="text_import_file_name">Ime izbrane datoteke:</string>
+  <string name="text_import_file_size">Izbrano datoteko Size(bytes):</string>
+  <string name="text_unknown_file_size">Neznano</string>
+  <string name="message_backup_options">Priporočamo, da varnostno kopijo v delež aplikacije kot oblak, Email itd.
+        To bo omogočilo, da si opomore dnevnik klicev, če ga kdaj izgubite telefon.
+        Za obnovitev stikov iz Email/oblak ročno shranite klic dnevnik prislon od vaš Email/oblak račun kamor koli v tej napravi. Uvozno/postaviti v prejšnje stanje korist bo samodejno poiščite datoteko.</string>
+  <string name="message_importing_contacts">Uvažanje klic log(s)...</string>
+  <string name="message_reading_import_file">Branje datoteke, to lahko traja nekaj minut...</string>
+  <string name="export_options_plain_text">Golo besedilo</string>
+  <string name="export_options_indv_clm">Posamezne datoteke CLM</string>
+  <string name="export_options_combined_clm">Kombinirani CLM datoteke </string>
+  <string name="export_generated_footer">Ustvari preko Coju upravitelj dnevnika klicev</string>
+  <string name="export_sent_footer">Ustvari preko upravitelj dnevnika klicev</string>
+  <string name="export_generated_header">Podrobnosti dnevnika klicev</string>
+  <string name="message_clipboard_copy">Kopirati v odložišče</string>
+  <string name="message_exporting_calllog">Pridobivanja stike...</string>
+  <string name="message_exporting_calllog_ready">Pripravlja izvoziti stike...</string>
+  <string name="message_exporting_calllog_write_file">Pisanje datoteke...</string>
+  <string name="message_import_help">Samo datoteke, ustvarjene iz tega app (*. Lahko uvozijo CLM datoteke)</string>
+  <string name="message_import_invalid_file">Ni veljaven klic dnevnik</string>
+  <string name="message_importing_complete">klic log(s), uvoženih</string>
+  <string name="message_restore_complete">Vnose v dnevnik klicev obnoviti iz varnostne kopije</string>
+  <string name="message_restore_fail">
+        Ni uspelo obnoviti iz varnostne kopije, prislon pila je odsoten ali sprijen
+                </string>
+  <string name="message_backup_stored_freeversion">
+        Prost prevod samo omogoča varnostno kopiranje do 9 klic log(s).
+        Klic Log(s) so bile kopirane v datoteki:
+    </string>
+  <string name="message_backup_failed">
+        Ni bilo mogoče shraniti varnostno kopijo datoteke, poskusite znova. Če težave ne morete odpraviti sporočite težavo app založnik z možnostjo povratne informacije v to app.
+    </string>
+  <string name="message_restore_selection_finish">
+        Varnostno call dnevniki so bile obnovljene
+    </string>
+  <string name="message_clm_file_not_found">
+        Noben upravitelj dnevnika klicev (*. CLM) pila ustanavljati v to napravo
+    </string>
+  <string name="message_backup_file_not_found">
+        Ni Backup datotek najdete v to napravo
+    </string>
+  <string name="message_backup_stored">Stiki so bile kopirane v datoteki:</string>
+  <string name="message_save_external">Klic dnevnik, shranjene v mapi zunanji: </string>
+  <string name="message_loading_files">Iskanje lokalne mape...</string>
+  <string name="message_loading_backup_files">Iskanje naprav za varnostno kopiranje datotek...</string>
+  <string name="message_backup_freeversion">
+        Največje število dnevnikov klicev, ki lahko varnostno kopirane v to prost prevod je:
+    </string>
+  <string name="message_backup_paidversion">
+        Vseh dnevnikov klicev so bila uspešno varnostno kopirane v datoteko
+    </string>
+</resources>

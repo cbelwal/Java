@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="share_options_ShareUsing">Koplietot, izmantojot:</string>
+  <string name="share_options_allshare">E-pasts/Wifi/mākonis uzglabāšanas (lieli faili var būt problēmas)</string>
+  <string name="export_options_externalStorage">Ārējās atmiņas</string>
+  <string name="export_options_ExportAs">Eksportēšanas formāts:</string>
+  <string name="export_options_ExportUsing">Dalīties ar APK failos, izmantojot:</string>
+  <string name="progressbar_prepare_data">Notiek gatavošanās Package... </string>
+</resources>

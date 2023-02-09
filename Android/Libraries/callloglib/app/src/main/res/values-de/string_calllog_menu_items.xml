@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Sortiert nach Zeit</string>
+  <string name="nav_view_outgoingcalls_cl">Ausgehende Anrufe</string>
+  <string name="nav_view_incomingcalls_cl">Eingehende Anrufe</string>
+  <string name="nav_view_missedcalls_cl">Anrufe in Abwesenheit</string>
+  <string name="nav_view_callduration_cl">Sortiert nach Dauer</string>
+  <string name="nav_view_geocoded_location_cl">Sortiert nach Orten</string>
+  <string name="nav_view_refresh_cl">Aktualisieren</string>
+  <string name="nav_view_100_records">Bis zu 100</string>
+  <string name="nav_view_500_records">Bis zu 500</string>
+  <string name="nav_view_all_records">Alle verfügbaren</string>
+  <string name="nav_menu_group_general_cl">Allgemeine</string>
+  <string name="nav_menu_group_help_cl">Hilfe</string>
+  <string name="nav_menu_group_log_length">View Count</string>
+  <string name="nav_menu_group_viewoptions_cl">Optionen</string>
+  <string name="nav_menu_group_views_cl">Ansichten</string>
+  <string name="nav_menu_group_operations_cl">Operationen</string>
+  <string name="nav_menu_group_backup_cl">Sicherung</string>
+  <string name="nav_menu_rate_this_app_cl">Feedback</string>
+  <string name="nav_menu_backup_contacts_cl">Sichern Sie alle Call-Log-Einträge</string>
+  <string name="nav_menu_restore_contacts_cl">Anrufliste aus Sicherung wiederherstellen</string>
+  <string name="nav_menu_upgrade_cl">Upgrade auf Pro-version</string>
+  <string name="nav_menu_filter_cl">Anzeigefilter</string>
+  <string name="nav_menu_duplicates_cl">Duplikate Toolkit</string>
+  <string name="nav_menu_tellafriend_cl">Informieren Sie einen Freund</string>
+  <string name="nav_menu_feedback_cl">Kontakt Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Demo-Video</string>
+  <string name="nav_menu_coju_cl">Download Coju</string>
+  <string name="menu_operations_cl">Massen-Aktualisierungen</string>
+  <string name="menu_add_cl">Hinzufügen</string>
+  <string name="menu_edit_cl">Bearbeiten</string>
+  <string name="menu_update_cl">Update</string>
+  <string name="menu_share_cl">Freigeben</string>
+  <string name="menu_export_cl">Export</string>
+  <string name="menu_import_cl">Import</string>
+  <string name="menu_delete_cl">Löschen</string>
+  <string name="menu_bluetooth_cl">Bluetooth-Übertragung</string>
+</resources>

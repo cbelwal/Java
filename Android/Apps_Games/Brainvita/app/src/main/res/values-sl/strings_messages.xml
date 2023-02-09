@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Čestitam, imaš visok rezultat!</string>
+  <string name="message_game_end_new_game">Trenutno igro je gor! Bodo želeli začeti novo igro?</string>
+  <string name="message_custom_board">Tapnite, na prazne luknje tempo klin. Tapnite gumb za zaklepanje celotnega</string>
+  <string name="message_custom_board_done">Po meri krovu je setup, lahko začnete igrati.
+    Upoštevajte, da visoke ocene za običajev deske niso zabeležene</string>
+  <string name="message_intro_first">
+        Klin preseliti na voljo luknjo naravnost skakanje čez drug peg
+    </string>
+  <string name="message_intro_second">Klin, skočil je odstranjena</string>
+  <string name="message_intro_third">Poskusite odstraniti toliko kljukice čim</string>
+  <string name="message_intro_fourth">Pridobivanje le 1 peg preostalih je cilj</string>
+  <string name="message_board_reset_confirm">S tem boste preklicali sedanjega sveta. Ali želite nadaljevati?</string>
+  <string name="message_game_over">Možne so tudi več možnih potez. Igro je gor!</string>
+  <string name="message_solver_complete">Reševalec izračunal poteze, ki vodijo do najmanjše število pegs.\n\nUse gumb naprej videti odbor premakne.</string>
+  <string name="message_solver_complete_free">Reševalec izračunal poteze, ki vodijo do najmanjše število kljukice. Ker je to prost prevod, reševalca lahko najdete rešitev, ki vodi do najmanj 3 kljukice samo. V plačan prevod reševalca lahko najti rešitev z 1 peg.\n\nUse gumb naprej videti odbor premakne.
+    </string>
+  <string name="message_solver_complete_title">Najti rešitev s kljukice: </string>
+  <string name="message_solver_inprogress_title">Iskanje rešitev...</string>
+  <string name="message_solver_inprogress">Trenutno najnižje število peg: </string>
+  <string name="message_solver_start_confirm">Glede sedanjega Sveta, reševalca lahko traja nekaj sekund do nekaj minut v računalniških rešitev z najmanj število kljukice.
+    Ker je reševalec ne veliko izračunov, bo tanjšajo baterije.
+        Priporočljivo je, da si dal telefon polnjenjem pred začetkom reševalca.
+    Med vožnjo lahko kadar koli ustaviti reševalca in najnovejše peg rezultat hoteti obstati pri roki.</string>
+  <string name="message_solver_mode_play_board">
+        Ne morem igrati igro v načinu reševalca. Izberite novo igro začnite novo igro</string>
+  <string name="message_confirm_switch_from_standard">
+        Sedanji odbor nastavljeno na standardno, ali želite spremeniti v francoski odbor?</string>
+  <string name="message_confirm_switch_from_French">
+        Sedanji odbor nastavljen na francoski, ali želite spremeniti Standard krovu?</string>
+</resources>

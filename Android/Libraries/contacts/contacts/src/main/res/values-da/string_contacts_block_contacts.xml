@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">Ublokerede kontaktperson(er)</string>
+  <string name="display_options_blocked">Blokerede kontaktpersoner</string>
+  <string name="action_block">Blok</string>
+  <string name="action_unblock">Fjerne blokeringen af</string>
+  <string name="message_blocking_contacts">Blokering kontaktperson(er)</string>
+  <string name="message_unblocking_contacts">Unblocking kontaktperson(er)</string>
+  <string name="message_block_unblock_complete">Opdateret alle markerede kontaktpersoner </string>
+  <string name="message_block_unblock_error">Der opstod en fejl under opdatering af nogle udvalgte kontaktpersoner</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="report_app_name">ชื่อแอป: </string>
+  <string name="report_package_name">ชื่อแพคเกจ: </string>
+  <string name="report_source_folder">โฟลเดอร์ต้นทาง: </string>
+  <string name="report_size">Size(MB): </string>
+  <string name="report_launch_intent">เปิดความตั้งใจ: </string>
+  <string name="report_installed_on">ติดตั้งบน: </string>
+  <string name="report_updated_on">ปรับปรุง: </string>
+  <string name="report_system_app">App ของระบบ: </string>
+  <string name="report_security_permission">Permission(s) ความปลอดภัย: </string>
+  <string name="report_yes">ใช่</string>
+  <string name="report_no">ไม่ใช่</string>
+</resources>

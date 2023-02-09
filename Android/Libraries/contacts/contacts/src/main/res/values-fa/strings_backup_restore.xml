@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        نسخه رایگان تنها پشتیبان تا 200 مخاطب به اجازه می دهد.
+        تماس با ما حمایت در فایل بالا را شده:
+    </string>
+  <string name="message_backup_failed">
+        عدم موفقیت در ذخیره فایل پشتیبان, لطفا دوباره سعی کنید. اگر مشکل ادامه پیدا کرد لطفا موضوع را به ناشر نرم افزار با استفاده از گزینه بازخورد این برنامه گزارش.
+    </string>
+</resources>

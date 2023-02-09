@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">不到此应用程序已授予权限，使调用</string>
+  <string name="message_search_number_security_exception">无法搜索此电话号码 ！不启用谷歌搜索或不在此设备中已授予权限</string>
+  <string name="message_free_version_selection">可以在免费版本中选择的最大日志条目是︰</string>
+  <string name="message_purchase_error">无法连接到谷歌服务器。请重新启动应用程序，再试一次
+    </string>
+</resources>

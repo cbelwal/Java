@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Atleast 1 udvælgelse er nødvendig</string>
+  <string name="message_save_external">APK fil(er) gemt i eksterne mappe: </string>
+  <string name="message_free_version_selection">Kun 3 apps kan vælges på et tidspunkt i den gratis version</string>
+  <string name="message_free_version_option">Denne indstilling er kun tilgængelig for den betalte version</string>
+  <string name="message_activity_load_fail">Programmet kunne ikke startes</string>
+  <string name="message_activity_loading">Starter programmet...</string>
+  <string name="message_loading_files">Søger lokale mapper...</string>
+  <string name="message_deleting_files">Bekræft venligst individuelt for hver pakke, der er valgt.
+    Pakker, fjernes kun fra brugerkonto</string>
+  <string name="message_save_external_suffix">. Mappen kan tilgås ved at tilslutte telefonen til din computer via USB osv. </string>
+  <string name="message_rate_this_app_error">Kunne ikke åbne rating side</string>
+  <string name="message_share_link_prefix">Hej, \r\n\r\nCheck dette ud: </string>
+  <string name="message_share_link_suffix">Afsendte via APKit</string>
+  <string name="message_share_report_prefix">Pakke rapport</string>
+  <string name="message_share_report_suffix">Genereret og sendt</string>
+  <string name="message_other_permissions_missing">Ønskede tilladelser krÃ¦ves til denne funktion til at arbejde. Venligst give anmodede tilladelser, og prøv igen
+    </string>
+  <string name="message_purchase_error">
+        Kunne ikke oprette forbindelse til Google-serveren. Venligst genstarte app og prøv igen
+    </string>
+</resources>

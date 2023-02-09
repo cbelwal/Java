@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">Instalēti pēdējās 30 dienās</string>
+  <string name="filter_adv_options_security_inappbilling">Ir-app norēķinu</string>
+  <string name="filter_adv_options_security_readsms">Varat lasīt SMS</string>
+  <string name="filter_adv_options_security_sendsms">Varat nosūtīt ĪSZIŅU</string>
+  <string name="filter_adv_options_security_readcontacts">Varat lasīt kontaktus</string>
+  <string name="filter_adv_options_security_readcalllog">Varat izlasīt Zvanu urnāls</string>
+  <string name="filter_adv_options_security_readcalender">Var izlasīt kalendārā</string>
+  <string name="filter_adv_options_security_writeexternalstorage">Var ierakstīt ārējās atmiņas</string>
+  <string name="filter_adv_options_security_camera">Var piekļūt kamerai</string>
+  <string name="filter_adv_options_security_mic">Varat ierakstīt Audio</string>
+  <string name="filter_adv_options_security_location">Var piekļūt jūsu atrašanās vietai</string>
+  <string name="filter_adv_options_filter">Aktivizēt drošības filtrs (i)</string>
+  <string name="filter_main_text">Drošības filtrs opcijas (tikai Apps saskaņošana tiks parādīts kāds no šiem kritērijiem):</string>
+  <string name="activity_security_filter">Malware displejs filtrs</string>
+</resources>

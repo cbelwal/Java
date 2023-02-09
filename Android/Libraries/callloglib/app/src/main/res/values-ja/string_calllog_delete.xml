@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_delete_confirm_cl">選択した呼び出しログの詳細は削除されます。この操作は元に戻せません。続行しますか。</string>
+  <string name="message_delete_complete_cl">呼び出しログ削除の詳細</string>
+</resources>

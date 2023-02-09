@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_share">Freigeben</string>
+  <string name="action_delete">Löschen</string>
+  <string name="action_filter">Filter</string>
+  <string name="action_copy">Kopie</string>
+  <string name="action_rename">Benennen Sie</string>
+  <string name="action_create_folder">Erstellen Sie Ordner</string>
+  <string name="action_move">Bewegen</string>
+  <string name="action_share_zip">Teilen als Zip</string>
+  <string name="action_zip">ZIP</string>
+  <string name="nav_menu_view_name">Nach Namen anzeigen</string>
+  <string name="nav_menu_view_size">Nach Größe anzeigen</string>
+  <string name="nav_menu_view_modified">Anzeigen nach Änderungsdatum</string>
+  <string name="nav_menu_view_refresh">Aktualisieren</string>
+  <string name="nav_menu_view_close">In der Nähe</string>
+  <string name="nav_menu_group_general">Allgemeine</string>
+  <string name="nav_menu_group_viewoptions">Ansichtsoptionen</string>
+  <string name="nav_menu_rate_this_app">Feedback</string>
+  <string name="nav_menu_upgrade">Upgrade auf Vollversion</string>
+  <string name="nav_menu_tellafriend">Informieren Sie einen Freund</string>
+  <string name="nav_menu_feedback">Kontaktieren Sie uns</string>
+  <string name="nav_menu_group_help">Hilfe</string>
+  <string name="nav_menu_demovideo">Demo-Video</string>
+  <string name="nav_menu_help_doc">Hilfe-Dokumentation</string>
+</resources>

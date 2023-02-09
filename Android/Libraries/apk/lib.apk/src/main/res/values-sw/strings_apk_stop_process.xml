@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">Komesha Uendeshaji</string>
+  <string name="message_stop_tasks">Kukomesha kuendesha kazi...</string>
+  <string name="message_user_tasks_stopped">Kazi ya mtumiaji kusimamishwa</string>
+  <string name="message_system_tasks_stopped">Mfumo kazi kusimamishwa</string>
+  <string name="message_process_still_running">Kazi bado mbio</string>
+  <string name="message_stop_running_tasks">Komesha Uendeshaji wa programu na Funga Bluetooth/Wireless?</string>
+  <string name="message_stopping_running_tasks">Kukomesha Bluetooth na pasiwaya</string>
+  <string name="message_battery_current_percentage">Sasa betri kiwango %:</string>
+  <string name="message_no_user_process">Hakuna mtumiaji kuendesha mchakato kupatikana</string>
+</resources>

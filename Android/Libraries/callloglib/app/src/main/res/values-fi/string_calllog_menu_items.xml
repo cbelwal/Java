@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Lajiteltu aika</string>
+  <string name="nav_view_outgoingcalls_cl">Lähtevät puhelut</string>
+  <string name="nav_view_incomingcalls_cl">Saapuvat puhelut</string>
+  <string name="nav_view_missedcalls_cl">Vastaamattomat puhelut</string>
+  <string name="nav_view_callduration_cl">Lajiteltu kesto</string>
+  <string name="nav_view_geocoded_location_cl">Lajiteltu alueittain</string>
+  <string name="nav_view_refresh_cl">Päivitä</string>
+  <string name="nav_view_100_records">Jopa 100</string>
+  <string name="nav_view_500_records">Jopa 500</string>
+  <string name="nav_view_all_records">Kaikki käytettävissä olevat</string>
+  <string name="nav_menu_group_general_cl">Ehdot</string>
+  <string name="nav_menu_group_help_cl">Apua</string>
+  <string name="nav_menu_group_log_length">Näytä laskea</string>
+  <string name="nav_menu_group_viewoptions_cl">Asetukset</string>
+  <string name="nav_menu_group_views_cl">Näkymät</string>
+  <string name="nav_menu_group_operations_cl">Toiminnot</string>
+  <string name="nav_menu_group_backup_cl">Varmuuskopiointi</string>
+  <string name="nav_menu_rate_this_app_cl">Palaute</string>
+  <string name="nav_menu_backup_contacts_cl">Varmuuskopioida kaikki puhelun lokin tapahtumat</string>
+  <string name="nav_menu_restore_contacts_cl">Puhelulokin palauttaminen varmuuskopion avulla</string>
+  <string name="nav_menu_upgrade_cl">Korottaa jotta ammattilainen käännös</string>
+  <string name="nav_menu_filter_cl">Näytä suodatin</string>
+  <string name="nav_menu_duplicates_cl">Kaksoiskappaleet Toolkit</string>
+  <string name="nav_menu_tellafriend_cl">Kerro kaverille</string>
+  <string name="nav_menu_feedback_cl">Ota yhteyttä Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Mielenosoitus televisio</string>
+  <string name="nav_menu_coju_cl">Lataa Coju</string>
+  <string name="menu_operations_cl">Suuria päivityksiä</string>
+  <string name="menu_add_cl">Lisää</string>
+  <string name="menu_edit_cl">Muokkaa</string>
+  <string name="menu_update_cl">Päivitys</string>
+  <string name="menu_share_cl">Osuus</string>
+  <string name="menu_export_cl">Vienti</string>
+  <string name="menu_import_cl">Tuonti</string>
+  <string name="menu_delete_cl">Poista</string>
+  <string name="menu_bluetooth_cl">Bluetooth siirto</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Об\'єднати контакти</string>
+  <string name="action_merge">Об\'єднати контакти</string>
+  <string name="message_merge_title">Застереження</string>
+  <string name="message_merge_confirm">Будь ласка, підтвердіть, якщо ви хочете, щоб об\'єднати вибрані контакти? Номер телефону, адресу електронної пошти, поштову адресу, Примітка, події всі виділені контакти будуть об\'єднані у один одного контакту з ім\'ям: </string>
+  <string name="message_merge_complete">Виділені контакти, було додано.</string>
+  <string name="progressbar_merge_data">Об\'єднання контактів...</string>
+</resources>

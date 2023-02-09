@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">恭喜，你得了很高的分数 ！</string>
+  <string name="message_game_end_new_game">当前游戏啦 ！你想开始一个新的游戏吗？</string>
+  <string name="message_custom_board">点击在空孔，步伐挂钩上。点击锁定按钮完成时</string>
+  <string name="message_custom_board_done">自定义板是安装程序，您可以开始播放。
+    请注意，自定义板的高分是不记录</string>
+  <string name="message_intro_first">移动到可用的孔在一条直线，跳过另一种聚乙二醇聚乙二醇</string>
+  <string name="message_intro_second">跳过了 peg 被删除</string>
+  <string name="message_intro_third">尝试尽可能删除尽可能多钉</string>
+  <string name="message_intro_fourth">得知仅 1 peg 剩余是目标</string>
+  <string name="message_board_reset_confirm">这将取消目前的董事会。您要继续吗？</string>
+  <string name="message_game_over">没有更多的动作是可能的。游戏啦 ！</string>
+  <string name="message_solver_complete">规划求解已计算前进按钮，看到板移动导致 pegs.\n\nUse 的最小数目的动作。</string>
+  <string name="message_solver_complete_free">规划求解具有计算导致钉子的最小数目的动作。由于这是一个免费的版本，规划求解可以找到导致 3 钉只有最低的解决方案。在付费版本规划求解可以找到一种解决方案，1 peg.\n\nUse 前进按钮，看到板移动。
+    </string>
+  <string name="message_solver_complete_title">发现用钉的解决方案 ︰</string>
+  <string name="message_solver_inprogress_title">搜索解决方案...</string>
+  <string name="message_solver_inprogress">当前最低 peg 计数 ︰</string>
+  <string name="message_solver_start_confirm">根据目前的董事会，规划求解可能需要几秒到几分钟的时间，在计算人数最少的钉的解决方案。
+    规划求解做大量的计算，因为它会耗尽电池电量。
+        建议你把你的手机在充电前开始规划求解。
+    虽然可以在任何时候停止运行求解器和最新的 peg 结果将公布。</string>
+  <string name="message_solver_mode_play_board">不能玩游戏在规划求解模式。选择开始一个新游戏新游戏</string>
+  <string name="message_confirm_switch_from_standard">目前的董事会设置为标准，你想更改为法国板吗？</string>
+  <string name="message_confirm_switch_from_French">目前的董事会设置为法语，你想更改为标准板吗？</string>
+</resources>

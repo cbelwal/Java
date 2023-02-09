@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Ehdot</string>
+  <string name="nav_menu_group_help">Apua</string>
+  <string name="nav_menu_group_viewoptions">Asetukset</string>
+  <string name="nav_menu_group_views">Näkymät</string>
+  <string name="nav_menu_group_operations">Toiminnot</string>
+  <string name="nav_menu_group_backup">Varmuuskopiointi</string>
+  <string name="nav_menu_rate_this_app">Palaute</string>
+  <string name="nav_menu_backup_contacts">Varmuuskopiointi kaikki yhteystiedot</string>
+  <string name="nav_menu_restore_contacts">Yhteystietojen palauttaminen varmuuskopion avulla</string>
+  <string name="nav_menu_upgrade">Korottaa jotta ammattilainen käännös</string>
+  <string name="nav_menu_filter">Näytä suodatin</string>
+  <string name="nav_menu_duplicates">Kaksoiskappaleet Toolkit</string>
+  <string name="nav_menu_tellafriend">Kerro kaverille</string>
+  <string name="nav_menu_feedback">Ota yhteyttä Dasmic</string>
+  <string name="nav_menu_demovideo">Mielenosoitus televisio</string>
+  <string name="nav_menu_coju_outlook">Coju Microsoft Outlook</string>
+  <string name="nav_menu_coju">Lataa Coju</string>
+  <string name="display_options_all_TimesContacted">Lajiteltu kertaa yhteyttä</string>
+  <string name="display_options_all_last_contact">Lajiteltu yhteyshenkilön viimeksi</string>
+  <string name="display_options_all">Lajittelu nimen mukaan</string>
+  <string name="display_options_phonenumber">Lajiteltu puhelinnumerot</string>
+  <string name="display_options_email">Lajiteltu sähköpostiosoitteet</string>
+  <string name="display_options_deleted">Poistetut yhteyshenkilöt</string>
+  <string name="display_options_refresh">Päivitä näyttö</string>
+  <string name="action_Operations">Suuria päivityksiä</string>
+  <string name="action_Export">Vie yhteystiedot</string>
+  <string name="action_delete">Poista yhteystiedot</string>
+  <string name="action_Import">Tuo yhteystiedot</string>
+  <string name="action_edit">Muokkaa yhteystietoa</string>
+  <string name="action_add">Lisää yhteystieto</string>
+  <string name="action_share">Jaa yhteystiedot</string>
+  <string name="action_bluetooth">Bluetooth siirto</string>
+</resources>

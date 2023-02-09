@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">Liitetty laitteeseen.
+        Paina \'Send\ \"siirtää yhteystietoja: </string>
+  <string name="message_bt_conn_failed">Yhteys epäonnistui laitteeseen.
+    Ota vakuuttaa, että tämä app on asennettu ja Bluetooth-ikkunassa on avoinna: </string>
+  <string name="message_bt_sent_error">Ei voinut siirtää nämä yhteystiedot numero: </string>
+  <string name="message_bt_recv_error">Näiden yhteystiedot numero ei voi luoda: </string>
+  <string name="message_bt_create_complete">Sai yhteystiedot luodaan: </string>
+  <string name="message_bt_sent_complete">Yhteystiedot lähetetään laitteen: </string>
+  <string name="progressbar_bt_send_data">Siirtää ainutlaatuinen yhteystiedot </string>
+  <string name="progressbar_bt_bytes">tavua </string>
+  <string name="progressbar_bt_create_contacts">Luo yhteystiedot (Yhteystiedot kuvan vaatii enemmän aikaa)</string>
+  <string name="message_free_version_selection">
+        Suurin yhteystiedot, jotka voidaan valita ilmainen versio on: </string>
+  <string name="progressbar_delete_data">
+        Poistetaan ainutlaatuinen yhteystietoja </string>
+</resources>

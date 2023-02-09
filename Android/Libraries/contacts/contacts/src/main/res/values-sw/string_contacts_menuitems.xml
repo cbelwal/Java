@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Mkuu</string>
+  <string name="nav_menu_group_help">Msaada</string>
+  <string name="nav_menu_group_viewoptions">Machaguo</string>
+  <string name="nav_menu_group_views">Maoni</string>
+  <string name="nav_menu_group_operations">Operesheni</string>
+  <string name="nav_menu_group_backup">Chelezo</string>
+  <string name="nav_menu_rate_this_app">Maoni</string>
+  <string name="nav_menu_backup_contacts">Chelezo wawasiliani wote</string>
+  <string name="nav_menu_restore_contacts">Kurejesha mawasiliano kutoka kwenye chelezo</string>
+  <string name="nav_menu_upgrade">Pandisha daraja kwenda Pro toleo</string>
+  <string name="nav_menu_filter">Onyesha Kichujio</string>
+  <string name="nav_menu_duplicates">Rudufu Toolkit ya uendeshaji</string>
+  <string name="nav_menu_tellafriend">Mwambie rafiki</string>
+  <string name="nav_menu_feedback">Wasiliana na Dasmic</string>
+  <string name="nav_menu_demovideo">Video ya demo</string>
+  <string name="nav_menu_coju_outlook">Coju kwa ajili ya Microsoft Outlook</string>
+  <string name="nav_menu_coju">Pakua Coju</string>
+  <string name="display_options_all_TimesContacted">Pangwa kwa mara kuwasiliana</string>
+  <string name="display_options_all_last_contact">Pangwa kwa muda wa mwisho wa mawasiliano</string>
+  <string name="display_options_all">Pangwa kwa jina</string>
+  <string name="display_options_phonenumber">Namba za simu Pangwa</string>
+  <string name="display_options_email">Anwani za baruapepe Pangwa</string>
+  <string name="display_options_deleted">Wawasiliani vilivyofutwa</string>
+  <string name="display_options_refresh">Onyesha upya onyesho</string>
+  <string name="action_Operations">Sasishi ya wingi</string>
+  <string name="action_Export">Hamisha mwasiliani unayetaka</string>
+  <string name="action_delete">Futa mwasiliani unayetaka</string>
+  <string name="action_Import">Leta mwasiliani unayetaka</string>
+  <string name="action_edit">Hariri mwasiliani</string>
+  <string name="action_add">Ongeza mwasiliani</string>
+  <string name="action_share">Kushiriki mwasiliani unayetaka</string>
+  <string name="action_bluetooth">Uhamisho wa Bluetooth</string>
+</resources>

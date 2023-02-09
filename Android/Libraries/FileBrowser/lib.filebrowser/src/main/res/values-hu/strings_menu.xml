@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_share">Részvény</string>
+  <string name="action_delete">Törlése</string>
+  <string name="action_filter">Szűrő</string>
+  <string name="action_copy">Másolás</string>
+  <string name="action_rename">Átnevezése</string>
+  <string name="action_create_folder">Mappa létrehozása</string>
+  <string name="action_move">Mozog</string>
+  <string name="action_share_zip">Ossza meg, mint a Zip</string>
+  <string name="action_zip">Zip</string>
+  <string name="nav_menu_view_name">Nézet neve</string>
+  <string name="nav_menu_view_size">Méret szerint</string>
+  <string name="nav_menu_view_modified">Szerint módosításának dátuma</string>
+  <string name="nav_menu_view_refresh">Frissítés</string>
+  <string name="nav_menu_view_close">Zár</string>
+  <string name="nav_menu_group_general">Általános</string>
+  <string name="nav_menu_group_viewoptions">Nézet beállításai</string>
+  <string name="nav_menu_rate_this_app">Visszajelzés</string>
+  <string name="nav_menu_upgrade">Feljavít-hoz fizetett változat</string>
+  <string name="nav_menu_tellafriend">Mondja el egy ismerősének</string>
+  <string name="nav_menu_feedback">Lépjen kapcsolatba velünk</string>
+  <string name="nav_menu_group_help">segítség</string>
+  <string name="nav_menu_demovideo">Tüntetés Video</string>
+  <string name="nav_menu_help_doc">Súgó, dokumentáció</string>
+</resources>

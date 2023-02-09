@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">Telefonnummer</string>
+  <string name="text_calllog_date">Datum</string>
+  <string name="text_calllog_time">Tid</string>
+  <string name="text_calllog_duration">Duration(s)</string>
+  <string name="text_calllog_type">Typ</string>
+  <string name="spinner_calllog_type_incoming">Inkommande</string>
+  <string name="spinner_calllog_type_outgoing">Utgående</string>
+  <string name="spinner_calllog_type_missed">Missade</string>
+  <string name="message_calllog_added">Har lagts till för att samtalsloggen</string>
+  <string name="message_calllog_added_error">Misslyckande i att lägga till samtalsloggen</string>
+  <string name="message_calllog_edited">Framgångsrikt uppdaterade samtalsloggen</string>
+  <string name="message_calllog_edited_error">Misslyckande i att uppdatera samtalsloggen</string>
+</resources>

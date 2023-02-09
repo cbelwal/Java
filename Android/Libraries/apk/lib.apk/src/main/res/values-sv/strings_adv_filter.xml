@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">Installerade senaste 30 dagarna</string>
+  <string name="filter_adv_options_security_inappbilling">Har appen fakturering</string>
+  <string name="filter_adv_options_security_readsms">Kan läsa SMS</string>
+  <string name="filter_adv_options_security_sendsms">Kan skicka SMS</string>
+  <string name="filter_adv_options_security_readcontacts">Kan läsa kontakter</string>
+  <string name="filter_adv_options_security_readcalllog">Kan läsa samtalsloggen</string>
+  <string name="filter_adv_options_security_readcalender">Kan läsa kalender</string>
+  <string name="filter_adv_options_security_writeexternalstorage">Kan skriva till extern lagring</string>
+  <string name="filter_adv_options_security_camera">Kan komma åt kameran</string>
+  <string name="filter_adv_options_security_mic">Kan spela in ljud</string>
+  <string name="filter_adv_options_security_location">Kan komma åt din plats</string>
+  <string name="filter_adv_options_filter">Aktivera säkerhet filter</string>
+  <string name="filter_main_text">Säkerhetsalternativ (endast Apps matcha något av dessa villkor kommer att visas):</string>
+  <string name="activity_security_filter">Malware visningsfilter</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">फ़ोन नंबर</string>
+  <string name="text_calllog_date">दिनांक</string>
+  <string name="text_calllog_time">समय</string>
+  <string name="text_calllog_duration">Duration(s)</string>
+  <string name="text_calllog_type">प्रकार</string>
+  <string name="spinner_calllog_type_incoming">आवक</string>
+  <string name="spinner_calllog_type_outgoing">जावक</string>
+  <string name="spinner_calllog_type_missed">याद किया</string>
+  <string name="message_calllog_added">कॉल लॉग करने के लिए सफलतापूर्वक जोड़ा गया।</string>
+  <string name="message_calllog_added_error">कॉल लॉग करने के लिए जोड़ने में विफलता</string>
+  <string name="message_calllog_edited">सफलतापूर्वक अद्यतन की गई कॉल लॉग</string>
+  <string name="message_calllog_edited_error">कॉल लॉग को अद्यतन करने में विफलता</string>
+</resources>

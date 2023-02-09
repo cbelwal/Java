@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Журнал дзвінків</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">Невідомо</string>
+  <string name="button_Yes">Так</string>
+  <string name="button_No">Ні</string>
+  <string name="button_Apply">Застосувати</string>
+  <string name="button_Close">Закрити</string>
+  <string name="general_not_Available">Не доступний</string>
+  <string name="general_items">пункт (и)</string>
+  <string name="general_selected_items">вибрані</string>
+  <string name="title_confirm">Підтвердити</string>
+  <string name="title_dialog_coju">Завантажити Coju</string>
+  <string name="message_selectitems">Atleast 1 журналу запис повинен бути вибраний</string>
+  <string name="message_download_coju">Coju це ОК інтегрованої управління контактами. Він має всі особливості цього app плюс додаткові можливості. Ви хотіли б завантажити Coju?</string>
+  <string name="message_contact_permissions_missing">Контакти дозволи, необхідні для цієї програми для роботи. App тепер закриє, прохання надати дозволи і повторіть спробу</string>
+  <string name="message_other_permissions_missing">Потрібні дозволи, необхідні для цієї функції app працювати.
+        Будь ласка дайте потрібні дозволи і повторіть спробу</string>
+</resources>

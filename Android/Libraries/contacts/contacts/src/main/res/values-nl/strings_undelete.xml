@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Geselecteerde contactpersoon/contactpersonen die zal worden hersteld. Gelieve te bevestigen als u wilt doorgaan?</string>
+  <string name="message_undelete_complete"> contactpersoon/contactpersonen die Recuperar</string>
+  <string name="message_undelete_notice">Deze optie zal een lijst van de contactpersonen die kunnen worden hersteld en is afhankelijk van de fabrikant van uw apparaat of de Android versie. Contactpersonen kunnen niet worden hersteld als het apparaat niet mogelijk is, contacten werden enkele uren geleden verwijderd of contactpersonen zijn verwijderd uit de SIM-kaart.</string>
+  <string name="message_undelete_option_invalid">Deze optie is niet geldig voor verwijderde contacten
+        </string>
+  <string name="message_undelete_help">Selecteer de contactpersoon/contactpersonen die en het undelete pictogram in de rechterbovenhoek te gebruiken undelete hen</string>
+  <string name="progressbar_undelete_data">Verwijderen ongedaan maken contact(en) </string>
+  <string name="action_undelete">Undelete contact(en)</string>
+  <string name="button_understand">Ik begrijp het</string>
+  <string name="title_disclaimer">DISCLAIMER</string>
+  <string name="title_no_undelete_found">Sorry!</string>
+  <string name="message_no_undelete_found">
+        Wij zijn droevig, geen herstelbare verwijderde contacten gevonden! U kunt proberen te herstellen met behulp van een handmatige manier voorgesteld door Google, de ontwikkelaars van Android.
+        Zal u graag voor een bezoek aan de Google Support-webpagina die de handmatige recuperatie instructies heeft?
+    </string>
+</resources>

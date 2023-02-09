@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Genel</string>
+  <string name="nav_menu_group_help">Yardım</string>
+  <string name="nav_menu_group_viewoptions">Seçenekler</string>
+  <string name="nav_menu_group_views">Görünümler</string>
+  <string name="nav_menu_group_operations">İşlemleri</string>
+  <string name="nav_menu_group_backup">Yedekleme</string>
+  <string name="nav_menu_rate_this_app">Geri bildirim</string>
+  <string name="nav_menu_backup_contacts">Tüm rehber yedekleme</string>
+  <string name="nav_menu_restore_contacts">Rehber yedekleme dosyasından geri yükler.</string>
+  <string name="nav_menu_upgrade">Terfi ettirmek için yandaş yorum</string>
+  <string name="nav_menu_filter">Görüntü filtresi</string>
+  <string name="nav_menu_duplicates">Çoğaltmaları Toolkit</string>
+  <string name="nav_menu_tellafriend">Tell a friend</string>
+  <string name="nav_menu_feedback">İletişim Dasmic</string>
+  <string name="nav_menu_demovideo">Demo Video</string>
+  <string name="nav_menu_coju_outlook">Microsoft Outlook için Coju</string>
+  <string name="nav_menu_coju">Coju indir</string>
+  <string name="display_options_all_TimesContacted">Temas zamanına göre sıralanmış</string>
+  <string name="display_options_all_last_contact">Son kişi zamanına göre sıralanmış</string>
+  <string name="display_options_all">Adına göre sıralanmış</string>
+  <string name="display_options_phonenumber">Sıralanmış telefon numaraları</string>
+  <string name="display_options_email">Sıralanmış e-posta adresleri</string>
+  <string name="display_options_deleted">Silinen kişiler</string>
+  <string name="display_options_refresh">Görüntüsünü yenileyin</string>
+  <string name="action_Operations">Toplu güncelleştirmeler</string>
+  <string name="action_Export">Kişileri verme</string>
+  <string name="action_delete">Kişileri silme</string>
+  <string name="action_Import">Kişileri alma</string>
+  <string name="action_edit">Kişi düzenleme</string>
+  <string name="action_add">Kartvizit ekle</string>
+  <string name="action_share">Kişileri paylaşma</string>
+  <string name="action_bluetooth">Bluetooth aktarımı</string>
+</resources>

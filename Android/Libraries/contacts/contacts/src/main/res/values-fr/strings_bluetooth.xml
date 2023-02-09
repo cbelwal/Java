@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Nombre de contacts sélectionnés : </string>
+  <string name="text_bt_paired_devices"> Appareils associés (sélectionnez se connecter)</string>
+  <string name="text_bt_new_devices"> Nouveaux dispositifs (sélectionnez se connecter)</string>
+  <string name="message_bt_scan_devices">Détection de périphériques...</string>
+  <string name="message_bt_scan_complete">Scan terminé pour les périphériques</string>
+  <string name="message_bt_pair_devices">Dispositifs de couplage...</string>
+  <string name="message_bt_new_none">Aucun nouveau périphérique trouvé</string>
+  <string name="message_bt_pair_none">Aucun appareils appariés trouvés</string>
+  <string name="message_bt_conn_lost">Connexion perdue au périphérique</string>
+  <string name="message_bt_connecting">Connexion à : </string>
+  <string name="message_bt_not_enabled">Ne pas compatible, de Bluetooth Bluetooth transfert de clôture</string>
+  <string name="message_bt_status_listening">À l’écoute...</string>
+  <string name="message_bt_status_connecting">Connexion...</string>
+  <string name="message_bt_status_connected">Relié</string>
+  <string name="message_bt_testdata_sent">TestData envoyé</string>
+  <string name="message_bt_no_contacts">Pas de contacts sélectionnés pour envoyer</string>
+  <string name="message_bt_recv_complete">Recevoir des données complète</string>
+  <string name="message_bt_not_connected">Pas connecté à n’importe quel périphérique</string>
+  <string name="message_bt_adapter_error">Il y avait un créant erreur Bluetooth.
+            S’il vous plaît vérifiez si votre téléphone est Bluetooth et l’adaptateur Bluetooth est activé</string>
+  <string name="menu_bt_make_discoverable">Rendre le périphérique détectable</string>
+  <string name="progressbar_bt_recv_data">Prêt à recevoir les données de contact...</string>
+  <string name="message_bt_startup">S’assurer que la même application est en cours d’exécution et cet écran ouvert dans tout autre dispositif</string>
+</resources>

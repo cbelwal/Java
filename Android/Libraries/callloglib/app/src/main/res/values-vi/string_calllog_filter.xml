@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">Điều kiện</string>
+  <string name="filter_text_option">Tùy chọn</string>
+  <string name="filter_text_value_days">Ngày</string>
+  <string name="filter_text_value_duration">Duration(s)</string>
+  <string name="filter_text_value_location">Vị trí</string>
+  <string name="filter_options_from_stored_contacts">Từ địa chỉ liên lạc được lưu trữ</string>
+  <string name="filter_options_more_than_entered_days">Nhiều hơn ngày</string>
+  <string name="filter_options_less_than_entered_days">Ít hơn so với ngày</string>
+  <string name="filter_options_more_than_duration">Nhiều hơn so với thời gian</string>
+  <string name="filter_options_less_than_duration">Ít hơn so với thời gian</string>
+  <string name="filter_options_from_entered_location">Từ vị trí</string>
+  <string name="filter_options_none">Không có bộ lọc</string>
+  <string name="filter_show_show">Hiển thị</string>
+  <string name="filter_show_noshow">Không hiển thị</string>
+</resources>

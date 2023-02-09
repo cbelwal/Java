@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Penggabungan kontak</string>
+  <string name="action_merge">Gabung Contact(s)</string>
+  <string name="message_merge_title">Hati-hati</string>
+  <string name="message_merge_confirm">Silakan konfirmasi jika Anda ingin menggabungkan kontak? Nomor telepon, alamat email, alamat pos, catatan dan peristiwa semua kontak akan digabung menjadi satu satu kontak dengan nama: </string>
+  <string name="message_merge_complete">Kontak telah digabungkan</string>
+  <string name="progressbar_merge_data">Penggabungan kontak...</string>
+</resources>

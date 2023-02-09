@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">เสียงขูดชีส</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="activity_extract_pictures">แยกเสียง</string>
+  <string name="button_Select_All">เลือกทั้งหมด</string>
+  <string name="button_UnSelect_All">เลือกยกเลิกทั้งหมด</string>
+  <string name="button_Delete">ลบ</string>
+  <string name="button_Update">การปรับปรุง</string>
+  <string name="button_Share">ใช้ร่วมกัน</string>
+  <string name="button_Yes">ใช่</string>
+  <string name="button_No">ไม่ใช่</string>
+  <string name="button_apply">นำไปใช้</string>
+  <string name="button_browse">เรียกดู</string>
+  <string name="button_close">ปิด</string>
+  <string name="button_play">เล่น</string>
+  <string name="button_stop">หยุด</string>
+  <string name="button_Confirm">ยืนยัน</string>
+  <string name="button_Ok">ตกลง, ได้</string>
+  <string name="text_import_file_name">ชื่อ</string>
+  <string name="text_import_file_size">ขนาด</string>
+  <string name="general_items">รายการ</string>
+  <string name="general_selected_items">เลือก</string>
+  <string name="general_error">ข้อผิดพลาด</string>
+  <string name="title_confirm">ยืนยัน</string>
+  <string name="button_ok">ตกลง, ได้</string>
+  <string name="button_cancel">ยกเลิก</string>
+  <string name="free_space">เนื้อที่รวม:</string>
+  <string name="title_share">แบ่งปันโดยใช้:</string>
+  <string name="title_rename">ป้อนชื่อใหม่  </string>
+  <string name="title_create_folder">ป้อนชื่อโฟลเดอร์  </string>
+</resources>

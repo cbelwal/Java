@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Algemene</string>
+  <string name="nav_menu_group_help">Help</string>
+  <string name="nav_menu_group_viewoptions">Opties</string>
+  <string name="nav_menu_group_views">Weergaven</string>
+  <string name="nav_menu_group_operations">Operaties</string>
+  <string name="nav_menu_group_backup">Back-up</string>
+  <string name="nav_menu_rate_this_app">Feedback</string>
+  <string name="nav_menu_backup_contacts">Back-up van alle contacten</string>
+  <string name="nav_menu_restore_contacts">Contactpersonen terugzetten vanaf back-up</string>
+  <string name="nav_menu_upgrade">Upgrade naar Pro versie</string>
+  <string name="nav_menu_filter">Weergavefilter</string>
+  <string name="nav_menu_duplicates">Duplicaten Toolkit</string>
+  <string name="nav_menu_tellafriend">Vertel een vriend</string>
+  <string name="nav_menu_feedback">Neem contact op met Dasmic</string>
+  <string name="nav_menu_demovideo">Video van de manifestatie</string>
+  <string name="nav_menu_coju_outlook">Coju voor Microsoft Outlook</string>
+  <string name="nav_menu_coju">Downloaden Coju</string>
+  <string name="display_options_all_TimesContacted">Gesorteerd op keer gecontacteerd</string>
+  <string name="display_options_all_last_contact">Gesorteerd op laatste contacttijd</string>
+  <string name="display_options_all">Gesorteerd op naam</string>
+  <string name="display_options_phonenumber">Gesorteerde telefoonnummers</string>
+  <string name="display_options_email">Gesorteerde e-mailadressen</string>
+  <string name="display_options_deleted">Verwijderde contacten</string>
+  <string name="display_options_refresh">Weergave vernieuwen</string>
+  <string name="action_Operations">Bulk Updates</string>
+  <string name="action_Export">Het exporteren van contactpersonen die</string>
+  <string name="action_delete">Contact (s) verwijderen</string>
+  <string name="action_Import">Importeren van contactpersonen die</string>
+  <string name="action_edit">Contactpersoon bewerken</string>
+  <string name="action_add">Contactpersoon toevoegen</string>
+  <string name="action_share">Delen van contactpersonen die</string>
+  <string name="action_bluetooth">Bluetooth-overdracht</string>
+</resources>

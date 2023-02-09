@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">Diinstal dalam 30 hari terakhir</string>
+  <string name="filter_adv_options_security_inappbilling">Telah di-app penagihan</string>
+  <string name="filter_adv_options_security_readsms">Dapat membaca SMS</string>
+  <string name="filter_adv_options_security_sendsms">Dapat mengirim SMS</string>
+  <string name="filter_adv_options_security_readcontacts">Dapat membaca kontak</string>
+  <string name="filter_adv_options_security_readcalllog">Dapat membaca log panggilan</string>
+  <string name="filter_adv_options_security_readcalender">Dapat membaca kalender</string>
+  <string name="filter_adv_options_security_writeexternalstorage">Dapat menulis untuk penyimpanan eksternal</string>
+  <string name="filter_adv_options_security_camera">Dapat mengakses kamera</string>
+  <string name="filter_adv_options_security_mic">Dapat merekam Audio</string>
+  <string name="filter_adv_options_security_location">Dapat mengakses lokasi Anda</string>
+  <string name="filter_adv_options_filter">Mengaktifkan keamanan Filter(s)</string>
+  <string name="filter_main_text">Opsi Filter keamanan (hanya aplikasi yang cocok dengan salah satu dari kriteria ini akan ditampilkan):</string>
+  <string name="activity_security_filter">Penyaring malware Display</string>
+</resources>

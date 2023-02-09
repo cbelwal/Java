@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">товар(ов)</string>
+  <string name="general_selected_items">выбранные</string>
+  <string name="general_error">Ошибка</string>
+  <string name="title_confirm">Подтвердите</string>
+  <string name="button_ok">Хорошо</string>
+  <string name="button_cancel">Отмена</string>
+  <string name="free_space">Всего свободного пространства:</string>
+  <string name="title_share">Поделиться с помощью:</string>
+  <string name="title_rename">Введите новое имя  </string>
+  <string name="title_create_folder">Введите имя папки  </string>
+</resources>

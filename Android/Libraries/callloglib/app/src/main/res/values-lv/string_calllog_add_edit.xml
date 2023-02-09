@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">Tālruņa numurs</string>
+  <string name="text_calllog_date">Datums</string>
+  <string name="text_calllog_time">Laiks</string>
+  <string name="text_calllog_duration">DURATION(s)</string>
+  <string name="text_calllog_type">Tips</string>
+  <string name="spinner_calllog_type_incoming">Ienākošās</string>
+  <string name="spinner_calllog_type_outgoing">Izejošās</string>
+  <string name="spinner_calllog_type_missed">Pietrūka</string>
+  <string name="message_calllog_added">Veiksmīgi pievienots Zvanu urnāls</string>
+  <string name="message_calllog_added_error">Kļūme pievienojot dēvēt žurnāls</string>
+  <string name="message_calllog_edited">Veiksmīgi atjaunināta Zvanu urnāls</string>
+  <string name="message_calllog_edited_error">Kļūme atjauninot Zvanu urnāls</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Δεν μπόρεσαν να συνδεθούν σε διακομιστή της Google. Επανεκκινήστε την εφαρμογή και προσπαθήστε ξανά
+    </string>
+  <string name="progressbar_load_data">Αναζήτηση για αρχεία βίντεο...</string>
+  <string name="message_selectitems">Atleast 1 επιλογή απαιτείται</string>
+  <string name="message_activity_load_fail">Δεν ήταν δυνατή η εκκίνηση της εφαρμογής</string>
+  <string name="message_activity_loading">Έναρξη εφαρμογής...</string>
+  <string name="message_other_permissions_missing">Ζητήσει τα δικαιώματα που απαιτούνται για να λειτουργήσει αυτή η δυνατότητα. Παρακαλώ δώστε τα απαιτούμενα δικαιώματα και προσπαθήστε ξανά
+    </string>
+  <string name="message_no_read_permission">Χωρίς δικαίωμα ανάγνωσης
+    </string>
+  <string name="message_cannot_go_in">Δεν μπορούσα να πάω μέσα στο επιλεγμένο φάκελο
+    </string>
+  <string name="message_delete_confirm">Θα διαγραφούν τα επιλεγμένα αρχεία (s). Αυτή η ενέργεια δεν μπορεί να αναιρεθεί. Προχωρήσει;</string>
+  <string name="progressbar_delete_data">
+        Διαγραφή αρχείων </string>
+  <string name="message_delete_complete"> αρχείο / Διαγραφή φακέλου(ων)</string>
+  <string name="message_free_version_selection">
+        Μέγιστη αρχεία που μπορούν να επιλεγούν στην δωρεάν έκδοση είναι: </string>
+  <string name="message_max_allowed_one">
+        Αυτή η επιλογή λειτουργεί μόνο για μία επιλογή  </string>
+  <string name="message_only_file">
+        Αυτή η επιλογή λειτουργεί μόνο για αρχεία  </string>
+  <string name="message_copying_file">
+        Αντιγραφή αρχείου...  </string>
+  <string name="message_copy_complete">
+        Πλήρες αντίγραφο του αρχείου  </string>
+  <string name="message_copy_error">
+        Δεν μπόρεσε να δημιουργήσει ένα αντίγραφο του κάποια αρχεία. Βεβαιωθείτε ότι υπάρχει ελεύθερος χώρος και να έχετε πρόσβαση εγγραφής στο φάκελο.</string>
+  <string name="message_share_error">
+        Παρουσιάστηκε σφάλμα κατά την αντιγραφή. Ελέγξτε αν έχετε αρκετό χώρο αποθήκευσης στη μνήμη cache κοινόχρηστα αρχεία  </string>
+  <string name="message_zipping_files">
+        Συμπίεση αρχείων / φακέλων...  </string>
+  <string name="message_zipping_completed">
+        Όλα τα αρχεία / φακέλους μετακινηθεί σε αρχείο zip  </string>
+  <string name="message_zipping_error">
+        Δεν θα μπορούσε να zip τα αρχεία / φακέλους. Παρακαλούμε ελέγξτε αν επιλεγμένου φακέλου(ων) δεν είναι κενά και έχετε αρκετό χώρο αποθήκευσης</string>
+  <string name="message_rename_complete">
+        Μετονομασία αρχείου/φακέλου πλήρη  </string>
+  <string name="message_rename_error">
+        Δεν είναι δυνατή η μετονομασία αρχείου/φακέλου  </string>
+  <string name="message_create_folder_complete">
+        Φάκελο που δημιουργήθηκε  </string>
+  <string name="message_create_folder_error">
+        Δεν μπόρεσε να δημιουργήσει το φάκελο  </string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_delete_confirm_cl">Detaljer för valda samtal loggar raderas. Denna åtgärd kan inte ångras. Vill du fortsätta?</string>
+  <string name="message_delete_complete_cl"> samtal 1,2,5 Detaljer bort</string>
+</resources>

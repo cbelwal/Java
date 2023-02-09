@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Dnevnik klicev</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">Neznano</string>
+  <string name="button_Yes">da</string>
+  <string name="button_No">ne</string>
+  <string name="button_Apply">Uporablja</string>
+  <string name="button_Close">Blizu</string>
+  <string name="general_not_Available">Ni na voljo</string>
+  <string name="general_items">elemente</string>
+  <string name="general_selected_items">izbrani</string>
+  <string name="title_confirm">Potrditev</string>
+  <string name="title_dialog_coju">Travnato gričevje Coju</string>
+  <string name="message_selectitems">Atleast 1 vnos v dnevnik mora biti izbrana</string>
+  <string name="message_download_coju">Coju je integrirano upravljanje stikov app. Ima vse značilnosti tega app plus dodatne zmogljivosti. Bo vam je všeč, da prenesete Coju?</string>
+  <string name="message_contact_permissions_missing">Stiki dovoljenja so potrebna za to app za delo. App bo zdaj zapreti, navedite dovoljenja ter poskusite znova</string>
+  <string name="message_other_permissions_missing">Zahtevana dovoljenja so potrebna za delovanje te app funkcije.
+        Prosim izročiti zahtevanih dovoljenj in poskusite znova</string>
+</resources>

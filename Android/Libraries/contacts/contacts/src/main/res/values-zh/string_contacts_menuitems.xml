@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">一般</string>
+  <string name="nav_menu_group_help">帮助</string>
+  <string name="nav_menu_group_viewoptions">选项</string>
+  <string name="nav_menu_group_views">视图</string>
+  <string name="nav_menu_group_operations">操作</string>
+  <string name="nav_menu_group_backup">备份</string>
+  <string name="nav_menu_rate_this_app">反馈</string>
+  <string name="nav_menu_backup_contacts">备份所有联系人</string>
+  <string name="nav_menu_restore_contacts">从备份还原联系人</string>
+  <string name="nav_menu_upgrade">升级到 Pro 版本</string>
+  <string name="nav_menu_filter">显示筛选器</string>
+  <string name="nav_menu_duplicates">重复工具包</string>
+  <string name="nav_menu_tellafriend">告诉朋友</string>
+  <string name="nav_menu_feedback">联系 Dasmic</string>
+  <string name="nav_menu_demovideo">演示视频</string>
+  <string name="nav_menu_coju_outlook">Coju 微软展望</string>
+  <string name="nav_menu_coju">下载 Coju</string>
+  <string name="display_options_all_TimesContacted">按联系时间排序</string>
+  <string name="display_options_all_last_contact">按上次联系人时间排序</string>
+  <string name="display_options_all">按名称排序</string>
+  <string name="display_options_phonenumber">已排序的电话号码</string>
+  <string name="display_options_email">已排序的电子邮件地址</string>
+  <string name="display_options_deleted">已删除联系人</string>
+  <string name="display_options_refresh">刷新显示</string>
+  <string name="action_Operations">批量更新</string>
+  <string name="action_Export">导出联系人</string>
+  <string name="action_delete">删除联系人</string>
+  <string name="action_Import">导入联系人</string>
+  <string name="action_edit">编辑联系人</string>
+  <string name="action_add">添加联系人</string>
+  <string name="action_share">共享联系人 (s)</string>
+  <string name="action_bluetooth">蓝牙传输</string>
+</resources>

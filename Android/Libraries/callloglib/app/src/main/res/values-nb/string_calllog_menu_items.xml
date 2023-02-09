@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Sortert etter tid</string>
+  <string name="nav_view_outgoingcalls_cl">Utgående samtaler</string>
+  <string name="nav_view_incomingcalls_cl">Innkommende samtaler</string>
+  <string name="nav_view_missedcalls_cl">Tapte anrop</string>
+  <string name="nav_view_callduration_cl">Sortert etter varighet</string>
+  <string name="nav_view_geocoded_location_cl">Sortert etter lokasjon</string>
+  <string name="nav_view_refresh_cl">Oppdater</string>
+  <string name="nav_view_100_records">Opptil 100</string>
+  <string name="nav_view_500_records">Opptil 500</string>
+  <string name="nav_view_all_records">Alle tilgjengelige</string>
+  <string name="nav_menu_group_general_cl">Generelt</string>
+  <string name="nav_menu_group_help_cl">hjelp</string>
+  <string name="nav_menu_group_log_length">Vis antall</string>
+  <string name="nav_menu_group_viewoptions_cl">Alternativer</string>
+  <string name="nav_menu_group_views_cl">Visninger</string>
+  <string name="nav_menu_group_operations_cl">Operasjoner</string>
+  <string name="nav_menu_group_backup_cl">Sikkerhetskopiering</string>
+  <string name="nav_menu_rate_this_app_cl">Tilbakemeldinger</string>
+  <string name="nav_menu_backup_contacts_cl">Sikkerhetskopiere alle anrop loggoppføringer</string>
+  <string name="nav_menu_restore_contacts_cl">Gjenopprette Samtalelogg fra sikkerhetskopi</string>
+  <string name="nav_menu_upgrade_cl">Oppgradere til Pro versjon</string>
+  <string name="nav_menu_filter_cl">Vis Filter</string>
+  <string name="nav_menu_duplicates_cl">Duplikater Toolkit</string>
+  <string name="nav_menu_tellafriend_cl">Fortell en venn</string>
+  <string name="nav_menu_feedback_cl">Kontakt Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Demonstrasjon Video</string>
+  <string name="nav_menu_coju_cl">Last ned Coju</string>
+  <string name="menu_operations_cl">Masseoppdateringer</string>
+  <string name="menu_add_cl">Legge til</string>
+  <string name="menu_edit_cl">Rediger</string>
+  <string name="menu_update_cl">Oppdatering</string>
+  <string name="menu_share_cl">Aksje</string>
+  <string name="menu_export_cl">Eksportere</string>
+  <string name="menu_import_cl">Import</string>
+  <string name="menu_delete_cl">Slette</string>
+  <string name="menu_bluetooth_cl">Bluetooth-overføring</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">Dejar de correr</string>
+  <string name="message_stop_tasks">Detener las tareas en ejecución...</string>
+  <string name="message_user_tasks_stopped">Tareas de usuario dejamos de</string>
+  <string name="message_system_tasks_stopped">Tareas del sistema detenidas</string>
+  <string name="message_process_still_running">Tareas que se ejecutan aún</string>
+  <string name="message_stop_running_tasks">Dejar de ejecutar aplicaciones y cerrar Bluetooth/Wireless?</string>
+  <string name="message_stopping_running_tasks">Detener el Bluetooth y Wireless</string>
+  <string name="message_battery_current_percentage">% Nivel actual de batería:</string>
+  <string name="message_no_user_process">Ningún proceso de usuario corriente encontró</string>
+</resources>

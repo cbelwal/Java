@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Congratulazioni, hai un punteggio alto!</string>
+  <string name="message_game_end_new_game">Gioco attuale è up! Piacerebbe iniziare una nuova partita?</string>
+  <string name="message_custom_board">Premete su fori vuoti di ritmo un piolo. Tocca il pulsante di blocco al termine</string>
+  <string name="message_custom_board_done">Consiglio personalizzato è configurato, puoi iniziare a giocare.
+    Nota che i punteggi più alti per consigli personalizzati non vengono registrate</string>
+  <string name="message_intro_first">
+        Spostare un piolo in un buco disponibile in linea retta che salta sopra un altro piolo
+    </string>
+  <string name="message_intro_second">Il piolo saltato sopra viene rimosso</string>
+  <string name="message_intro_third">Prova a togliere pioli come molti come possibile</string>
+  <string name="message_intro_fourth">Ottenere solo 1 peg restanti è l\'obiettivo</string>
+  <string name="message_board_reset_confirm">Verrà annullata la scheda corrente. Si desidera procedere?</string>
+  <string name="message_game_over">Più mosse sono possibili. Gioco è finito!</string>
+  <string name="message_solver_complete">Il Risolutore ha calcolato le mosse che portano a un numero minimo di pegs.\n\nUse il pulsante Avanti per vedere che la scheda si muove.</string>
+  <string name="message_solver_complete_free">Il Risolutore ha calcolato le mosse che portano a un numero minimo di pioli. Poiché si tratta di una versione gratuita, il Risolutore può trovare una soluzione che porta ad un minimo di 3 pioli solo. Nella versione a pagamento il Risolutore può trovare una soluzione con 1 peg.\n\nUse il pulsante Avanti per vedere che la scheda si muove.
+    </string>
+  <string name="message_solver_complete_title">Trovato la soluzione con le spine: </string>
+  <string name="message_solver_inprogress_title">Alla ricerca di soluzione...</string>
+  <string name="message_solver_inprogress">Corrente più basso conteggio di peg: </string>
+  <string name="message_solver_start_confirm">A seconda della scheda corrente, il Risolutore potrebbe richiedere alcuni secondi a diversi minuti in una soluzione con almeno il numero di pioli di calcolo.
+    Dal momento che il Risolutore fa un sacco di calcoli, esaurirà potenza della batteria.
+        Si consiglia di che metti il telefono in carica prima di iniziare il Risolutore.
+    Durante l\'esecuzione del Risolutore può essere interrotta in qualsiasi momento e ultime peg risultato sarà disponibile.</string>
+  <string name="message_solver_mode_play_board">
+        Non è possibile riprodurre il gioco in modalità Risolutore. Selezionare New Game per iniziare una nuova partita</string>
+  <string name="message_confirm_switch_from_standard">
+        Attuale Consiglio è impostata su Standard, si desidera modificare in French board?</string>
+  <string name="message_confirm_switch_from_French">
+        Attuale Consiglio è impostata su francese, si desidera modificare a bordo Standard?</string>
+</resources>

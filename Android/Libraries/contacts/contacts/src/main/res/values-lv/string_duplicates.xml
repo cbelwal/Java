@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Nosaukums + WhatsApp skaitļu spēles</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">Pats WhatsApp numurs vairākus nosaukumus</string>
+  <string name="duplicate_options_name_matches_email_phone">Nosaukums + tālrunis/e-pastu spēles</string>
+  <string name="duplicate_options_name_matches_phone">Nosaukums + tālrunis atbilst</string>
+  <string name="duplicate_options_name_matches_email">Nosaukums + Email atbilstība</string>
+  <string name="duplicate_options_same_number_multi_name">Vairāki vārdi vienam tālruņa numuram</string>
+  <string name="duplicate_options_same_email_multi_name">Vienu un to pašu e-pastu vairākiem nosaukumiem</string>
+  <string name="duplicate_options_none">Neviens</string>
+  <string name="progressbar_sel_duplicates">Meklētu dublikātus...</string>
+  <string name="message_duplicates_selected">Lai izdzēstu izvēlēto duplicate(s) nospiediet dzēšanas ikonas. Original(master) vērtību katras dublikātu nav izvēlēts, un netiks dzēsti.</string>
+  <string name="choose_duplicate_option">Izvēlaties kritēriju dublikātu identificēšanai.
+        Līdz ar to original(master) vērtību dublikāti tiks parādīts galvenajā ekrānā un tiks automātiski atzīmēta dzēšanai. Original(Master) vērtība nav pārbaudīta;</string>
+  <string name="startup_message">Izmanto dublikātu ikonas augšējā labajā, lai iestatītu skata opciju par dublikātiem</string>
+  <string name="message_duplicates_backup">Ieteicams dublēt kontaktpersonas, pirms svītrojot tos</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="report_app_name">App Name: </string>
+    <string name="report_package_name">Package Name: </string>
+    <string name="report_source_folder">Source Folder: </string>
+    <string name="report_size">Size(MB): </string>
+    <string name="report_launch_intent">Launch Intent: </string>
+    <string name="report_installed_on">Installed on: </string>
+    <string name="report_updated_on">Updated on: </string>
+    <string name="report_system_app">System App: </string>
+    <string name="report_security_permission">Security Permission(s): </string>
+    <string name="report_yes">Yes</string>
+    <string name="report_no">No</string>
+</resources>

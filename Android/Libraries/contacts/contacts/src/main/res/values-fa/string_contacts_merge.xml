@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">ادغام مخاطبین</string>
+  <string name="action_merge">ادغام مخاطب (مخاطبین)</string>
+  <string name="message_merge_title">احتیاط</string>
+  <string name="message_merge_confirm">تایید کنید اگر شما می خواهید به ادغام مخاطب انتخاب شده است؟ شماره تلفن آدرس ایمیل، آدرس پستی توجه و حوادث تماس با ما تمام انتخاب شده به یک مخاطب تنها با نام ادغام خواهند شد: </string>
+  <string name="message_merge_complete">مخاطب انتخاب شده ادغام شده اند</string>
+  <string name="progressbar_merge_data">ادغام تماس با ما...</string>
+</resources>

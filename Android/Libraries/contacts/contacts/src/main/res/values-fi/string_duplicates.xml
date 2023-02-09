@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Nimi + WhatsApp numero ottelu</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">Sama WhatsApp numero useita nimiä</string>
+  <string name="duplicate_options_name_matches_email_phone">Nimi + puhelimitse/sähköpostitse ottelu</string>
+  <string name="duplicate_options_name_matches_phone">Nimi + Puhelin ottelu</string>
+  <string name="duplicate_options_name_matches_email">Nimi + Email ottelu</string>
+  <string name="duplicate_options_same_number_multi_name">Sama numero useita nimiä</string>
+  <string name="duplicate_options_same_email_multi_name">Sama email useita nimiä</string>
+  <string name="duplicate_options_none">Ei mitään</string>
+  <string name="progressbar_sel_duplicates">Etsitään kaksoiskappaleet...</string>
+  <string name="message_duplicates_selected">Poista valittu duplicate(s) painamalla Poista-kuvaketta. Original(master) arvo jokaiselle kopiolle ei ole valittu ja ei poisteta.</string>
+  <string name="choose_duplicate_option">Valitse kriteeri, kaksoiskappaleet tunnistetaan.
+        Kopioita sekä niiden original(master) arvo näkyy pääikkunassa ja on auto valittu poistettavaksi. Original(Master) arvoa ei tarkisteta.</string>
+  <string name="startup_message">Avulla kahtena kuvake oikeassa näyttöasetuksen kaksoiskappaleita</string>
+  <string name="message_duplicates_backup">On suositeltavaa varmuuskopioida yhteystietoja ennen kuin ne poistetaan</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">Stop met lopen</string>
+  <string name="message_stop_tasks">Stoppen actieve taken...</string>
+  <string name="message_user_tasks_stopped">Taken van de gebruiker gestopt</string>
+  <string name="message_system_tasks_stopped">Systeemtaken gestopt</string>
+  <string name="message_process_still_running">Taken die nog steeds loopt</string>
+  <string name="message_stop_running_tasks">Stop met lopen apps en sluit Bluetooth/draadloos?</string>
+  <string name="message_stopping_running_tasks">Stoppen met Bluetooth en Wireless</string>
+  <string name="message_battery_current_percentage">Huidige batterij niveau %:</string>
+  <string name="message_no_user_process">Geen lopende gebruikersproces gevonden</string>
+</resources>

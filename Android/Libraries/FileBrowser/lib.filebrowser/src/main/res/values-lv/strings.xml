@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">vienumu (s)</string>
+  <string name="general_selected_items">atlasīts</string>
+  <string name="general_error">Kļūda</string>
+  <string name="title_confirm">Apstipriniet</string>
+  <string name="button_ok">labi</string>
+  <string name="button_cancel">Atcelt</string>
+  <string name="free_space">Kopējais brīvās vietas:</string>
+  <string name="title_share">Koplietot, izmantojot:</string>
+  <string name="title_rename">Ievadiet jauno nosaukumu  </string>
+  <string name="title_create_folder">Ievadiet mapes nosaukumu  </string>
+</resources>

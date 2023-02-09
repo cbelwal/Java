@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Обзор</string>
+  <string name="backup_options_backupusing">Резервное копирование с помощью</string>
+  <string name="export_options_externalStorage">Внешнее хранение этого устройства</string>
+  <string name="share_options_shareas">Поделиться:</string>
+  <string name="share_options_allshare">Доля заявок (облако, электронная почта,...)</string>
+  <string name="share_options_share_using">Поделиться с помощью:</string>
+  <string name="share_options_sms">Обмен сообщениями</string>
+  <string name="share_options_clipboard">Копировать в буфер</string>
+  <string name="export_options_ExportUsing">Сохраните файл в:</string>
+  <string name="progressbar_prepare_data">Подготовка списка журнала вызовов...</string>
+  <string name="progressbar_backup">Резервное копирование журнала вызовов, это может занять несколько минут...</string>
+  <string name="backup_options_using">Сохраните файл резервной копии в:</string>
+  <string name="menu_import_help">Справка</string>
+  <string name="text_import_file_name">Выбранное имя файла:</string>
+  <string name="text_import_file_size">Выбранный файл Size(bytes):</string>
+  <string name="text_unknown_file_size">Неизвестно</string>
+  <string name="message_backup_options">Рекомендуется для резервного копирования в приложениях доля, как облако, электронной почты и т.д.
+        Это позволит вам восстановить журнал вызовов, если вы потеряете свой телефон.
+        Восстановление контактов из электронной почты/облако вручную сохранить вызов файла резервной копии журнала из вашей учетной записи электронной почты/облако в любое место в этом устройстве. Импорт и восстановления утилита будет затем автоматически найти файл.</string>
+  <string name="message_importing_contacts">Импорт log(s) вызов...</string>
+  <string name="message_reading_import_file">Чтение файла, это может занять несколько минут...</string>
+  <string name="export_options_plain_text">Обычный текст</string>
+  <string name="export_options_indv_clm">Отдельные файлы CLM</string>
+  <string name="export_options_combined_clm">Комбинированный файл CLM </string>
+  <string name="export_generated_footer">Сформированный с помощью вызова диспетчера журнала Coju</string>
+  <string name="export_sent_footer">Генерируется через Диспетчер журнала вызовов</string>
+  <string name="export_generated_header">Сведения журнала вызовов</string>
+  <string name="message_clipboard_copy">Скопирован в буфер обмена</string>
+  <string name="message_exporting_calllog">Извлечение контакты...</string>
+  <string name="message_exporting_calllog_ready">Получить готовы экспортировать контакты...</string>
+  <string name="message_exporting_calllog_write_file">Запись файлов...</string>
+  <string name="message_import_help">Только файл, созданный из этого app (*. Можно импортировать файлы МДТ)</string>
+  <string name="message_import_invalid_file">Не действительно вызов файла журнала</string>
+  <string name="message_importing_complete">вызов log(s) импорта</string>
+  <string name="message_restore_complete">Записи в журнале вызовов восстановлен из резервной копии</string>
+  <string name="message_restore_fail">
+        Не удается восстановить из резервной копии, резервной копии файл отсутствует или поврежден
+                </string>
+  <string name="message_backup_stored_freeversion">
+        Бесплатная версия только позволяет резервную копию до 9 вызова log(s).
+        Вызов Log(s) было резервной копии в файл:
+    </string>
+  <string name="message_backup_failed">
+        Не удалось сохранить файл резервной копии, пожалуйста, попробуйте еще раз. Если проблема не решена, пожалуйста, сообщите вопрос к издателю приложения с помощью параметра обратной связи в этом приложении.
+    </string>
+  <string name="message_restore_selection_finish">
+        Восстановление резервного копирования вызова журналов
+    </string>
+  <string name="message_clm_file_not_found">
+        Диспетчер журнала не вызовов (*. МДТ) файлов, найденных в этом устройстве
+    </string>
+  <string name="message_backup_file_not_found">
+        Не найдены в этом устройстве файлы резервной копии
+    </string>
+  <string name="message_backup_stored">Контакты было резервной копии в файл:</string>
+  <string name="message_save_external">Журнал хранится в папке внешних вызовов: </string>
+  <string name="message_loading_files">Поиск локальных папок...</string>
+  <string name="message_loading_backup_files">Поиск устройства для резервного копирования файлов...</string>
+  <string name="message_backup_freeversion">
+        Максимальное количество журналов вызовов, которые могут быть сохранены в этой бесплатной версии является:
+    </string>
+  <string name="message_backup_paidversion">
+        Все журналы вызовов успешно резервного копирования в файл
+    </string>
+</resources>

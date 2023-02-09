@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Audio-Reibe</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="activity_extract_pictures">Extrahieren von Audio</string>
+  <string name="button_Select_All">Wählen Sie alle</string>
+  <string name="button_UnSelect_All">Alle UN-auswählen</string>
+  <string name="button_Delete">Löschen</string>
+  <string name="button_Update">Update</string>
+  <string name="button_Share">Freigeben</string>
+  <string name="button_Yes">Ja</string>
+  <string name="button_No">Nein</string>
+  <string name="button_apply">Gelten</string>
+  <string name="button_browse">Durchsuchen</string>
+  <string name="button_close">In der Nähe</string>
+  <string name="button_play">Spielen</string>
+  <string name="button_stop">Stop</string>
+  <string name="button_Confirm">Bestätigen</string>
+  <string name="button_Ok">Okay</string>
+  <string name="text_import_file_name">Name</string>
+  <string name="text_import_file_size">Größe</string>
+  <string name="general_items">Position (en)</string>
+  <string name="general_selected_items">ausgewählt</string>
+  <string name="general_error">Fehler</string>
+  <string name="title_confirm">Bestätigen</string>
+  <string name="button_ok">Okay</string>
+  <string name="button_cancel">Abbrechen</string>
+  <string name="free_space">Gesamte freie Speicherplatz:</string>
+  <string name="title_share">Teilen Sie mit:</string>
+  <string name="title_rename">Neuen Namen eingeben  </string>
+  <string name="title_create_folder">Geben Sie Ordnernamen  </string>
+</resources>

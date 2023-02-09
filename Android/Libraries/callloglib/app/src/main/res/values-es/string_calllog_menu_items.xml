@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Ordenadas por tiempo</string>
+  <string name="nav_view_outgoingcalls_cl">Llamadas salientes</string>
+  <string name="nav_view_incomingcalls_cl">Llamadas entrantes</string>
+  <string name="nav_view_missedcalls_cl">Llamadas perdidas</string>
+  <string name="nav_view_callduration_cl">Ordenados por duración</string>
+  <string name="nav_view_geocoded_location_cl">Clasificado por la localización</string>
+  <string name="nav_view_refresh_cl">Actualización</string>
+  <string name="nav_view_100_records">Hasta 100</string>
+  <string name="nav_view_500_records">Hasta 500</string>
+  <string name="nav_view_all_records">Todo disponible</string>
+  <string name="nav_menu_group_general_cl">General</string>
+  <string name="nav_menu_group_help_cl">Ayuda</string>
+  <string name="nav_menu_group_log_length">Cuenta vista</string>
+  <string name="nav_menu_group_viewoptions_cl">Opciones</string>
+  <string name="nav_menu_group_views_cl">Vistas</string>
+  <string name="nav_menu_group_operations_cl">Operaciones de</string>
+  <string name="nav_menu_group_backup_cl">Copia de seguridad</string>
+  <string name="nav_menu_rate_this_app_cl">Comentarios</string>
+  <string name="nav_menu_backup_contacts_cl">Copia de seguridad de todas las entradas de registro de llamada</string>
+  <string name="nav_menu_restore_contacts_cl">Restaurar el registro desde una copia de</string>
+  <string name="nav_menu_upgrade_cl">Versión actualización a Pro</string>
+  <string name="nav_menu_filter_cl">Filtro de pantalla</string>
+  <string name="nav_menu_duplicates_cl">Kit de herramientas de duplicados</string>
+  <string name="nav_menu_tellafriend_cl">Enviar a un amigo</string>
+  <string name="nav_menu_feedback_cl">Contacto Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Video de demostración</string>
+  <string name="nav_menu_coju_cl">Descargar Coju</string>
+  <string name="menu_operations_cl">Actualizaciones de la bulk</string>
+  <string name="menu_add_cl">Añadir</string>
+  <string name="menu_edit_cl">Editar</string>
+  <string name="menu_update_cl">Actualización</string>
+  <string name="menu_share_cl">Compartir</string>
+  <string name="menu_export_cl">De la exportación</string>
+  <string name="menu_import_cl">Importación</string>
+  <string name="menu_delete_cl">Eliminar</string>
+  <string name="menu_bluetooth_cl">Transferencia de Bluetooth</string>
+</resources>

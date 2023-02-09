@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">選択した連絡先の数:</string>
+  <string name="text_bt_paired_devices">ペアのデバイス (接続を選択)</string>
+  <string name="text_bt_new_devices">新しいデバイス (接続を選択)</string>
+  <string name="message_bt_scan_devices">デバイスのスキャン.</string>
+  <string name="message_bt_scan_complete">デバイスのスキャンを終了</string>
+  <string name="message_bt_pair_devices">デバイスをペアリング.</string>
+  <string name="message_bt_new_none">新しいデバイスは見つかりませんでした。</string>
+  <string name="message_bt_pair_none">ペアになっているデバイスが見つかりません</string>
+  <string name="message_bt_conn_lost">接続デバイスを失った</string>
+  <string name="message_bt_connecting">接続します。</string>
+  <string name="message_bt_not_enabled">Bluetooth が有効でない Bluetooth 転送を閉じる</string>
+  <string name="message_bt_status_listening">聞いて.</string>
+  <string name="message_bt_status_connecting">接続しています.</string>
+  <string name="message_bt_status_connected">接続されています。</string>
+  <string name="message_bt_testdata_sent">Testdata 送信</string>
+  <string name="message_bt_no_contacts">連絡先を送信を選択</string>
+  <string name="message_bt_recv_complete">完全なデータを受信します。</string>
+  <string name="message_bt_not_connected">任意のデバイスに接続されていません。</string>
+  <string name="message_bt_adapter_error">Bluetooth のセットアップ中にエラーがありました。
+            あなたの携帯電話は Bluetooth と Bluetooth アダプターを有効にしてください。</string>
+  <string name="menu_bt_make_discoverable">デバイスを検出可能に</string>
+  <string name="progressbar_bt_recv_data">連絡先データを受信する準備ができて.</string>
+  <string name="message_bt_startup">同じアプリが実行され、他のデバイスでこの画面を開くことを確認してください。</string>
+</resources>

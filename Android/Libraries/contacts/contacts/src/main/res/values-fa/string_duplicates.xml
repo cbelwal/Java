@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">نام + WhatsApp مسابقه شماره</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">همان تعداد WhatsApp در چندین نام</string>
+  <string name="duplicate_options_name_matches_email_phone">نام + مسابقه تلفن/ایمیل</string>
+  <string name="duplicate_options_name_matches_phone">نام + تلفن بازی</string>
+  <string name="duplicate_options_name_matches_email">نام + ایمیل مسابقه</string>
+  <string name="duplicate_options_same_number_multi_name">همان تعداد در چندین نام</string>
+  <string name="duplicate_options_same_email_multi_name">همان ایمیل در چندین نام</string>
+  <string name="duplicate_options_none">هیچ کدام</string>
+  <string name="progressbar_sel_duplicates">اسکن برای تکراری...</string>
+  <string name="message_duplicates_selected">حذف انتخاب شده duplicate(s) آیکون حذف را فشار دهید. ارزش original(master) برای هر تکراری انتخاب نشده و حذف خواهد شد.</string>
+  <string name="choose_duplicate_option">معیار برای شناسایی تکراری را انتخاب کنید.
+        دو تایی همراه با ارزش original(master) خود را در صفحه اصلی نمایش داده می شود و خواهد شد خودکار چک برای حذف. ارزش Original(master) کشیده شده است.</string>
+  <string name="startup_message">استفاده از آیکون های تکراری در بالا سمت راست برای تنظیم گزینه نمایش تکراری</string>
+  <string name="message_duplicates_backup">توصیه می شود که شما پشتیبان گیری مخاطبین قبل از حذف آنها</string>
+</resources>

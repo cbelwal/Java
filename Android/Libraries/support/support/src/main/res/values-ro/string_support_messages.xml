@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">În cazul în care există o problemă cu app, va place la editorul de e-mail şi de a rezolva problema?</string>
+  <string name="message_check_for_rating">Va dori să plece de feedback pentru acest app?</string>
+  <string name="message_tellafriend_subject">Verificaţi acest app</string>
+  <string name="message_email_send_error">Eroare la trimiterea e-mail</string>
+  <string name="message_tellafriend_body">Hei, a verifica afară acest misto app:\n</string>
+  <string name="message_start_activity_error">A existat o problemă în demararea activităţii. \n</string>
+  <string name="message_demo_video">Va dori să urmăriţi o demonstraţie video.
+        (Acest mesaj este prezentată doar o singură dată)?</string>
+  <string name="message_help_documentation_fail">Imposibil de încărcat documentaţie de ajutor.
+    Vă rugăm să vizitaţi http://www.dasmic.com din browser pentru a vedea ajutorul.</string>
+  <string name="message_rate_this_app">Te pot ajuta pe alţii reiting acest app?</string>
+  <string name="message_rate_this_app_error">Nu pot deschide pagina de evaluare. Vă rugăm să folosiţi Google Play Store pentru a da un rating</string>
+  <string name="message_feedback_subject">Feedback-ul app pentru</string>
+</resources>

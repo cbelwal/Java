@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Tiedostonimi:</string>
+  <string name="text_ep_file_size">Pinta-ala:</string>
+  <string name="text_ep_modified_date">Muokkauspäivämäärä:</string>
+  <string name="text_ep_duration">Kesto:</string>
+  <string name="title_search_depth">Haun syvyys (suuret arvot kestää useita minuutteja)</string>
+  <string name="progressbar_extracting_audio">Puretaan ääntä (voi kestää useita minuutteja)...</string>
+  <string name="progressbar_loading_audio">Ladataan tiedoston tietoja...</string>
+  <string name="text_ep_time_start">Käynnistä time(seconds)</string>
+  <string name="text_ep_period">Keston kunkin audio file(seconds)</string>
+  <string name="text_ep_store">Tallenna uusi audio tiedostoja kuin:</string>
+  <string name="text_ep_share_external">Lisää ulkoinen</string>
+  <string name="text_ep_share_app">Jaa sovelluksilla</string>
+  <string name="message_extract_complete"> M4A tiedostoja luotu</string>
+  <string name="message_extract_error">Virhe luotaessa äänitiedostoja</string>
+  <string name="message_search_depth_updated">Haun syvyys päivitettiin</string>
+  <string name="message_search_depth_error">Virhe päivitettäessä haun syvyys</string>
+  <string name="message_load_complete">Äänitiedoston tiedot on ladattu</string>
+  <string name="message_load_error">Virhe ladattaessa ääni</string>
+  <string name="message_extract_duration_reduced"> Viime äänitiedoston kesto väheni audio loppu saavutettiin </string>
+  <string name="message_extract_incomplete"> %1$ d audio tiedostot ei voi luoda tai ovat puutteellisia tietoja</string>
+  <string name="message_extract_signature">Lähetetään Audio raastin coju.mobi™</string>
+</resources>

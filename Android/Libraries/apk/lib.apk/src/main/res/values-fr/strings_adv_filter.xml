@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">Installé dans les 30 derniers jours</string>
+  <string name="filter_adv_options_security_inappbilling">A la facturation de l’In-app</string>
+  <string name="filter_adv_options_security_readsms">Peut lire les SMS</string>
+  <string name="filter_adv_options_security_sendsms">Pouvez envoyer des SMS</string>
+  <string name="filter_adv_options_security_readcontacts">Peut lire les contacts</string>
+  <string name="filter_adv_options_security_readcalllog">Peut lire le journal des appels</string>
+  <string name="filter_adv_options_security_readcalender">Pouvez lire calendrier</string>
+  <string name="filter_adv_options_security_writeexternalstorage">Peut écrire pour stockage externe</string>
+  <string name="filter_adv_options_security_camera">Peut accéder à caméra</string>
+  <string name="filter_adv_options_security_mic">Peut enregistrer de l’Audio</string>
+  <string name="filter_adv_options_security_location">Peuvent accéder à votre emplacement</string>
+  <string name="filter_adv_options_filter">Activer les filtres de sécurité</string>
+  <string name="filter_main_text">Options du filtre de sécurité (uniquement Apps correspondant à l’un de ces critère sera affiché) :</string>
+  <string name="activity_security_filter">Filtre d’affichage de Malware</string>
+</resources>

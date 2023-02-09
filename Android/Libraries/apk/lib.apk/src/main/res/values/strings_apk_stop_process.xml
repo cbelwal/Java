@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_stop_process">Stop running</string>
+    <string name="message_stop_tasks">Stopping running tasks ..</string>
+    <string name="message_user_tasks_stopped">User tasks stopped</string>
+    <string name="message_system_tasks_stopped">System tasks stopped</string>
+    <string name="message_process_still_running">Tasks still running</string>
+    <string name="message_stop_running_tasks">Stop running apps and close Bluetooth/Wireless ?</string>
+    <string name="message_stopping_running_tasks">Stopping Bluetooth and Wireless</string>
+    <string name="message_battery_current_percentage">Current battery level %:</string>
+    <string name="message_no_user_process">No running user process found</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="share_options_ShareUsing">共有を使用します。</string>
+  <string name="share_options_allshare">メール/Wifi/クラウド ストレージ (大きなファイルには問題がある可能性があります)</string>
+  <string name="export_options_externalStorage">外部ストレージ</string>
+  <string name="export_options_ExportAs">エクスポート形式:</string>
+  <string name="export_options_ExportUsing">APK ファイルを共有するには。</string>
+  <string name="progressbar_prepare_data">パッケージを準備しています.</string>
+</resources>

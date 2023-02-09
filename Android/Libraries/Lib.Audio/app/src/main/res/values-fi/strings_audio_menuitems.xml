@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_share">Osuus</string>
+  <string name="action_delete">Poista</string>
+  <string name="action_filter">Suodatin</string>
+  <string name="action_copy">Kopioi</string>
+  <string name="action_rename">Nimeä uudelleen</string>
+  <string name="action_create_folder">Luo kansio</string>
+  <string name="action_move">Siirrä</string>
+  <string name="action_share_zip">Jaa zip</string>
+  <string name="action_extract_pictures">Poimi ääni</string>
+  <string name="action_zip">Zip</string>
+  <string name="nav_menu_view_name">Katso tiedostonimi</string>
+  <string name="nav_menu_view_size">Näytä koon mukaan</string>
+  <string name="nav_menu_view_modified">Näyttöperuste muokkauspäivämäärä</string>
+  <string name="nav_menu_view_refresh">Päivitä</string>
+  <string name="nav_menu_view_close">Sulje</string>
+  <string name="nav_menu_search_default">Etsi Media Store (oletus)</string>
+  <string name="nav_menu_search_entire_phone">Etsi koko Puhelin</string>
+  <string name="nav_menu_search_media_folders">Etsi media kansiot</string>
+  <string name="nav_menu_search_external_folders">Etsi ulkoiset kansiot</string>
+  <string name="nav_menu_group_general">Ehdot</string>
+  <string name="nav_menu_group_viewoptions">Näytä asetukset</string>
+  <string name="nav_menu_group_searchoptions">Etsinnän asetukset</string>
+  <string name="nav_menu_rate_this_app">Palaute</string>
+  <string name="nav_menu_upgrade">Korottaa jotta palkallinen käännös</string>
+  <string name="nav_menu_tellafriend">Kerro kaverille</string>
+  <string name="nav_menu_feedback">Ota yhteyttä</string>
+  <string name="nav_menu_group_help">Apua</string>
+  <string name="nav_menu_demovideo">Mielenosoitus televisio</string>
+  <string name="nav_menu_help_doc">Ohjeessa</string>
+</resources>

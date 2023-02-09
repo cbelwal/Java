@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="report_app_name">Nome app: </string>
+  <string name="report_package_name">Nome pacchetto: </string>
+  <string name="report_source_folder">Cartella di origine: </string>
+  <string name="report_size">Dimensione (MB): </string>
+  <string name="report_launch_intent">Intento del lancio: </string>
+  <string name="report_installed_on">Installato su: </string>
+  <string name="report_updated_on">Aggiornato il: </string>
+  <string name="report_system_app">App di sistema: </string>
+  <string name="report_security_permission">Autorizzazioni di sicurezza: </string>
+  <string name="report_yes">Sì</string>
+  <string name="report_no">No</string>
+</resources>

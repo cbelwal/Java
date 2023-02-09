@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Xin chúc mừng, bạn nhận một điểm số cao!</string>
+  <string name="message_game_end_new_game">Trò chơi hiện tại là up! Bạn sẽ muốn bắt đầu một trò chơi mới?</string>
+  <string name="message_custom_board">Gõ nhẹ vào lỗ rỗng để tốc độ một peg. Bấm nút khóa khi đầy đủ</string>
+  <string name="message_custom_board_done">Tùy chỉnh bảng là thiết lập, bạn có thể bắt đầu chơi.
+    Lưu ý rằng các điểm số cao nhất bảng tùy chỉnh không được ghi lại</string>
+  <string name="message_intro_first">
+        Di chuyển một peg vào một lỗ có sẵn trong một đường thẳng, nhảy qua một peg
+    </string>
+  <string name="message_intro_second">Peg nhảy trên bị loại bỏ</string>
+  <string name="message_intro_third">Cố gắng loại bỏ các chốt càng nhiều càng tốt</string>
+  <string name="message_intro_fourth">Nhận được chỉ có 1 chốt còn lại là mục tiêu</string>
+  <string name="message_board_reset_confirm">Điều này sẽ hủy bỏ đồng hiện tại. Bạn có muốn tiếp tục?</string>
+  <string name="message_game_over">Không còn di chuyển có thể được. Trò chơi là lên!</string>
+  <string name="message_solver_complete">Giải có tính chuyển động mà dẫn đến một số lượng tối thiểu của pegs.\n\nUse vào nút phía trước để xem ban di chuyển.</string>
+  <string name="message_solver_complete_free">Giải có tính chuyển động mà dẫn đến một số lượng tối thiểu của cọc. Vì đây là một phiên bản miễn phí, người giải quyết có thể tìm thấy một giải pháp hàng đầu để tối thiểu 3 chốt chỉ. Trong phiên bản trả tiền người giải quyết có thể tìm thấy một giải pháp với 1 peg.\n\nUse nút phía trước để xem ban di chuyển.
+    </string>
+  <string name="message_solver_complete_title">Tìm thấy giải pháp với cọc: </string>
+  <string name="message_solver_inprogress_title">Đang tìm kiếm giải pháp...</string>
+  <string name="message_solver_inprogress">Hiện tại thấp nhất peg count: </string>
+  <string name="message_solver_start_confirm">Tùy thuộc vào hội đồng quản trị hiện nay, người giải quyết có thể mất vài giây đến vài phút trong máy tính một giải pháp với ít nhất là số lượng các chốt.
+    Kể từ khi giải không nhiều tính toán, nó sẽ làm suy giảm năng lượng pin.
+        Chúng tôi khuyến cáo bạn đặt điện thoại của bạn trên sạc trước khi bắt đầu người giải quyết.
+    Trong khi chạy giải có thể dừng lại bất cứ lúc nào và đặt móc quả sẽ có sẵn.</string>
+  <string name="message_solver_mode_play_board">
+        Không thể chơi trò chơi trong chế độ giải quyết. Chọn trò chơi mới để bắt đầu một trò chơi mới</string>
+  <string name="message_confirm_switch_from_standard">
+        Hội đồng quản trị hiện tại được thiết lập theo tiêu chuẩn, bạn có muốn thay đổi cho Ban Pháp?</string>
+  <string name="message_confirm_switch_from_French">
+        Hội đồng quản trị hiện tại được thiết lập để Pháp, bạn có muốn thay đổi cho tiêu chuẩn Ban?</string>
+</resources>

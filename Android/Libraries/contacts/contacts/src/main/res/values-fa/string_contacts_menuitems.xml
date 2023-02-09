@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">عمومی</string>
+  <string name="nav_menu_group_help">کمک</string>
+  <string name="nav_menu_group_viewoptions">گزینه های</string>
+  <string name="nav_menu_group_views">نمایش ها</string>
+  <string name="nav_menu_group_operations">عملیات</string>
+  <string name="nav_menu_group_backup">پشتیبان گیری</string>
+  <string name="nav_menu_rate_this_app">انتقادات و پیشنهادات</string>
+  <string name="nav_menu_backup_contacts">پشتیبان گیری همه مخاطبین</string>
+  <string name="nav_menu_restore_contacts">مخاطبین را از نسخه پشتیبان بازیابی</string>
+  <string name="nav_menu_upgrade">نسخه ارتقاء به نرم افزار</string>
+  <string name="nav_menu_filter">نمایش فیلتر</string>
+  <string name="nav_menu_duplicates">ابزار های تکراری</string>
+  <string name="nav_menu_tellafriend">ارسال به دوستان</string>
+  <string name="nav_menu_feedback">تماس با Dasmic</string>
+  <string name="nav_menu_demovideo">نسخه ی نمایشی کلیپ</string>
+  <string name="nav_menu_coju_outlook">Coju برای مایکروسافت چشم انداز</string>
+  <string name="nav_menu_coju">دانلود Coju</string>
+  <string name="display_options_all_TimesContacted">مرتب شده بر اساس بار تماس</string>
+  <string name="display_options_all_last_contact">مرتب شده بر اساس آخرین زمان تماس</string>
+  <string name="display_options_all">مرتب شده بر اساس نام</string>
+  <string name="display_options_phonenumber">شماره تلفن های مرتب شده</string>
+  <string name="display_options_email">آدرس ایمیل مرتب شده اند</string>
+  <string name="display_options_deleted">تماس با ما حذف شده</string>
+  <string name="display_options_refresh">تازه کردن صفحه نمایش</string>
+  <string name="action_Operations">به روز رسانی فله</string>
+  <string name="action_Export">صادرات مخاطب (مخاطبین)</string>
+  <string name="action_delete">حذف مخاطب (مخاطبین)</string>
+  <string name="action_Import">وارد کردن مخاطب (مخاطبین)</string>
+  <string name="action_edit">ويرايش مخاطب</string>
+  <string name="action_add">اضافه کردن مخاطب</string>
+  <string name="action_share">اشتراک گذاری مخاطب (مخاطبین)</string>
+  <string name="action_bluetooth">انتقال بلوتوث</string>
+</resources>

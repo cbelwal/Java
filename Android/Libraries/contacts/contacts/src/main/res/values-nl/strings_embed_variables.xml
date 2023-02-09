@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">Aangesloten op het apparaat.
+        Druk op \'Send\' contactpersonen overbrengen naar: </string>
+  <string name="message_bt_conn_failed">Verbinding mislukt naar apparaat.
+    Gelieve te verzekeren dat dit app is geïnstalleerd en de Bluetooth-scherm is geopend in: </string>
+  <string name="message_bt_sent_error">Deze nummer van de contactpersoon/contactpersonen die kon niet worden overdragen: </string>
+  <string name="message_bt_recv_error">Deze nummer van de contactpersoon/contactpersonen die kan niet worden gemaakt: </string>
+  <string name="message_bt_create_complete">Ontvangen contact(en) gemaakt: </string>
+  <string name="message_bt_sent_complete">Contactpersonen naar apparaat verzonden: </string>
+  <string name="progressbar_bt_send_data">Overdracht van unieke contact(en) </string>
+  <string name="progressbar_bt_bytes">bytes </string>
+  <string name="progressbar_bt_create_contacts">Maken contact(en) (contacten met foto vereist meer tijd)</string>
+  <string name="message_free_version_selection">
+        Maximale contacten die kunnen worden geselecteerd in de gratis versie is: </string>
+  <string name="progressbar_delete_data">
+        Unieke contact(en) verwijderen </string>
+</resources>

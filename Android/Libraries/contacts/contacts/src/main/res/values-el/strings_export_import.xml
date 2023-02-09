@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_reading_import_file">Ανάγνωση αρχείου, αυτό μπορεί να διαρκέσει αρκετά λεπτά...</string>
+  <string name="message_exporting_contacts">Εξαγωγή επαφών...</string>
+  <string name="message_exporting_contacts_ready">Ετοιμάζεται για να εξαγάγετε επαφές...</string>
+  <string name="message_exporting_contacts_write_file">Γράφοντας αρχείου(ων)...</string>
+  <string name="text_import_file_name">Όνομα αρχείου:</string>
+  <string name="text_import_file_size">Το αρχείο Size(bytes):</string>
+  <string name="text_unknown_file_size">Άγνωστο</string>
+</resources>

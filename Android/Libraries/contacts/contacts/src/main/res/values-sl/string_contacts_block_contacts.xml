@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">Unblocked stike</string>
+  <string name="display_options_blocked">Blokirane stike</string>
+  <string name="action_block">Blok</string>
+  <string name="action_unblock">Odblokirati</string>
+  <string name="message_blocking_contacts">Blokiranje stike</string>
+  <string name="message_unblocking_contacts">Odblokiranje stike</string>
+  <string name="message_block_unblock_complete">Posodobiti vse izbrane stike </string>
+  <string name="message_block_unblock_error">Napaka pri posodabljanju nekatere izbrane stike</string>
+</resources>

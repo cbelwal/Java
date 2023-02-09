@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Kunne ikke oprette forbindelse til Google-serveren. Venligst genstarte app og prøv igen
+    </string>
+  <string name="progressbar_load_data">Indlæser mappeoplysninger...</string>
+  <string name="message_selectitems">Atleast 1 udvælgelse er nødvendig</string>
+  <string name="message_activity_load_fail">Programmet kunne ikke startes</string>
+  <string name="message_activity_loading">Starter programmet...</string>
+  <string name="message_other_permissions_missing">Ønskede tilladelser krÃ¦ves til denne funktion til at arbejde. Venligst give anmodede tilladelser, og prøv igen
+    </string>
+  <string name="message_no_read_permission">Ikke læsetilladelse
+    </string>
+  <string name="message_cannot_go_in">Kunne ikke gå i valgte omslag
+    </string>
+  <string name="message_delete_confirm">Udvalgte filer (s) vil blive slettet. Denne handling kan ikke fortrydes. Vil du fortsætte?</string>
+  <string name="progressbar_delete_data">
+        Sletning af fil(er) </string>
+  <string name="message_delete_complete"> fil / mappe (r) slettet</string>
+  <string name="message_free_version_selection">
+        Maksimale filer, der kan vælges i den gratis version er: </string>
+  <string name="message_max_allowed_one">
+        Denne indstilling fungerer kun for et enkelt udvalg  </string>
+  <string name="message_only_file">
+        Denne indstilling fungerer kun for fil(er)  </string>
+  <string name="message_copying_file">
+        Kopiering af fil...  </string>
+  <string name="message_copy_complete">
+        Filkopiering komplet  </string>
+  <string name="message_copy_error">
+        Der kunne ikke oprettes en kopi af nogle fil(er)</string>
+  <string name="message_share_error">
+        Der opstod en fejl under kopi. Tjek venligst hvis du har nok lagerplads til at cachelagre delte fil(er)  </string>
+  <string name="message_zipping_files">
+        Komprimere filer / mapper...  </string>
+  <string name="message_zipping_completed">
+        Alle filer / mapper flyttet til zip-arkiv  </string>
+  <string name="message_zipping_error">
+        Kunne ikke zip filerne / mapper. Tjek venligst hvis eller de markerede mapper der ikke er tomme, og du har tilstrækkelig lagerplads</string>
+  <string name="message_rename_complete">
+        Omdøbning af fil/mappe komplet  </string>
+  <string name="message_rename_error">
+        Kan ikke omdøbe fil/mappe  </string>
+  <string name="message_create_folder_complete">
+        Mappe oprettet  </string>
+  <string name="message_create_folder_error">
+        Kunne ikke oprette mappe  </string>
+  <string name="message_file_open_error">
+        Kunne ikke åbne filen  </string>
+</resources>

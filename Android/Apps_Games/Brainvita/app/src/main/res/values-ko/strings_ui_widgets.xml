@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">새로운 게임</string>
+  <string name="button_switch_board">스위치 보드</string>
+  <string name="button_custom_board">설정된 사용자 정의 보드</string>
+  <string name="button_high_scores">높은 점수</string>
+  <string name="button_rate_app">이 게임 평가</string>
+  <string name="button_tell_a_friend">친구에 게</string>
+  <string name="button_paid_version">유료 버전</string>
+  <string name="button_help_documentation">도움말 설명서</string>
+  <string name="button_demo_video">데모 비디오</string>
+  <string name="button_ok">괜찮았던 것</string>
+  <string name="button_yes">예</string>
+  <string name="button_no">없음</string>
+  <string name="button_start">시작</string>
+  <string name="button_cancel">취소</string>
+  <string name="button_abort">중단</string>
+  <string name="button_high_score_close">닫기</string>
+  <string name="title_high_score">톱 10 높은 점수</string>
+  <string name="text_high_score_none">아니 점수</string>
+  <string name="text_high_score_pegs">나머지 peg(s)</string>
+  <string name="text_high_score_time">시간</string>
+</resources>

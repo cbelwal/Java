@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">无法连接到 Google 服务器。请重新启动应用程序并重试
+    </string>
+  <string name="progressbar_load_data">正在加载文件夹信息..。</string>
+  <string name="message_selectitems">至少需要1选择</string>
+  <string name="message_activity_load_fail">无法启动应用程序</string>
+  <string name="message_activity_loading">正在启动应用程序..。</string>
+  <string name="message_other_permissions_missing">此功能需要使用请求的权限才能正常工作。请提供请求的权限并重试
+    </string>
+  <string name="message_no_read_permission">无读取权限</string>
+  <string name="message_cannot_go_in">无法进入选定文件夹中</string>
+  <string name="message_delete_confirm">将删除选定的文件。无法撤消此操作。进行？</string>
+  <string name="progressbar_delete_data">正在删除文件</string>
+  <string name="message_delete_complete">删除的文件/文件夹</string>
+  <string name="message_free_version_selection">可在自由版本中选择的最大文件为:</string>
+  <string name="message_max_allowed_one">此选项仅适用于单个选定内容</string>
+  <string name="message_only_file">此选项仅适用于文件</string>
+  <string name="message_copying_file">正在复制文件..。</string>
+  <string name="message_copy_complete">文件复制完成</string>
+  <string name="message_copy_error">无法创建某些文件的副本</string>
+  <string name="message_share_error">复制过程中遇到错误。请检查您是否有足够的存储空间来缓存共享文件 (s) </string>
+  <string name="message_zipping_files">正在压缩文件/文件夹..。</string>
+  <string name="message_zipping_completed">所有文件/文件夹移动到 zip 存档</string>
+  <string name="message_zipping_error">无法压缩文件/文件夹。请检查选定的文件夹是否为空, 并且您有足够的存储空间</string>
+  <string name="message_rename_complete">重命名文件/文件夹完成</string>
+  <string name="message_rename_error">无法重命名文件/文件夹</string>
+  <string name="message_create_folder_complete">创建的文件夹</string>
+  <string name="message_create_folder_error">无法创建文件夹</string>
+  <string name="message_file_open_error">无法打开文件</string>
+</resources>

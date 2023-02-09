@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">浏览</string>
+  <string name="backup_options_backupusing">备份使用</string>
+  <string name="transfer_address_home">家</string>
+  <string name="transfer_address_office">办公室</string>
+  <string name="transfer_contact_office">（W）。</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(M)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">在收藏夹</string>
+  <string name="transfer_not_in_favorites">不在收藏夹</string>
+  <string name="transfer_times_contacted">时报联系︰</string>
+  <string name="transfer_last_time_contacted">最后一次联系︰</string>
+  <string name="transfer_organization">组织</string>
+  <string name="transfer_title">标题</string>
+  <string name="transfer_event_birthday">生日</string>
+  <string name="transfer_event_anniv">周年</string>
+  <string name="transfer_event_other">其他</string>
+  <string name="check_phone">电话号码</string>
+  <string name="check_email">电子邮件</string>
+  <string name="csv_header_name">名称</string>
+  <string name="csv_header_phone">电话号码</string>
+  <string name="csv_header_email">电子邮件地址</string>
+  <string name="csv_header_postal">邮政地址</string>
+  <string name="csv_header_timescontacted">联系的时代</string>
+  <string name="csv_header_lasttimecontact">最后一次联系</string>
+  <string name="csv_header_favorite">最喜欢的状态</string>
+  <string name="csv_header_organization">组织</string>
+  <string name="check_postaladdress">邮政地址</string>
+  <string name="check_timescontacted">联系的次数</string>
+  <string name="check_lastcontact">最后的接触时间</string>
+  <string name="check_isfavorite">最喜欢的状态</string>
+  <string name="share_options_ShareAs">作为共享︰</string>
+  <string name="share_options_ShareUsing">分享使用︰</string>
+  <string name="share_options_sms">消息</string>
+  <string name="share_options_allshare">共享应用程序 （云，电子邮件，...）</string>
+  <string name="share_options_Clipboard">复制到剪贴板</string>
+  <string name="share_options_plaintext">纯文本</string>
+  <string name="share_options_vcf">个别的 Vcard 文件</string>
+  <string name="share_options_combinedvcf">组合的 Vcard 文件</string>
+  <string name="export_options_textfile">纯文本文件</string>
+  <string name="export_options_combinedvcf_21">联合的 vCard 2.1 文件</string>
+  <string name="export_options_individualvcf_21">个人电子名片 2.1 文件</string>
+  <string name="export_options_combinedvcf_40">联合的 vCard 4.0 文件</string>
+  <string name="export_options_individualvcf_40">个人电子名片 4.0 文件</string>
+  <string name="export_options_csvfile">逗号分隔 (*.csv) 文件</string>
+  <string name="export_options_externalStorage">这种装置的外部存储</string>
+  <string name="export_options_ExportAs">导出格式︰</string>
+  <string name="export_options_ExportUsing">保存的文件︰</string>
+  <string name="message_import_invalid_file">不是有效的联系人文件</string>
+  <string name="backup_options_using">保存在备份文件︰</string>
+  <string name="menu_import_help">帮助</string>
+  <string name="message_backup_options">它建议备份中共享应用程序，如云，电子邮件等。
+        这将允许您恢复接触，如果你丢失了你的电话。
+        联系人从还原电子邮件/云手动保存联系人备份文件从您的电子邮件/云帐户对该设备中的任何位置。然后，导入实用程序将自动查找的文件。</string>
+  <string name="message_restore_fail">不能从备份还原、 备份文件已丢失或损坏</string>
+  <string name="message_restore_refresh">联系人正在从备份文件中恢复。请刷新显示屏，查看所有导入的联系人</string>
+  <string name="message_restore_selection_finish">联系人正在从备份文件中恢复。您现在可以关闭该屏幕或从另一个备份文件导入</string>
+  <string name="message_restore_legacy_name">备份文件被评为 \'BackupAllContacts.vcf\' 在旧版本中</string>
+</resources>

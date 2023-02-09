@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">Jos ongelma app jälkisäädös kuin jotta email Julkaisija ja ratkaista ongelman?</string>
+  <string name="message_check_for_rating">Haluat jättää palautetta tästä app?</string>
+  <string name="message_tellafriend_subject">Tämä sovellus tarkistaa</string>
+  <string name="message_email_send_error">Virhe lähettämällä sähköpostia</string>
+  <string name="message_tellafriend_body">Hei Tutustu tämän jäähtyä app:\n</string>
+  <string name="message_start_activity_error">Virhe aloittaa toiminnan. \n</string>
+  <string name="message_demo_video">Haluat katsella esittelyvideo.
+        (Tämä viesti näkyy vain kerran)?</string>
+  <string name="message_help_documentation_fail">Ohjetta ei voitu ladata.
+    Käy http://www.dasmic.com selaimen nähdäksesi ohjeet.</string>
+  <string name="message_rate_this_app">Voit auttaa muita luokituksen tämä app?</string>
+  <string name="message_rate_this_app_error">Alustyypin ei voi avata. Käytä Google Soita Store Anna Luokitus</string>
+  <string name="message_feedback_subject">App palaute</string>
+</resources>

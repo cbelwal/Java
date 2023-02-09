@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">Нова игра</string>
+  <string name="button_switch_board">Табло</string>
+  <string name="button_custom_board">Задайте потребителски съвет</string>
+  <string name="button_high_scores">Най-високи резултати</string>
+  <string name="button_rate_app">Оцени тази игра</string>
+  <string name="button_tell_a_friend">Кажи на приятел</string>
+  <string name="button_paid_version">Платена версия</string>
+  <string name="button_help_documentation">Помощната документация</string>
+  <string name="button_demo_video">Видео демонстрация</string>
+  <string name="button_ok">OK</string>
+  <string name="button_yes">Да</string>
+  <string name="button_no">Не</string>
+  <string name="button_start">Старт</string>
+  <string name="button_cancel">Отказ</string>
+  <string name="button_abort">Прекъсване</string>
+  <string name="button_high_score_close">Затвори</string>
+  <string name="title_high_score">Топ десет високи резултати</string>
+  <string name="text_high_score_none">Няма резултат</string>
+  <string name="text_high_score_pegs">Останалите peg(s)</string>
+  <string name="text_high_score_time">Време</string>
+</resources>

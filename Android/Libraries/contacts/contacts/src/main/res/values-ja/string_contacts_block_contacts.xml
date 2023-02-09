@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">ブロックされていない連絡先</string>
+  <string name="display_options_blocked">ブロックされている連絡先</string>
+  <string name="action_block">ブロック</string>
+  <string name="action_unblock">ブロックを解除します。</string>
+  <string name="message_blocking_contacts">連絡先をブロック</string>
+  <string name="message_unblocking_contacts">連絡先のブロックを解除</string>
+  <string name="message_block_unblock_complete">選択されているすべての連絡先を更新</string>
+  <string name="message_block_unblock_error">いくつかの選択した連絡先の更新でエラーが発生しました</string>
+</resources>

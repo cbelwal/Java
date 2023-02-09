@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Nu sa putut conecta la server de Google. Vă rugăm să reporniţi app şi încercaţi din nou
+    </string>
+  <string name="progressbar_load_data">Încărcare dosar informaţii...</string>
+  <string name="message_selectitems">Atleast 1 de selecţie este necesară</string>
+  <string name="message_activity_load_fail">Imposibil de pornit aplicatia</string>
+  <string name="message_activity_loading">Aplicarea de plecare...</string>
+  <string name="message_other_permissions_missing">Solicitat permisiuni sunt necessre pentru this feature la spre work. Vă rugăm să da permisiuni solicitate și încercați din nou
+    </string>
+  <string name="message_no_read_permission">Permisiune de citire nu
+    </string>
+  <string name="message_cannot_go_in">Nu a putut merge în interiorul folderului selectat
+    </string>
+  <string name="message_delete_confirm">Se vor şterge fişierele selectate (s). Această acţiune nu poate fi anulată. Proceda?</string>
+  <string name="progressbar_delete_data">
+        Ştergere fişiere </string>
+  <string name="message_delete_complete"> fişiere / foldere şterse</string>
+  <string name="message_free_version_selection">
+        Maxim de fişiere care pot fi selectate în versiunea gratuită este: </string>
+  <string name="message_max_allowed_one">
+        Această opţiune funcţionează numai pentru o singură selecţie  </string>
+  <string name="message_only_file">
+        Această opţiune funcţionează numai pentru fișierele  </string>
+  <string name="message_copying_file">
+        Copiere fişier...  </string>
+  <string name="message_copy_complete">
+        Fişier copie completă  </string>
+  <string name="message_copy_error">
+        Nu poate crea o copie de unele fişiere</string>
+  <string name="message_share_error">
+        A apărut o eroare în timpul copie. Vă rugăm să verificaţi dacă aveţi destul spaţiu de stocare pentru cache-ul de fișierele partajate  </string>
+  <string name="message_zipping_files">
+        Comprimare fişiere / foldere...  </string>
+  <string name="message_zipping_completed">
+        Toate fișiere / foldere s-a mutat la zip Arhiva  </string>
+  <string name="message_zipping_error">
+        Ar putea zip fişiere / foldere. Vă rugăm să verificaţi dacă fișiere selectate nu sunt goale şi dacă aveți suficient spațiu de stocare</string>
+  <string name="message_rename_complete">
+        Redenumirea dosar/pliant complet  </string>
+  <string name="message_rename_error">
+        Imposibil de redenumit fișierul/folderul  </string>
+  <string name="message_create_folder_complete">
+        Folderul creat  </string>
+  <string name="message_create_folder_error">
+        Imposibil de creat folderul  </string>
+  <string name="message_file_open_error">
+        Imposibil de deschis fișierul  </string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Брой на избраното повикване log(s): </string>
+  <string name="text_bt_paired_devices"> Сдвоени устройства (избор на свързване)</string>
+  <string name="text_bt_new_devices"> Нови устройства (избор на свързване)</string>
+  <string name="message_bt_scan_devices">Сканиране за устройства...</string>
+  <string name="message_bt_scan_complete">Завършени сканиране за устройства</string>
+  <string name="message_bt_pair_devices">Сдвояване устройства...</string>
+  <string name="message_bt_new_none">Няма намерени нови устройства</string>
+  <string name="message_bt_pair_none">Няма намерени сдвоени устройства</string>
+  <string name="message_bt_conn_lost">Връзката е прекъсната към устройство</string>
+  <string name="message_bt_connecting">Свързване към: </string>
+  <string name="message_bt_not_enabled">Bluetooth не поддръжка, затваряне Bluetooth прехвърляне</string>
+  <string name="message_bt_status_listening">Слушане...</string>
+  <string name="message_bt_status_connecting">Свързване...</string>
+  <string name="message_bt_status_connected">Свързан</string>
+  <string name="message_bt_testdata_sent">Testdata изпраща</string>
+  <string name="message_bt_no_contacts">Няма избрани за изпращане на контакти</string>
+  <string name="message_bt_recv_complete">Получаване на данни завърши</string>
+  <string name="message_bt_not_connected">Не свързан към всяко устройство</string>
+  <string name="message_bt_adapter_error">Възникна грешка при настройката на Bluetooth.
+            Проверете дали телефонът ви има Bluetooth и Bluetooth адаптер е разрешена</string>
+  <string name="menu_bt_make_discoverable">Направете устройство откриваемо</string>
+  <string name="progressbar_bt_recv_data">Готови за получаване на данни за контакт...</string>
+  <string name="message_bt_connected">Свързан към устройство.
+        Натиснете \'Send\ \"да прехвърлите обаждане log(s) да: </string>
+  <string name="message_bt_conn_failed">Неуспешна връзка към устройството.
+    Моля, са сигурни, че този апартамент е инсталиран и Bluetooth екран е отворен в: </string>
+  <string name="message_bt_sent_error">P.t. от can не пренасям тези броя на повикване log(s): </string>
+  <string name="message_bt_recv_error">Не можа да създаде тези броя на повикване log(s): </string>
+  <string name="message_bt_create_complete">Получено повикване log(s) създава: </string>
+  <string name="message_bt_sent_complete">Обадете се на log(s), изпратени към устройството: </string>
+  <string name="progressbar_bt_send_data">Прехвърляне на повикване log(s) </string>
+  <string name="progressbar_bt_bytes">байтове </string>
+  <string name="progressbar_bt_create_contacts">Създаване на повикване log(s)</string>
+  <string name="progressbar_delete_data">
+        Изтриване на повикване log(s) </string>
+  <string name="button_scan">Сканиране</string>
+  <string name="button_send">Изпрати</string>
+</resources>

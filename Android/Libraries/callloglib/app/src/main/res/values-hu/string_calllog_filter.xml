@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">Feltétel</string>
+  <string name="filter_text_option">Beállítások</string>
+  <string name="filter_text_value_days">Nap</string>
+  <string name="filter_text_value_duration">Duration(s)</string>
+  <string name="filter_text_value_location">Hely</string>
+  <string name="filter_options_from_stored_contacts">A tárolt névjegyek</string>
+  <string name="filter_options_more_than_entered_days">Több, mint a nap</string>
+  <string name="filter_options_less_than_entered_days">Kevesebb, mint nappal</string>
+  <string name="filter_options_more_than_duration">Több, mint időtartama</string>
+  <string name="filter_options_less_than_duration">Futamideje nem éri el</string>
+  <string name="filter_options_from_entered_location">Helyről</string>
+  <string name="filter_options_none">Nincs szűrő</string>
+  <string name="filter_show_show">Térkép</string>
+  <string name="filter_show_noshow">Nem mutat</string>
+</resources>

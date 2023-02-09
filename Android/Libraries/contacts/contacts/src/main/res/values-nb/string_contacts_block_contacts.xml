@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">Ublokkerte kontakt(er)</string>
+  <string name="display_options_blocked">Blokkerte kontakter</string>
+  <string name="action_block">Blokk</string>
+  <string name="action_unblock">Oppheve</string>
+  <string name="message_blocking_contacts">Blokkerer kontakt(er)</string>
+  <string name="message_unblocking_contacts">Unblocking kontakt(er)</string>
+  <string name="message_block_unblock_complete">Oppdatert alle valgte kontakter </string>
+  <string name="message_block_unblock_error">Det oppstod en feil under oppdatering av noen valgte kontakter</string>
+</resources>

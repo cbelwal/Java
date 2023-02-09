@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Общи</string>
+  <string name="nav_menu_group_help">Помощ</string>
+  <string name="nav_menu_group_viewoptions">Опции</string>
+  <string name="nav_menu_group_views">Видяна</string>
+  <string name="nav_menu_group_operations">Операции</string>
+  <string name="nav_menu_group_backup">Архивиране</string>
+  <string name="nav_menu_rate_this_app">Обратна връзка</string>
+  <string name="nav_menu_backup_contacts">Архивиране на всички контакти</string>
+  <string name="nav_menu_restore_contacts">Възстановяване на контакти от Архив</string>
+  <string name="nav_menu_upgrade">Надграждане до Pro версия</string>
+  <string name="nav_menu_filter">Дисплей филтър</string>
+  <string name="nav_menu_duplicates">Дубликати инструментариум</string>
+  <string name="nav_menu_tellafriend">Кажи на приятел</string>
+  <string name="nav_menu_feedback">Контакт Dasmic</string>
+  <string name="nav_menu_demovideo">Видео демонстрация</string>
+  <string name="nav_menu_coju_outlook">Coju за Microsoft Outlook</string>
+  <string name="nav_menu_coju">Изтегляне Coju</string>
+  <string name="display_options_all_TimesContacted">Сортирани по време търсен</string>
+  <string name="display_options_all_last_contact">Сортирани по последния контакт време</string>
+  <string name="display_options_all">Сортирани по име</string>
+  <string name="display_options_phonenumber">Сортирани телефонни номера</string>
+  <string name="display_options_email">Сортирани имейл адреси</string>
+  <string name="display_options_deleted">Изтритите контакти</string>
+  <string name="display_options_refresh">Обновяване на дисплея</string>
+  <string name="action_Operations">Изпращане на насипни актуализации</string>
+  <string name="action_Export">Експортиране на контакти</string>
+  <string name="action_delete">Изтриване на контакти</string>
+  <string name="action_Import">Импортиране на контакти</string>
+  <string name="action_edit">Редактиране на контакт</string>
+  <string name="action_add">Добави контакт</string>
+  <string name="action_share">Споделяне на контакти</string>
+  <string name="action_bluetooth">Bluetooth прехвърляне</string>
+</resources>

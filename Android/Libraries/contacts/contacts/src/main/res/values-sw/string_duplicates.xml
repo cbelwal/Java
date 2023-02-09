@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Jina + mechi ya namba ya WhatsApp</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">Idadi sawa ya WhatsApp katika majina anuwai</string>
+  <string name="duplicate_options_name_matches_email_phone">Jina + mechi ya simu/barua pepe</string>
+  <string name="duplicate_options_name_matches_phone">Jina + mechi ya simu</string>
+  <string name="duplicate_options_name_matches_email">Jina + mechi ya barua pepe</string>
+  <string name="duplicate_options_same_number_multi_name">Idadi sawa katika majina anuwai</string>
+  <string name="duplicate_options_same_email_multi_name">Barua pepe moja katika majina anuwai</string>
+  <string name="duplicate_options_none">Hakuna</string>
+  <string name="progressbar_sel_duplicates">Inatambazia nakala...</string>
+  <string name="message_duplicates_selected">Futa duplicate(s) teuliwa Bonyeza ikoni Futa. Thamani ya original(master) kwa kila nakala haijateuliwa na hazitafutwa.</string>
+  <string name="choose_duplicate_option">Chagua kigezo kwa ajili ya kutambua rudufu.
+        Nakala pamoja na thamani yao original(master) itakuwa visas katika kiwamba kuu na kuwa checked otomatiki kwa ufutaji. Thamani ya Original(Master) si checked.</string>
+  <string name="startup_message">Tumia ikoni nakala katika haki ya juu kuweka chaguo Mwoneko rudufu</string>
+  <string name="message_duplicates_backup">Inapendekezwa kwamba chelezo wawasiliani wako kabla ya kufuta yao</string>
+</resources>

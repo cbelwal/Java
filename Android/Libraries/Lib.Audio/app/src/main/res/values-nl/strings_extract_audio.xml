@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">De naam van het bestand:</string>
+  <string name="text_ep_file_size">Grootte:</string>
+  <string name="text_ep_modified_date">Wijzigingsdatum:</string>
+  <string name="text_ep_duration">Duur:</string>
+  <string name="title_search_depth">Zoek diepte (grote waarden zal enige tijd duren)</string>
+  <string name="progressbar_extracting_audio">Extractie van audio (kan enkele minuten duren)...</string>
+  <string name="progressbar_loading_audio">Details van het audio-bestand wordt geladen...</string>
+  <string name="text_ep_time_start">Start time(seconds)</string>
+  <string name="text_ep_period">Duur van elke audio file(seconds)</string>
+  <string name="text_ep_store">Winkel nieuwe audio bestanden als:</string>
+  <string name="text_ep_share_external">Plaats in externe map</string>
+  <string name="text_ep_share_app">Delen met toepassingen</string>
+  <string name="message_extract_complete"> M4A-bestanden zijn gemaakt</string>
+  <string name="message_extract_error">Een fout opgetreden bij het maken van audio-bestanden</string>
+  <string name="message_search_depth_updated">De diepte van zoek werd bijgewerkt</string>
+  <string name="message_search_depth_error">Fout bij het bijwerken van zoek diepte</string>
+  <string name="message_load_complete">Details van het audio-bestand zijn geladen</string>
+  <string name="message_load_error">Er is een fout opgetreden bij het laden van het geluid</string>
+  <string name="message_extract_duration_reduced"> De laatste audiobestand duur was verminderd als einde van audio werd bereikt </string>
+  <string name="message_extract_incomplete"> %1$ d audio bestanden kan niet worden gemaakt of onvolledige informatie hebben</string>
+  <string name="message_extract_signature">Verzonden via Audio rasp van coju.mobi™</string>
+</resources>

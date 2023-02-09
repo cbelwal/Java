@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_delete_confirm_cl">Detalii de log(s) apel selectate vor fi şterse. Această acţiune nu poate fi anulată. Proceda?</string>
+  <string name="message_delete_complete_cl"> apel log(s) detalii şters</string>
+</resources>

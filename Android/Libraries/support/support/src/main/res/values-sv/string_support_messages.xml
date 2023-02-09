@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">Om det finns ett problem med app, kommer du vilja maila utgivaren och lösa problemet?</string>
+  <string name="message_check_for_rating">Kommer du vilja lämna feedback för denna app?</string>
+  <string name="message_tellafriend_subject">Kolla denna app</string>
+  <string name="message_email_send_error">Fel i skicka e-post</string>
+  <string name="message_tellafriend_body">Hej, kolla in denna coola app:\n</string>
+  <string name="message_start_activity_error">Ett problem uppstod i börjar den aktivitet. \n</string>
+  <string name="message_demo_video">Du kommer gillar att titta på en demonstrationsvideo.
+        (Detta meddelande visas bara en gång)?</string>
+  <string name="message_help_documentation_fail">Kunde inte läsa hjälpdokumentationen.
+    Besök http://www.dasmic.com från webbläsaren för att se hjälp.</string>
+  <string name="message_rate_this_app">Kan du hjälpa andra efter betyg denna app?</string>
+  <string name="message_rate_this_app_error">Värdering Sidan kunde inte öppnas. Använd Google Play butik för att ge ett betyg</string>
+  <string name="message_feedback_subject">Appen Feedback för</string>
+</resources>

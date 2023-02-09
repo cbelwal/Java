@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">تصفح</string>
+  <string name="backup_options_backupusing">استخدام النسخ الاحتياطي</string>
+  <string name="export_options_externalStorage">التخزين الخارجي لهذا الجهاز</string>
+  <string name="share_options_shareas">مشاركة:</string>
+  <string name="share_options_allshare">مشاركة التطبيقات (سحابة، البريد الإلكتروني،...)</string>
+  <string name="share_options_share_using">مشاركة باستخدام:</string>
+  <string name="share_options_sms">المراسلة</string>
+  <string name="share_options_clipboard">نسخ إلى الحافظة</string>
+  <string name="export_options_ExportUsing">حفظ الملف في:</string>
+  <string name="progressbar_prepare_data">إعداد قائمة سجل المكالمات...</string>
+  <string name="progressbar_backup">النسخ الاحتياطي لسجل المكالمات، قد يستغرق هذا عدة دقائق...</string>
+  <string name="backup_options_using">حفظ ملف النسخ الاحتياطي في:</string>
+  <string name="menu_import_help">تعليمات</string>
+  <string name="text_import_file_name">اسم الملف المحدد:</string>
+  <string name="text_import_file_size">Size(bytes) الملف المحدد:</string>
+  <string name="text_unknown_file_size">المجهول</string>
+  <string name="message_backup_options">من المستحسن بالنسخ الاحتياطي في حصة التطبيقات مثل السحابة، إلخ البريد الإلكتروني.
+        هذا سوف يسمح لك لاسترداد سجل المكالمات إذا كنت من أي وقت مضى تفقد الهاتف الخاص بك.
+        لاستعادة جهات الاتصال من البريد الإلكتروني/سحابة يدوياً حفظ الدعوة سجل ملف النسخ الاحتياطي من حساب البريد الإلكتروني/السحب الخاصة بك إلى أي مكان في هذا الجهاز. ثم حدد الأداة المساعدة الاستيراد/استعادة موقع الملف تلقائياً.</string>
+  <string name="message_importing_contacts">استيراد log(s) المكالمة...</string>
+  <string name="message_reading_import_file">قراءة الملف، قد يستغرق هذا عدة دقائق...</string>
+  <string name="export_options_plain_text">نص عادي</string>
+  <string name="export_options_indv_clm">الفردية CLM ملف (ملفات)</string>
+  <string name="export_options_combined_clm">ملف CLM المجمعة </string>
+  <string name="export_generated_footer">التي تم إنشاؤها عن طريق استدعاء مدير سجل كوجو</string>
+  <string name="export_sent_footer">التي تم إنشاؤها عن طريق إدارة سجل المكالمة</string>
+  <string name="export_generated_header">تفاصيل سجل المكالمات</string>
+  <string name="message_clipboard_copy">نسخ إلى الحافظة</string>
+  <string name="message_exporting_calllog">استخراج جهات الاتصال...</string>
+  <string name="message_exporting_calllog_ready">الحصول على استعداد لتصدير جهات الاتصال...</string>
+  <string name="message_exporting_calllog_write_file">كتابة ملف (ملفات)...</string>
+  <string name="message_import_help">فقط الملفات التي تم إنشاؤها من هذا التطبيق (*. يمكن استيراد ملفات CLM)</string>
+  <string name="message_import_invalid_file">ليس ملف سجل دعوة صالحة</string>
+  <string name="message_importing_complete">استدعاء log(s) المستوردة</string>
+  <string name="message_restore_complete">إدخالات سجل المكالمة استعادة من النسخة الاحتياطية</string>
+  <string name="message_restore_fail">
+        تعذر استعادة من النسخة الاحتياطية، وملف النسخ الاحتياطي مفقود أو معطوب
+                </string>
+  <string name="message_backup_stored_freeversion">
+        الإصدار المجاني فقط يسمح النسخ الاحتياطي ليصل إلى 9 استدعاء log(s).
+        Log(s) المكالمة قد تم احتياطياً في الملف:
+    </string>
+  <string name="message_backup_failed">
+        فشل في حفظ ملف النسخ الاحتياطي، الرجاء المحاولة مرة أخرى. إذا استمرت المشكلة الرجاء إرسال تقرير المشكلة إلى ناشر التطبيق باستخدام الخيار التغذية المرتدة في هذا التطبيق.
+    </string>
+  <string name="message_restore_selection_finish">
+        وقد تم استعادة سجلات المكالمات النسخ الاحتياطي
+    </string>
+  <string name="message_clm_file_not_found">
+        لا يوجد مدير سجل المكالمة (*. CLM) الملفات الموجودة في هذا الجهاز
+    </string>
+  <string name="message_backup_file_not_found">
+        لا توجد النسخ الاحتياطي للملفات الموجودة في هذا الجهاز
+    </string>
+  <string name="message_backup_stored">جهات الاتصال وقد تم احتياطياً في الملف:</string>
+  <string name="message_save_external">تسجيل الاتصال المخزنة في مجلد خارجي: </string>
+  <string name="message_loading_files">البحث في المجلدات المحلية...</string>
+  <string name="message_loading_backup_files">البحث في الجهاز لملفات النسخ الاحتياطي...</string>
+  <string name="message_backup_freeversion">
+        الحد الأقصى لعدد سجلات المكالمات التي يمكن أن تدعمها في هذا الإصدار المجاني:
+    </string>
+  <string name="message_backup_paidversion">
+        جميع سجلات المكالمات وقد تم بنجاح النسخ الاحتياطي في ملف
+    </string>
+</resources>

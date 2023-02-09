@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">응용 프로그램에 문제가 있는 경우에, 당신은 게시자 이메일과 문제 해결 같은 것입니다?</string>
+  <string name="message_check_for_rating">것이 애플 리 케이이 션에 대 한 의견을 남길 원하십니까?</string>
+  <string name="message_tellafriend_subject">이 애플 리 케이이 션을 확인</string>
+  <string name="message_email_send_error">이메일 전송 오류</string>
+  <string name="message_tellafriend_body">이 봐, 체크 아웃이 멋진 app:\n</string>
+  <string name="message_start_activity_error">활동. \n 시작 문제가 발생 했습니다.</string>
+  <string name="message_demo_video">데모 동영상을 같은 것입니다.
+        (이 메시지가 한 번만 표시 됩니다)?</string>
+  <string name="message_help_documentation_fail">도움말 문서를 로드할 수 없습니다.
+    보려면 브라우저에서 http://www.dasmic.com을 방문 하시기 바랍니다 도움말.</string>
+  <string name="message_rate_this_app">당신은이 응용 프로그램을 평가 하 여 다른 사람을 도울 수 있습니다.?</string>
+  <string name="message_rate_this_app_error">등급 페이지를 열 수 없습니다. 등급을 주고 구글 플레이 스토어를 사용 하시기 바랍니다</string>
+  <string name="message_feedback_subject">응용 프로그램에 대 한 의견</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">Zatrzymanie</string>
+  <string name="message_stop_tasks">Zatrzymywanie, uruchamianie zadań...</string>
+  <string name="message_user_tasks_stopped">Zadania użytkownika zatrzymana</string>
+  <string name="message_system_tasks_stopped">Zadania systemu zatrzymana</string>
+  <string name="message_process_still_running">Zadania, które nadal działa</string>
+  <string name="message_stop_running_tasks">Zatrzymać uruchomione aplikacje i Zamknij Bluetooth/sieci bezprzewodowej?</string>
+  <string name="message_stopping_running_tasks">Zatrzymanie Bluetooth i Wireless</string>
+  <string name="message_battery_current_percentage">Bieżący poziom % baterii:</string>
+  <string name="message_no_user_process">Nie ma uruchomionego procesu użytkownika, Znalezione</string>
+</resources>

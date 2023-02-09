@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Audio rasp</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="activity_extract_pictures">Uittreksel Audio</string>
+  <string name="button_Select_All">Selecteer alle</string>
+  <string name="button_UnSelect_All">Un-Select All</string>
+  <string name="button_Delete">Verwijderen</string>
+  <string name="button_Update">Update</string>
+  <string name="button_Share">Delen</string>
+  <string name="button_Yes">Ja</string>
+  <string name="button_No">No</string>
+  <string name="button_apply">Toepassing</string>
+  <string name="button_browse">Bladeren</string>
+  <string name="button_close">Sluiten</string>
+  <string name="button_play">Spelen</string>
+  <string name="button_stop">Stop</string>
+  <string name="button_Confirm">Bevestigen</string>
+  <string name="button_Ok">OK</string>
+  <string name="text_import_file_name">Naam</string>
+  <string name="text_import_file_size">Grootte</string>
+  <string name="general_items">item (s)</string>
+  <string name="general_selected_items">geselecteerd</string>
+  <string name="general_error">Fout</string>
+  <string name="title_confirm">Bevestigen</string>
+  <string name="button_ok">OK</string>
+  <string name="button_cancel">Annuleren</string>
+  <string name="free_space">Totale vrije ruimte:</string>
+  <string name="title_share">Delen via:</string>
+  <string name="title_rename">Voer nieuwe naam  </string>
+  <string name="title_create_folder">Voer mapnaam in  </string>
+</resources>

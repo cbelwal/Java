@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Updated this on 3/24/2018 to have a common action bar -->
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="android:actionBarStyle">@style/StyleActionBar</item>
+    </style>
+
+    <!--item name="colorPrimary">@color/material_deep_teal_200</item-->
+    <style name="StyleActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/material_deep_teal_200</item>
+    </style>
+
+</resources>

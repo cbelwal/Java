@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Bladeren</string>
+  <string name="backup_options_backupusing">Met behulp van de back-up</string>
+  <string name="transfer_address_home">Huis</string>
+  <string name="transfer_address_office">Office</string>
+  <string name="transfer_contact_office">(W).</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(M)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">In Favorieten</string>
+  <string name="transfer_not_in_favorites">Niet in Favorieten</string>
+  <string name="transfer_times_contacted">Tijden contact op met:</string>
+  <string name="transfer_last_time_contacted">Laatste keer contact opgenomen met:</string>
+  <string name="transfer_organization">Organisatie</string>
+  <string name="transfer_title">Titel</string>
+  <string name="transfer_event_birthday">Verjaardag</string>
+  <string name="transfer_event_anniv">Verjaardag</string>
+  <string name="transfer_event_other">Andere</string>
+  <string name="check_phone">Telefoonnummer (s)</string>
+  <string name="check_email">E-mail</string>
+  <string name="csv_header_name">Naam</string>
+  <string name="csv_header_phone">Telefoonnummer (s)</string>
+  <string name="csv_header_email">Email adres(sen)</string>
+  <string name="csv_header_postal">Postal adres</string>
+  <string name="csv_header_timescontacted">Malen gecontacteerd</string>
+  <string name="csv_header_lasttimecontact">Laatste keer gecontacteerd</string>
+  <string name="csv_header_favorite">Favoriete Status</string>
+  <string name="csv_header_organization">Organisatie</string>
+  <string name="check_postaladdress">Postadres</string>
+  <string name="check_timescontacted">Aantal keren gecontacteerd</string>
+  <string name="check_lastcontact">Laatste contacttijd</string>
+  <string name="check_isfavorite">Favoriete status</string>
+  <string name="share_options_ShareAs">Delen als:</string>
+  <string name="share_options_ShareUsing">Delen via:</string>
+  <string name="share_options_sms">Messaging</string>
+  <string name="share_options_allshare">Delen van toepassingen (Cloud, E-mail,...)</string>
+  <string name="share_options_Clipboard">Naar klembord kopiëren</string>
+  <string name="share_options_plaintext">Tekst zonder opmaak</string>
+  <string name="share_options_vcf">Afzonderlijke Vcard-bestanden</string>
+  <string name="share_options_combinedvcf">Gecombineerde Vcard-bestand</string>
+  <string name="export_options_textfile">Platte tekstbestand</string>
+  <string name="export_options_combinedvcf_21">Gecombineerde vCard 2.1-bestand</string>
+  <string name="export_options_individualvcf_21">Afzonderlijke vCard 2.1 bestand(en)</string>
+  <string name="export_options_combinedvcf_40">Gecombineerde vCard 4.0-bestand</string>
+  <string name="export_options_individualvcf_40">Afzonderlijke vCard 4.0 bestand(en)</string>
+  <string name="export_options_csvfile">Komma gescheiden (*.csv) bestand</string>
+  <string name="export_options_externalStorage">Externe opslag van dit apparaat</string>
+  <string name="export_options_ExportAs">Exportformaat:</string>
+  <string name="export_options_ExportUsing">Sla bestand in:</string>
+  <string name="message_import_invalid_file">Niet een geldig bestand is contact
+        </string>
+  <string name="backup_options_using">Back-upbestand in opslaan:</string>
+  <string name="menu_import_help">Help</string>
+  <string name="message_backup_options">Het is aanbevolen om back-up in toepassingen delen zoals Cloud, E-mail enz.
+        Hierdoor zal u contactpersonen kunt herstellen als u ooit uw telefoon kwijtraakt.
+        Contactpersonen uit E-mail/Cloud handmatig terugzetten opslaan het back-upbestand van de contactpersonen van uw E-mail/Cloud-account naar een willekeurige locatie in dit apparaat. De invoernut zal dan automatisch het bestand.</string>
+  <string name="message_restore_fail">
+        Kon niet herstellen vanaf back-up, het back-upbestand is beschadigd of ontbreekt
+                </string>
+  <string name="message_restore_refresh">Contactpersonen worden hersteld vanuit back-upbestand. Vernieuw de weergave om te zien alle geïmporteerde contactpersonen</string>
+  <string name="message_restore_selection_finish">Contactpersonen worden hersteld vanuit back-upbestand. U kunt nu sluit dit scherm of importeren vanuit een ander back-up bestand</string>
+  <string name="message_restore_legacy_name">Back-upbestand uitgeroepen tot \'BackupAllContacts.vcf\' in oudere versies</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Număr de log(s) de apel selectat: </string>
+  <string name="text_bt_paired_devices"> Dispozitive pereche (selectare pentru a vă conecta)</string>
+  <string name="text_bt_new_devices"> Noile dispozitive (selectare pentru a vă conecta)</string>
+  <string name="message_bt_scan_devices">Scanare pentru dispozitive...</string>
+  <string name="message_bt_scan_complete">Terminat de scanare pentru dispozitive</string>
+  <string name="message_bt_pair_devices">Dispozitive de cuplare...</string>
+  <string name="message_bt_new_none">Nu dispozitive noi găsite</string>
+  <string name="message_bt_pair_none">Nici un dispozitiv împerecheat găsite</string>
+  <string name="message_bt_conn_lost">Pierdut dispozitiv de conectare</string>
+  <string name="message_bt_connecting">Conectare la: </string>
+  <string name="message_bt_not_enabled">Bluetooth nu este activat, Bluetooth Transfer de închidere</string>
+  <string name="message_bt_status_listening">Asculta...</string>
+  <string name="message_bt_status_connecting">Conectarea...</string>
+  <string name="message_bt_status_connected">Conectat</string>
+  <string name="message_bt_testdata_sent">Trimis de Testdata</string>
+  <string name="message_bt_no_contacts">Nici un contact selectat pentru a trimite</string>
+  <string name="message_bt_recv_complete">Primi datele complete</string>
+  <string name="message_bt_not_connected">Nu sunt conectat la orice dispozitiv</string>
+  <string name="message_bt_adapter_error">A existat o eroare de înfiinţarea de Bluetooth.
+            Vă rugăm să verificaţi dacă telefonul dispune de Bluetooth şi adaptorul Bluetooth este activată</string>
+  <string name="menu_bt_make_discoverable">Face dispozitiv de descoperit</string>
+  <string name="progressbar_bt_recv_data">Gata să primească date de contact...</string>
+  <string name="message_bt_connected">Conectat la aparat.
+        Apăsaţi \'Send\' pentru a transfera apelul log(s) pentru: </string>
+  <string name="message_bt_conn_failed">Conexiunea a eşuat la dispozitiv.
+    Vă rugăm să vă asigura că această app este instalat şi Bluetooth ecran este deschisă în: </string>
+  <string name="message_bt_sent_error">Ar putea transfera aceste numărul de apel log(s): </string>
+  <string name="message_bt_recv_error">Imposibil de creat aceste numărul de apel log(s): </string>
+  <string name="message_bt_create_complete">Creat de log(s) de apel primite: </string>
+  <string name="message_bt_sent_complete">apel log(s) trimis la aparat: </string>
+  <string name="progressbar_bt_send_data">Transferare apel log(s) </string>
+  <string name="progressbar_bt_bytes">octeţi </string>
+  <string name="progressbar_bt_create_contacts">Crearea de apel log(s)</string>
+  <string name="progressbar_delete_data">
+        Ştergerea apel log(s) </string>
+  <string name="button_scan">Scanare</string>
+  <string name="button_send">Trimite</string>
+</resources>

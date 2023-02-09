@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Số lượng các địa chỉ liên hệ đã chọn: </string>
+  <string name="text_bt_paired_devices"> Thiết bị ghép nối (chọn kết nối)</string>
+  <string name="text_bt_new_devices"> Thiết bị mới (chọn kết nối)</string>
+  <string name="message_bt_scan_devices">Quét cho các thiết bị...</string>
+  <string name="message_bt_scan_complete">Đã hoàn thành quét cho các thiết bị</string>
+  <string name="message_bt_pair_devices">Các thiết bị ghép nối...</string>
+  <string name="message_bt_new_none">Không có thiết bị mới được tìm thấy</string>
+  <string name="message_bt_pair_none">Không có thiết bị ghép nối được tìm thấy</string>
+  <string name="message_bt_conn_lost">Kết nối bị mất điện thoại</string>
+  <string name="message_bt_connecting">Kết nối: </string>
+  <string name="message_bt_not_enabled">Bluetooth chưa được kích hoạt, đóng chuyển Bluetooth</string>
+  <string name="message_bt_status_listening">Nghe...</string>
+  <string name="message_bt_status_connecting">Đang kết nối...</string>
+  <string name="message_bt_status_connected">Kết nối</string>
+  <string name="message_bt_testdata_sent">Testdata gửi</string>
+  <string name="message_bt_no_contacts">Không có địa chỉ liên hệ đã chọn để gửi</string>
+  <string name="message_bt_recv_complete">Nhận dữ liệu đầy đủ</string>
+  <string name="message_bt_not_connected">Không kết nối bất kỳ thiết bị</string>
+  <string name="message_bt_adapter_error">Đã có một lỗi thiết lập Bluetooth.
+            Xin vui lòng kiểm tra xem điện thoại có Bluetooth và bộ điều hợp Bluetooth được kích hoạt</string>
+  <string name="menu_bt_make_discoverable">Làm cho thiết bị phát hiện</string>
+  <string name="progressbar_bt_recv_data">Sẵn sàng để nhận được dữ liệu liên hệ...</string>
+  <string name="message_bt_startup">Đảm bảo cùng một ứng dụng đang chạy và màn hình này mở thiết bị khác</string>
+</resources>

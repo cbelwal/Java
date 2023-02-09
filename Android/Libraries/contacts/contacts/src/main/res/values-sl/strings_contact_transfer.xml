@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Prebrskaj</string>
+  <string name="backup_options_backupusing">Prislon using</string>
+  <string name="transfer_address_home">Dom</string>
+  <string name="transfer_address_office">Urad</string>
+  <string name="transfer_contact_office">(W).</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(M)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">V priljubljene</string>
+  <string name="transfer_not_in_favorites">Ne v priljubljene</string>
+  <string name="transfer_times_contacted">Krat v stik:</string>
+  <string name="transfer_last_time_contacted">Zadnjič stik:</string>
+  <string name="transfer_organization">Organizacija</string>
+  <string name="transfer_title">Naslov</string>
+  <string name="transfer_event_birthday">Rojstni dan</string>
+  <string name="transfer_event_anniv">Obletnica</string>
+  <string name="transfer_event_other">Drugih</string>
+  <string name="check_phone">Telefonske številke</string>
+  <string name="check_email">E-pošta</string>
+  <string name="csv_header_name">ime</string>
+  <string name="csv_header_phone">Telefonske številke</string>
+  <string name="csv_header_email">E-poštni naslovi</string>
+  <string name="csv_header_postal">Poštni naslovi</string>
+  <string name="csv_header_timescontacted">Krat stik</string>
+  <string name="csv_header_lasttimecontact">Zadnjič stik</string>
+  <string name="csv_header_favorite">Najljubši Status</string>
+  <string name="csv_header_organization">Organizacija</string>
+  <string name="check_postaladdress">Poštni naslov</string>
+  <string name="check_timescontacted">Večkrat stopila v stik</string>
+  <string name="check_lastcontact">Zadnji čas</string>
+  <string name="check_isfavorite">Najljubši stanje</string>
+  <string name="share_options_ShareAs">Delež kot:</string>
+  <string name="share_options_ShareUsing">Omogočanje skupne rabe prek:</string>
+  <string name="share_options_sms">Sporočanje</string>
+  <string name="share_options_allshare">Skupno aplikacije (oblak, Email,...)</string>
+  <string name="share_options_Clipboard">Kopiranje v odložišče</string>
+  <string name="share_options_plaintext">Golo besedilo</string>
+  <string name="share_options_vcf">Posamezne datoteke Vcard</string>
+  <string name="share_options_combinedvcf">Kombinirani datoteke Vcard</string>
+  <string name="export_options_textfile">Navaden besedilno datoteko</string>
+  <string name="export_options_combinedvcf_21">Kombinirani 2.1 vizitko vCard</string>
+  <string name="export_options_individualvcf_21">Posamezna vCard 2.1 datoteke</string>
+  <string name="export_options_combinedvcf_40">Kombinirani 4.0 vizitko vCard</string>
+  <string name="export_options_individualvcf_40">Datotek posameznih vCard 4.0</string>
+  <string name="export_options_csvfile">Z vejico (*.csv) Separated datoteke</string>
+  <string name="export_options_externalStorage">Zunanje pomnilne naprave</string>
+  <string name="export_options_ExportAs">Izvozne oblike zapisa:</string>
+  <string name="export_options_ExportUsing">Shranite datoteko v:</string>
+  <string name="message_import_invalid_file">Ni veljavna datoteka stika
+        </string>
+  <string name="backup_options_using">Shranite varnostno kopijo v:</string>
+  <string name="menu_import_help">pomoč</string>
+  <string name="message_backup_options">Priporočamo, da varnostno kopijo v delež aplikacije kot oblak, Email itd.
+        To bo omogočilo, da izterja stiki, če ga kdaj izgubite telefon.
+        Za obnovitev stikov iz Email/oblak ročno shranite varnostno kopijo stiki iz računa Email/oblak kamor koli v tej napravi. Uvoz pripomoček bo samodejno poiščite datoteko.</string>
+  <string name="message_restore_fail">
+        Ni uspelo obnoviti iz varnostne kopije, prislon pila je odsoten ali sprijen
+                </string>
+  <string name="message_restore_refresh">Stiki so se obnavlja iz varnostne kopije. Osvežite zaslon za prikaz vse uvožene stiki</string>
+  <string name="message_restore_selection_finish">Stiki so se obnavlja iz varnostne kopije. Zdaj lahko zaprete ta zaslon ali uvozite iz druge datoteke varnostne kopije</string>
+  <string name="message_restore_legacy_name">Varnostna kopija datoteke je bil imenovan \'BackupAllContacts.vcf\' v starejših različicah</string>
+</resources>

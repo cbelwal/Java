@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">وضعیت</string>
+  <string name="filter_text_option">گزینه های</string>
+  <string name="filter_text_value_days">روز</string>
+  <string name="filter_text_value_duration">Duration(s)</string>
+  <string name="filter_text_value_location">محل</string>
+  <string name="filter_options_from_stored_contacts">از مخاطبین ذخیره شده</string>
+  <string name="filter_options_more_than_entered_days">بیش از روز</string>
+  <string name="filter_options_less_than_entered_days">کمتر از روز</string>
+  <string name="filter_options_more_than_duration">بیش از مدت زمان</string>
+  <string name="filter_options_less_than_duration">کمتر از مدت زمان</string>
+  <string name="filter_options_from_entered_location">از محل</string>
+  <string name="filter_options_none">بدون فیلتر</string>
+  <string name="filter_show_show">نمایش</string>
+  <string name="filter_show_noshow">نمایش</string>
+</resources>

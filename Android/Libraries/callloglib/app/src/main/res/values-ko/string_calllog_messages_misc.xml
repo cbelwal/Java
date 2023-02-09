@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">이 응용 프로그램에 통화를 할 수 있는 권한이 부여 되지 않은</string>
+  <string name="message_search_number_security_exception">이 전화 번호를 검색 하지 수! Google 검색은 사용할 수 없습니다 또는이 장치에 권한이 부여 되지 않은</string>
+  <string name="message_free_version_selection">
+        무료 버전에서 선택할 수 있는 최대 로그 항목은: </string>
+  <string name="message_purchase_error">
+        Google 서버에 연결할 수 없습니다. 응용 프로그램을 다시 시작 하 고 다시 시도 하십시오
+    </string>
+</resources>

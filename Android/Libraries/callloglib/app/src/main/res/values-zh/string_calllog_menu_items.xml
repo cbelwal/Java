@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">按时间排序</string>
+  <string name="nav_view_outgoingcalls_cl">拨出电话</string>
+  <string name="nav_view_incomingcalls_cl">传入呼叫</string>
+  <string name="nav_view_missedcalls_cl">未接的来电</string>
+  <string name="nav_view_callduration_cl">按时间排序</string>
+  <string name="nav_view_geocoded_location_cl">按位置排序</string>
+  <string name="nav_view_refresh_cl">刷新</string>
+  <string name="nav_view_100_records">高达 100</string>
+  <string name="nav_view_500_records">高达 500</string>
+  <string name="nav_view_all_records">所有可用</string>
+  <string name="nav_menu_group_general_cl">一般</string>
+  <string name="nav_menu_group_help_cl">帮助</string>
+  <string name="nav_menu_group_log_length">查看数</string>
+  <string name="nav_menu_group_viewoptions_cl">选项</string>
+  <string name="nav_menu_group_views_cl">视图</string>
+  <string name="nav_menu_group_operations_cl">操作</string>
+  <string name="nav_menu_group_backup_cl">备份</string>
+  <string name="nav_menu_rate_this_app_cl">反馈</string>
+  <string name="nav_menu_backup_contacts_cl">备份所有的呼叫日志条目</string>
+  <string name="nav_menu_restore_contacts_cl">从备份中还原呼叫日志</string>
+  <string name="nav_menu_upgrade_cl">升级至 Pro 版</string>
+  <string name="nav_menu_filter_cl">显示筛选程序</string>
+  <string name="nav_menu_duplicates_cl">重复项工具包</string>
+  <string name="nav_menu_tellafriend_cl">告诉你的朋友</string>
+  <string name="nav_menu_feedback_cl">联系 Dasmic</string>
+  <string name="nav_menu_demovideo_cl">演示视频</string>
+  <string name="nav_menu_coju_cl">下载 Coju</string>
+  <string name="menu_operations_cl">批量更新</string>
+  <string name="menu_add_cl">添加</string>
+  <string name="menu_edit_cl">编辑</string>
+  <string name="menu_update_cl">更新</string>
+  <string name="menu_share_cl">共享</string>
+  <string name="menu_export_cl">出口</string>
+  <string name="menu_import_cl">导入</string>
+  <string name="menu_delete_cl">删除</string>
+  <string name="menu_bluetooth_cl">蓝牙传输</string>
+</resources>

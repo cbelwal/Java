@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Общие</string>
+  <string name="nav_menu_group_help">Справка</string>
+  <string name="nav_menu_group_viewoptions">Параметры</string>
+  <string name="nav_menu_group_views">Представления</string>
+  <string name="nav_menu_group_operations">Операции</string>
+  <string name="nav_menu_group_backup">Резервное копирование</string>
+  <string name="nav_menu_rate_this_app">Обратная связь</string>
+  <string name="nav_menu_backup_contacts">Резервное копирование всех контактов</string>
+  <string name="nav_menu_restore_contacts">Восстановление контактов из резервной копии</string>
+  <string name="nav_menu_upgrade">Обновление до Pro версии</string>
+  <string name="nav_menu_filter">Фильтр отображения</string>
+  <string name="nav_menu_duplicates">Дубликаты Инструментарий</string>
+  <string name="nav_menu_tellafriend">Рассказать другу</string>
+  <string name="nav_menu_feedback">Контактная Dasmic</string>
+  <string name="nav_menu_demovideo">Демо-видео</string>
+  <string name="nav_menu_coju_outlook">Coju для Microsoft Outlook</string>
+  <string name="nav_menu_coju">Скачать Coju</string>
+  <string name="display_options_all_TimesContacted">Сортировка по раз связался с</string>
+  <string name="display_options_all_last_contact">Сортировка по времени последнего контакта</string>
+  <string name="display_options_all">Сортировка по имени</string>
+  <string name="display_options_phonenumber">Отсортированный телефонные номера</string>
+  <string name="display_options_email">Адреса электронной почты отсортированный</string>
+  <string name="display_options_deleted">Удаленные контакты</string>
+  <string name="display_options_refresh">Обновить экран</string>
+  <string name="action_Operations">Массового обновления</string>
+  <string name="action_Export">Экспорт контакты</string>
+  <string name="action_delete">Удаление контакт(а)</string>
+  <string name="action_Import">Импортировать контакты</string>
+  <string name="action_edit">Редактирование контакта</string>
+  <string name="action_add">Добавить контакт</string>
+  <string name="action_share">Доля контакты</string>
+  <string name="action_bluetooth">Передача по Bluetooth</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">اسم + مباراة رقم WhatsApp</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">نفس رقم WhatsApp في أسماء متعددة</string>
+  <string name="duplicate_options_name_matches_email_phone">اسم + مباراة الهاتف/البريد الإلكتروني</string>
+  <string name="duplicate_options_name_matches_phone">اسم + مباراة الهاتف</string>
+  <string name="duplicate_options_name_matches_email">اسم + مباراة البريد الإلكتروني</string>
+  <string name="duplicate_options_same_number_multi_name">نفس العدد في أسماء متعددة</string>
+  <string name="duplicate_options_same_email_multi_name">البريد الإلكتروني نفسه في أسماء متعددة</string>
+  <string name="duplicate_options_none">لا شيء</string>
+  <string name="progressbar_sel_duplicates">المسح الضوئي للتكرارات...</string>
+  <string name="message_duplicates_selected">لحذف duplicate(s) المحدد اضغط على أيقونة الحذف. لم يتم تحديد قيمة original(master) لكل مكررة ولن يتم حذف.</string>
+  <string name="choose_duplicate_option">اختر معيار تحديد التكرارات.
+        التكرارات جنبا إلى جنب مع قيمتها original(master) سيتم عرضها في الشاشة الرئيسية وسيتم فحص تلقائي للحذف. لم يتم التحقق من قيمة Original(master).</string>
+  <string name="startup_message">استخدم رمز مكررة في أعلى اليمين لتعيين خيار عرض التكرارات</string>
+  <string name="message_duplicates_backup">من المستحسن أن احتياطية جهات الاتصال الخاصة بك قبل حذفها</string>
+</resources>

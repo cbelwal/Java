@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Tillykke, fik du en høj score!</string>
+  <string name="message_game_end_new_game">Nuværende spil er op! Vil du gerne starte et nyt spil?</string>
+  <string name="message_custom_board">Klik på tomme huller at tempoet en pind. Tryk på låse-knappen når du er færdig</string>
+  <string name="message_custom_board_done">Brugerdefinerede brættet er installationsprogrammet, kan du begynde at spille.
+    Bemærk, at high scores for brugerdefinerede boards ikke er registreret</string>
+  <string name="message_intro_first">
+        Flytte en pind til en tilgængelig hul i en lige linje hoppe over en anden pind
+    </string>
+  <string name="message_intro_second">Pind sprang over er fjernet</string>
+  <string name="message_intro_third">Prøv at fjerne så mange pinde som muligt</string>
+  <string name="message_intro_fourth">Kom kun 1 pind resterende er målet</string>
+  <string name="message_board_reset_confirm">Dette vil annullere den nuværende bestyrelse. Vil du fortsætte?</string>
+  <string name="message_game_over">Ikke flere bevægelser er mulige. Spillet er op!</string>
+  <string name="message_solver_complete">Problemløser har beregnet de træk, der fører til et minimum antal pegs.\n\nUse fremad-knappen for at se bestyrelsen flytter.</string>
+  <string name="message_solver_complete_free">Problemløser har beregnet de træk, der fører til et minimum antal pløkker. Da dette er en gratis version, kan at Problemløser finde en løsning, der fører til et minimum af 3 pinde kun. I den betalte version kan af Problemløser finde en løsning med 1 peg.\n\nUse fremad-knappen for at se bestyrelsen flytter.
+    </string>
+  <string name="message_solver_complete_title">Fundet løsning med pinde: </string>
+  <string name="message_solver_inprogress_title">Søger efter løsning...</string>
+  <string name="message_solver_inprogress">Nuværende laveste pind tæller: </string>
+  <string name="message_solver_start_confirm">Afhængigt af den nuværende bestyrelse, kan at Problemløser tage et par sekunder til adskillige minutter i computing løsning med mindst antal pløkker.
+    Da Problemløser gør en masse beregninger, vil det nedbryder batteristrøm.
+        Det anbefales, at du lægger telefonen på opladning før du starter Problemløser.
+    Mens kører Problemløser kan afbrydes når som helst og seneste pind resultat vil være tilgængelig.</string>
+  <string name="message_solver_mode_play_board">
+        Kan ikke spille spillet i Problemløser tilstand. Vælg nye spil at starte et nyt spil</string>
+  <string name="message_confirm_switch_from_standard">
+        Nuværende bestyrelse er sat til Standard, vil du ændre til fransk bord?</string>
+  <string name="message_confirm_switch_from_French">
+        Nuværende bestyrelse er sat til fransk, ønsker du at skifte til Standard board?</string>
+</resources>

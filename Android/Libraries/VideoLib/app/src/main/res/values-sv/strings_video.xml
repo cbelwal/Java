@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video rivjärn</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="activity_extract_pictures">Extrahera bilder</string>
+  <string name="button_Select_All">Markera alla</string>
+  <string name="button_UnSelect_All">Un-Markera alla</string>
+  <string name="button_Delete">Ta bort</string>
+  <string name="button_Update">Uppdatering</string>
+  <string name="button_Share">Andel</string>
+  <string name="button_Yes">Ja</string>
+  <string name="button_No">Nej</string>
+  <string name="button_apply">Applicera</string>
+  <string name="button_browse">Bläddra</string>
+  <string name="button_close">Stäng</string>
+  <string name="button_Confirm">Bekräfta</string>
+  <string name="button_Ok">Okej</string>
+  <string name="text_import_file_name">Namn</string>
+  <string name="text_import_file_size">Storlek</string>
+  <string name="general_items">Item (s)</string>
+  <string name="general_selected_items">utvalda</string>
+  <string name="general_error">Fel</string>
+  <string name="title_confirm">Bekräfta</string>
+  <string name="button_ok">Okej</string>
+  <string name="button_cancel">Avbryt</string>
+  <string name="free_space">Totala utrymme:</string>
+  <string name="title_share">Dela med:</string>
+  <string name="title_rename">Ange nytt namn  </string>
+  <string name="title_create_folder">Ange mappnamn  </string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Numer wybranego połączenia dzienniki: </string>
+  <string name="text_bt_paired_devices"> Powiązane urządzenia (wybierz Connect)</string>
+  <string name="text_bt_new_devices"> Nowe urządzenia (wybierz Connect)</string>
+  <string name="message_bt_scan_devices">Skanowanie urządzeń...</string>
+  <string name="message_bt_scan_complete">Zakończeniu skanowania dla urządzeń</string>
+  <string name="message_bt_pair_devices">Parowanie urządzeń...</string>
+  <string name="message_bt_new_none">Nie nowych urządzeń, Znalezione</string>
+  <string name="message_bt_pair_none">Nie znaleziono urz±dzenia powi±zane</string>
+  <string name="message_bt_conn_lost">Połączenia do urządzenia</string>
+  <string name="message_bt_connecting">Łączenie do: </string>
+  <string name="message_bt_not_enabled">Bluetooth nie jest włączona, zamknięcia transferu Bluetooth</string>
+  <string name="message_bt_status_listening">Słuchanie muzyki...</string>
+  <string name="message_bt_status_connecting">Łączenie...</string>
+  <string name="message_bt_status_connected">Podłączony</string>
+  <string name="message_bt_testdata_sent">TestData wysyłane</string>
+  <string name="message_bt_no_contacts">Nie kontaktów wybrane do wysyłania</string>
+  <string name="message_bt_recv_complete">Otrzymać pełne dane</string>
+  <string name="message_bt_not_connected">Nie podłączony do dowolnego urządzenia</string>
+  <string name="message_bt_adapter_error">Wystąpił błąd konfigurowania Bluetooth.
+            Proszę sprawdzić, czy telefon ma Bluetooth i Bluetooth adapter jest włączona</string>
+  <string name="menu_bt_make_discoverable">Wykrywalne urządzenia</string>
+  <string name="progressbar_bt_recv_data">Gotowa do odbioru danych kontaktowych...</string>
+  <string name="message_bt_connected">Podłączony do urządzenia.
+        Naciśnij \'Send\' do transferu Dzienniki połączeń do: </string>
+  <string name="message_bt_conn_failed">Połączenie nie powiodło się do urządzenia.
+    Upewnij się, że ta aplikacja jest zainstalowana i w otwarciu ekranu Bluetooth: </string>
+  <string name="message_bt_sent_error">Nie można przenieść te liczbę Dzienniki połączeń: </string>
+  <string name="message_bt_recv_error">Nie można utworzyć te liczby Dzienniki połączeń: </string>
+  <string name="message_bt_create_complete">Tworzone Dzienniki połączeń odebranych: </string>
+  <string name="message_bt_sent_complete">Dzienniki wywołań wysyłane do urządzenia: </string>
+  <string name="progressbar_bt_send_data">Przesyłanie Dzienniki połączeń </string>
+  <string name="progressbar_bt_bytes">bajtów </string>
+  <string name="progressbar_bt_create_contacts">Tworzenie Dzienniki połączeń</string>
+  <string name="progressbar_delete_data">
+        Usuwanie wywołania dzienniki </string>
+  <string name="button_scan">Skanowanie</string>
+  <string name="button_send">Wyślij</string>
+</resources>

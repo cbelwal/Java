@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_delete_confirm_cl">Seçili arama günlükleri Ayrıntılar silinir. Bu eylem geri alınamaz. Devam edilsin mi?</string>
+  <string name="message_delete_complete_cl"> Silinmiş günlükleri Ayrıntılar ara</string>
+</resources>

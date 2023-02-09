@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">Телефонен номер</string>
+  <string name="text_calllog_date">Дата</string>
+  <string name="text_calllog_time">Време</string>
+  <string name="text_calllog_duration">DURATION(s)</string>
+  <string name="text_calllog_type">Тип</string>
+  <string name="spinner_calllog_type_incoming">Входящи</string>
+  <string name="spinner_calllog_type_outgoing">Изходящи</string>
+  <string name="spinner_calllog_type_missed">Пропуснати</string>
+  <string name="message_calllog_added">Успешно добавени към дневник повиквания</string>
+  <string name="message_calllog_added_error">Неуспех при добавянето към викам дънер</string>
+  <string name="message_calllog_edited">Успешно актуализиран обаждане</string>
+  <string name="message_calllog_edited_error">Грешка при актуализиране на обаждане</string>
+</resources>

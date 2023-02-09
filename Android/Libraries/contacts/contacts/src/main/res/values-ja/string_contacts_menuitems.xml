@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">一般的です</string>
+  <string name="nav_menu_group_help">ヘルプ</string>
+  <string name="nav_menu_group_viewoptions">オプション</string>
+  <string name="nav_menu_group_views">表示モード</string>
+  <string name="nav_menu_group_operations">操作</string>
+  <string name="nav_menu_group_backup">バックアップ</string>
+  <string name="nav_menu_rate_this_app">フィードバック</string>
+  <string name="nav_menu_backup_contacts">バックアップすべての連絡先</string>
+  <string name="nav_menu_restore_contacts">連絡先をバックアップから復元します。</string>
+  <string name="nav_menu_upgrade">Pro にアップグレード版</string>
+  <string name="nav_menu_filter">ディスプレイ フィルター</string>
+  <string name="nav_menu_duplicates">重複ツールキット</string>
+  <string name="nav_menu_tellafriend">友達に教える</string>
+  <string name="nav_menu_feedback">連絡先 Dasmic</string>
+  <string name="nav_menu_demovideo">デモ ・ ビデオ</string>
+  <string name="nav_menu_coju_outlook">Microsoft Outlook の Coju</string>
+  <string name="nav_menu_coju">Coju をダウンロードします。</string>
+  <string name="display_options_all_TimesContacted">連絡時間順</string>
+  <string name="display_options_all_last_contact">最後の通信時刻順</string>
+  <string name="display_options_all">名前でソート</string>
+  <string name="display_options_phonenumber">並べ替えられた電話番号</string>
+  <string name="display_options_email">並べ替えられた e メール アドレス</string>
+  <string name="display_options_deleted">連絡先を削除</string>
+  <string name="display_options_refresh">表示を更新します。</string>
+  <string name="action_Operations">一括更新</string>
+  <string name="action_Export">連絡先をエクスポートします。</string>
+  <string name="action_delete">連絡先を削除します。</string>
+  <string name="action_Import">連絡先をインポートします。</string>
+  <string name="action_edit">連絡先を編集します。</string>
+  <string name="action_add">連絡先を追加します。</string>
+  <string name="action_share">連絡先を共有します。</string>
+  <string name="action_bluetooth">Bluetooth 転送</string>
+</resources>

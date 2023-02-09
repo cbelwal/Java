@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Nie udzielono uprawnienia do wykonywania wywołań do tej aplikacji</string>
+  <string name="message_search_number_security_exception">Nie może przeszukiwać ten numer telefonu! Wyszukiwarka Google nie jest włączona lub nie zostało udzielone uprawnienie tego urz±dzenia</string>
+  <string name="message_free_version_selection">
+        Wpisy dziennika maksymalne, które można wybrać w wersji darmowej jest: </string>
+  <string name="message_purchase_error">
+        Nie można połączyć się serwerem Google. Uruchom ponownie aplikację i spróbuj ponownie
+    </string>
+</resources>

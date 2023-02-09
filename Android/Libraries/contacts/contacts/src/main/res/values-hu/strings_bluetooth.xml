@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">A kijelölt kapcsolatok száma: </string>
+  <string name="text_bt_paired_devices"> Párosított eszközök (válassza a csatlakozás)</string>
+  <string name="text_bt_new_devices"> Új eszközök (válassza a csatlakozás)</string>
+  <string name="message_bt_scan_devices">Fürkésző részére eszközök...</string>
+  <string name="message_bt_scan_complete">Kész szkennelés eszközök</string>
+  <string name="message_bt_pair_devices">Párosítás eszközök...</string>
+  <string name="message_bt_new_none">Nem új berendezés alapít</string>
+  <string name="message_bt_pair_none">Nincs párosított eszközöket találtak</string>
+  <string name="message_bt_conn_lost">Kapcsolat megszakadt-eszköz</string>
+  <string name="message_bt_connecting">Kapcsolódás: </string>
+  <string name="message_bt_not_enabled">Záró Bluetooth-átvitel nincs engedélyezve, Bluetooth</string>
+  <string name="message_bt_status_listening">Hallgat...</string>
+  <string name="message_bt_status_connecting">Csatlakozás...</string>
+  <string name="message_bt_status_connected">Csatlakozó</string>
+  <string name="message_bt_testdata_sent">Testdata küldött</string>
+  <string name="message_bt_no_contacts">Nincs kiválasztva az elküldendő kapcsolatok</string>
+  <string name="message_bt_recv_complete">Adatfogadás teljes</string>
+  <string name="message_bt_not_connected">Nem összekapcsolt-hoz akármi berendezés</string>
+  <string name="message_bt_adapter_error">Volt egy hiba a Bluetooth beállításakor.
+            Kérjük, ellenőrizze, ha a telefon a Bluetooth és a Bluetooth-adapter bekapcsolt</string>
+  <string name="menu_bt_make_discoverable">Eszköz felderíthetővé</string>
+  <string name="progressbar_bt_recv_data">Kapcsolati adatok fogadására kész...</string>
+  <string name="message_bt_startup">Győződjön meg arról, hogy az azonos app fut, és ez a képernyő nyitott más készülék</string>
+</resources>

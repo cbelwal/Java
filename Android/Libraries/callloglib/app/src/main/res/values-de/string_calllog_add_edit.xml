@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">Telefonnummer</string>
+  <string name="text_calllog_date">Datum</string>
+  <string name="text_calllog_time">Zeit</string>
+  <string name="text_calllog_duration">Duration(s)\"</string>
+  <string name="text_calllog_type">Typ</string>
+  <string name="spinner_calllog_type_incoming">Eingehende</string>
+  <string name="spinner_calllog_type_outgoing">Ausgehende</string>
+  <string name="spinner_calllog_type_missed">Verpasst</string>
+  <string name="message_calllog_added">Erfolgreich hinzugefügt um Protokoll aufrufen</string>
+  <string name="message_calllog_added_error">Fehler beim Hinzufügen zu Protokoll aufrufen</string>
+  <string name="message_calllog_edited">Erfolgreich aktualisierte Anrufprotokoll</string>
+  <string name="message_calllog_edited_error">Fehler beim Aktualisieren der Anrufliste</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Peg Solitaire reševalca</string>
+  <string name="message_tellafriend">To app je duševno challening igra Peg Solitaire znan tudi kot marmor solitaire ali Brainvita. Cilj igre je priti do najmanjše število kljukice, kot je mogoče. Kljukice so preselil v prazen luknjo po skakanje čez drug peg v ravni črti. Klin, skočil je odstranjen, ta način po vsaki premakniti število kljukice so zmanjša za eno. \n\n poleg standardnih igra, to app omogučiti vi zaiti vaš lasten meri krovu rešiti. Tam so nazaj in naprej gumbi, ki omogočajo vrnete poljubno število potez in igra tudi ohranja visoko scores.\n\n kaj naredi to app resnično edinstven pa svoje močne peg solitaire reševalca. Reševalca uporablja korektnost \'state-space\ \"algoritem rešiti vse dano krovu. Reševalca prišli do vseh potez, ki so potrebni, da pridejo na najmanjše možno število kljukice.
+        Če zaženete reševalca od začetka na novo krovu, se bo prikazal vse poteze, ki bo vodila k en klin. Ker najde rešitev za vsak odbor, reševalca, lahko traja nekaj minut, da se je solution.\n\n, da ga preizkusite! \n</string>
+</resources>

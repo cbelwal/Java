@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Gesorteerd op tijd</string>
+  <string name="nav_view_outgoingcalls_cl">Uitgaande gesprekken</string>
+  <string name="nav_view_incomingcalls_cl">Inkomende oproepen</string>
+  <string name="nav_view_missedcalls_cl">Gemiste oproepen</string>
+  <string name="nav_view_callduration_cl">Gesorteerd op duur</string>
+  <string name="nav_view_geocoded_location_cl">Gesorteerd op locatie</string>
+  <string name="nav_view_refresh_cl">Vernieuwen</string>
+  <string name="nav_view_100_records">T/m 100</string>
+  <string name="nav_view_500_records">T/m 500</string>
+  <string name="nav_view_all_records">Alle beschikbare</string>
+  <string name="nav_menu_group_general_cl">Algemene</string>
+  <string name="nav_menu_group_help_cl">Help</string>
+  <string name="nav_menu_group_log_length">Weergave graaf</string>
+  <string name="nav_menu_group_viewoptions_cl">Opties</string>
+  <string name="nav_menu_group_views_cl">Weergaven</string>
+  <string name="nav_menu_group_operations_cl">Operaties</string>
+  <string name="nav_menu_group_backup_cl">Back-up</string>
+  <string name="nav_menu_rate_this_app_cl">Feedback</string>
+  <string name="nav_menu_backup_contacts_cl">Back-up van alle vraagingangen log</string>
+  <string name="nav_menu_restore_contacts_cl">Bellijst terugzetten vanaf back-up</string>
+  <string name="nav_menu_upgrade_cl">Upgrade naar Pro versie</string>
+  <string name="nav_menu_filter_cl">Weergavefilter</string>
+  <string name="nav_menu_duplicates_cl">Duplicaten Toolkit</string>
+  <string name="nav_menu_tellafriend_cl">Vertel een vriend</string>
+  <string name="nav_menu_feedback_cl">Neem contact op met Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Video van de manifestatie</string>
+  <string name="nav_menu_coju_cl">Downloaden Coju</string>
+  <string name="menu_operations_cl">Bulk Updates</string>
+  <string name="menu_add_cl">Toevoegen</string>
+  <string name="menu_edit_cl">Bewerken</string>
+  <string name="menu_update_cl">Update</string>
+  <string name="menu_share_cl">Delen</string>
+  <string name="menu_export_cl">Exporteren</string>
+  <string name="menu_import_cl">Importeren</string>
+  <string name="menu_delete_cl">Verwijderen</string>
+  <string name="menu_bluetooth_cl">Bluetooth-overdracht</string>
+</resources>

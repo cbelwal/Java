@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">PEG Solitaire Ratkaisin</string>
+  <string name="message_tellafriend">Tämä app on henkisesti challening peliä Peg Solitaire tunnetaan myös marmori pasianssi tai Brainvita. Pelin tavoitteena on saada vähimmäismäärä tappeja kuin mahdollista. Tapit siirretään tyhjä reikä jälkeen hyppy yli toinen tappi suoraviivaisesti. Peg hyppäsi yli poistetaan, tällä tavalla, kun jokainen siirtää tappeja määrä vähennetään 1. \n\n lisäksi standardin peliä, tämä app voit määrittää oman mukautetun hallituksen ratkaista. On olemassa takaisin ja Seuraava-painikkeita, joiden avulla voit palata useita liikkuu ja peli pitää korkea scores.\n\n mutta tämä app tekee todella ainutlaatuinen on sen voimakas peg solitaire Ratkaisin. Ratkaisin käyttää käyttäytyminen \'state-space\ \"algoritmi ratkaista tietyllä aluksella. Ratkaisin keksivät kaikki liikkuu, joita tarvitaan päästä vähimmäismäärä koukkuja.
+        Jos suoritat Ratkaisin alusta uuden hallituksen, se näyttää kaikki liikkuu, joka johtaa tappi. Koska se löytää ratkaisu pöydällä, Ratkaisin voi kestää muutaman minuutin päästä solution.\n\n Kokeile! \n</string>
+</resources>

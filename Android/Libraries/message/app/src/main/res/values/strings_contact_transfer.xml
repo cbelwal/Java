@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_browse">Browse</string>
+    <string name="backup_options_backupusing">Backup using</string>
+
+    <string name="transfer_address_home">Home</string>
+    <string name="transfer_address_office">Office</string>
+    <string name="transfer_contact_office">(W)</string>
+    <string name="transfer_contact_home">(H)</string>
+    <string name="transfer_contact_mobile">(M)</string>
+    <string name="transfer_contact_other">(O)</string>
+    <string name="transfer_in_favorites">In Favorites</string>
+    <string name="transfer_not_in_favorites">Not in Favorites</string>
+    <string name="transfer_times_contacted">Times Contacted:</string>
+    <string name="transfer_last_time_contacted">Last Time Contacted:</string>
+    <string name="transfer_organization">Organization</string>
+    <string name="transfer_title">Title</string>
+
+    <string name="transfer_event_birthday">Birthday</string>
+    <string name="transfer_event_anniv">Anniversary</string>
+    <string name="transfer_event_other">Other</string>
+
+    <string name="check_phone">Phone Number(s)</string>
+    <string name="check_email">Email</string>
+
+    <string name="csv_header_name">Name</string>
+    <string name="csv_header_phone">Phone Number(s)</string>
+    <string name="csv_header_email">Email Address(es)</string>
+    <string name="csv_header_postal">Postal Address(es)</string>
+    <string name="csv_header_timescontacted">Times Contacted</string>
+    <string name="csv_header_lasttimecontact">Last Time Contacted</string>
+    <string name="csv_header_favorite">Favorite Status</string>
+    <string name="csv_header_organization">Organization</string>
+
+    <string name="check_postaladdress">Postal Address</string>
+    <string name="check_timescontacted">Number of times contacted</string>
+    <string name="check_lastcontact">Last contact time</string>
+    <string name="check_isfavorite">Favorite status</string>
+    <string name="share_options_ShareAs">Share as:</string>
+    <string name="share_options_ShareUsing">Share using:</string>
+    <string name="share_options_sms">Messaging</string>
+    <string name="share_options_allshare">Share applications (Cloud,Email,...)</string>
+    <string name="share_options_Clipboard">Copy to Clipboard</string>
+    <string name="share_options_plaintext">Plain text</string>
+    <string name="share_options_vcf">Individual Vcard file(s)</string>
+    <string name="share_options_combinedvcf">Combined Vcard file</string>
+    <string name="export_options_textfile">Plain text file</string>
+    <string name="export_options_combinedvcf_21">Combined vCard 2.1 file</string>
+    <string name="export_options_individualvcf_21">Individual vCard 2.1 file(s)</string>
+    <string name="export_options_combinedvcf_40">Combined vCard 4.0 file</string>
+    <string name="export_options_individualvcf_40">Individual vCard 4.0 file(s)</string>
+    <string name="export_options_csvfile">Comma Separated (*.csv) file</string>
+    <string name="export_options_externalStorage">External storage of this device</string>
+    <string name="export_options_ExportAs">Export Format:</string>
+    <string name="export_options_ExportUsing">Save file in:</string>
+    <string name="message_import_invalid_file">Not a valid contact file
+        </string>
+
+    <string name="backup_options_using">Save backup file in:</string>
+    <string name="menu_import_help">Help</string>
+
+
+    <string name="message_backup_options">It is recommended to backup in Share applications like Cloud, Email etc.
+        This will allow you to recover contacts if you ever lose your phone.
+        To restore contacts from Email/Cloud manually save the contacts backup file from your
+        Email/Cloud account to any location in this device. The import utility
+        will then automatically locate the file.</string>
+    <string name="message_restore_fail">
+        Could not restore from backup, the backup file is missing or corrupted
+                </string>
+    <string name="message_restore_refresh">Contacts are being restored from backup file. Please refresh the display
+        to see all imported contacts</string>
+    <string name="message_restore_selection_finish">Contacts are being restored from backup file. You can now close
+    this screen or import from another Backup file</string>
+    <string name="message_restore_legacy_name">Backup file was named
+        \'BackupAllContacts.vcf\' in older versions</string>
+
+
+</resources>

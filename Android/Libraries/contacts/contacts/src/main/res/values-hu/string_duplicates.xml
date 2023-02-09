@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Név + WhatsApp megfeleljen</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">WhatsApp ugyanazt a számot több nevek</string>
+  <string name="duplicate_options_name_matches_email_phone">Név + telefon/E-mail mérkőzés</string>
+  <string name="duplicate_options_name_matches_phone">Név + telefon mérkőzés</string>
+  <string name="duplicate_options_name_matches_email">Név + E-mail mérkőzés</string>
+  <string name="duplicate_options_same_number_multi_name">Ugyanazt a számot több név</string>
+  <string name="duplicate_options_same_email_multi_name">Ugyanaz elektronikus levél-ban több</string>
+  <string name="duplicate_options_none">Egyik sem</string>
+  <string name="progressbar_sel_duplicates">Ismétlődések keresése...</string>
+  <string name="message_duplicates_selected">Törlendő kiválasztott duplicate(s) nyomja meg a Törlés ikonra. Minden ismétlődő original(master) értéke nincs megadva, és nem törlődik.</string>
+  <string name="choose_duplicate_option">Válassza ki a ismétlődések azonosítására vonatkozó szempont.
+        Duplikált elemek, valamint a original(master) ár-érték jelenik meg a fő képernyőn, és auto-jelölve törlésre. Original(Master) érték nincs bejelölve.</string>
+  <string name="startup_message">Használja a másolat jobb felső megjelenítési beállítást az ismétlődések beállítása</string>
+  <string name="message_duplicates_backup">Ajánlatos, hogy backup névjegyeit, mielőtt törölné őket</string>
+</resources>

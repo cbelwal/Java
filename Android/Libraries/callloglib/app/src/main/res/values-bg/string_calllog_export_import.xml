@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Преглед</string>
+  <string name="backup_options_backupusing">Архивиране с помощта на</string>
+  <string name="export_options_externalStorage">Външен съхранение на това устройство</string>
+  <string name="share_options_shareas">Споделете като:</string>
+  <string name="share_options_allshare">Споделяне на приложения (облак, електронна поща,...)</string>
+  <string name="share_options_share_using">Споделяне с помощта на:</string>
+  <string name="share_options_sms">Съобщения</string>
+  <string name="share_options_clipboard">Копиране в клипборда</string>
+  <string name="export_options_ExportUsing">Запишете файла в:</string>
+  <string name="progressbar_prepare_data">Подготовка на повикване дневника списък...</string>
+  <string name="progressbar_backup">Архивирането обаждане, това може да отнеме няколко минути...</string>
+  <string name="backup_options_using">Запишете архивния файл в:</string>
+  <string name="menu_import_help">Помощ</string>
+  <string name="text_import_file_name">Избраният файл с име:</string>
+  <string name="text_import_file_size">Избраният файл Size(bytes):</string>
+  <string name="text_unknown_file_size">Неизвестен</string>
+  <string name="message_backup_options">Препоръчително е да архивиране в дял приложения като облак, имейл и др.
+        Това ще ви позволи да възстановите на обаждане, ако някога загубите телефона си.
+        За да възстановите контактите от имейл/облак ръчно записване покана регистър архивния файл от вашия имейл/облак акаунт за всяко място на това устройство. Импортиране/възстановявам полезност ще автоматично Намерете файла.</string>
+  <string name="message_importing_contacts">Импортиране на повикване log(s)...</string>
+  <string name="message_reading_import_file">Четене на файла, това може да отнеме няколко минути...</string>
+  <string name="export_options_plain_text">Обикновен текст</string>
+  <string name="export_options_indv_clm">Индивидуални CLM файл(ове)</string>
+  <string name="export_options_combined_clm">Комбиниран CLM файл </string>
+  <string name="export_generated_footer">Генерирани чрез покана регистър мениджър Coju</string>
+  <string name="export_sent_footer">Генерирани чрез покана регистър Manager</string>
+  <string name="export_generated_header">Повикване дневника данни</string>
+  <string name="message_clipboard_copy">Копиран в клипборда</string>
+  <string name="message_exporting_calllog">Извличане на контакти...</string>
+  <string name="message_exporting_calllog_ready">Получаване на готови да експортирате контакти...</string>
+  <string name="message_exporting_calllog_write_file">Записване на файловете...</string>
+  <string name="message_import_help">Само файл, генериран от този app (*. CLM файлове) могат да бъдат импортирани</string>
+  <string name="message_import_invalid_file">Не е валиден повикване регистрационен файл</string>
+  <string name="message_importing_complete">покана log(s) внесени</string>
+  <string name="message_restore_complete">Покана записи в регистъра на възстановени от Архив</string>
+  <string name="message_restore_fail">
+        Не може да възстанови от резервно копие, архивния файл липсва или е повреден
+                </string>
+  <string name="message_backup_stored_freeversion">
+        Безплатната версия само позволява архивиране на до 9 повикване log(s).
+        Покана Log(s) са били архивирани във файл:
+    </string>
+  <string name="message_backup_failed">
+        Неуспешно записване резервна файл, моля опитайте отново. Ако проблемът продължава, съобщете проблем ап издател, като използвате опцията за обратна връзка в този апартамент.
+    </string>
+  <string name="message_restore_selection_finish">
+        Архивиране дневниците са възстановени
+    </string>
+  <string name="message_clm_file_not_found">
+        Не покана регистър мениджър (*. CLM) файлове, намерени в това устройство
+    </string>
+  <string name="message_backup_file_not_found">
+        Няма намерени в това устройство архивиране файлове
+    </string>
+  <string name="message_backup_stored">Контактите са били архивирани във файл:</string>
+  <string name="message_save_external">Покана влезете в външни папка: </string>
+  <string name="message_loading_files">Търсене на локални папки...</string>
+  <string name="message_loading_backup_files">Търсене на устройство за архивиране файлове...</string>
+  <string name="message_backup_freeversion">
+        Максималният брой на дневниците, които могат да бъдат подкрепени в тази безплатна версия е:
+    </string>
+  <string name="message_backup_paidversion">
+        Всички дневниците са успешно архивирани във файл
+    </string>
+</resources>

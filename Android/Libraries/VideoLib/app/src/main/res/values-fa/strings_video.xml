@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">تصویری بيشتر</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="activity_extract_pictures">استخراج تصاویر</string>
+  <string name="button_Select_All">انتخاب همه</string>
+  <string name="button_UnSelect_All">سازمان ملل متحد انتخاب همه</string>
+  <string name="button_Delete">حذف</string>
+  <string name="button_Update">به روز رسانی</string>
+  <string name="button_Share">سهم</string>
+  <string name="button_Yes">بله</string>
+  <string name="button_No">نه</string>
+  <string name="button_apply">درخواست</string>
+  <string name="button_browse">مرور</string>
+  <string name="button_close">بستن</string>
+  <string name="button_Confirm">تایید</string>
+  <string name="button_Ok">باشه</string>
+  <string name="text_import_file_name">نام</string>
+  <string name="text_import_file_size">اندازه</string>
+  <string name="general_items">مورد یا موارد</string>
+  <string name="general_selected_items">انتخاب شده</string>
+  <string name="general_error">خطا</string>
+  <string name="title_confirm">تایید</string>
+  <string name="button_ok">باشه</string>
+  <string name="button_cancel">لغو</string>
+  <string name="free_space">کل فضای خالی:</string>
+  <string name="title_share">با استفاده از به اشتراک بگذارید:</string>
+  <string name="title_rename">نام جدید را وارد کنید  </string>
+  <string name="title_create_folder">نام پوشه را وارد کنید  </string>
+</resources>

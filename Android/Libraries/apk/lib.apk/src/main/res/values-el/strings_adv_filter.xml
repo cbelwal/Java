@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">Εγκατασταθεί τελευταία 30 ημέρες</string>
+  <string name="filter_adv_options_security_inappbilling">Έχει χρεώσεις σε-app</string>
+  <string name="filter_adv_options_security_readsms">Να διαβάσετε SMS</string>
+  <string name="filter_adv_options_security_sendsms">Μπορεί να στείλει SMS</string>
+  <string name="filter_adv_options_security_readcontacts">Μπορεί να διαβάσει τις επαφές</string>
+  <string name="filter_adv_options_security_readcalllog">Μπορεί να διαβάσει το αρχείο κλήσεων</string>
+  <string name="filter_adv_options_security_readcalender">Να διαβάσετε το ημερολόγιο</string>
+  <string name="filter_adv_options_security_writeexternalstorage">Να γράψετε στην εξωτερική μνήμη</string>
+  <string name="filter_adv_options_security_camera">Μπορούν να έχουν πρόσβαση κάμερα</string>
+  <string name="filter_adv_options_security_mic">Μπορεί να καταγράφει ήχο</string>
+  <string name="filter_adv_options_security_location">Μπορεί να πρόσβαση στην τοποθεσία σας</string>
+  <string name="filter_adv_options_filter">Ενεργοποίηση ασφαλείας φίλτρου(ων)</string>
+  <string name="filter_main_text">Επιλογές φίλτρου ασφαλείας (μόνο εφαρμογές που ταιριάζουν με κάθε ένα από αυτά τα κριτήριο θα εμφανιστεί):</string>
+  <string name="activity_security_filter">Φίλτρο λογισμικό κακόβουλης λειτουργίας εμφάνισης</string>
+</resources>

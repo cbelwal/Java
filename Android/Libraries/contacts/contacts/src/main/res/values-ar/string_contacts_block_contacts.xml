@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">إلغاء حظر جهات الاتصال</string>
+  <string name="display_options_blocked">جهات الاتصال المحظورة</string>
+  <string name="action_block">كتلة</string>
+  <string name="action_unblock">إلغاء حظر</string>
+  <string name="message_blocking_contacts">حظر جهات الاتصال</string>
+  <string name="message_unblocking_contacts">إلغاء حظر جهات الاتصال</string>
+  <string name="message_block_unblock_complete">تحديث جهات الاتصال المحددة كل </string>
+  <string name="message_block_unblock_error">حدث خطأ في تحديث بعض جهات الاتصال المحددة</string>
+</resources>

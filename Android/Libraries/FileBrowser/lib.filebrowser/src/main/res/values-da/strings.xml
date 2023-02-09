@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">element(er), der er</string>
+  <string name="general_selected_items">valgt</string>
+  <string name="general_error">Fejl</string>
+  <string name="title_confirm">Bekræfte</string>
+  <string name="button_ok">Ok</string>
+  <string name="button_cancel">Annuller</string>
+  <string name="free_space">Samlede ledig plads:</string>
+  <string name="title_share">Dele ved hjælp af:</string>
+  <string name="title_rename">Indtast nyt navn  </string>
+  <string name="title_create_folder">Angiv mappenavn  </string>
+</resources>

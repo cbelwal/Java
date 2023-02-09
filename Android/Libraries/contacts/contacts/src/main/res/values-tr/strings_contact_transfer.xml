@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Gözat</string>
+  <string name="backup_options_backupusing">Yedekleme\'yi kullanarak</string>
+  <string name="transfer_address_home">Ana sayfa</string>
+  <string name="transfer_address_office">Office</string>
+  <string name="transfer_contact_office">(W).</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(M)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">Sık Kullanılanlar \'</string>
+  <string name="transfer_not_in_favorites">Sık değil</string>
+  <string name="transfer_times_contacted">Kez temas:</string>
+  <string name="transfer_last_time_contacted">Son kez temas:</string>
+  <string name="transfer_organization">Organizasyon</string>
+  <string name="transfer_title">Başlık</string>
+  <string name="transfer_event_birthday">Doğum günü</string>
+  <string name="transfer_event_anniv">Yıldönümü</string>
+  <string name="transfer_event_other">Diğer</string>
+  <string name="check_phone">Telefon numaraları</string>
+  <string name="check_email">E-posta</string>
+  <string name="csv_header_name">Adı</string>
+  <string name="csv_header_phone">Telefon numaraları</string>
+  <string name="csv_header_email">E-posta adresleri</string>
+  <string name="csv_header_postal">Posta adresi (adresleri)</string>
+  <string name="csv_header_timescontacted">Temas kez</string>
+  <string name="csv_header_lasttimecontact">Son kez temas</string>
+  <string name="csv_header_favorite">En sevdiğim durumu</string>
+  <string name="csv_header_organization">Organizasyon</string>
+  <string name="check_postaladdress">Posta adresi</string>
+  <string name="check_timescontacted">Kaç kez temas</string>
+  <string name="check_lastcontact">Son kişi kez</string>
+  <string name="check_isfavorite">En sevdiğim durumu</string>
+  <string name="share_options_ShareAs">Paylaşım:</string>
+  <string name="share_options_ShareUsing">Kullanarak paylaşmak:</string>
+  <string name="share_options_sms">İleti gönderme</string>
+  <string name="share_options_allshare">Uygulamaları (bulut, e-posta,...)</string>
+  <string name="share_options_Clipboard">Panoya kopyala</string>
+  <string name="share_options_plaintext">Düz metin</string>
+  <string name="share_options_vcf">Bireysel Vcard dosya (lar)</string>
+  <string name="share_options_combinedvcf">Birleşik Vcard dosya</string>
+  <string name="export_options_textfile">Düz metin dosyası</string>
+  <string name="export_options_combinedvcf_21">Kombine vCard 2.1 dosya</string>
+  <string name="export_options_individualvcf_21">Bireysel vCard 2.1 dosya (lar)</string>
+  <string name="export_options_combinedvcf_40">Kombine vCard 4.0 dosya</string>
+  <string name="export_options_individualvcf_40">Bireysel vCard 4.0 dosya (lar)</string>
+  <string name="export_options_csvfile">Virgülle ayrılmış (*.csv) dosyası</string>
+  <string name="export_options_externalStorage">Bu cihazın harici depolama</string>
+  <string name="export_options_ExportAs">Verme biçimi:</string>
+  <string name="export_options_ExportUsing">Dosyaya kaydedin:</string>
+  <string name="message_import_invalid_file">Geçerli iletişim dosyası değil
+        </string>
+  <string name="backup_options_using">Yedekleme dosyası Kaydet:</string>
+  <string name="menu_import_help">Yardım</string>
+  <string name="message_backup_options">Bu önerilir yedek paylaşım uygulamaları bulut, e-posta vb gibi.
+        Bu kişiler hiç telefonunuzun kaybolması durumunda kurtarmanıza olanak sağlayacaktır.
+        Kişileri e-posta/bulut el ile kaydetme e-posta/bulut hesabınızdan rehber yedekleme dosyası bu cihazda herhangi bir konuma geri yüklemek için. Alma yardımcı programı, dosya otomatik olarak bulur.</string>
+  <string name="message_restore_fail">
+        Yedekten geri yüklenemedi, yedek dosya eksik veya bozuk
+                </string>
+  <string name="message_restore_refresh">Rehber yedekleme dosyasından geri yüklenir. Lütfen tüm alınan kişileri görmek için görünümü yenileyin</string>
+  <string name="message_restore_selection_finish">Rehber yedekleme dosyasından geri yüklenir. Şimdi bu ekranı kapatabilir veya başka bir yedekleme dosyasından alma</string>
+  <string name="message_restore_legacy_name">Yedek dosyası \'BackupAllContacts.vcf\ seçildi \' eski sürümlerde</string>
+</resources>

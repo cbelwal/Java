@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Gratulacje masz wysoki wynik!</string>
+  <string name="message_game_end_new_game">Gra się skończy! Czy chcesz rozpocząć nową grę?</string>
+  <string name="message_custom_board">Stuknij w pustych dziur na tempo kołek. Naciśnij przycisk blokady, po zakończeniu</string>
+  <string name="message_custom_board_done">Planszę niestandardową jest ustawiony, możesz zacząć grać.
+    Należy pamiętać, że wysokie wyniki dla tablice niestandardowe nie są rejestrowane</string>
+  <string name="message_intro_first">
+        Przejść do otworem dostępne w linii prostej, skoki przez inny kołek
+    </string>
+  <string name="message_intro_second">Peg, przeskoczył jest usuwany</string>
+  <string name="message_intro_third">Spróbuj usunąć kołki jak najwięcej jak to możliwe</string>
+  <string name="message_intro_fourth">Pierwsze, pozostały tylko 1 peg jest celem</string>
+  <string name="message_board_reset_confirm">Spowoduje to anulowanie bieżącego zarządu. Czy chcesz kontynuować?</string>
+  <string name="message_game_over">Ma więcej ruchów są możliwe. Gra się skończy!</string>
+  <string name="message_solver_complete">Solver obliczył ruchów, które mogą prowadzić do minimalnej liczby pegs.\n\nUse przycisk Dalej, aby zobaczyć, że zarząd porusza.</string>
+  <string name="message_solver_complete_free">Solver obliczył ruchów, które mogą prowadzić do minimalnej liczby kołki. Ponieważ jest to wolna wersja, dodatku solver można znaleźć rozwiązanie prowadzące do minimum 3 kołki tylko. W płatnej wersji dodatku solver można znaleźć rozwiązanie z 1 peg.\n\nUse przycisk Dalej, aby zobaczyć, że zarząd porusza.
+    </string>
+  <string name="message_solver_complete_title">Znalazłem rozwiązanie z PEGI: </string>
+  <string name="message_solver_inprogress_title">Szukając rozwiązania...</string>
+  <string name="message_solver_inprogress">Bieżąca liczba-najniższa peg: </string>
+  <string name="message_solver_start_confirm">W zależności od bieżącego zarządu Solver może zająć kilka sekund do kilku minut w informatyce to rozwiązanie z co najmniej liczbie kołki.
+    Od dodatku Solver robi wiele obliczeń, będzie wyczerpywać baterii.
+        Zaleca się, że można umieścić telefon na opłaty przed rozpoczęciem solver.
+    Podczas biegu Solver może być zatrzymana w dowolnym momencie i najnowsze wyniki peg będą dostępne.</string>
+  <string name="message_solver_mode_play_board">
+        Nie grać w gry w trybie solver. Wybierz nowe gry, aby rozpocząć nową grę</string>
+  <string name="message_confirm_switch_from_standard">
+        Obecna Rada jest zestaw do Standard, czy chcesz zmienić na pokładzie francuskiego?</string>
+  <string name="message_confirm_switch_from_French">
+        Obecna Rada jest język francuski, czy chcesz zmienić standardowe płyty?</string>
+</resources>

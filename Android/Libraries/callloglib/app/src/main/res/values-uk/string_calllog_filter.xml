@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">Стан</string>
+  <string name="filter_text_option">Параметри</string>
+  <string name="filter_text_value_days">Днів</string>
+  <string name="filter_text_value_duration">DURATION(s)</string>
+  <string name="filter_text_value_location">Розташування</string>
+  <string name="filter_options_from_stored_contacts">Від збережені контакти</string>
+  <string name="filter_options_more_than_entered_days">Більше, ніж днів</string>
+  <string name="filter_options_less_than_entered_days">Менш ніж за днів</string>
+  <string name="filter_options_more_than_duration">Більше, ніж тривалість</string>
+  <string name="filter_options_less_than_duration">Менш ніж тривалість</string>
+  <string name="filter_options_from_entered_location">З місця</string>
+  <string name="filter_options_none">Жоден фільтр</string>
+  <string name="filter_show_show">Показати</string>
+  <string name="filter_show_noshow">Не показувати</string>
+</resources>

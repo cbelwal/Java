@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Atleast 1 вибір не потрібно</string>
+  <string name="message_save_external">APK файл (и) зберігаються у зовнішніх папку: </string>
+  <string name="message_free_version_selection">Тільки 3 застосунки можуть бути обрані за один раз у безкоштовній версії</string>
+  <string name="message_free_version_option">Цей параметр доступний лише для платної версії</string>
+  <string name="message_activity_load_fail">Не вдається запустити застосунок</string>
+  <string name="message_activity_loading">Запуск застосунку...</string>
+  <string name="message_loading_files">Пошук локальних папок...</string>
+  <string name="message_deleting_files">Будь ласка, підтвердіть індивідуально для кожного пакета, вибрані.
+    Пакунки системи буде видалити тільки з облікового запису користувача</string>
+  <string name="message_save_external_suffix">. Папки можуть бути доступні, підключивши свій телефон до комп\'ютера через USB і т. д. </string>
+  <string name="message_rate_this_app_error">Не вдалося відкрити сторінку рейтингу</string>
+  <string name="message_share_link_prefix">Привіт, \r\n\r\nCheck це: </string>
+  <string name="message_share_link_suffix">Відправлені через APKit</string>
+  <string name="message_share_report_prefix">Доповідь пакет</string>
+  <string name="message_share_report_suffix">Створений і висланий через</string>
+  <string name="message_other_permissions_missing">Потрібні дозволи, необхідні для цієї функції для роботи. Будь ласка дайте потрібні дозволи і повторіть спробу
+    </string>
+  <string name="message_purchase_error">
+        Не вдалося підключитися до сервера Google. Будь ласка, перезапустіть застосунок і повторіть спробу
+    </string>
+</resources>

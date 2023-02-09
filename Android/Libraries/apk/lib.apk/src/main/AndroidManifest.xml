@@ -1,0 +1,17 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dasmic.android.lib.apk">
+
+    <application android:allowBackup="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+    </application>
+    <uses-feature android:name="android.permission.BLUETOOTH" android:required="false"/>
+    <uses-feature android:name="android.permission.BLUETOOTH_ADMIN" android:required="false"/>
+    <uses-feature android:name="android.permission.ACCESS_WIFI_STATE" android:required="false"></uses-feature>
+    <uses-feature android:name="android.permission.CHANGE_WIFI_STATE" android:required="false"></uses-feature>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission  android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission  android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission  android:name="android.permission.CHANGE_WIFI_STATE"/>
+
+</manifest>

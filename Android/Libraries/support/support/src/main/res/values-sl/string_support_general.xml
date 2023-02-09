@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic, LLC</string>
+  <string name="feedback_no_email">Ne email varovanci našel</string>
+  <string name="button_yes">da</string>
+  <string name="button_no">ne</string>
+  <string name="nav_menu_help_doc">Dokumentacijo s pomočjo</string>
+  <string name="button_rate_never">Nikoli ne</string>
+  <string name="button_rate_later">Kasneje</string>
+  <string name="button_rate_now">Zdaj</string>
+  <string name="title_rate_this_app">Prosimo, da ocenite Ta app</string>
+  <string name="title_feedback">Izberite možnost email...</string>
+  <string name="title_demo_video">Demonstracija televizija</string>
+  <string name="title_tellafriend">Povej prijatelju prek...</string>
+  <string name="title_send_feedback">Kontakt</string>
+  <string name="title_rate_app">Stopnja app</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">時間順に並べ替え</string>
+  <string name="nav_view_outgoingcalls_cl">発信呼び出し</string>
+  <string name="nav_view_incomingcalls_cl">着信呼び出し</string>
+  <string name="nav_view_missedcalls_cl">不在着信</string>
+  <string name="nav_view_callduration_cl">期間順</string>
+  <string name="nav_view_geocoded_location_cl">場所順</string>
+  <string name="nav_view_refresh_cl">更新</string>
+  <string name="nav_view_100_records">最大 100</string>
+  <string name="nav_view_500_records">最大 500</string>
+  <string name="nav_view_all_records">利用可能なすべて</string>
+  <string name="nav_menu_group_general_cl">一般的です</string>
+  <string name="nav_menu_group_help_cl">ヘルプ</string>
+  <string name="nav_menu_group_log_length">ビューの数</string>
+  <string name="nav_menu_group_viewoptions_cl">オプション</string>
+  <string name="nav_menu_group_views_cl">表示モード</string>
+  <string name="nav_menu_group_operations_cl">操作</string>
+  <string name="nav_menu_group_backup_cl">バックアップ</string>
+  <string name="nav_menu_rate_this_app_cl">フィードバック</string>
+  <string name="nav_menu_backup_contacts_cl">すべてのコールのログ エントリをバックアップします。</string>
+  <string name="nav_menu_restore_contacts_cl">呼び出しログをバックアップから復元します。</string>
+  <string name="nav_menu_upgrade_cl">Pro にアップグレード版</string>
+  <string name="nav_menu_filter_cl">ディスプレイ フィルター</string>
+  <string name="nav_menu_duplicates_cl">重複ツールキット</string>
+  <string name="nav_menu_tellafriend_cl">友達に教える</string>
+  <string name="nav_menu_feedback_cl">連絡先 Dasmic</string>
+  <string name="nav_menu_demovideo_cl">デモ ・ ビデオ</string>
+  <string name="nav_menu_coju_cl">Coju をダウンロードします。</string>
+  <string name="menu_operations_cl">一括更新</string>
+  <string name="menu_add_cl">追加</string>
+  <string name="menu_edit_cl">編集</string>
+  <string name="menu_update_cl">更新</string>
+  <string name="menu_share_cl">共有</string>
+  <string name="menu_export_cl">エクスポート</string>
+  <string name="menu_import_cl">インポート</string>
+  <string name="menu_delete_cl">削除</string>
+  <string name="menu_bluetooth_cl">Bluetooth 転送</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> contact (s) met à jour. Cette action ne peut pas être annulée. Aller de l’avant ?</string>
+  <string name="message_update_complete"> contact (s) à jour</string>
+  <string name="message_save_external">Contacts stockés dans le dossier externe : </string>
+  <string name="message_import">Seulement les fichiers Vcard et CSV peuvent être importés (utiliser \'Browse\' pour charger des fichiers provenant d’autres sources</string>
+  <string name="message_loading_files">La recherche des dossiers locaux...</string>
+  <string name="message_loading_backup_files">Dispositif de sauvegarde ou les fichiers à la recherche...</string>
+  <string name="message_importing_contacts_complete">contact (s) importé</string>
+  <string name="message_save_external_suffix">. Dossier est accessible en connectant votre téléphone à votre ordinateur via USB etc. </string>
+  <string name="message_selectitems">Au moins 1 contact doit être sélectionné</string>
+  <string name="message_delete_confirm">Choisis les contacts détails seront supprimés. Cette action ne peut pas être annulée. Aller de l’avant ?</string>
+  <string name="message_delete_complete"> Rédigez les détails supprimés</string>
+  <string name="message_free_import_limit">Fichier contient plus de contacts que dans la version gratuite</string>
+  <string name="message_rate_this_app_error">Pas pu ouvrir page cotation. S’il vous plaît goto Google jeu et noter en conséquence</string>
+  <string name="message_edit">1 seul contact peut être modifié à la fois. </string>
+  <string name="message_backup_stored">Contacts ont été sauvegardés dans le fichier :</string>
+  <string name="message_download_coju">Coju est une application intégrée de gestion des contacts. Il possède toutes les caractéristiques de cet app plus de capacités supplémentaires. Vous aimerez Télécharger Coju ?</string>
+  <string name="message_contact_permissions_missing">Contacts des autorisations sont requises pour ce soft travailler. App maintenant ferme, s’il vous plaît donner des autorisations et essayez à nouveau</string>
+  <string name="message_other_permissions_missing">Autorisations demandées sont nécessaires pour cette fonctionnalité app.
+        S’il vous plaît donner les autorisations demandées et essayez à nouveau</string>
+  <string name="message_backup_freeversion">
+        Nombre maximal de contacts qui peuvent être sauvegardés dans cette version gratuite est :
+    </string>
+  <string name="message_backup_paidversion">
+        Tous les contacts que vous avez été avec succès sauvegardés dans un fichier
+    </string>
+  <string name="message_purchase_error">
+        Pas pu se connecter au serveur de Google. S’il vous plaît redémarrer l’application et essayez à nouveau
+    </string>
+</resources>

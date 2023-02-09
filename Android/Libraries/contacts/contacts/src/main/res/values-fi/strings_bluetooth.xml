@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Määrä valitut yhteystiedot: </string>
+  <string name="text_bt_paired_devices"> Laiteparit (valitse Connect)</string>
+  <string name="text_bt_new_devices"> Uudet laitteet (valitse Connect)</string>
+  <string name="message_bt_scan_devices">Etsitään laitteita...</string>
+  <string name="message_bt_scan_complete">Valmiin Etsi laitteita</string>
+  <string name="message_bt_pair_devices">Laitteiden liittäminen pariksi...</string>
+  <string name="message_bt_new_none">Uusia laitteita ei löytynyt</string>
+  <string name="message_bt_pair_none">Ei löytynyt pariksi laitteita</string>
+  <string name="message_bt_conn_lost">Yhteys katkesi laitteeseen</string>
+  <string name="message_bt_connecting">Yhdistetään kohteeseen: </string>
+  <string name="message_bt_not_enabled">Bluetooth ei ole käytössä sulkeminen Bluetooth siirto</string>
+  <string name="message_bt_status_listening">Kuuntelu...</string>
+  <string name="message_bt_status_connecting">Muodostetaan...</string>
+  <string name="message_bt_status_connected">Kytketty</string>
+  <string name="message_bt_testdata_sent">TestData lähetti</string>
+  <string name="message_bt_no_contacts">Ei yhteystietoja valittuna lähettää</string>
+  <string name="message_bt_recv_complete">Vastaanottaa tietoja täydellinen</string>
+  <string name="message_bt_not_connected">Ole liitetty laitteeseen</string>
+  <string name="message_bt_adapter_error">Ilmeni virhe määritettäessä Bluetooth.
+            Tarkista puhelimessa on Bluetooth ja Bluetooth-sovitin on käytössä</string>
+  <string name="menu_bt_make_discoverable">Laitteen havaittavaksi</string>
+  <string name="progressbar_bt_recv_data">Valmis vastaanottamaan yhteystiedot...</string>
+  <string name="message_bt_startup">Sama ohjelma on käynnissä ja tämä näyttö avataan muun laitteen</string>
+</resources>

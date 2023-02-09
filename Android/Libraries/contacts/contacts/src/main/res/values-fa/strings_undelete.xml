@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">مخاطب (مخاطبین) انتخابی لغو خواهد شد. تایید کنید اگر شما می خواهید به?</string>
+  <string name="message_undelete_complete"> مخاطب (مخاطبین) undeleted</string>
+  <string name="message_undelete_notice">این گزینه لیست مخاطبین است که می توانید بازگردانید و بستگی به سازنده دستگاه خود و یا نسخه های آندروید. تماس با ما می تواند بهبود اگر دستگاه آن را بپردازند، مخاطبین حذف شدند چند ساعت قبل و یا مخاطبین از سیم کارت حذف شدند.</string>
+  <string name="message_undelete_option_invalid">این گزینه برای مخاطبین حذف شده معتبر نمی باشد.
+        </string>
+  <string name="message_undelete_help">لطفا انتخاب مخاطب (مخاطبین) و استفاده از نماد بازگردانی در بالا سمت راست آنها را بازگردانی</string>
+  <string name="progressbar_undelete_data">Undeleting مخاطب (مخاطبین) </string>
+  <string name="action_undelete">بازگردانی مخاطب (مخاطبین)</string>
+  <string name="button_understand">می فهمم</string>
+  <string name="title_disclaimer">سلب مسئولیت</string>
+  <string name="title_no_undelete_found">متاسفم!</string>
+  <string name="message_no_undelete_found">
+        ما متاسفیم، تماس با حذف شده قابل بازیابی را پیدا نشد! شما می توانید سعی کنید آنها را با استفاده از روش دستی پیشنهاد شده توسط گوگل، توسعه دهندگان آندروید بهبود می یابند.
+        شما دوست دارید به صفحه وب پشتیبانی گوگل است که در دستورالعمل کتابچه راهنمای کاربر بازیابی بازدید
+    </string>
+</resources>

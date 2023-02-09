@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_share">Μετοχή</string>
+  <string name="action_delete">Διαγραφή του</string>
+  <string name="action_filter">Φίλτρο</string>
+  <string name="action_copy">Αντίγραφο</string>
+  <string name="action_rename">Μετονομασία</string>
+  <string name="action_create_folder">Δημιουργία φακέλου</string>
+  <string name="action_move">Κίνηση</string>
+  <string name="action_share_zip">Μοιραστείτε ως Zip</string>
+  <string name="action_extract_pictures">Απόσπασμα φωτογραφίες</string>
+  <string name="action_zip">Κλείσιμο με φερμουάρ</string>
+  <string name="nav_menu_view_name">Θέα από το όνομα αρχείου</string>
+  <string name="nav_menu_view_size">Προβολή από το μέγεθος</string>
+  <string name="nav_menu_view_modified">Προβολή κατά ημερομηνία τροποποίησης</string>
+  <string name="nav_menu_view_refresh">Ανανέωση</string>
+  <string name="nav_menu_view_close">Κλείστε</string>
+  <string name="nav_menu_group_general">Γενικά</string>
+  <string name="nav_menu_group_viewoptions">Επιλογές προβολής</string>
+  <string name="nav_menu_rate_this_app">Ανατροφοδότηση</string>
+  <string name="nav_menu_upgrade">Αναβάθμιση πληρωμένη έκδοση</string>
+  <string name="nav_menu_tellafriend">Πείτε το σε ένα φίλο</string>
+  <string name="nav_menu_feedback">Επικοινωνήστε μαζί μας</string>
+  <string name="nav_menu_group_help">Βοήθεια</string>
+  <string name="nav_menu_demovideo">Βίντεο επίδειξης</string>
+  <string name="nav_menu_help_doc">Τεκμηρίωση της βοήθειας</string>
+</resources>

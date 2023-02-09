@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">فرز حسب الوقت</string>
+  <string name="nav_view_outgoingcalls_cl">المكالمات الصادرة</string>
+  <string name="nav_view_incomingcalls_cl">المكالمات الواردة</string>
+  <string name="nav_view_missedcalls_cl">مكالمات لم يرد عليها</string>
+  <string name="nav_view_callduration_cl">فرز حسب المدة</string>
+  <string name="nav_view_geocoded_location_cl">فرز حسب الموقع</string>
+  <string name="nav_view_refresh_cl">قم بتحديث</string>
+  <string name="nav_view_100_records">تصل إلى 100</string>
+  <string name="nav_view_500_records">تصل إلى 500</string>
+  <string name="nav_view_all_records">كل ما هو متاح</string>
+  <string name="nav_menu_group_general_cl">العام</string>
+  <string name="nav_menu_group_help_cl">تعليمات</string>
+  <string name="nav_menu_group_log_length">عدد المشاهدات</string>
+  <string name="nav_menu_group_viewoptions_cl">خيارات</string>
+  <string name="nav_menu_group_views_cl">طرق عرض</string>
+  <string name="nav_menu_group_operations_cl">عمليات</string>
+  <string name="nav_menu_group_backup_cl">النسخ الاحتياطي</string>
+  <string name="nav_menu_rate_this_app_cl">التغذية المرتدة</string>
+  <string name="nav_menu_backup_contacts_cl">النسخ الاحتياطي كافة إدخالات سجل المكالمة</string>
+  <string name="nav_menu_restore_contacts_cl">استعادة سجل المكالمات من النسخ الاحتياطي</string>
+  <string name="nav_menu_upgrade_cl">إصدار الترقية للمحترفين</string>
+  <string name="nav_menu_filter_cl">عامل تصفية العرض</string>
+  <string name="nav_menu_duplicates_cl">أدوات التكرارات</string>
+  <string name="nav_menu_tellafriend_cl">أخبر صديق</string>
+  <string name="nav_menu_feedback_cl">اتصل داسميك</string>
+  <string name="nav_menu_demovideo_cl">عرض الفيديو</string>
+  <string name="nav_menu_coju_cl">تحميل كوجو</string>
+  <string name="menu_operations_cl">تحديثات مجمعة</string>
+  <string name="menu_add_cl">إضافة</string>
+  <string name="menu_edit_cl">تحرير</string>
+  <string name="menu_update_cl">التحديث</string>
+  <string name="menu_share_cl">حصة</string>
+  <string name="menu_export_cl">تصدير</string>
+  <string name="menu_import_cl">استيراد</string>
+  <string name="menu_delete_cl">حذف</string>
+  <string name="menu_bluetooth_cl">نقل بلوتوث</string>
+</resources>

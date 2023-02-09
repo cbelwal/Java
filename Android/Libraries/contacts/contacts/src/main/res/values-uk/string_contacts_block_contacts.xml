@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">Розблоковано контактів</string>
+  <string name="display_options_blocked">Заблоковані контакти</string>
+  <string name="action_block">Блок</string>
+  <string name="action_unblock">Розблокувати</string>
+  <string name="message_blocking_contacts">Блокування контактів</string>
+  <string name="message_unblocking_contacts">Розблокування контактів</string>
+  <string name="message_block_unblock_complete">Оновлення всіх контактів </string>
+  <string name="message_block_unblock_error">Виявлено помилку у відновленні деякі контактів</string>
+</resources>

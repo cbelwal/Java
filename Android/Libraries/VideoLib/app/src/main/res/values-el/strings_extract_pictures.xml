@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Όνομα αρχείου:</string>
+  <string name="text_ep_file_size">Μέγεθος:</string>
+  <string name="text_ep_modified_date">Ημερομηνία τροποποίησης:</string>
+  <string name="text_ep_video_duration">Διάρκεια:</string>
+  <string name="title_search_depth">Βάθος αναζήτησης (μεγάλες τιμές θα διαρκέσει αρκετά λεπτά.)</string>
+  <string name="nav_menu_search_entire_phone">Αναζήτηση ολόκληρο το τηλέφωνο</string>
+  <string name="nav_menu_search_media_folders">Αναζήτηση φακέλων πολυμέσων</string>
+  <string name="nav_menu_search_external_folders">Εξωτερικές φακέλους αναζήτησης</string>
+  <string name="progressbar_extracting_pictures">Εξαγωγή εικόνες...</string>
+  <string name="text_ep_time_start">Έναρξη (δευτερόλεπτα)</string>
+  <string name="text_ep_period">Διάστημα μεταξύ pictures(seconds)</string>
+  <string name="text_ep_no_of_pictures">Αριθμός εικόνων</string>
+  <string name="text_ep_store">Κατάστημα αποσπασματικές εικόνες ως:</string>
+  <string name="text_ep_share_external">Στον εξωτερικό φάκελο</string>
+  <string name="text_ep_share_app">Κοινή χρήση με εφαρμογές</string>
+  <string name="message_extract_complete"> φωτογραφία(-ες) έχουν εξαχθεί</string>
+  <string name="message_extract_error">Παρουσιάστηκε σφάλμα στην εξόρυξη εικόνες</string>
+  <string name="message_search_depth_updated">Ενημερώθηκε το βάθος αναζήτησης</string>
+  <string name="message_search_depth_error">Σφάλμα κατά την ενημέρωση βάθος αναζήτησης</string>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="message_undelete_confirm">Selected contact(s) will be undeleted. Please confirm if you want to proceed?</string>
+    <string name="message_undelete_complete"> contact(s) undeleted</string>
+    <string name="message_undelete_notice">This option will list the contacts
+        that can be undeleted and depends on the manufacturer of your device
+        or the Android version. Contacts cannot be recovered if the device does not allow it,
+        contacts were deleted several hours ago or contacts were deleted
+        from the SIM card.</string>
+    <string name="message_undelete_option_invalid">This option is not valid for deleted contacts
+        </string>
+    <string name="message_undelete_help">Please select contact(s) and
+        use the undelete icon in top-right to undelete them</string>
+    <string name="progressbar_undelete_data">Undeleting contact(s) </string>
+    <string name="action_undelete">Undelete Contact(s)</string>
+    <string name="button_understand">I UNDERSTAND</string>
+    <string name="title_disclaimer">DISCLAIMER</string>
+    <string name="title_no_undelete_found">Sorry !</string>
+    <string name="message_no_undelete_found">
+        We are sorry, no recoverable deleted contacts were found ! You can try to recover
+        them using a manual way suggested by Google, the developers of Android.
+        Will you like to visit the Google Support webpage which has manual
+        recovery instructions ?
+    </string>
+
+
+</resources>

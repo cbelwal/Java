@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Дневник повиквания</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">Неизвестен</string>
+  <string name="button_Yes">Да</string>
+  <string name="button_No">Не</string>
+  <string name="button_Apply">Приложи</string>
+  <string name="button_Close">Затвори</string>
+  <string name="general_not_Available">Не е налично</string>
+  <string name="general_items">елемент(а)</string>
+  <string name="general_selected_items">избрани</string>
+  <string name="title_confirm">Потвърдете</string>
+  <string name="title_dialog_coju">Изтегляне Coju</string>
+  <string name="message_selectitems">Поне 1 запис трябва да бъде избран</string>
+  <string name="message_download_coju">Coju е интегрирано управление на контакти апартамент. Тя има всички функции на този app плюс допълнителни възможности. Ще искате да изтеглите Coju?</string>
+  <string name="message_contact_permissions_missing">Контакти разрешения са необходими за тази ап да работи. Ап сега ще затвори, моля дайте разрешения и опитайте отново</string>
+  <string name="message_other_permissions_missing">Исканият разрешения са необходими за тази ап функция да работи.
+        Моля, дайте исканите разрешения и опитайте отново</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">تعداد تماس های انتخاب شده: </string>
+  <string name="text_bt_paired_devices"> دستگاه زوج (جهت اتصال را انتخاب کنید)</string>
+  <string name="text_bt_new_devices"> دستگاه های جدید (جهت اتصال را انتخاب کنید)</string>
+  <string name="message_bt_scan_devices">اسکن برای دستگاه های...</string>
+  <string name="message_bt_scan_complete">اسکن تمام شده برای دستگاه های</string>
+  <string name="message_bt_pair_devices">جفت سازی دستگاه...</string>
+  <string name="message_bt_new_none">دستگاه های جدید پیدا کردم</string>
+  <string name="message_bt_pair_none">هیچ دستگاه زوج یافت</string>
+  <string name="message_bt_conn_lost">اتصال به دستگاه از دست داده</string>
+  <string name="message_bt_connecting">اتصال به: </string>
+  <string name="message_bt_not_enabled">بلوتوث فعال نشده، بسته شدن انتقال بلوتوث</string>
+  <string name="message_bt_status_listening">گوش دادن...</string>
+  <string name="message_bt_status_connecting">اتصال...</string>
+  <string name="message_bt_status_connected">متصل</string>
+  <string name="message_bt_testdata_sent">Testdata ارسال</string>
+  <string name="message_bt_no_contacts">هیچ تماسی انتخاب شده ارسال</string>
+  <string name="message_bt_recv_complete">دریافت اطلاعات کامل</string>
+  <string name="message_bt_not_connected">به هر دستگاه متصل</string>
+  <string name="message_bt_adapter_error">خطایى در تنظیمات بلوتوث وجود دارد.
+            اگر تلفن شما دارای بلوتوث و آداپتور بلوتوث را فعال کنید لطفا</string>
+  <string name="menu_bt_make_discoverable">دستگاه پدیدار کنید</string>
+  <string name="progressbar_bt_recv_data">آماده برای دریافت داده های تماس...</string>
+  <string name="message_bt_startup">مطمئن شوید که همان نرم افزار در حال اجرا است و باز کردن این صفحه نمایش در دستگاه های دیگر</string>
+</resources>

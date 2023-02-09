@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">Instalate în ultimele 30 de zile</string>
+  <string name="filter_adv_options_security_inappbilling">A In-app de facturare</string>
+  <string name="filter_adv_options_security_readsms">Puteţi citi SMS</string>
+  <string name="filter_adv_options_security_sendsms">Pot trimite SMS-uri</string>
+  <string name="filter_adv_options_security_readcontacts">Puteţi citi contacte</string>
+  <string name="filter_adv_options_security_readcalllog">Puteţi citi Jurnal apeluri</string>
+  <string name="filter_adv_options_security_readcalender">Puteţi citi calendar</string>
+  <string name="filter_adv_options_security_writeexternalstorage">Puteţi scrie la stocare externă</string>
+  <string name="filter_adv_options_security_camera">Puteţi accesa Camera</string>
+  <string name="filter_adv_options_security_mic">Puteţi înregistra Audio</string>
+  <string name="filter_adv_options_security_location">Pot avea acces la locaţia dumneavoastră</string>
+  <string name="filter_adv_options_filter">Activa filtrele de securitate</string>
+  <string name="filter_main_text">Sigur filtru de opţiune (numai Apps potrivire nici una dintre aceste criteriu va fi afişat):</string>
+  <string name="activity_security_filter">Filtrul de afisare malware</string>
+</resources>

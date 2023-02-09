@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic, LLC</string>
+  <string name="feedback_no_email">ไคลเอนต์อีเมลที่ไม่พบ</string>
+  <string name="button_yes">ใช่</string>
+  <string name="button_no">ไม่ใช่</string>
+  <string name="nav_menu_help_doc">เอกสารวิธีใช้</string>
+  <string name="button_rate_never">ไม่เคย</string>
+  <string name="button_rate_later">ในภายหลัง</string>
+  <string name="button_rate_now">ตอนนี้</string>
+  <string name="title_rate_this_app">โปรดอัตรา app นี้</string>
+  <string name="title_feedback">เลือกตัวเลือกอีเม...</string>
+  <string name="title_demo_video">วิดีโอสาธิต</string>
+  <string name="title_tellafriend">บอกเพื่อนด้วย...</string>
+  <string name="title_send_feedback">ติดต่อเรา</string>
+  <string name="title_rate_app">ราคาพ</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Felicitaciones, tienes una alta puntuación!</string>
+  <string name="message_game_end_new_game">Juego actual es! ¿Se quieres comenzar un juego nuevo?</string>
+  <string name="message_custom_board">Puntee en agujeros vacíos al ritmo de una peg. Pulse el botón de bloqueo cuando se haya completado</string>
+  <string name="message_custom_board_done">Tablero personalizado está configurado, puedes comenzar a jugar.
+    Tenga en cuenta que no se registren altas puntuaciones para tableros personalizados</string>
+  <string name="message_intro_first">
+        Mover una clavija a un agujero disponible en una línea recta, saltando por encima de otro peg
+    </string>
+  <string name="message_intro_second">Se retira la clavija saltada sobre</string>
+  <string name="message_intro_third">Tratar de eliminar tantas clavijas como sea posible</string>
+  <string name="message_intro_fourth">Sólo 1 peg restante es la meta</string>
+  <string name="message_board_reset_confirm">Esto cancelará la Junta actual. ¿Desea continuar?</string>
+  <string name="message_game_over">Movimientos no son posibles. Juego es!</string>
+  <string name="message_solver_complete">Solver ha computado los movimientos que conducen a un número mínimo de pegs.\n\nUse el botón de avance para ver que el tablero se mueve.</string>
+  <string name="message_solver_complete_free">Solver ha computado los movimientos que conducen a un número mínimo de clavijas. Ya que esta es una versión libre, el solver puede encontrar una solución a un mínimo de 3 clavijas sólo. En la versión de pago el solver encontrará una solución con 1 peg.\n\nUse el botón de avance para ver que el tablero se mueve.
+    </string>
+  <string name="message_solver_complete_title">Encontrado solución con clavijas: </string>
+  <string name="message_solver_inprogress_title">Búsqueda de solución...</string>
+  <string name="message_solver_inprogress">Recuento actual de peg más bajo: </string>
+  <string name="message_solver_start_confirm">Dependiendo de la Junta actual, el Solver puede tardar unos segundos hasta varios minutos en una solución con menor número de clavijas de computación.
+    Puesto que el solucionador de hace un montón de cálculos, le agotan energía de la batería.
+        Se recomienda que coloque el teléfono en carga antes de iniciar el solucionador.
+    Mientras se está ejecutando el Solver puede interrumpirse en cualquier momento y resultado de peg más reciente estará disponible.</string>
+  <string name="message_solver_mode_play_board">
+        No se puede jugar en modo de solver. Selecciona New Game para comenzar un juego nuevo</string>
+  <string name="message_confirm_switch_from_standard">
+        Junta actual se establece en la norma, ¿desea cambiar al directorio francés?</string>
+  <string name="message_confirm_switch_from_French">
+        ¿Junta actual se establece en francés, desea cambiar a tablero estándar?</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic, ТОВ</string>
+  <string name="feedback_no_email">Немає клієнтів електронної пошти знайдені</string>
+  <string name="button_yes">Так</string>
+  <string name="button_no">Ні</string>
+  <string name="nav_menu_help_doc">Допомогти документації</string>
+  <string name="button_rate_never">Ніколи не</string>
+  <string name="button_rate_later">Пізніше</string>
+  <string name="button_rate_now">Зараз</string>
+  <string name="title_rate_this_app">Будь ласка, Оцініть цей додаток</string>
+  <string name="title_feedback">Виберіть параметр електронна пошта...</string>
+  <string name="title_demo_video">Демо-відео</string>
+  <string name="title_tellafriend">Рекомендувати другу через...</string>
+  <string name="title_send_feedback">Зв\'язатися з нами</string>
+  <string name="title_rate_app">Ставка app</string>
+</resources>

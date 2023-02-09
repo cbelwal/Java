@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">Tilstand</string>
+  <string name="filter_text_option">Alternativer</string>
+  <string name="filter_text_value_days">Dager</string>
+  <string name="filter_text_value_duration">Duration(s)</string>
+  <string name="filter_text_value_location">Beliggenhet</string>
+  <string name="filter_options_from_stored_contacts">Fra lagrede kontakter</string>
+  <string name="filter_options_more_than_entered_days">Flere dager</string>
+  <string name="filter_options_less_than_entered_days">Mindre enn dager</string>
+  <string name="filter_options_more_than_duration">Mer enn varighet</string>
+  <string name="filter_options_less_than_duration">Mindre enn varighet</string>
+  <string name="filter_options_from_entered_location">Beliggenhet</string>
+  <string name="filter_options_none">Uten Filter</string>
+  <string name="filter_show_show">Vis</string>
+  <string name="filter_show_noshow">Ikke Vis</string>
+</resources>

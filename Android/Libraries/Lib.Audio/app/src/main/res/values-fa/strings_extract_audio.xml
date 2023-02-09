@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">نام پرونده:</string>
+  <string name="text_ep_file_size">حجم:</string>
+  <string name="text_ep_modified_date">تاریخ تغییر:</string>
+  <string name="text_ep_duration">مدت زمان:</string>
+  <string name="title_search_depth">جستجوی عمق (ارزش های بزرگ را چند دقیقه)</string>
+  <string name="progressbar_extracting_audio">استخراج صوتی (چند دقیقه)...</string>
+  <string name="progressbar_loading_audio">بارگذاری فایل صوتی اطلاعات بیشتر...</string>
+  <string name="text_ep_time_start">شروع time(seconds)</string>
+  <string name="text_ep_period">مدت زمان هر file(seconds) صوتی</string>
+  <string name="text_ep_store">ذخیره پرونده های جدید صوتی به عنوان:</string>
+  <string name="text_ep_share_external">در پوشه خارجی</string>
+  <string name="text_ep_share_app">اشتراک گذاری با استفاده از برنامه های کاربردی</string>
+  <string name="message_extract_complete"> پرونده های M4A ایجاد شده است</string>
+  <string name="message_extract_error">خطا در ایجاد فایل های صوتی مواجه شد</string>
+  <string name="message_search_depth_updated">عمق جستجو به روز شد</string>
+  <string name="message_search_depth_error">خطا در به روز رسانی عمق جستجو</string>
+  <string name="message_load_complete">جزئیات فایل صوتی لود</string>
+  <string name="message_load_error">خطا در بارگذاری صدا وجود داشت.</string>
+  <string name="message_extract_duration_reduced"> مدت زمان فایل صوتی آخرین کاهش می یابد به عنوان پایان صوتی رسیده بود </string>
+  <string name="message_extract_incomplete"> %1$ d پرونده صوتی ایجاد نمی شود و یا اطلاعات ناقص</string>
+  <string name="message_extract_signature">ارسال شده از طریق صدا بيشتر از coju.mobi™</string>
+</resources>

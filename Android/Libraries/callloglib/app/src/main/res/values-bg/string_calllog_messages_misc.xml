@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Разрешение за разговори не е дадено на този апартамент</string>
+  <string name="message_search_number_security_exception">Не може да се търси този телефонен номер! Google търсене не е разрешено или разрешение не е дадено в това устройство</string>
+  <string name="message_free_version_selection">
+        Максимален вход на записи, които могат да бъдат избрани в безплатната версия е: </string>
+  <string name="message_purchase_error">
+        Не може да се свърже със сървъра Google. Рестартирайте приложението и опитайте отново
+    </string>
+</resources>

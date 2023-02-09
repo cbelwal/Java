@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video vắt</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="activity_extract_pictures">Trích xuất hình ảnh</string>
+  <string name="button_Select_All">Chọn tất cả</string>
+  <string name="button_UnSelect_All">Bỏ chọn tất cả</string>
+  <string name="button_Delete">Xóa bỏ</string>
+  <string name="button_Update">Cập Nhật</string>
+  <string name="button_Share">Chia sẻ</string>
+  <string name="button_Yes">Có</string>
+  <string name="button_No">Không</string>
+  <string name="button_apply">Áp dụng</string>
+  <string name="button_browse">Trình duyệt</string>
+  <string name="button_close">Đóng</string>
+  <string name="button_Confirm">Xác nhận</string>
+  <string name="button_Ok">Ok</string>
+  <string name="text_import_file_name">Tên</string>
+  <string name="text_import_file_size">Kích thước</string>
+  <string name="general_items">Mã (s)</string>
+  <string name="general_selected_items">lựa chọn</string>
+  <string name="general_error">Lỗi</string>
+  <string name="title_confirm">Xác nhận</string>
+  <string name="button_ok">Ok</string>
+  <string name="button_cancel">Hủy bỏ</string>
+  <string name="free_space">Tất cả các không gian trống:</string>
+  <string name="title_share">Chia sẻ bằng cách sử dụng:</string>
+  <string name="title_rename">Nhập tên mới  </string>
+  <string name="title_create_folder">Nhập tên thư mục  </string>
+</resources>

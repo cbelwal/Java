@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Αρχείο καταγραφής κλήσεων</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">Άγνωστο</string>
+  <string name="button_Yes">Ναι</string>
+  <string name="button_No">Όχι</string>
+  <string name="button_Apply">Εφαρμόστε</string>
+  <string name="button_Close">Κλείστε</string>
+  <string name="general_not_Available">Δεν είναι διαθέσιμη</string>
+  <string name="general_items">item (s)</string>
+  <string name="general_selected_items">επιλεγμένο</string>
+  <string name="title_confirm">Επιβεβαίωση</string>
+  <string name="title_dialog_coju">Λήψη Coju</string>
+  <string name="message_selectitems">Atleast 1 καταχώρηση αρχείου καταγραφής πρέπει να επιλέγεται</string>
+  <string name="message_download_coju">Coju είναι μια εφαρμογή ενσωματωμένη διαχείριση επαφών. Έχει όλα τα χαρακτηριστικά της αυτό το app συν επιπλέον δυνατότητες. Θα θέλατε να κατεβάσετε Coju;</string>
+  <string name="message_contact_permissions_missing">Επαφές άδειες που απαιτούνται για αυτό το app να εργαστείτε. App θα τώρα κλείστε, παρακαλείστε να δώσετε δικαιώματα και προσπαθήστε ξανά</string>
+  <string name="message_other_permissions_missing">Ζητήσει τα δικαιώματα που απαιτούνται για να λειτουργεί αυτή η δυνατότητα app.
+        Παρακαλώ δώστε τα απαιτούμενα δικαιώματα και προσπαθήστε ξανά</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_merge_contacts">Contacts Merge</string>
+    <string name="action_merge">Merge Contact(s)</string>
+    <string name="message_merge_title">Caution</string>
+    <string name="message_merge_confirm">Please confirm if you want to merge selected contacts ? The phone number, email
+        address, postal address, note and events of
+        all selected contacts will be merged into one single contact with name: </string>
+    <string name="message_merge_complete">Selected contacts have been merged</string>
+    <string name="progressbar_merge_data">Merging contacts ...</string>
+
+
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">داسميك، شركة ذات مسؤولية محدودة</string>
+  <string name="feedback_no_email">لا يوجد عملاء البريد الإلكتروني العثور على</string>
+  <string name="button_yes">نعم</string>
+  <string name="button_no">لا</string>
+  <string name="nav_menu_help_doc">وثائق تعليمات</string>
+  <string name="button_rate_never">ابدأ</string>
+  <string name="button_rate_later">في وقت لاحق</string>
+  <string name="button_rate_now">الآن</string>
+  <string name="title_rate_this_app">يرجى معدل هذا التطبيق</string>
+  <string name="title_feedback">قم بتحديد خيار البريد الإلكتروني...</string>
+  <string name="title_demo_video">عرض الفيديو</string>
+  <string name="title_tellafriend">أخبر صديق عن طريق...</string>
+  <string name="title_send_feedback">اتصل بنا</string>
+  <string name="title_rate_app">معدل التطبيق</string>
+</resources>

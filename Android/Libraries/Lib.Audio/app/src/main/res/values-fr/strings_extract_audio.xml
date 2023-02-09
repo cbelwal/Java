@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Nom du fichier :</string>
+  <string name="text_ep_file_size">Taille :</string>
+  <string name="text_ep_modified_date">Date de modification :</string>
+  <string name="text_ep_duration">Durée :</string>
+  <string name="title_search_depth">Profondeur de la recherche (grandes valeurs prendra plusieurs minutes)</string>
+  <string name="progressbar_extracting_audio">Extraction audio (peut prendre quelques minutes)...</string>
+  <string name="progressbar_loading_audio">Détails de chargement de fichier audio...</string>
+  <string name="text_ep_time_start">Départ time(seconds)</string>
+  <string name="text_ep_period">Durée de chaque file(seconds) audio</string>
+  <string name="text_ep_store">Stocker les nouveaux fichiers audio comme :</string>
+  <string name="text_ep_share_external">Placer dans le dossier externe</string>
+  <string name="text_ep_share_app">Partager l’utilisation d’applications</string>
+  <string name="message_extract_complete"> M4A ou les fichiers ont été créés</string>
+  <string name="message_extract_error">Une erreur s’est produite dans la création de fichiers audio</string>
+  <string name="message_search_depth_updated">La profondeur de recherche a été mis à jour</string>
+  <string name="message_search_depth_error">Erreur de mise à jour de la profondeur de la recherche</string>
+  <string name="message_load_complete">Détails du fichier audio ont été chargés</string>
+  <string name="message_load_error">Il y avait une erreur dans le chargement de l’audio</string>
+  <string name="message_extract_duration_reduced"> La dernière durée de fichier audio a été réduite comme fin de l’audio a été atteinte </string>
+  <string name="message_extract_incomplete"> %1$ d ou les fichiers audio ne peut pas être créés ou des informations incomplètes</string>
+  <string name="message_extract_signature">Envoyé par Audio râpe partir coju.mobi™</string>
+</resources>

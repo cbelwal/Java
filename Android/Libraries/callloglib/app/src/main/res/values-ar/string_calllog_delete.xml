@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_delete_confirm_cl">سيتم حذف تفاصيل المكالمة المحددة log(s). لا يمكن التراجع عن هذا الإجراء. هل تريد المتابعة؟</string>
+  <string name="message_delete_complete_cl"> استدعاء تفاصيل log(s) حذف</string>
+</resources>

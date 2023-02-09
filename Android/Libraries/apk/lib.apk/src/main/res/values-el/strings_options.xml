@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="share_options_ShareUsing">Μοιραστείτε χρησιμοποιώντας:</string>
+  <string name="share_options_allshare">Email/Wifi/σύννεφο αποθήκευσης (το μεγάλο αρχείο (ες) μπορεί να έχουν προβλήματα)</string>
+  <string name="export_options_externalStorage">Εξωτερική συσκευή αποθήκευσης</string>
+  <string name="export_options_ExportAs">Μορφή εξαγωγής:</string>
+  <string name="export_options_ExportUsing">Μοιραστείτε το APK αρχείο (ες) μέσω:</string>
+  <string name="progressbar_prepare_data">Προετοιμασία πακέτα... </string>
+</resources>

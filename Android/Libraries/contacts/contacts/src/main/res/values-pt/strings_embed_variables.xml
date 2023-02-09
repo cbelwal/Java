@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">Conectado ao dispositivo.
+        Pressione \'Send\' transferir contatos para: </string>
+  <string name="message_bt_conn_failed">Conexão falhou ao dispositivo.
+    Por favor assegure que este aplicativo está instalado e Bluetooth tela é aberta em: </string>
+  <string name="message_bt_sent_error">Não poderia transferir estes número de contato (s): </string>
+  <string name="message_bt_recv_error">Não foi possível criar estes número de contato (s): </string>
+  <string name="message_bt_create_complete">Contato (s) recebido criado: </string>
+  <string name="message_bt_sent_complete">Contatos enviados para o dispositivo: </string>
+  <string name="progressbar_bt_send_data">Transferência de contato exclusivo (s) </string>
+  <string name="progressbar_bt_bytes">bytes </string>
+  <string name="progressbar_bt_create_contacts">Contato (s) criação (contatos com imagens exigem mais tempo)</string>
+  <string name="message_free_version_selection">
+        Contatos máximos que podem ser selecionados na versão gratuita é: </string>
+  <string name="progressbar_delete_data">
+        Excluir contato exclusivo (s) </string>
+</resources>

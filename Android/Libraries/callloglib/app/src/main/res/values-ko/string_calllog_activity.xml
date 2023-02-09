@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_add_call_log">추가</string>
+  <string name="activity_edit_call_log">편집</string>
+  <string name="activity_share_call_log">공유</string>
+  <string name="activity_export_call_log">내보내기</string>
+  <string name="activity_import_call_log">가져오기</string>
+  <string name="activity_bluetooth_call_log">블루투스 전송</string>
+  <string name="activity_backup_call_log">백업</string>
+  <string name="activity_restore_call_log">복원</string>
+  <string name="activity_filter_call_log">표시 필터</string>
+</resources>

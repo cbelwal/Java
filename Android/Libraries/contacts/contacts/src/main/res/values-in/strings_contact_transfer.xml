@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Jelajahi</string>
+  <string name="backup_options_backupusing">Menggunakan cadangan</string>
+  <string name="transfer_address_home">Rumah</string>
+  <string name="transfer_address_office">Kantor</string>
+  <string name="transfer_contact_office">(W).</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(M)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">Di favorit</string>
+  <string name="transfer_not_in_favorites">Tidak di favorit</string>
+  <string name="transfer_times_contacted">Kali menghubungi:</string>
+  <string name="transfer_last_time_contacted">Terakhir kali menghubungi:</string>
+  <string name="transfer_organization">Organisasi</string>
+  <string name="transfer_title">Judul</string>
+  <string name="transfer_event_birthday">Ulang tahun</string>
+  <string name="transfer_event_anniv">Ulang tahun</string>
+  <string name="transfer_event_other">Lainnya</string>
+  <string name="check_phone">Nomor telepon Anda</string>
+  <string name="check_email">Email</string>
+  <string name="csv_header_name">Nama</string>
+  <string name="csv_header_phone">Nomor telepon Anda</string>
+  <string name="csv_header_email">Alamat-alamat email</string>
+  <string name="csv_header_postal">Alamat-alamat pos</string>
+  <string name="csv_header_timescontacted">Kali dihubungi</string>
+  <string name="csv_header_lasttimecontact">Terakhir kali dihubungi</string>
+  <string name="csv_header_favorite">Status favorit</string>
+  <string name="csv_header_organization">Organisasi</string>
+  <string name="check_postaladdress">Alamat pos</string>
+  <string name="check_timescontacted">Jumlah kali dihubungi</string>
+  <string name="check_lastcontact">Terakhir kali kontak</string>
+  <string name="check_isfavorite">Status favorit</string>
+  <string name="share_options_ShareAs">Berbagi sebagai:</string>
+  <string name="share_options_ShareUsing">Berbagi menggunakan:</string>
+  <string name="share_options_sms">Pesan</string>
+  <string name="share_options_allshare">Berbagi aplikasi (awan, Email,...)</string>
+  <string name="share_options_Clipboard">Salin ke Clipboard</string>
+  <string name="share_options_plaintext">Teks biasa</string>
+  <string name="share_options_vcf">Masing-masing file Vcard</string>
+  <string name="share_options_combinedvcf">Gabungan file Vcard</string>
+  <string name="export_options_textfile">File teks biasa</string>
+  <string name="export_options_combinedvcf_21">File gabungan vCard 2.1</string>
+  <string name="export_options_individualvcf_21">File individu vCard 2.1</string>
+  <string name="export_options_combinedvcf_40">File gabungan vCard 4.0</string>
+  <string name="export_options_individualvcf_40">File individu vCard 4.0</string>
+  <string name="export_options_csvfile">File Comma terpisah (*.csv)</string>
+  <string name="export_options_externalStorage">Penyimpanan eksternal perangkat ini</string>
+  <string name="export_options_ExportAs">Format ekspor:</string>
+  <string name="export_options_ExportUsing">Simpan file di:</string>
+  <string name="message_import_invalid_file">Tidak berlaku file kontak
+        </string>
+  <string name="backup_options_using">Simpan file backup di:</string>
+  <string name="menu_import_help">Tolong</string>
+  <string name="message_backup_options">Dianjurkan untuk cadangan dalam berbagi aplikasi seperti awan, Email dll.
+        Ini akan memungkinkan Anda untuk memulihkan kontak jika Anda pernah kehilangan ponsel Anda.
+        Untuk memulihkan kontak dari Email awan secara manual menyimpan file cadangan kontak dari account Email internet untuk setiap lokasi di perangkat ini. Impor utilitas kemudian akan secara otomatis mencari file.</string>
+  <string name="message_restore_fail">
+        Tidak bisa memulihkan dari cadangan, cadangan file hilang atau rusak
+                </string>
+  <string name="message_restore_refresh">Kontak yang dikembalikan dari file cadangan. Silahkan refresh layar untuk melihat semua Impor kontak</string>
+  <string name="message_restore_selection_finish">Kontak yang dikembalikan dari file cadangan. Anda sekarang dapat menutup layar ini atau mengimpor dari file Backup yang lain</string>
+  <string name="message_restore_legacy_name">File cadangan bernama \'BackupAllContacts.vcf\' dalam versi</string>
+</resources>

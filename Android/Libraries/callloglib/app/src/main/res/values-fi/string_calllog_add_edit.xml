@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">Puhelinnumero</string>
+  <string name="text_calllog_date">Päivämäärä</string>
+  <string name="text_calllog_time">Aika</string>
+  <string name="text_calllog_duration">Duration(s)</string>
+  <string name="text_calllog_type">Tyyppi</string>
+  <string name="spinner_calllog_type_incoming">Saapuva</string>
+  <string name="spinner_calllog_type_outgoing">Lähtevä</string>
+  <string name="spinner_calllog_type_missed">Jäänyt</string>
+  <string name="message_calllog_added">Lisättynä puheluloki</string>
+  <string name="message_calllog_added_error">Lisäämällä jättäminen puheluloki</string>
+  <string name="message_calllog_edited">Onnistuneesti päivitetty puhelulokin</string>
+  <string name="message_calllog_edited_error">Virhe päivitettäessä puhelulokin</string>
+</resources>

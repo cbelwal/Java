@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">artículo (s)</string>
+  <string name="general_selected_items">seleccionado</string>
+  <string name="general_error">Error</string>
+  <string name="title_confirm">Confirmar</string>
+  <string name="button_ok">Vale</string>
+  <string name="button_cancel">Cancelar</string>
+  <string name="free_space">Total de espacio libre:</string>
+  <string name="title_share">Compartir con:</string>
+  <string name="title_rename">Introduzca el nuevo nombre  </string>
+  <string name="title_create_folder">Introduzca el nombre de la carpeta  </string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">متصل بالجهاز.
+        اضغط \'Send\ \' لنقل جهات الاتصال إلى: </string>
+  <string name="message_bt_conn_failed">فشل الاتصال بالجهاز.
+    الرجاء التأكد من أن يتم تثبيت هذا التطبيق، والشاشة بلوتوث مفتوح في: </string>
+  <string name="message_bt_sent_error">لا يمكن نقل هذه العدد من جهات الاتصال: </string>
+  <string name="message_bt_recv_error">لا يمكن إنشاء هذه العدد من جهات الاتصال: </string>
+  <string name="message_bt_create_complete">تلقي جهات الاتصال التي تم إنشاؤها: </string>
+  <string name="message_bt_sent_complete">جهات الاتصال المرسلة إلى الجهاز: </string>
+  <string name="progressbar_bt_send_data">نقل جهات الاتصال فريدة من نوعها </string>
+  <string name="progressbar_bt_bytes">وحدات البايت </string>
+  <string name="progressbar_bt_create_contacts">إنشاء جهات الاتصال (الاتصالات مع الصورة تتطلب المزيد من الوقت)</string>
+  <string name="message_free_version_selection">
+        الحد الأقصى من جهات الاتصال التي يمكن تحديدها في النسخة المجانية: </string>
+  <string name="progressbar_delete_data">
+        حذف جهات الاتصال فريدة من نوعها </string>
+</resources>

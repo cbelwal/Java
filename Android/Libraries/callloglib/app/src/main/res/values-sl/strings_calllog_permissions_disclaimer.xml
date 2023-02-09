@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        Ta app bo sedaj zahteva dovoljenja za dostop do podatkov klic dnevnik in stikov.
+        Ta dovoljenja so potrebna za to app za delo in niso namenjena uporabi na kakršenkoli drug način. Vzamemo vašo zasebnost zelo resno, in vaš klic dnevnik in stiki podatkov ne bo treba deliti z vsako stranko, vključno z coju.mobi™, založniki to app.
+    </string>
+  <string name="button_permissions_ack">
+        Potrdi
+    </string>
+  <string name="title_ack_confirm">
+        Zavrnitev dovoljenja
+    </string>
+</resources>

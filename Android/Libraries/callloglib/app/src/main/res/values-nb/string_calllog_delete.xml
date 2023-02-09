@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_delete_confirm_cl">Detaljer for valgte servicehenvendelse loggene slettes. Denne handlingen kan ikke angres. Vil du fortsette?</string>
+  <string name="message_delete_complete_cl"> Ring loggene detaljer slettet</string>
+</resources>

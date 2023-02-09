@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">选定的呼叫日志的数目︰</string>
+  <string name="text_bt_paired_devices">配对的设备 （连接选择）</string>
+  <string name="text_bt_new_devices">新设备 （连接选择）</string>
+  <string name="message_bt_scan_devices">扫描设备......</string>
+  <string name="message_bt_scan_complete">完成的扫描设备</string>
+  <string name="message_bt_pair_devices">配对设备......</string>
+  <string name="message_bt_new_none">未找到新设备</string>
+  <string name="message_bt_pair_none">发现没有配对的设备</string>
+  <string name="message_bt_conn_lost">连接到设备丢失</string>
+  <string name="message_bt_connecting">连接到︰</string>
+  <string name="message_bt_not_enabled">蓝牙未启用，关闭蓝牙传输</string>
+  <string name="message_bt_status_listening">听...</string>
+  <string name="message_bt_status_connecting">正在连接...</string>
+  <string name="message_bt_status_connected">连接</string>
+  <string name="message_bt_testdata_sent">Testdata 发送</string>
+  <string name="message_bt_no_contacts">没有选择要发送的联系人</string>
+  <string name="message_bt_recv_complete">接收数据完整</string>
+  <string name="message_bt_not_connected">没有连接到任何设备</string>
+  <string name="message_bt_adapter_error">有了蓝牙设置时出错。
+            请检查是否你的手机有蓝牙和蓝牙适配器已启用</string>
+  <string name="menu_bt_make_discoverable">使设备可检测到</string>
+  <string name="progressbar_bt_recv_data">准备好接受联系人数据...</string>
+  <string name="message_bt_connected">连接到设备。
+        按 \'Send\' 转移到呼叫日志︰</string>
+  <string name="message_bt_conn_failed">连接到设备失败。
+    请确保此应用程序安装和蓝牙屏幕是在中打开︰</string>
+  <string name="message_bt_sent_error">无法传输呼叫日志这些数目︰</string>
+  <string name="message_bt_recv_error">不能创建这些数量的呼叫日志︰</string>
+  <string name="message_bt_create_complete">已接的来电日志创建︰</string>
+  <string name="message_bt_sent_complete">呼叫日志发送到设备︰</string>
+  <string name="progressbar_bt_send_data">转移呼叫日志</string>
+  <string name="progressbar_bt_bytes">字节</string>
+  <string name="progressbar_bt_create_contacts">创建调用日志</string>
+  <string name="progressbar_delete_data">删除呼叫日志</string>
+  <string name="button_scan">扫描</string>
+  <string name="button_send">发送</string>
+</resources>

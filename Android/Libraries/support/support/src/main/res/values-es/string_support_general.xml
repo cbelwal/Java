@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic, LLC</string>
+  <string name="feedback_no_email">No clientes de correo electrónico encontrados</string>
+  <string name="button_yes">Sí</string>
+  <string name="button_no">No</string>
+  <string name="nav_menu_help_doc">Documentación de ayuda</string>
+  <string name="button_rate_never">Nunca</string>
+  <string name="button_rate_later">Más tarde</string>
+  <string name="button_rate_now">Ahora</string>
+  <string name="title_rate_this_app">Por favor califique esta aplicación</string>
+  <string name="title_feedback">Seleccione la opción de correo electrónico...</string>
+  <string name="title_demo_video">Video de demostración</string>
+  <string name="title_tellafriend">Enviar a un amigo a través de...</string>
+  <string name="title_send_feedback">En contacto con nosotros</string>
+  <string name="title_rate_app">Aplicación de la tasa</string>
+</resources>

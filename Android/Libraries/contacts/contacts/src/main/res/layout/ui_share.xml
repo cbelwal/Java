@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:ads="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <Button
+            android:id="@+id/btnCancel"
+            android:text="@string/button_Close"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="-4dp"
+            android:layout_marginLeft="-5dp"
+            />
+
+
+        <Button
+            android:id="@+id/btnSend"
+            android:text="@string/button_Apply"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="-4dp"
+            android:layout_marginRight="-5dp"/>
+
+        <!--android:layout_marginLeft="-5dp"-->
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="-1dp"
+        >
+
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!--- Add Checkboxes -->
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="0dp">
+
+
+
+        <CheckBox xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/checkPhone"
+            android:text="@string/check_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            />
+        <CheckBox xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/checkEmail"
+            android:text="@string/check_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            />
+        <CheckBox xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/checkPostalAddress"
+            android:text="@string/check_postaladdress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            />
+
+        <CheckBox xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/checkTimesContacted"
+            android:text="@string/check_timescontacted"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            />
+        
+        <CheckBox xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/checkLastContact"
+            android:text="@string/check_lastcontact"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            />
+        <CheckBox xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/checkIsFavorite"
+            android:text="@string/check_isfavorite"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            />
+    </LinearLayout>
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/share_options_ShareAs"
+            android:layout_marginLeft="5dp"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            />
+
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/radioShareAs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="5dp">
+
+            <RadioButton xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/radioPlainText"
+            android:text="@string/share_options_plaintext"
+            android:checked="true"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            />
+
+            <RadioButton xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/radioVCF"
+            android:text="@string/share_options_vcf"
+            android:checked="false"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            />
+
+            <RadioButton xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/radioCombinedVCF"
+            android:text="@string/share_options_combinedvcf"
+            android:checked="false"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            />
+            </RadioGroup>
+        </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/share_options_ShareUsing"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            />
+
+    <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/radioShareOptions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="5dp">
+
+            <RadioButton xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/radioSMS"
+            android:text="@string/share_options_sms"
+            android:checked="true"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            />
+
+            <RadioButton xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/radioClip"
+            android:text="@string/share_options_Clipboard"
+            android:checked="false"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            />
+
+            <RadioButton xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/radioShareApplications"
+            android:text="@string/share_options_allshare"
+            android:checked="false"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            />
+        </RadioGroup>
+    </LinearLayout>
+
+</LinearLayout>
+</ScrollView>
+        </LinearLayout>
+    </LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">Telefonszám</string>
+  <string name="text_calllog_date">Dátum</string>
+  <string name="text_calllog_time">Idő</string>
+  <string name="text_calllog_duration">Duration(s)</string>
+  <string name="text_calllog_type">Típus</string>
+  <string name="spinner_calllog_type_incoming">Bejövő</string>
+  <string name="spinner_calllog_type_outgoing">Kimenő</string>
+  <string name="spinner_calllog_type_missed">Kimaradt</string>
+  <string name="message_calllog_added">Sikeresen hozzáadta a tényezőktől is függhet.</string>
+  <string name="message_calllog_added_error">Hívásnaplóban az elmulasztása</string>
+  <string name="message_calllog_edited">Sikeresen frissített Hívásnapló</string>
+  <string name="message_calllog_edited_error">Hiba a hívásnapló frissítése</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Nazwa pliku:</string>
+  <string name="text_ep_file_size">Rozmiar:</string>
+  <string name="text_ep_modified_date">Data modyfikacji:</string>
+  <string name="text_ep_video_duration">Czas trwania:</string>
+  <string name="title_search_depth">Głębokość Szukaj (duże wartości może potrwać kilka minut)</string>
+  <string name="nav_menu_search_entire_phone">Przeszukiwanie całego telefonu</string>
+  <string name="nav_menu_search_media_folders">Foldery wyszukiwania multimediów</string>
+  <string name="nav_menu_search_external_folders">Zewnętrznych foldery wyszukiwania</string>
+  <string name="progressbar_extracting_pictures">Wyodrębnianie zdjęcia...</string>
+  <string name="text_ep_time_start">Start (sekundy)</string>
+  <string name="text_ep_period">Interwał między pictures(seconds)</string>
+  <string name="text_ep_no_of_pictures">Liczba zdjęć</string>
+  <string name="text_ep_store">Przechowywać wyodrębnione obrazy jako:</string>
+  <string name="text_ep_share_external">Umieść w folderze zewnętrznych</string>
+  <string name="text_ep_share_app">Podziel się za pomocą aplikacji</string>
+  <string name="message_extract_complete"> Zdjęcia zostały wyodrębnione</string>
+  <string name="message_extract_error">Napotkano błąd w wyodrębnianie Zdjęcia</string>
+  <string name="message_search_depth_updated">Zaktualizowano głębokość Szukaj</string>
+  <string name="message_search_depth_error">Błąd aktualizacji głębokość Szukaj</string>
+</resources>

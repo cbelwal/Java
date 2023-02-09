@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Nhật ký cuộc gọi</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">Chưa biết</string>
+  <string name="button_Yes">Có</string>
+  <string name="button_No">Không</string>
+  <string name="button_Apply">Áp dụng</string>
+  <string name="button_Close">Đóng</string>
+  <string name="general_not_Available">Không có sẵn</string>
+  <string name="general_items">Mã (s)</string>
+  <string name="general_selected_items">lựa chọn</string>
+  <string name="title_confirm">Xác nhận</string>
+  <string name="title_dialog_coju">Tải về Coju</string>
+  <string name="message_selectitems">Atleast 1 mục đăng nhập cần phải được lựa chọn</string>
+  <string name="message_download_coju">Coju là một ứng dụng tích hợp quản lý liên lạc. Nó có tất cả các tính năng của ứng dụng này cộng thêm khả năng bổ sung. Bạn sẽ muốn tải về Coju?</string>
+  <string name="message_contact_permissions_missing">Địa chỉ liên lạc cấp phép được yêu cầu cho ứng dụng này để làm việc. Ứng dụng sẽ bây giờ đóng, xin vui lòng cung cấp cho quyền và thử lại</string>
+  <string name="message_other_permissions_missing">Yêu cầu cấp phép được yêu cầu cho ứng dụng tính năng này để làm việc.
+        Xin vui lòng cung cấp cho quyền được yêu cầu và thử lại</string>
+</resources>

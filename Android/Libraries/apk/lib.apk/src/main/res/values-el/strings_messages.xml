@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Atleast 1 επιλογή απαιτείται</string>
+  <string name="message_save_external">APK αρχεία αποθηκεύονται σε εξωτερικό φάκελο: </string>
+  <string name="message_free_version_selection">Μόνο 3 εφαρμογές μπορεί να επιλεγεί τη φορά στην δωρεάν έκδοση</string>
+  <string name="message_free_version_option">Αυτή η επιλογή είναι διαθέσιμη μόνο για την πληρωμένη έκδοση</string>
+  <string name="message_activity_load_fail">Δεν ήταν δυνατή η εκκίνηση της εφαρμογής</string>
+  <string name="message_activity_loading">Έναρξη εφαρμογής...</string>
+  <string name="message_loading_files">Αναζήτηση τοπικών φακέλων...</string>
+  <string name="message_deleting_files">Παρακαλείστε να επιβεβαιώσετε ξεχωριστά για κάθε πακέτο που επιλέξατε.
+    Πακέτα συστήματος θα απεγκαταστήσετε μόνο από λογαριασμό χρήστη</string>
+  <string name="message_save_external_suffix">. Φάκελος μπορεί να προσπελαστεί από τη σύνδεση του τηλεφώνου σας στον υπολογιστή σας μέσω USB κλπ. </string>
+  <string name="message_rate_this_app_error">Δεν μπόρεσε να ανοίξει σελίδα βαθμολογίας</string>
+  <string name="message_share_link_prefix">Γεια σας, \r\n\r\nCheck αυτό έξω: </string>
+  <string name="message_share_link_suffix">Αποστέλλονται μέσω APKit</string>
+  <string name="message_share_report_prefix">Πακέτο έκθεση</string>
+  <string name="message_share_report_suffix">Που δημιουργούνται και αποστέλλονται μέσω</string>
+  <string name="message_other_permissions_missing">Ζητήσει τα δικαιώματα που απαιτούνται για να λειτουργήσει αυτή η δυνατότητα. Παρακαλώ δώστε τα απαιτούμενα δικαιώματα και προσπαθήστε ξανά
+    </string>
+  <string name="message_purchase_error">
+        Δεν μπόρεσαν να συνδεθούν σε διακομιστή της Google. Επανεκκινήστε την εφαρμογή και προσπαθήστε ξανά
+    </string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Не удалось подключиться к серверу Google. Перезапустите приложение и повторите попытку
+    </string>
+  <string name="progressbar_load_data">Поиск аудио файлов...</string>
+  <string name="message_selectitems">Atleast 1 выбор не требуется</string>
+  <string name="message_activity_load_fail">Приложение не может быть запущен</string>
+  <string name="message_activity_loading">Запуск приложения...</string>
+  <string name="message_other_permissions_missing">Запрошенные разрешения требуются для работы этой функции. Пожалуйста предоставьте запрошенные разрешения и повторите попытку
+    </string>
+  <string name="message_no_read_permission">Отсутствует разрешение на чтение
+    </string>
+  <string name="message_cannot_go_in">Не мог идти внутри выбранной папки
+    </string>
+  <string name="message_delete_confirm">Выбранные файлы (s) будут удалены. Это действие нельзя отменить. Продолжить?</string>
+  <string name="progressbar_delete_data">
+        Удаление файлов </string>
+  <string name="message_delete_complete"> файла / папки удалены</string>
+  <string name="message_free_version_selection">
+        Максимальное число файлов, которые могут быть выбраны в бесплатной версии является: </string>
+  <string name="message_max_allowed_one">
+        Этот параметр работает только для одного выделения  </string>
+  <string name="message_only_file">
+        Этот параметр работает только для файлов  </string>
+  <string name="message_copying_file">
+        Копирование файла...  </string>
+  <string name="message_copy_complete">
+        Полное копирование файлов. Имена файлов займет несколько минут, чтобы показать в магазине СМИ.  </string>
+  <string name="message_copy_error">
+        Не удалось создать копию некоторых файлов. Убедитесь, что есть свободное место и у вас есть доступ на запись в папку.</string>
+  <string name="message_share_error">
+        Во время копирования произошла ошибка. Пожалуйста, проверьте, если у вас достаточно дискового пространства для кэширования общих файлов  </string>
+  <string name="message_zipping_files">
+        Сжатие файлов / папок...  </string>
+  <string name="message_zipping_completed">
+        Все ы / папки переехал в zip-архив  </string>
+  <string name="message_zipping_error">
+        Может не zip файлы / папки. Пожалуйста, проверьте если выбранные папки не являются пустыми, и у вас есть достаточно места для хранения</string>
+  <string name="message_rename_complete">
+        Переименование файла или папки полной. Новое имя будет занять несколько минут, чтобы показать в магазине СМИ.  </string>
+  <string name="message_rename_error">
+        Не удается переименовать файл/папка  </string>
+  <string name="message_create_folder_complete">
+        Папка создана  </string>
+  <string name="message_create_folder_error">
+        Не удалось создать папку  </string>
+  <string name="message_error_audio_play">
+        Не могла бы играть аудио </string>
+</resources>

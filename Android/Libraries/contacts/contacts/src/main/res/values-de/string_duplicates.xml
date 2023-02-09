@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">Name + Nummer Spiel WhatsApp</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">Gleiche Anzahl von WhatsApp in mehrere Namen</string>
+  <string name="duplicate_options_name_matches_email_phone">Name + Telefon/e-Mail-Spiel</string>
+  <string name="duplicate_options_name_matches_phone">Name + Handy Spiel</string>
+  <string name="duplicate_options_name_matches_email">Name + e-Mail-Spiel</string>
+  <string name="duplicate_options_same_number_multi_name">Gleiche Anzahl in mehrere Namen</string>
+  <string name="duplicate_options_same_email_multi_name">Gleiche e-Mail in mehrere Namen</string>
+  <string name="duplicate_options_none">Keine</string>
+  <string name="progressbar_sel_duplicates">Duplikate werden gesucht...</string>
+  <string name="message_duplicates_selected">Zum Löschen Taste ausgewählten Duplikat(e) das Symbol \"löschen\". Der original(master)-Wert für jedes Duplikat nicht ausgewählt ist und nicht gelöscht werden.</string>
+  <string name="choose_duplicate_option">Wählen Sie das Kriterium zur Identifizierung von Duplikaten.
+        Duplikate zusammen mit ihren original(master)-Wert werden im Hauptbildschirm angezeigt und werden zum Löschen automatisch überprüft. Original(Master) Wert wird nicht überprüft.</string>
+  <string name="startup_message">Verwenden Sie das doppelte Symbol oben rechts Darstellungsoption für Duplikate festlegen</string>
+  <string name="message_duplicates_backup">Es wird empfohlen, dass Sie Ihre Kontakte sichern, bevor Sie sie löschen</string>
+</resources>

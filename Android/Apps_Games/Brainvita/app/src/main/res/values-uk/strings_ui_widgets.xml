@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">Нова гра</string>
+  <string name="button_switch_board">Розподільному щиті</string>
+  <string name="button_custom_board">Встановити власну дошку</string>
+  <string name="button_high_scores">Рекорди</string>
+  <string name="button_rate_app">Оцінити це гра</string>
+  <string name="button_tell_a_friend">Розповісти другу</string>
+  <string name="button_paid_version">Платна версія</string>
+  <string name="button_help_documentation">Допомогти документації</string>
+  <string name="button_demo_video">Демо-відео</string>
+  <string name="button_ok">Гаразд</string>
+  <string name="button_yes">Так</string>
+  <string name="button_no">Ні</string>
+  <string name="button_start">Почати</string>
+  <string name="button_cancel">\"Скасувати\"</string>
+  <string name="button_abort">Перервати</string>
+  <string name="button_high_score_close">Закрити</string>
+  <string name="title_high_score">Top Ten Високоефективна</string>
+  <string name="text_high_score_none">Немає значення</string>
+  <string name="text_high_score_pegs">Решта peg(s)</string>
+  <string name="text_high_score_time">Час</string>
+</resources>

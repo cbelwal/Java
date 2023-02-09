@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_share">Berbagi</string>
+  <string name="action_delete">Hapus</string>
+  <string name="action_filter">Filter</string>
+  <string name="action_copy">Salinan</string>
+  <string name="action_rename">Mengubah nama</string>
+  <string name="action_create_folder">Buat folder</string>
+  <string name="action_move">Bergerak</string>
+  <string name="action_share_zip">Berbagi sebagai Zip</string>
+  <string name="action_zip">Zip</string>
+  <string name="nav_menu_view_name">Lihat nama</string>
+  <string name="nav_menu_view_size">Lihat ukuran</string>
+  <string name="nav_menu_view_modified">Lihat dimodifikasi tanggal</string>
+  <string name="nav_menu_view_refresh">Refresh</string>
+  <string name="nav_menu_view_close">Tutup</string>
+  <string name="nav_menu_group_general">Umum</string>
+  <string name="nav_menu_group_viewoptions">Pilihan tampilan</string>
+  <string name="nav_menu_rate_this_app">Umpan balik</string>
+  <string name="nav_menu_upgrade">Upgrade ke versi yang dibayar</string>
+  <string name="nav_menu_tellafriend">Beritahu teman</string>
+  <string name="nav_menu_feedback">Hubungi kami</string>
+  <string name="nav_menu_group_help">Tolong</string>
+  <string name="nav_menu_demovideo">Demo Video</string>
+  <string name="nav_menu_help_doc">Dokumentasi Bantuan</string>
+</resources>

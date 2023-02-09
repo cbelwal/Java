@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Har ikke gives tilladelse til at foretage opkald til denne app</string>
+  <string name="message_search_number_security_exception">Kunne ikke søge dette telefonnummer! Google-søgning ikke er aktiveret eller ikke er givet tilladelse hertil i denne enhed</string>
+  <string name="message_free_version_selection">
+        Maksimale logføringsposter, der kan vælges i den gratis version er: </string>
+  <string name="message_purchase_error">
+        Kunne ikke oprette forbindelse til Google-serveren. Venligst genstarte app og prøv igen
+    </string>
+</resources>

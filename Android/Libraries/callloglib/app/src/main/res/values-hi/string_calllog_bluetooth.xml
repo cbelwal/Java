@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">चयनित कॉल log (s) की संख्या: </string>
+  <string name="text_bt_paired_devices"> युग्मित डिवाइस (से कनेक्ट करने के लिए चयन)</string>
+  <string name="text_bt_new_devices"> नए डिवाइस (से कनेक्ट करने के लिए चयन)</string>
+  <string name="message_bt_scan_devices">डिवाइस के लिए स्कैन कर रहा है...</string>
+  <string name="message_bt_scan_complete">उपकरणों के लिए समाप्त हो गया स्कैन</string>
+  <string name="message_bt_pair_devices">डिवाइस बाँधना...</string>
+  <string name="message_bt_new_none">कोई नया डिवाइस नहीं मिला</string>
+  <string name="message_bt_pair_none">कोई युग्मित डिवाइस नहीं मिला</string>
+  <string name="message_bt_conn_lost">कनेक्शन करने के लिए डिवाइस खो गया</string>
+  <string name="message_bt_connecting">करने के लिए कनेक्ट कर रहा है: </string>
+  <string name="message_bt_not_enabled">ब्लूटूथ स्थानांतरण बंद ब्लूटूथ सक्षम नहीं,</string>
+  <string name="message_bt_status_listening">सुन...</string>
+  <string name="message_bt_status_connecting">कनेक्ट कर रहा है...</string>
+  <string name="message_bt_status_connected">कनेक्ट किया गया</string>
+  <string name="message_bt_testdata_sent">Testdata भेजा</string>
+  <string name="message_bt_no_contacts">कोई संपर्क भेजने के लिए चयनित</string>
+  <string name="message_bt_recv_complete">पूरा डेटा प्राप्त होता है</string>
+  <string name="message_bt_not_connected">किसी भी डिवाइस से कनेक्ट नहीं</string>
+  <string name="message_bt_adapter_error">ब्लूटूथ स्थापना एक त्रुटि थी।
+            कृपया यदि आपके फ़ोन में Bluetooth है और ब्लूटूथ एडाप्टर सक्षम किया गया है की जाँच करें</string>
+  <string name="menu_bt_make_discoverable">डिवाइस को खोजनेयोग्य बनाएँ</string>
+  <string name="progressbar_bt_recv_data">संपर्क डेटा प्राप्त करने के लिए तैयार...</string>
+  <string name="message_bt_connected">डिवाइस के लिए कनेक्टेड।
+        \'Send\ प्रेस \' log (s) करने के लिए कॉल स्थानांतरित करने के लिए: </string>
+  <string name="message_bt_conn_failed">डिवाइस से कनेक्शन विफल रहा।
+    कृपया इस अनुप्रयोग स्थापित किया गया है और Bluetooth स्क्रीन में खुला है बीमा: </string>
+  <string name="message_bt_sent_error">कॉल log (s) की ये संख्या स्थानांतरित नहीं कर सका: </string>
+  <string name="message_bt_recv_error">इन कॉल log (s) की संख्या नहीं बना सका: </string>
+  <string name="message_bt_create_complete">प्राप्त कॉल log (s) बनाया गया: </string>
+  <string name="message_bt_sent_complete">कॉल करने के लिए डिवाइस भेजा log (s): </string>
+  <string name="progressbar_bt_send_data">स्थानांतरण कॉल log (s) </string>
+  <string name="progressbar_bt_bytes">बाइट्स </string>
+  <string name="progressbar_bt_create_contacts">कॉल log (s) बनाना</string>
+  <string name="progressbar_delete_data">
+        कॉल log (s) को हटाना </string>
+  <string name="button_scan">स्कैन</string>
+  <string name="button_send">भेजें</string>
+</resources>

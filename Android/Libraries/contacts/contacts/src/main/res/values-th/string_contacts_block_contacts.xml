@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">ผู้ติดต่อที่ไม่ถูกบล็อค</string>
+  <string name="display_options_blocked">ผู้ติดต่อที่ถูกบล็อก</string>
+  <string name="action_block">บล็อก</string>
+  <string name="action_unblock">ยกเลิกการบล็อก</string>
+  <string name="message_blocking_contacts">บล็อกผู้ติดต่อ</string>
+  <string name="message_unblocking_contacts">ยกเลิกการบล็อกผู้ติดต่อ</string>
+  <string name="message_block_unblock_complete">ผู้ติดต่อที่เลือกทั้งหมดการปรับปรุง </string>
+  <string name="message_block_unblock_error">มีข้อผิดพลาดในการปรับปรุงบางติดต่อที่เลือก</string>
+</resources>

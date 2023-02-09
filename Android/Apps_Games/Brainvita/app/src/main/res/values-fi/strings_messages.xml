@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Onnittelut sinulla on korkeat pisteet!</string>
+  <string name="message_game_end_new_game">Nykyinen peli on! Haluatko aloittaa uuden pelin?</string>
+  <string name="message_custom_board">Paina tyhjä reikiä vauhtia tappi. Napauta lukituspainiketta kun olet valmis</string>
+  <string name="message_custom_board_done">Mukautetut pelilauta on asetettu, voit aloittaa pelaamisen.
+    Huomaa, että huipputuloksia custom levyt ole kirjattu</string>
+  <string name="message_intro_first">
+        Siirrä tappi saatavilla reikä suoraviivaisesti, hyppää yli toinen tappi
+    </string>
+  <string name="message_intro_second">Peg hyppäsi yli on poistettu</string>
+  <string name="message_intro_third">Yrittää poistaa niin monta tappeja kuin mahdollista</string>
+  <string name="message_intro_fourth">Saada vain 1 peg jäljellä on tavoitteena</string>
+  <string name="message_board_reset_confirm">Tämä peruuttaa nykyisen hallituksen. Haluatko jatkaa?</string>
+  <string name="message_game_over">Ei enää liikkeet ovat mahdollisia. Peli on!</string>
+  <string name="message_solver_complete">Ratkaisin on laskettu liikkuu, joka johtaa vähimmäismäärä pegs.\n\nUse nähdä hallitus liikkuu eteenpäin-painiketta.</string>
+  <string name="message_solver_complete_free">Ratkaisin on laskettu liikkuu, joka johtaa vähimmäismäärä koukkuja. Koska tämä on ilmainen versio, Ratkaisin löytää ratkaisun johtaa vähintään 3 koukkuja. Maksullisen version Ratkaisin löytää ratkaisun 1 peg.\n\nUse nähdä hallitus liikkuu eteenpäin-painiketta.
+    </string>
+  <string name="message_solver_complete_title">Perustaa liuos ja tappeja: </string>
+  <string name="message_solver_inprogress_title">Tutkiva ajaksi liuos...</string>
+  <string name="message_solver_inprogress">Nykyinen alin peg määrä: </string>
+  <string name="message_solver_start_confirm">Riippuen nykyinen hallitus Ratkaisin voi kestää muutamia sekunteja useita minuutteja Computing ratkaisu vähintään määrä koukkuja.
+    Koska Ratkaisin ei paljon laskelmat, se kuluttaa akkua.
+        On suositeltavaa, että laitat puhelimen ilmaiseksi ennen kuin aloitat Ratkaisin.
+    Juostessa Ratkaisin voi lopettaa milloin tahansa ja uusin peg tulos on saatavilla.</string>
+  <string name="message_solver_mode_play_board">
+        Peli ei toimi Ratkaisin-tilassa. Valitse uusi peli Aloita uusi peli</string>
+  <string name="message_confirm_switch_from_standard">
+        Nykyinen hallitus on asetettu vakio, jota haluat muuttaa Ranskan hallituksen?</string>
+  <string name="message_confirm_switch_from_French">
+        Nykyinen hallitus on asetettu Ranska, jota haluat muuttaa kahden hallituksen?</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Il faut au moins 1 sélection</string>
+  <string name="message_save_external">APK ou les fichiers stockés dans le dossier externe : </string>
+  <string name="message_free_version_selection">Seulement 3 applications peuvent être sélectionnées à la fois dans la version gratuite</string>
+  <string name="message_free_version_option">Cette option n’est disponible pour la version payante</string>
+  <string name="message_activity_load_fail">Application n’a pas pu être démarrée</string>
+  <string name="message_activity_loading">Démarrage de l’application...</string>
+  <string name="message_loading_files">La recherche des dossiers locaux...</string>
+  <string name="message_deleting_files">S’il vous plaît confirmer individuellement pour chaque package sélectionné.
+    Packages de système désinstallera uniquement à partir de compte d’utilisateur</string>
+  <string name="message_save_external_suffix">. Dossier est accessible en connectant votre téléphone à votre ordinateur via USB etc. </string>
+  <string name="message_rate_this_app_error">Pas pu ouvrir page cotation</string>
+  <string name="message_share_link_prefix">Salut, \r\n\r\nCheck ceci : </string>
+  <string name="message_share_link_suffix">Envoyé par APKit</string>
+  <string name="message_share_report_prefix">Rapport de paquet</string>
+  <string name="message_share_report_suffix">Générée et envoyée par</string>
+  <string name="message_other_permissions_missing">Autorisations demandées sont nécessaires pour cette fonctionnalité. S’il vous plaît donner les autorisations demandées et essayez à nouveau
+    </string>
+  <string name="message_purchase_error">
+        Pas pu se connecter au serveur de Google. S’il vous plaît redémarrer l’application et essayez à nouveau
+    </string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm">連絡先が更新されます。この操作は元に戻せません。続行しますか。</string>
+  <string name="message_update_complete">連絡先更新</string>
+  <string name="message_save_external">外部フォルダーに格納されている連絡先:</string>
+  <string name="message_import">だけで Vcard と CSV ファイルをインポートすることができます (\'Browse\ を使用して \' 他のソースからファイルをロードするには</string>
+  <string name="message_loading_files">ローカル フォルダーを検索しています.</string>
+  <string name="message_loading_backup_files">バックアップ ファイルのデバイスを検索しています.</string>
+  <string name="message_importing_contacts_complete">連絡先のインポート</string>
+  <string name="message_save_external_suffix">.フォルダーは、あなたの携帯電話を USB 等を経由してコンピューターに接続することでアクセスできます。</string>
+  <string name="message_selectitems">少なくとも 1 連絡先を選択する必要があります。</string>
+  <string name="message_delete_confirm">連絡先の選択の詳細は削除されます。この操作は元に戻せません。続行しますか。</string>
+  <string name="message_delete_complete">contact(s) 削除の詳細</string>
+  <string name="message_free_import_limit">ファイルには、無料のバージョンで許可されているよりも多くの連絡先が含まれています</string>
+  <string name="message_rate_this_app_error">評価ページを開けませんでした。後藤 Google Play をしてくださいし、速度に応じて</string>
+  <string name="message_edit">のみ 1 連絡先を同時に編集できます。</string>
+  <string name="message_backup_stored">連絡先がされてバックアップ ファイル。</string>
+  <string name="message_download_coju">Coju は、統合連絡先管理アプリです。このアプリも追加機能のすべての機能を持ちます。Coju をダウンロードしますか?</string>
+  <string name="message_contact_permissions_missing">連絡先のアクセス許可は、このアプリケーションが働くために必要です。アプリが今を閉じて、アクセス許可を与える、やり直してください。</string>
+  <string name="message_other_permissions_missing">要求されたアクセス許可は、このアプリの機能を動作させるために必要です。
+        要求されたアクセス許可を与える、やり直してください。</string>
+  <string name="message_backup_freeversion">この無料版でバックアップすることができます連絡先の最大数は次のとおりです。</string>
+  <string name="message_backup_paidversion">すべてのあなたの連絡先が正常にバックアップされてファイルに</string>
+  <string name="message_purchase_error">Google のサーバーに接続できませんでした。アプリを再起動してもう一度やり直して
+    </string>
+</resources>

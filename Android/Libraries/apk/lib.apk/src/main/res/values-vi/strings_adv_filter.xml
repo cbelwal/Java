@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">Cài đặt trong 30 ngày qua</string>
+  <string name="filter_adv_options_security_inappbilling">Đã thanh toán trong ứng dụng</string>
+  <string name="filter_adv_options_security_readsms">Có thể đọc tin nhắn SMS</string>
+  <string name="filter_adv_options_security_sendsms">Có thể gửi tin nhắn SMS</string>
+  <string name="filter_adv_options_security_readcontacts">Có thể đọc liên hệ</string>
+  <string name="filter_adv_options_security_readcalllog">Có thể đọc Nhật ký cuộc gọi</string>
+  <string name="filter_adv_options_security_readcalender">Có thể đọc lịch</string>
+  <string name="filter_adv_options_security_writeexternalstorage">Có thể viết để lưu trữ bên ngoài</string>
+  <string name="filter_adv_options_security_camera">Có thể truy cập vào máy ảnh</string>
+  <string name="filter_adv_options_security_mic">Có thể ghi lại âm thanh</string>
+  <string name="filter_adv_options_security_location">Có thể truy cập vị trí của bạn</string>
+  <string name="filter_adv_options_filter">Kích hoạt bảo mật Filter(s)</string>
+  <string name="filter_main_text">Tùy chọn bộ lọc bảo mật (chỉ ứng dụng phù hợp với bất kỳ một trong tiêu chí sẽ được hiển thị):</string>
+  <string name="activity_security_filter">Phần mềm độc hại Hiển thị bộ lọc</string>
+</resources>

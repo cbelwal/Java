@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">선택한 연락처는 삭제 된 것입니다. 계속 진행 하려면 확인 하십시오?</string>
+  <string name="message_undelete_complete"> 연락처 삭제 취소</string>
+  <string name="message_undelete_notice">이 옵션은 연락처를 삭제 될 수 있으며 장치 또는 안 드 로이드 버전의 제조 업체에 따라 나열 됩니다. 연락처 수 없습니다 연락처 몇 시간 전에 삭제 된 복구 장치는 그것을 허용 하지 않는 경우, 또는 연락처 SIM 카드에서 삭제 했다.</string>
+  <string name="message_undelete_option_invalid">이 옵션은 삭제 된 연락처에 대 한 유효
+        </string>
+  <string name="message_undelete_help">연락처를 선택 하 고 오른쪽 상단에에서 삭제 취소 아이콘을 사용 하 여 그들을 삭제합니다</string>
+  <string name="progressbar_undelete_data">Undeleting 연락처 </string>
+  <string name="action_undelete">연락처를 삭제 복구</string>
+  <string name="button_understand">이해합니다</string>
+  <string name="title_disclaimer">면책 조항</string>
+  <string name="title_no_undelete_found">죄송 합니다!</string>
+  <string name="message_no_undelete_found">
+        우리는 죄송 합니다, 복구 삭제 된 연락처 발견! 구글, 안 드 로이드의 개발자가 제안한 수동 방법을 사용 하 여 복구를 시도할 수 있습니다.
+        수동 복구 지침을가지고 Google 지원 웹 페이지를 방문 하려는 것입니다?
+    </string>
+</resources>

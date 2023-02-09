@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">選択した呼び出しログの数:</string>
+  <string name="text_bt_paired_devices">ペアのデバイス (接続を選択)</string>
+  <string name="text_bt_new_devices">新しいデバイス (接続を選択)</string>
+  <string name="message_bt_scan_devices">デバイスのスキャン.</string>
+  <string name="message_bt_scan_complete">デバイスのスキャンを終了</string>
+  <string name="message_bt_pair_devices">デバイスをペアリング.</string>
+  <string name="message_bt_new_none">新しいデバイスは見つかりませんでした。</string>
+  <string name="message_bt_pair_none">ペアになっているデバイスが見つかりません</string>
+  <string name="message_bt_conn_lost">接続デバイスを失った</string>
+  <string name="message_bt_connecting">接続します。</string>
+  <string name="message_bt_not_enabled">Bluetooth が有効でない Bluetooth 転送を閉じる</string>
+  <string name="message_bt_status_listening">聞いて.</string>
+  <string name="message_bt_status_connecting">接続しています.</string>
+  <string name="message_bt_status_connected">接続されています。</string>
+  <string name="message_bt_testdata_sent">Testdata 送信</string>
+  <string name="message_bt_no_contacts">連絡先を送信を選択</string>
+  <string name="message_bt_recv_complete">完全なデータを受信します。</string>
+  <string name="message_bt_not_connected">任意のデバイスに接続されていません。</string>
+  <string name="message_bt_adapter_error">Bluetooth のセットアップ中にエラーがありました。
+            あなたの携帯電話は Bluetooth と Bluetooth アダプターを有効にしてください。</string>
+  <string name="menu_bt_make_discoverable">デバイスを検出可能に</string>
+  <string name="progressbar_bt_recv_data">連絡先データを受信する準備ができて.</string>
+  <string name="message_bt_connected">デバイスに接続されています。
+        \'Send\ を押して \' する呼び出しログを転送します。</string>
+  <string name="message_bt_conn_failed">デバイスへの接続が失敗しました。
+    このアプリがインストールされ、Bluetooth の画面で開いていることを確認してください。</string>
+  <string name="message_bt_sent_error">呼び出しログのこれらの数を転送できませんでした。</string>
+  <string name="message_bt_recv_error">呼び出しログのこれらの数を作成できませんでした。</string>
+  <string name="message_bt_create_complete">受信した電話のログを作成します。</string>
+  <string name="message_bt_sent_complete">デバイスに送信されるログを呼び出します。</string>
+  <string name="progressbar_bt_send_data">呼び出しログを転送します。</string>
+  <string name="progressbar_bt_bytes">バイト</string>
+  <string name="progressbar_bt_create_contacts">電話ログを作成します。</string>
+  <string name="progressbar_delete_data">電話ログを削除します。</string>
+  <string name="button_scan">スキャン</string>
+  <string name="button_send">送信</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> kontakt(er) oppdateres. Denne handlingen kan ikke angres. Vil du fortsette?</string>
+  <string name="message_update_complete"> kontakt(er) oppdatert</string>
+  <string name="message_save_external">Kontakter som er lagret i ekstern mappe: </string>
+  <string name="message_import">Bare Vcard- og CSV-filer kan importeres (bruk \'Browse\' laste filer fra andre kilder</string>
+  <string name="message_loading_files">Søker lokale mapper...</string>
+  <string name="message_loading_backup_files">Søke enhet for backup filer...</string>
+  <string name="message_importing_contacts_complete">kontakt(er) importert</string>
+  <string name="message_save_external_suffix">. Mappen kan nås ved å koble telefonen til datamaskinen via USB etc. </string>
+  <string name="message_selectitems">Atleast 1 kontakt må velges</string>
+  <string name="message_delete_confirm">Valgt kontakt(er) detaljer vil bli slettet. Denne handlingen kan ikke angres. Vil du fortsette?</string>
+  <string name="message_delete_complete"> Contact(s) detaljer slettet</string>
+  <string name="message_free_import_limit">Filen inneholder flere kontakt(er) enn tillatt i gratis versjon</string>
+  <string name="message_rate_this_app_error">Kan ikke åpne vurdering siden. Vennligst goto Google lek og rate tilsvarende</string>
+  <string name="message_edit">Bare 1 kontakt kan redigeres samtidig. </string>
+  <string name="message_backup_stored">Kontakter har blitt sikkerhetskopiert i filen:</string>
+  <string name="message_download_coju">Coju er en integrert kontakt ledelse app. Den har alle funksjonene i denne app pluss flere funksjoner. Vil du laste ned Coju?</string>
+  <string name="message_contact_permissions_missing">Kontakter tillatelser kreves for at programmet skal fungere. App vil nå lukke, vennligst gi tillatelser og prøv på nytt</string>
+  <string name="message_other_permissions_missing">Forespurte tillatelser kreves for app funksjonen.
+        Vennligst gi forespurte tillatelsene og prøv på nytt</string>
+  <string name="message_backup_freeversion">
+        Maksimalt antall kontakter som kan sikkerhetskopieres i denne gratis versjon er:
+    </string>
+  <string name="message_backup_paidversion">
+        Alt du kontakter har sikkerhetskopiert i en fil
+    </string>
+  <string name="message_purchase_error">
+        Kan ikke koble til Google-server. Vennligst start programmet og prøv på nytt
+    </string>
+</resources>

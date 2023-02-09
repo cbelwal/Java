@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Се изисква поне 1 селекция</string>
+  <string name="message_save_external">APK файлове, съхранени във външни папка: </string>
+  <string name="message_free_version_selection">Само 3 приложения могат да бъдат избрани наведнъж в безплатната версия</string>
+  <string name="message_free_version_option">Тази опция е достъпна само за платената версия</string>
+  <string name="message_activity_load_fail">Приложението не можа да бъде стартирана</string>
+  <string name="message_activity_loading">Стартиране на приложението...</string>
+  <string name="message_loading_files">Търсене на локални папки...</string>
+  <string name="message_deleting_files">Моля, потвърдете поотделно за всяка опаковка избрани.
+    Системата пакети ще деинсталирате само от потребителски акаунт</string>
+  <string name="message_save_external_suffix">. Папката е достъпна чрез свързване на телефона към компютъра чрез USB и др. </string>
+  <string name="message_rate_this_app_error">Не може да отвори страницата за квалификационни класове</string>
+  <string name="message_share_link_prefix">Здравейте \r\n\r\nCheck този вън: </string>
+  <string name="message_share_link_suffix">Изпратен по APKit</string>
+  <string name="message_share_report_prefix">Пакет доклад</string>
+  <string name="message_share_report_suffix">Генерира и изпраща чрез</string>
+  <string name="message_other_permissions_missing">Исканият разрешения са необходими за този черта към работа. Моля, дайте исканите разрешения и опитайте отново
+    </string>
+  <string name="message_purchase_error">
+        Не може да се свърже със сървъра Google. Рестартирайте приложението и опитайте отново
+    </string>
+</resources>

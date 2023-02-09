@@ -1,0 +1,37 @@
+<resources>
+    <string name="nav_menu_group_general">General</string>
+    <string name="nav_menu_group_help">Help</string>
+    <string name="nav_menu_group_viewoptions">Options</string>
+    <string name="nav_menu_group_views">Views</string>
+    <string name="nav_menu_group_operations">Operations</string>
+    <string name="nav_menu_group_backup">Backup</string>
+
+    <string name="nav_menu_rate_this_app">Feedback</string>
+    <string name="nav_menu_backup_contacts">Backup all contacts</string>
+    <string name="nav_menu_restore_contacts">Restore contacts from backup</string>
+    <string name="nav_menu_upgrade">Upgrade to Pro version</string>
+    <string name="nav_menu_filter">Display Filter</string>
+    <string name="nav_menu_duplicates">Duplicates Toolkit</string>
+    <string name="nav_menu_tellafriend">Tell a friend</string>
+    <string name="nav_menu_feedback">Contact Dasmic</string>
+    <string name="nav_menu_demovideo">Demo Video</string>
+    <string name="nav_menu_coju">Download Coju</string>
+
+    <string name="display_options_all_TimesContacted">Sorted by times contacted</string>
+    <string name="display_options_all_last_contact">Sorted by last contact time</string>
+    <string name="display_options_all">Sorted by Name</string>
+    <string name="display_options_phonenumber">Sorted Phone Numbers</string>
+    <string name="display_options_email">Sorted Email Addresses</string>
+    <string name="display_options_deleted">Deleted Contacts</string>
+    <string name="display_options_refresh">Refresh Display</string>
+
+    <string name="action_Operations">Bulk Updates</string>
+    <string name="action_Export">Export Contact(s)</string>
+    <string name="action_delete">Delete Contact(s)</string>
+    <string name="action_Import">Import Contact(s)</string>
+    <string name="action_edit">Edit Contact</string>
+    <string name="action_add">Add Contact</string>
+    <string name="action_share">Share Contact(s)</string>
+    <string name="action_bluetooth">Bluetooth Transfer</string>
+
+</resources>

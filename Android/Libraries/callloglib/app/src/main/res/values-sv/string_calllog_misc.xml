@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Samtalsloggen</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">Okänd</string>
+  <string name="button_Yes">Ja</string>
+  <string name="button_No">Nej</string>
+  <string name="button_Apply">Applicera</string>
+  <string name="button_Close">Stäng</string>
+  <string name="general_not_Available">Inte tillgängliga.</string>
+  <string name="general_items">Item (s)</string>
+  <string name="general_selected_items">utvalda</string>
+  <string name="title_confirm">Bekräfta</string>
+  <string name="title_dialog_coju">Hämta Coju</string>
+  <string name="message_selectitems">Iallafall 1 loggpost måste väljas</string>
+  <string name="message_download_coju">Coju är en integrerad kontakthantering app. Den har alla funktioner i denna app plus ytterligare funktioner. Kommer du vilja hämta Coju?</string>
+  <string name="message_contact_permissions_missing">Kontakter behörigheter som krävs för den här appen ska fungera. Appen kommer nu nära, ge behörigheter och försök igen</string>
+  <string name="message_other_permissions_missing">Önskade behörigheter som krävs för denna app funktionen ska fungera.
+        Vänligen ge önskade behörigheter och försök igen</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permission_inapp_billing">Kan bruge dit kreditkort.</string>
+  <string name="permission_read_sms">Kan læse dine beskeder.</string>
+  <string name="permission_send_sms">Kan sende beskeder til andre.</string>
+  <string name="permission_mic">Kan optage lyd fra mikrofonen.</string>
+  <string name="permission_camera">Kan læse billeder fra dit kamera.</string>
+  <string name="permission_read_contacts">Kan læse din liste over kontaktpersoner.</string>
+  <string name="permission_write_contacts">Kan skrive til din liste over kontaktpersoner.</string>
+  <string name="permission_read_ext_storage">Kan læse filer fra USB-tilgængelige mapper.</string>
+  <string name="permission_write_ext_storage">Kan skrive filer til USB tilgængelige mapper.</string>
+  <string name="permission_read_call_log">Kan finde ud af, hvem du har ringet og Hvornår.</string>
+  <string name="permission_location_fine">Kender din nøjagtige position.</string>
+  <string name="permission_location_coarse">Kender din omtrentlige placering.</string>
+  <string name="permission_read_calender">Kan læse din kalender.</string>
+  <string name="permission_write_calender">Kan skrive til din kalender.</string>
+  <string name="permission_call_phone">Kan kalde enhver telefon uden din viden.</string>
+  <string name="permission_call_privileged">Kan kalde enhver telefon, herunder nødhjælp, uden din viden.</string>
+  <string name="permission_install_packages">Kan installere andre apps.</string>
+  <string name="permission_internet">Kan sende oplysninger via internettet.</string>
+  <string name="permission_wake_lock">Kan forhindre enheden i at gå til dvaletilstand.</string>
+  <string name="permission_network_state">Adgang til staten af netværk.</string>
+  <string name="permission_read_voicemail">Kan læse din voicemail.</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">条件</string>
+  <string name="filter_text_option">选项</string>
+  <string name="filter_text_value_days">天</string>
+  <string name="filter_text_value_duration">Duration(s)</string>
+  <string name="filter_text_value_location">位置</string>
+  <string name="filter_options_from_stored_contacts">从存储联系人</string>
+  <string name="filter_options_more_than_entered_days">天以上</string>
+  <string name="filter_options_less_than_entered_days">天小于</string>
+  <string name="filter_options_more_than_duration">持续时间超过</string>
+  <string name="filter_options_less_than_duration">持续时间小于</string>
+  <string name="filter_options_from_entered_location">从位置</string>
+  <string name="filter_options_none">没有筛选器</string>
+  <string name="filter_show_show">显示</string>
+  <string name="filter_show_noshow">不显示</string>
+</resources>

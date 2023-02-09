@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">이름 + WhatsApp 번호 일치</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">여러 이름에 같은 WhatsApp 번호</string>
+  <string name="duplicate_options_name_matches_email_phone">이름 + 전화/이메일 일치</string>
+  <string name="duplicate_options_name_matches_phone">이름 + 전화 일치</string>
+  <string name="duplicate_options_name_matches_email">이름 + 이메일 일치</string>
+  <string name="duplicate_options_same_number_multi_name">여러 이름에서 같은 번호</string>
+  <string name="duplicate_options_same_email_multi_name">여러 이름 동일한 이메일</string>
+  <string name="duplicate_options_none">없음</string>
+  <string name="progressbar_sel_duplicates">중복에 대 한 검색...</string>
+  <string name="message_duplicates_selected">삭제 하려면 선택한 duplicate(s) 삭제 아이콘을 누릅니다. 각 복제본에 대 한 original(master) 값을 선택 하지 않으면 고 삭제 되지 않습니다.</string>
+  <string name="choose_duplicate_option">중복 확인을 위한 조건을 선택 합니다.
+        그들의 original(master) 값과 함께 중복 메인 화면에 표시 됩니다 그리고 삭제에 대 한 자동 확인 됩니다. Original(master) 값은 검사 되지 않습니다.</string>
+  <string name="startup_message">오른쪽 상단에에서 중복 된 아이콘을 사용 하 여 중복에 대 한 보기 옵션을 설정 하</string>
+  <string name="message_duplicates_backup">그들을 삭제 하기 전에 귀하의 연락처를 백업 하는 것이 좋습니다.</string>
+</resources>

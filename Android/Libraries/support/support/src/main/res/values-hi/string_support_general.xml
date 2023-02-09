@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic, LLC</string>
+  <string name="feedback_no_email">कोई ईमेल ग्राहकों को मिला</string>
+  <string name="button_yes">हाँ</string>
+  <string name="button_no">नहीं</string>
+  <string name="nav_menu_help_doc">सहायता दस्तावेज़</string>
+  <string name="button_rate_never">कभी नहीं</string>
+  <string name="button_rate_later">बाद में</string>
+  <string name="button_rate_now">अब</string>
+  <string name="title_rate_this_app">कृपया दर इस app</string>
+  <string name="title_feedback">ई-मेल विकल्प का चयन करें...</string>
+  <string name="title_demo_video">डेमो वीडियो</string>
+  <string name="title_tellafriend">एक दोस्त के माध्यम से बता...</string>
+  <string name="title_send_feedback">हमसे संपर्क करें</string>
+  <string name="title_rate_app">दर app</string>
+</resources>

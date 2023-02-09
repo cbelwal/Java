@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Ausgewählte Kontakte werden nicht gelöschten. Bitte bestätigen, ob Sie fortfahren möchten?</string>
+  <string name="message_undelete_complete"> gelöschte Kontakte</string>
+  <string name="message_undelete_notice">Diese Option listet die Kontakte, die kann nicht gelöschten und hängt vom Hersteller des Geräts oder die Android-Version. Kontakte können nicht werden wiederhergestellt, wenn das Gerät nicht möglich ist, Kontakte wurden vor einigen Stunden gelöscht oder Kontakte von der SIM-Karte gelöscht wurden.</string>
+  <string name="message_undelete_option_invalid">Diese Option gilt nicht für gelöschte Kontakte
+        </string>
+  <string name="message_undelete_help">Wählen Sie Kontakte, und verwenden Sie das Undelete-Symbol oben rechts zu ihnen undelete</string>
+  <string name="progressbar_undelete_data">Undeleting Kontakt(e) </string>
+  <string name="action_undelete">Undelete Kontakt(e)</string>
+  <string name="button_understand">Ich verstehe</string>
+  <string name="title_disclaimer">HAFTUNGSAUSSCHLUSS</string>
+  <string name="title_no_undelete_found">Tut mir Leid!</string>
+  <string name="message_no_undelete_found">
+        Leider wurden keine verwertbaren gelöschte Kontakte gefunden! Sie können versuchen, sie mit einem manuellen Weg vorgeschlagen von Google, die Entwickler von Android zu erholen.
+        Möchten Sie die Google-Support-Webseite besuchen, die manuelle Wiederherstellungsanweisungen hat?
+    </string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Ταξινομημένα ανά ώρα</string>
+  <string name="nav_view_outgoingcalls_cl">Εξερχόμενες κλήσεις</string>
+  <string name="nav_view_incomingcalls_cl">Εισερχόμενες κλήσεις</string>
+  <string name="nav_view_missedcalls_cl">Αναπάντητες κλήσεις</string>
+  <string name="nav_view_callduration_cl">Ταξινομημένα κατά τη διάρκεια</string>
+  <string name="nav_view_geocoded_location_cl">Ταξινόμηση ανά περιοχή</string>
+  <string name="nav_view_refresh_cl">Ανανέωση</string>
+  <string name="nav_view_100_records">Μέχρι 100</string>
+  <string name="nav_view_500_records">Μέχρι 500</string>
+  <string name="nav_view_all_records">Όλα τα διαθέσιμα</string>
+  <string name="nav_menu_group_general_cl">Γενικά</string>
+  <string name="nav_menu_group_help_cl">Βοήθεια</string>
+  <string name="nav_menu_group_log_length">Καταμέτρηση των προβολών</string>
+  <string name="nav_menu_group_viewoptions_cl">Επιλογές</string>
+  <string name="nav_menu_group_views_cl">Θέα</string>
+  <string name="nav_menu_group_operations_cl">Λειτουργίες</string>
+  <string name="nav_menu_group_backup_cl">Δημιουργία αντιγράφων ασφαλείας</string>
+  <string name="nav_menu_rate_this_app_cl">Ανατροφοδότηση</string>
+  <string name="nav_menu_backup_contacts_cl">Αντιγράφων ασφαλείας όλες τις καταχωρήσεις του αρχείου καταγραφής κλήσεων</string>
+  <string name="nav_menu_restore_contacts_cl">Επαναφέρετε το αρχείο καταγραφής κλήσεων από αντίγραφο ασφαλείας</string>
+  <string name="nav_menu_upgrade_cl">Αναβάθμιση σε Pro έκδοση</string>
+  <string name="nav_menu_filter_cl">Φίλτρο εμφάνισης</string>
+  <string name="nav_menu_duplicates_cl">Κιτ εργαλείων διπλότυπα</string>
+  <string name="nav_menu_tellafriend_cl">Πείτε το σε ένα φίλο</string>
+  <string name="nav_menu_feedback_cl">Επικοινωνήστε με Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Βίντεο επίδειξης</string>
+  <string name="nav_menu_coju_cl">Λήψη Coju</string>
+  <string name="menu_operations_cl">Μαζικές ενημερώσεις</string>
+  <string name="menu_add_cl">Προσθέστε</string>
+  <string name="menu_edit_cl">Επεξεργασία</string>
+  <string name="menu_update_cl">Ενημερωμένη έκδοση</string>
+  <string name="menu_share_cl">Μετοχή</string>
+  <string name="menu_export_cl">Εξαγωγή</string>
+  <string name="menu_import_cl">Εισαγωγή</string>
+  <string name="menu_delete_cl">Διαγραφή του</string>
+  <string name="menu_bluetooth_cl">Μεταφορά Bluetooth</string>
+</resources>

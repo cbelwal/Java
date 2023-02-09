@@ -1,0 +1,29 @@
+<resources>
+    <string name="text_ep_file_name">File name:</string>
+    <string name="text_ep_file_size">Size:</string>
+    <string name="text_ep_modified_date">Modified date:</string>
+    <string name="text_ep_duration">Duration:</string>
+    <string name="title_search_depth">Search depth (large values will take several minutes)</string>
+
+    <string name="progressbar_extracting_audio">Extracting audio (may take several minutes) ...</string>
+    <string name="progressbar_loading_audio">Loading audio file details ...</string>
+    <string name="text_ep_time_start">Start time(seconds)</string>
+    <string name="text_ep_period">Duration of each audio file(seconds)</string>
+
+    <string name="text_ep_store">Store new audio file(s) as:</string>
+    <string name="text_ep_share_external">Place in external folder</string>
+    <string name="text_ep_share_app">Share using applications</string>
+
+    <string name="message_extract_complete"> M4A file(s) have been created</string>
+    <string name="message_extract_error">An error was encountered in creating audio files</string>
+    <string name="message_search_depth_updated">The search depth was updated</string>
+    <string name="message_search_depth_error">Error in updating search depth</string>
+
+    <string name="message_load_complete">Audio file details have been loaded</string>
+    <string name="message_load_error">There was an error in loading the audio</string>
+
+    <string name="message_extract_duration_reduced"> The last audio file duration was reduced as end of audio was reached </string>
+    <string name="message_extract_incomplete"> %1$d audio file(s) could not be created or have incomplete information</string>
+
+    <string name="message_extract_signature">Sent via Audio Grater from coju.mobi™</string>
+</resources>

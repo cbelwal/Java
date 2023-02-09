@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">عدد log(s) الاتصال المحددة: </string>
+  <string name="text_bt_paired_devices"> الأجهزة المزدوجة (تحديد للاتصال)</string>
+  <string name="text_bt_new_devices"> الأجهزة الجديدة (حدد للاتصال)</string>
+  <string name="message_bt_scan_devices">المسح الضوئي لأجهزة...</string>
+  <string name="message_bt_scan_complete">الانتهاء من المسح الضوئي للأجهزة</string>
+  <string name="message_bt_pair_devices">إقران الأجهزة...</string>
+  <string name="message_bt_new_none">لم يتم العثور على أجهزة جديدة</string>
+  <string name="message_bt_pair_none">لم يتم العثور على أجهزة المزدوجة</string>
+  <string name="message_bt_conn_lost">فقد الجهاز الاتصال</string>
+  <string name="message_bt_connecting">الاتصال: </string>
+  <string name="message_bt_not_enabled">بلوتوث غير ممكنة، إغلاق Bluetooth نقل</string>
+  <string name="message_bt_status_listening">الاستماع...</string>
+  <string name="message_bt_status_connecting">الاتصال...</string>
+  <string name="message_bt_status_connected">متصل</string>
+  <string name="message_bt_testdata_sent">Testdata المرسلة</string>
+  <string name="message_bt_no_contacts">أية جهات اتصال محددة لإرسال</string>
+  <string name="message_bt_recv_complete">الحصول على بيانات كاملة</string>
+  <string name="message_bt_not_connected">غير متصل بأي جهاز</string>
+  <string name="message_bt_adapter_error">وكان هناك خطأ إعداد بلوتوث.
+            الرجاء التحقق إذا كان الهاتف الخاص بك بلوتوث وتم تمكين محول Bluetooth</string>
+  <string name="menu_bt_make_discoverable">جعل الجهاز قابلاً للاكتشاف</string>
+  <string name="progressbar_bt_recv_data">جاهز لتلقي بيانات جهة الاتصال...</string>
+  <string name="message_bt_connected">متصل بالجهاز.
+        اضغط \'Send\ \' لنقل log(s) الدعوة إلى: </string>
+  <string name="message_bt_conn_failed">فشل الاتصال بالجهاز.
+    الرجاء التأكد من أن يتم تثبيت هذا التطبيق، والشاشة بلوتوث مفتوح في: </string>
+  <string name="message_bt_sent_error">لا يمكن نقل هذه العدد من log(s) الدعوة: </string>
+  <string name="message_bt_recv_error">لا يمكن إنشاء هذه العدد من log(s) الدعوة: </string>
+  <string name="message_bt_create_complete">Log(s) المكالمات الواردة التي تم إنشاؤها: </string>
+  <string name="message_bt_sent_complete">استدعاء log(s) إرسالها إلى الجهاز: </string>
+  <string name="progressbar_bt_send_data">نقل المكالمة log(s) </string>
+  <string name="progressbar_bt_bytes">وحدات البايت </string>
+  <string name="progressbar_bt_create_contacts">إنشاء مكالمة log(s)</string>
+  <string name="progressbar_delete_data">
+        حذف الاتصال log(s) </string>
+  <string name="button_scan">المسح الضوئي</string>
+  <string name="button_send">إرسال</string>
+</resources>

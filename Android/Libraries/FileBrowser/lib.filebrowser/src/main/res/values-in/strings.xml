@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">item</string>
+  <string name="general_selected_items">dipilih</string>
+  <string name="general_error">Kesalahan</string>
+  <string name="title_confirm">Konfirmasi</string>
+  <string name="button_ok">Oke</string>
+  <string name="button_cancel">Batal</string>
+  <string name="free_space">Jumlah ruang gratis:</string>
+  <string name="title_share">Berbagi menggunakan:</string>
+  <string name="title_rename">Masukkan nama baru  </string>
+  <string name="title_create_folder">Masukkan nama folder  </string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Sfoglia</string>
+  <string name="backup_options_backupusing">Eseguire il backup utilizzando</string>
+  <string name="export_options_externalStorage">Archiviazione esterna di questo dispositivo</string>
+  <string name="share_options_shareas">Condividi come:</string>
+  <string name="share_options_allshare">Condividere applicazioni (Cloud, E-mail,...)</string>
+  <string name="share_options_share_using">Condividi utilizzando:</string>
+  <string name="share_options_sms">Messaggistica</string>
+  <string name="share_options_clipboard">Copia negli Appunti</string>
+  <string name="export_options_ExportUsing">Salvare il file in:</string>
+  <string name="progressbar_prepare_data">Preparazione elenco registro chiamate...</string>
+  <string name="progressbar_backup">Backup di registro chiamate, questo potrebbe richiedere alcuni minuti...</string>
+  <string name="backup_options_using">Salvare il file di backup in:</string>
+  <string name="menu_import_help">Guida</string>
+  <string name="text_import_file_name">Nome del File selezionato:</string>
+  <string name="text_import_file_size">Size(bytes) File selezionato:</string>
+  <string name="text_unknown_file_size">Unknown</string>
+  <string name="message_backup_options">Si consiglia di backup nel condividere le applicazioni come nuvola, Email, ecc.
+        Questo vi permetterà di recuperare il registro delle chiamate, se perdi il telefono.
+        Per ripristinare i contatti da Email/Cloud manualmente salvare il chiamata registro file di backup dal tuo account di posta elettronica/Cloud in qualsiasi posizione in questo dispositivo. L\'utilità di importazione/ripristino quindi individua automaticamente il file.</string>
+  <string name="message_importing_contacts">L\'importazione di registri di chiamata...</string>
+  <string name="message_reading_import_file">Lettura di file, questo potrebbe richiedere alcuni minuti...</string>
+  <string name="export_options_plain_text">Testo normale</string>
+  <string name="export_options_indv_clm">Singoli file di CLM</string>
+  <string name="export_options_combined_clm">File CLM combinato </string>
+  <string name="export_generated_footer">Generato tramite Call Log Manager Coju</string>
+  <string name="export_sent_footer">Generato tramite Call Log Manager</string>
+  <string name="export_generated_header">Dettagli del registro chiamate</string>
+  <string name="message_clipboard_copy">Copiato negli Appunti</string>
+  <string name="message_exporting_calllog">Estrazione di contatto (s)...</string>
+  <string name="message_exporting_calllog_ready">Sempre pronto a esportare contatti...</string>
+  <string name="message_exporting_calllog_write_file">Scrittura del file di...</string>
+  <string name="message_import_help">Solo file generato da questa applicazione (*. CLM file) possono essere importati</string>
+  <string name="message_import_invalid_file">Non un file di registro chiamata valida</string>
+  <string name="message_importing_complete">registri di chiamata importati</string>
+  <string name="message_restore_complete">Voci di registro chiamate ripristinate da backup</string>
+  <string name="message_restore_fail">
+        Non ha potuto ripristinare da backup, il file di backup è mancante o danneggiato
+                </string>
+  <string name="message_backup_stored_freeversion">
+        Versione gratuita solo consente il backup dei registri di chiamata fino a 9.
+        Registri di chiamata sono state backup nel file:
+    </string>
+  <string name="message_backup_failed">
+        Impossibile salvare il file di Backup, si prega di riprovare. Se il problema persiste si prega di segnalare il problema al editore di app mediante l\'opzione di Feedback in questa app.
+    </string>
+  <string name="message_restore_selection_finish">
+        Registri delle chiamate di backup sono stati restaurati
+    </string>
+  <string name="message_clm_file_not_found">
+        Nessuna chiamata Log Manager (*. File CLM) trovati in questo dispositivo
+    </string>
+  <string name="message_backup_file_not_found">
+        Nessun file di Backup trovato in questo dispositivo
+    </string>
+  <string name="message_backup_stored">Contatti sono stati sottoposti a backup nel file:</string>
+  <string name="message_save_external">Call log memorizzati nella cartella esterna: </string>
+  <string name="message_loading_files">Ricerca cartelle locali...</string>
+  <string name="message_loading_backup_files">Dispositivo di ricerca per file di backup...</string>
+  <string name="message_backup_freeversion">
+        Numero massimo di registri di chiamate che possono essere sostenuti in questa versione gratuita è:
+    </string>
+  <string name="message_backup_paidversion">
+        Tutti i registri delle chiamate sono stato correttamente eseguiti il backup in un file
+    </string>
+</resources>

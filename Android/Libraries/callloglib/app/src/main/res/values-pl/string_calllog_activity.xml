@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_add_call_log">Dodać</string>
+  <string name="activity_edit_call_log">Edycja</string>
+  <string name="activity_share_call_log">Udostępnij</string>
+  <string name="activity_export_call_log">Eksport</string>
+  <string name="activity_import_call_log">Importu</string>
+  <string name="activity_bluetooth_call_log">Połączenia Bluetooth</string>
+  <string name="activity_backup_call_log">Kopia zapasowa</string>
+  <string name="activity_restore_call_log">Przywracanie</string>
+  <string name="activity_filter_call_log">Filtr wyświetlania</string>
+</resources>

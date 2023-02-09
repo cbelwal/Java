@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Tổng quát</string>
+  <string name="nav_menu_group_help">Trợ giúp</string>
+  <string name="nav_menu_group_viewoptions">Tùy chọn</string>
+  <string name="nav_menu_group_views">Lượt xem</string>
+  <string name="nav_menu_group_operations">Hoạt động</string>
+  <string name="nav_menu_group_backup">Sao lưu</string>
+  <string name="nav_menu_rate_this_app">Thông tin phản hồi</string>
+  <string name="nav_menu_backup_contacts">Sao lưu tất cả địa chỉ liên hệ</string>
+  <string name="nav_menu_restore_contacts">Khôi phục danh bạ từ bản sao lưu</string>
+  <string name="nav_menu_upgrade">Phiên bản nâng cấp cho Pro</string>
+  <string name="nav_menu_filter">Màn hình hiển thị bộ lọc</string>
+  <string name="nav_menu_duplicates">Bộ công cụ tính trùng</string>
+  <string name="nav_menu_tellafriend">Nói cho một người bạn</string>
+  <string name="nav_menu_feedback">Liên hệ Dasmic</string>
+  <string name="nav_menu_demovideo">Demo Video</string>
+  <string name="nav_menu_coju_outlook">Coju cho Microsoft Outlook</string>
+  <string name="nav_menu_coju">Tải về Coju</string>
+  <string name="display_options_all_TimesContacted">Sắp xếp theo thời gian liên lạc</string>
+  <string name="display_options_all_last_contact">Sắp xếp theo thời gian liên lạc qua</string>
+  <string name="display_options_all">Sắp xếp theo tên</string>
+  <string name="display_options_phonenumber">Số điện thoại được sắp xếp</string>
+  <string name="display_options_email">Địa chỉ Email được sắp xếp</string>
+  <string name="display_options_deleted">Địa chỉ liên lạc đã xóa</string>
+  <string name="display_options_refresh">Làm mới màn hình hiển thị</string>
+  <string name="action_Operations">Cập Nhật số lượng lớn</string>
+  <string name="action_Export">Xuất khẩu Contact(s)</string>
+  <string name="action_delete">Xóa Contact(s)</string>
+  <string name="action_Import">Nhập khẩu Contact(s)</string>
+  <string name="action_edit">Chỉnh sửa số liên lạc</string>
+  <string name="action_add">Thêm số liên lạc</string>
+  <string name="action_share">Chia sẻ Contact(s)</string>
+  <string name="action_bluetooth">Bluetooth chuyển</string>
+</resources>

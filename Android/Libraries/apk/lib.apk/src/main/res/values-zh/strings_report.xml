@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="report_app_name">应用程序名称 ︰</string>
+  <string name="report_package_name">包名称 ︰</string>
+  <string name="report_source_folder">源文件夹 ︰</string>
+  <string name="report_size">Size(MB):</string>
+  <string name="report_launch_intent">启动的意图 ︰</string>
+  <string name="report_installed_on">上安装 ︰</string>
+  <string name="report_updated_on">更新日期 ︰</string>
+  <string name="report_system_app">系统应用程序 ︰</string>
+  <string name="report_security_permission">安全权限 ︰</string>
+  <string name="report_yes">是啊</string>
+  <string name="report_no">没有</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="share_options_ShareUsing">공유를 사용 하 여:</string>
+  <string name="share_options_allshare">이메일/Wifi/클라우드 스토리지 (큰 파일 문제가 있을 수 있습니다)</string>
+  <string name="export_options_externalStorage">외장 스토리지</string>
+  <string name="export_options_ExportAs">내보내기 형식:</string>
+  <string name="export_options_ExportUsing">통해 APK 파일을 공유 합니다.</string>
+  <string name="progressbar_prepare_data">패키지를 준비... </string>
+</resources>

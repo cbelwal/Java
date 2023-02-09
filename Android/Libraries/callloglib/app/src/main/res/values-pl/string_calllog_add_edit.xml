@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">Numer telefonu</string>
+  <string name="text_calllog_date">Data</string>
+  <string name="text_calllog_time">Czas</string>
+  <string name="text_calllog_duration">Duration(s)</string>
+  <string name="text_calllog_type">Typu</string>
+  <string name="spinner_calllog_type_incoming">Przychodzące</string>
+  <string name="spinner_calllog_type_outgoing">Wychodzących</string>
+  <string name="spinner_calllog_type_missed">Brakowało</string>
+  <string name="message_calllog_added">Pomyślnie dodane do rejestr połączeń</string>
+  <string name="message_calllog_added_error">Niepowodzenie w dodanie wywołania dziennika</string>
+  <string name="message_calllog_edited">Pomyślnie zaktualizowana Lista połączeń</string>
+  <string name="message_calllog_edited_error">Błąd podczas aktualizowania rejestru połączeń</string>
+</resources>

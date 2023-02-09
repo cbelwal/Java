@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Apsveicam, jums ir augsts rādītājs!</string>
+  <string name="message_game_end_new_game">Pašreizējā spēle ir up! Vai vēlaties sākt jaunu spēli?</string>
+  <string name="message_custom_board">Pieskarieties tukši caurumi liku tapa. Pieskarieties pogai Bloķēt, kad pabeigta</string>
+  <string name="message_custom_board_done">Pielāgotu valde ir setup, jūs varat sākt spēlēt.
+    Piezīme pielāgotu dēļu rekordu nereģistrē</string>
+  <string name="message_intro_first">
+        Pārvietotu tapa pieejams caurumu lēkšanu pār citu tapa taisnā līnijā
+    </string>
+  <string name="message_intro_second">Tapa pārlēca tiek noņemts</string>
+  <string name="message_intro_third">Mēģinātu noņemt tik daudz naglas iespējami</string>
+  <string name="message_intro_fourth">Mērķis ir iegūt tikai 1 tapa atlikušo</string>
+  <string name="message_board_reset_confirm">Šī darbība atcels pašreizējā valde. Vai vēlaties turpināt?</string>
+  <string name="message_game_over">Ne vairāk pārceļas ir iespējama. Spēle ir up!</string>
+  <string name="message_solver_complete">Risinātājs ir aprēķināta kustības, kas noved pie minimālo skaitu pegs.\n\nUse pogas uz priekšu, lai redzētu valdes pārceļas.</string>
+  <string name="message_solver_complete_free">Risinātājs ir aprēķināta kustības, kas noved pie mietiņiem minimālais skaits. Tā kā šis ir bezmaksas versija, Risinātājs varētu rast risinājumu rezultātā līdz minimumam tikai 3 naglas. Samaksājis versiju Risinātājs varētu rast risinājumu ar 1 peg.\n\nUse pogas uz priekšu, lai redzētu valdes pārceļas.
+    </string>
+  <string name="message_solver_complete_title">Atrast risinājumu ar koka tapām: </string>
+  <string name="message_solver_inprogress_title">Meklējot risinājumu...</string>
+  <string name="message_solver_inprogress">Pašreizējo zemāko tapa skaits: </string>
+  <string name="message_solver_start_confirm">Atkarībā no pašreizējā valde, Risinātājs var aizņemt pāris sekundēm līdz vairākām minūtēm skaitļošanas risinājumu ar vismazāk skaits tapiņām.
+    Kopš Risinātājs nav daudz aprēķini, tas noārda akumulatoru.
+        Ir ieteicams, ka jūs nodot savu tālruni maksas pirms risinātāja palaišanas.
+    Kamēr darbojas Risinātājs var apturēt jebkurā brīdī un jaunāko tapa rezultāts būs pieejami.</string>
+  <string name="message_solver_mode_play_board">
+        Nevar spēlēt spēli režīmā Risinātājs. Atlasiet jaunu spēli sākt jaunu spēli</string>
+  <string name="message_confirm_switch_from_standard">
+        Pašreizējā valde ir uzstādīts standarta, vai vēlaties mainīt Francijas dēli?</string>
+  <string name="message_confirm_switch_from_French">
+        Pašreizējā valde ir iestatīts uz franču valodu, vai jūs vēlaties mainīt standarta paneļu?</string>
+</resources>

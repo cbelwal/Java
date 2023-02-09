@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Терка для аудио</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="activity_extract_pictures">Извлечение аудио</string>
+  <string name="button_Select_All">Выбрать все</string>
+  <string name="button_UnSelect_All">ООН выбрать все</string>
+  <string name="button_Delete">Удалить</string>
+  <string name="button_Update">Обновление</string>
+  <string name="button_Share">Предоставить общий доступ</string>
+  <string name="button_Yes">Да</string>
+  <string name="button_No">Нет</string>
+  <string name="button_apply">Применить</string>
+  <string name="button_browse">Обзор</string>
+  <string name="button_close">Закрыть</string>
+  <string name="button_play">Играть</string>
+  <string name="button_stop">Остановить</string>
+  <string name="button_Confirm">Подтвердите</string>
+  <string name="button_Ok">Хорошо</string>
+  <string name="text_import_file_name">Имя</string>
+  <string name="text_import_file_size">Размер</string>
+  <string name="general_items">товар(ов)</string>
+  <string name="general_selected_items">выбранные</string>
+  <string name="general_error">Ошибка</string>
+  <string name="title_confirm">Подтвердите</string>
+  <string name="button_ok">Хорошо</string>
+  <string name="button_cancel">Отмена</string>
+  <string name="free_space">Всего свободного пространства:</string>
+  <string name="title_share">Поделиться с помощью:</string>
+  <string name="title_rename">Введите новое имя  </string>
+  <string name="title_create_folder">Введите имя папки  </string>
+</resources>

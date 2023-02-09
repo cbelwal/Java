@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">ورود به سیستم تماس</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">ناشناخته</string>
+  <string name="button_Yes">بله</string>
+  <string name="button_No">نه</string>
+  <string name="button_Apply">درخواست</string>
+  <string name="button_Close">بستن</string>
+  <string name="general_not_Available">موجود نیست</string>
+  <string name="general_items">مورد یا موارد</string>
+  <string name="general_selected_items">انتخاب شده</string>
+  <string name="title_confirm">تایید</string>
+  <string name="title_dialog_coju">دانلود Coju</string>
+  <string name="message_selectitems">حداقل 1 ثبت باید انتخاب شود</string>
+  <string name="message_download_coju">Coju نرم افزار یکپارچه مدیریت تماس است. تمام ویژگی های این نرم افزار به همراه قابلیت های اضافی است. شما دوست دارید به صورت Coju</string>
+  <string name="message_contact_permissions_missing">اجازه تماس با ما برای این برنامه به کار مورد نیاز است. App خواهد شد، هم ببندید، اجازه می دهد و دوباره سعی کنید</string>
+  <string name="message_other_permissions_missing">درخواست مجوز برای استفاده از این ویژگی نرم افزار به کار مورد نیاز است.
+        دادن مجوز درخواست شده و دوباره سعی کنید</string>
+</resources>

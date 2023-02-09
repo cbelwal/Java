@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Peg Solitaire Problemløser</string>
+  <string name="message_tellafriend">Denne app er mentalt challening spillet af Peg Solitaire også kendt som marmor solitaire eller Brainvita. Målet med spillet er at komme til det minimum antal pløkker som muligt. Pløkker er flyttet til et tomt hul efter hoppe over en anden pind i en lige linje. Pind sprang over er fjernet, denne måde efter hver Flyt antallet pløkker er reduceret med one. \n\n ud over den standard spil, dette app kan du indstille din egen brugerdefinerede bestyrelse til at løse. Der er tilbage og fremad knapper, som giver dig mulighed for gå tilbage til et vilkårligt antal flytninger og spillet holder også høj scores.\n\n men hvad gør denne app helt unik er dens kraftfulde peg solitaire Problemløser. Problemløser bruger en ordentlighed \'state-space\' algoritme til at løse enhver given bord. Problemløser vil komme med alle de træk, der er nødvendige for at komme til det mindste mulige antal pløkker.
+        Hvis du kører Problemløser fra begyndelsen på en ny bestyrelse, det vil vise dig alle de bevægelser, der vil føre til en pind. Fordi det finder en løsning til ethvert bord, at Problemløser kan tage et par minutter at komme til en solution.\n\n Give det en chance! \n</string>
+</resources>

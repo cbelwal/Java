@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="share_options_ShareUsing">Dele bruker:</string>
+  <string name="share_options_allshare">E-post/Wifi/Sky lagring (store filer kan ha problemer)</string>
+  <string name="export_options_externalStorage">Ekstern lagring</string>
+  <string name="export_options_ExportAs">Eksportformat:</string>
+  <string name="export_options_ExportUsing">Dele APK filer via:</string>
+  <string name="progressbar_prepare_data">Forbereder pakke(r)... </string>
+</resources>

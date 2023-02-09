@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        Toleo la bure tu inaruhusu chelezo ya wawasiliani 200 hadi.
+        Wawasiliani kuwa wamekuwa wakisaidiwa-hadi katika faili:
+    </string>
+  <string name="message_backup_failed">
+        Imeshindwa kuhifadhi chelezo faili, Tafadhali jaribu tena. Kama tatizo litaendelea Tafadhali kuripoti suala kwa mchapishaji wa programu kutumia chaguo la maoni katika programu hii.
+    </string>
+</resources>

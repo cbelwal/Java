@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Răzătoare audio</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="activity_extract_pictures">Extrage Audio</string>
+  <string name="button_Select_All">Selectaţi toate</string>
+  <string name="button_UnSelect_All">Ne-selectează tot</string>
+  <string name="button_Delete">Şterge</string>
+  <string name="button_Update">Actualizare</string>
+  <string name="button_Share">Cota</string>
+  <string name="button_Yes">da</string>
+  <string name="button_No">nu</string>
+  <string name="button_apply">Se aplică</string>
+  <string name="button_browse">Răsfoire</string>
+  <string name="button_close">Închide</string>
+  <string name="button_play">Juca</string>
+  <string name="button_stop">opreşte-te</string>
+  <string name="button_Confirm">Confirma</string>
+  <string name="button_Ok">ok</string>
+  <string name="text_import_file_name">nume</string>
+  <string name="text_import_file_size">Dimensiune</string>
+  <string name="general_items">element(e)</string>
+  <string name="general_selected_items">selectate</string>
+  <string name="general_error">Eroare</string>
+  <string name="title_confirm">Confirma</string>
+  <string name="button_ok">ok</string>
+  <string name="button_cancel">Revocare</string>
+  <string name="free_space">Total spațiu liber:</string>
+  <string name="title_share">Cota folosind:</string>
+  <string name="title_rename">Introduceţi noul nume  </string>
+  <string name="title_create_folder">Introduceţi numele folderului  </string>
+</resources>

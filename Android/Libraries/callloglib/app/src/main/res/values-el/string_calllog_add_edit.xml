@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">Αριθμός τηλεφώνου</string>
+  <string name="text_calllog_date">Ημερομηνία</string>
+  <string name="text_calllog_time">Χρόνος</string>
+  <string name="text_calllog_duration">Duration(s)</string>
+  <string name="text_calllog_type">Τύπος</string>
+  <string name="spinner_calllog_type_incoming">Εισερχόμενες</string>
+  <string name="spinner_calllog_type_outgoing">Εξερχόμενη</string>
+  <string name="spinner_calllog_type_missed">Αναπάντητες</string>
+  <string name="message_calllog_added">Προστέθηκε με επιτυχία στο Μητρώο κλήσεων</string>
+  <string name="message_calllog_added_error">Αποτυχία στην προσθήκη στο Μητρώο κλήσεων</string>
+  <string name="message_calllog_edited">Αρχείο καταγραφής κλήσεων ενημερώθηκε με επιτυχία</string>
+  <string name="message_calllog_edited_error">Αποτυχία κατά την ενημέρωση του αρχείου καταγραφής κλήσεων</string>
+</resources>

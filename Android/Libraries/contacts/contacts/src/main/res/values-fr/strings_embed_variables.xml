@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">Connecté à l’appareil.
+        Appuyez sur \'Send\' pour transférer des contacts à : </string>
+  <string name="message_bt_conn_failed">Échec de la connexion au périphérique.
+    S’il vous plaît s’assurer que ce soft est installé et Bluetooth écran est ouvert : </string>
+  <string name="message_bt_sent_error">Pouvait pas transférer ces nombre de contacts : </string>
+  <string name="message_bt_recv_error">Impossible de créer ces nombre de contacts : </string>
+  <string name="message_bt_create_complete">Reçu des contacts créés : </string>
+  <string name="message_bt_sent_complete">Contacts envoyés au périphérique : </string>
+  <string name="progressbar_bt_send_data">Transfert des contacts uniques </string>
+  <string name="progressbar_bt_bytes">octets </string>
+  <string name="progressbar_bt_create_contacts">Création de contacts (Contacts avec photo nécessitent plus de temps)</string>
+  <string name="message_free_version_selection">
+        Maximum de contacts pouvant être sélectionné dans la version gratuite est : </string>
+  <string name="progressbar_delete_data">
+        Suppression des contacts uniques </string>
+</resources>

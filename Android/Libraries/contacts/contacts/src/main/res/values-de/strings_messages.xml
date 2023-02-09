@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> Kontakte werden aktualisiert. Diese Aktion kann nicht rückgängig gemacht werden. Möchten Sie fortfahren?</string>
+  <string name="message_update_complete"> Kontakte aktualisiert</string>
+  <string name="message_save_external">Kontakte in externen Ordner gespeichert: </string>
+  <string name="message_import">Nur Vcard und CSV-Dateien importiert werden können (verwenden Sie \'Browse\ \"zum Laden von Dateien aus anderen Quellen</string>
+  <string name="message_loading_files">Suchen lokale Ordner...</string>
+  <string name="message_loading_backup_files">Gerät für backup Dateien suchen...</string>
+  <string name="message_importing_contacts_complete">Kontakte nicht importiert</string>
+  <string name="message_save_external_suffix">. Ordner kann zugegriffen werden, indem Ihr Handy an Ihren Computer durch USB etc. anschließen. </string>
+  <string name="message_selectitems">Mindestens 1 Kontakt muss ausgewählt werden</string>
+  <string name="message_delete_confirm">Ausgewählte Kontakte Informationen gelöscht werden. Diese Aktion kann nicht rückgängig gemacht werden. Möchten Sie fortfahren?</string>
+  <string name="message_delete_complete"> Kontakt(e) Details gelöscht</string>
+  <string name="message_free_import_limit">Datei enthält mehr Kontakte als erlaubt in der kostenlosen version</string>
+  <string name="message_rate_this_app_error">Rating-Seite konnte nicht geöffnet werden. Bitte gehe Google Play und entsprechend bewerten</string>
+  <string name="message_edit">Nur 1 Kontakt kann gleichzeitig bearbeitet werden. </string>
+  <string name="message_backup_stored">Kontakte haben in Datei gesichert worden:</string>
+  <string name="message_download_coju">Coju ist eine integrierte Kontakt-Management-app. Es hat alle Funktionen dieser app plus zusätzliche Funktionen. Mögen Sie Coju herunterladen?</string>
+  <string name="message_contact_permissions_missing">Kontakte-Berechtigungen sind erforderlich für diese app arbeitet. App jetzt schließen, bitte geben Sie Berechtigungen und versuchen Sie es erneut</string>
+  <string name="message_other_permissions_missing">Angeforderte Berechtigungen sind erforderlich für dieses app-Feature funktioniert.
+        Bitte geben Sie angeforderte Berechtigungen und versuchen Sie es erneut</string>
+  <string name="message_backup_freeversion">
+        Maximale Anzahl von Kontakten, die in dieser kostenlosen Version gesichert ist:
+    </string>
+  <string name="message_backup_paidversion">
+        Alles, was Sie Kontakte wurden erfolgreich in einer Datei gesichert
+    </string>
+  <string name="message_purchase_error">
+        Die Verbindung zum Google-Server konnte nicht hergestellt werden. Bitte starten Sie die app und versuchen Sie es erneut
+    </string>
+</resources>

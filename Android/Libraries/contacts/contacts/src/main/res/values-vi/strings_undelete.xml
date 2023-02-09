@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Contact(s) được chọn sẽ được hoàn xóa. Xin vui lòng xác nhận nếu bạn muốn tiến hành?</string>
+  <string name="message_undelete_complete"> Contact(s) xoá</string>
+  <string name="message_undelete_notice">Tùy chọn này sẽ liệt kê các số liên lạc có thể được hoàn xóa và phụ thuộc vào các nhà sản xuất thiết bị của bạn hoặc các phiên bản Android. Địa chỉ liên lạc có thể không phục hồi nếu thiết bị không cho phép nó, danh bạ đã xóa vài giờ trước hoặc danh bạ đã xóa khỏi thẻ SIM.</string>
+  <string name="message_undelete_option_invalid">Tùy chọn này là không hợp lệ cho số liên lạc đã xóa
+        </string>
+  <string name="message_undelete_help">Hãy chọn contact(s) và sử dụng biểu tượng undelete ở trên bên phải để lấy lại chúng</string>
+  <string name="progressbar_undelete_data">Undeleting contact(s) </string>
+  <string name="action_undelete">Undelete Contact(s)</string>
+  <string name="button_understand">Tôi hiểu</string>
+  <string name="title_disclaimer">TUYÊN BỐ TỪ CHỐI</string>
+  <string name="title_no_undelete_found">Xin lỗi!</string>
+  <string name="message_no_undelete_found">
+        Chúng tôi rất tiếc, không có danh bạ đã xóa có thể phục hồi được tìm thấy! Bạn có thể thử phục hồi chúng bằng cách sử dụng một cách thủ công được đề xuất bởi Google, các nhà phát triển của Android.
+        Bạn sẽ muốn truy cập vào trang web hỗ trợ của Google mà có hướng dẫn hướng dẫn sử dụng phục hồi?
+    </string>
+</resources>

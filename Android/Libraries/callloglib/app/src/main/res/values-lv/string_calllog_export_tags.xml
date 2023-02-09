@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tag_formatted_name">vārds:</string>
+  <string name="tag_formatted_number">Numurs:</string>
+  <string name="tag_formatted_type">Tips:</string>
+  <string name="tag_formatted_datetime">Datums/laiks:</string>
+  <string name="tag_formatted_duration">Ilgums:</string>
+  <string name="tag_formatted_location">Atrašanās vieta:</string>
+  <string name="tag_formatted_type_incoming">@string/spinner_calllog_type_incoming</string>
+  <string name="tag_formatted_type_outgoing">@string/spinner_calllog_type_outgoing</string>
+  <string name="tag_formatted_type_missed">@string/spinner_calllog_type_missed</string>
+  <string name="tag_chm_number">Numurs:</string>
+  <string name="tag_chm_date">Datums:</string>
+  <string name="tag_chm_duration">Ilgums:</string>
+</resources>

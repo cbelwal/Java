@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Solver PEG Solitaire</string>
+  <string name="message_tellafriend">Ta aplikacja jest psychicznie challening gra Peg Solitaire znany również jako Marble solitaire lub Brainvita. Celem gry jest uzyskanie minimalnej liczby kołków, jak to możliwe. Kołki są przenoszone do puste dziury po skoki przez inny kołek w linii prostej. Peg, przeskoczył jest usunięty, w ten sposób po każdym przenieść liczba kołki są redukowane przez jeden. \n\n oprócz standardowej gry, ta aplikacja pozwala ustawić własne niestandardowe planszę, aby rozwiązać. Tam są z powrotem i do przodu przyciski, które pozwalają wrócić do dowolnej liczby ruchów i gra również utrzymuje wysoką scores.\n\n jednak, co sprawia, że ta aplikacja jest naprawdę wyjątkowa jest jego potężny peg solitaire solver. Solver używa \'state-space\ kultura osobista \' algorytm do rozwiązania wszelkich danej Rady. Solver będzie pochodzić z wszystkie ruchy, które są wymagane do jak minimalna liczba kołki.
+        Po uruchomieniu dodatku solver od początku na nowy zarząd pokaże wszystkie ruchy, które doprowadzą do jednego kołka. Bo znajdzie rozwiązanie do każdej płyty, solver może potrwać kilka minut, aby dojść do solution.\n\n dawać ono pewien próbować! \n</string>
+</resources>

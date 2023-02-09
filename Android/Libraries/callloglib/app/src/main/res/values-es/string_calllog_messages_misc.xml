@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">No se ha concedido permiso para realizar llamadas a esta aplicación</string>
+  <string name="message_search_number_security_exception">¡No buscar este número de teléfono! Búsqueda de Google no está activada o no se ha concedido el permiso en este dispositivo</string>
+  <string name="message_free_version_selection">
+        Las entradas del registro máximo que se pueden seleccionar en la versión gratuita es: </string>
+  <string name="message_purchase_error">
+        No se pudo conectar al servidor de Google. Reinicie la aplicación y vuelva a intentarlo
+    </string>
+</resources>

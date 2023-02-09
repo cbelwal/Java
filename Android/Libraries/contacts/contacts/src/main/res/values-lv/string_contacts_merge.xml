@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Sapludināt kontaktpersonas</string>
+  <string name="action_merge">Sapludināt kontakts (i)</string>
+  <string name="message_merge_title">Brīdinājums</string>
+  <string name="message_merge_confirm">Lūdzu, apstipriniet, vai vēlaties sapludināt atlasītās kontaktpersonas? Tālruņa numurs, e-pasta adresi, pasta adresi, piezīmju un notikumiem visas atlasītās kontaktpersonas tiks sapludināti vienā vienotais kontaktpunkts ar nosaukumu: </string>
+  <string name="message_merge_complete">Izvēlētie kontakti ir sapludinātas</string>
+  <string name="progressbar_merge_data">Sapludināt kontaktpersonu...</string>
+</resources>

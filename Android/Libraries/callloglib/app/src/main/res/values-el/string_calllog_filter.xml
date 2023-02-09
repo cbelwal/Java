@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">Κατάσταση</string>
+  <string name="filter_text_option">Επιλογές</string>
+  <string name="filter_text_value_days">Ημέρες</string>
+  <string name="filter_text_value_duration">Duration(s)</string>
+  <string name="filter_text_value_location">Τοποθεσία</string>
+  <string name="filter_options_from_stored_contacts">Από τις αποθηκευμένες επαφές</string>
+  <string name="filter_options_more_than_entered_days">Περισσότερο από ημέρες</string>
+  <string name="filter_options_less_than_entered_days">Λιγότερο από ημέρες</string>
+  <string name="filter_options_more_than_duration">Διάρκειας άνω των</string>
+  <string name="filter_options_less_than_duration">Μικρότερη διάρκεια</string>
+  <string name="filter_options_from_entered_location">Από τη θέση</string>
+  <string name="filter_options_none">Κανένα φίλτρο δεν</string>
+  <string name="filter_show_show">Εμφάνιση</string>
+  <string name="filter_show_noshow">Δεν δείχνουν</string>
+</resources>

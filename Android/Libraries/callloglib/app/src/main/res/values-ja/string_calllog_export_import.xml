@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">[参照]</string>
+  <string name="backup_options_backupusing">バックアップを使用してください。</string>
+  <string name="export_options_externalStorage">このデバイスの外部ストレージ</string>
+  <string name="share_options_shareas">共有します。</string>
+  <string name="share_options_allshare">共有アプリケーション (クラウド、電子メール、...)</string>
+  <string name="share_options_share_using">共有を使用します。</string>
+  <string name="share_options_sms">メッセージング</string>
+  <string name="share_options_clipboard">クリップボードにコピー</string>
+  <string name="export_options_ExportUsing">ファイルを保存します。</string>
+  <string name="progressbar_prepare_data">通話ログのリストを準備しています.</string>
+  <string name="progressbar_backup">呼び出しログのバックアップ、これは数分をかかることがあります.</string>
+  <string name="backup_options_using">バックアップ ファイルを保存します。</string>
+  <string name="menu_import_help">ヘルプ</string>
+  <string name="text_import_file_name">選択したファイル名:</string>
+  <string name="text_import_file_size">選択したファイルのサイズ (バイト):</string>
+  <string name="text_unknown_file_size">不明</string>
+  <string name="message_backup_options">お勧めクラウド、電子メールなどのようなアプリケーションの共有のバックアップ。
+        これまでにあなたの携帯電話を紛失した場合、呼び出しログを回復できます。
+        メール/クラウドから手動でファイルを保存、呼び出しログ バックアップ メール/クラウド アカウントからこのデバイスの任意の場所に連絡先を復元します。インポート/復元ユーティリティはファイルを自動的に見つけます。</string>
+  <string name="message_importing_contacts">呼び出しログをインポートしています.</string>
+  <string name="message_reading_import_file">ファイルを読んで、これは数分をかかることがあります.</string>
+  <string name="export_options_plain_text">プレーン テキスト</string>
+  <string name="export_options_indv_clm">個々 の CLM ファイル</string>
+  <string name="export_options_combined_clm">CLM ファイルの組み合わせ</string>
+  <string name="export_generated_footer">呼び出しログ マネージャー Coju を介して生成されました。</string>
+  <string name="export_sent_footer">呼び出しログ マネージャー経由で生成されました。</string>
+  <string name="export_generated_header">呼び出しログの詳細</string>
+  <string name="message_clipboard_copy">クリップボードにコピー</string>
+  <string name="message_exporting_calllog">連絡先を抽出しています.</string>
+  <string name="message_exporting_calllog_ready">連絡先をエクスポートする準備を.</string>
+  <string name="message_exporting_calllog_write_file">ファイルを書き込んでいます.</string>
+  <string name="message_import_help">このアプリから生成されたファイルのみ (*。CLM ファイル) をインポートすることができます。</string>
+  <string name="message_import_invalid_file">有効な呼び出しログ ファイルではありません。</string>
+  <string name="message_importing_complete">インポート ログを呼び出す</string>
+  <string name="message_restore_complete">バックアップから復元されたログ エントリを呼び出す</string>
+  <string name="message_restore_fail">バックアップから復元できませんでした、バックアップ ファイルが存在しないか破損しています。</string>
+  <string name="message_backup_stored_freeversion">無料版のみ最大 9 呼び出しログのバックアップを作成できます。
+        呼び出しログを持ってされてバックアップ ファイル。
+    </string>
+  <string name="message_backup_failed">バックアップ ファイルの保存に失敗しました、再試行してください。問題が解決しない場合は、問題をこのアプリでフィード バック オプションを使用してアプリの発行者に報告してください。
+    </string>
+  <string name="message_restore_selection_finish">バックアップ呼び出しログが復元されています。</string>
+  <string name="message_clm_file_not_found">呼び出しログ マネージャーがありません (*。このデバイスは、CLM) ファイル
+    </string>
+  <string name="message_backup_file_not_found">このデバイスは、バックアップ ファイルはありません。</string>
+  <string name="message_backup_stored">連絡先がされてバックアップ ファイル。</string>
+  <string name="message_save_external">外部フォルダーに格納されているログを呼び出します。</string>
+  <string name="message_loading_files">ローカル フォルダーを検索しています.</string>
+  <string name="message_loading_backup_files">バックアップ ファイルのデバイスを検索しています.</string>
+  <string name="message_backup_freeversion">この無料版でバックアップすることができます呼び出しログの最大数です。</string>
+  <string name="message_backup_paidversion">ファイルのすべてのコールログが正常にバックアップされた</string>
+</resources>

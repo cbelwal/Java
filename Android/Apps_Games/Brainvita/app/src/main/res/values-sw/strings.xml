@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Solver kigingi Solitaire</string>
+  <string name="message_tellafriend">Programu hii ni ya kiakili ya challening mchezo Peg Solitaire anayejulikana pia kama solitaire Marumaru au Brainvita. Lengo la mchezo ni kupata idadi chini ya pini iwezekanavyo. Pini ni wakiongozwa na kete baada ya kuruka juu ya kigingi kingine katika mstari mnyoofu. Kigingi akaruka juu ni kuondolewa, njia hii baada ya kila hoja idadi ya pini ni kupunguzwa kwa mmoja. \n\n mbali na kucheza mchezo kiwango, programu tumizi hii inakuruhusu kuweka bodi yako mwenyewe maalum kutatua. Kuna nyuma na vitufe mbele ambayo kuruhusu kurudi idadi yoyote ya hatua na mchezo pia anafuga juu scores.\n\n hata hivyo, kinachofanya programu tumizi hii kipekee kweli ni wake kigingi nguvu solitaire solver. Solver ya hutumia \'state-space\ ya usahihi \' Algoriti kutatua bodi yoyote iliyotolewa. Solver ya kuja na hatua zote zinazohitajika ili kuja chini inawezekana idadi ya pini.
+        Kama unaweza kukimbia solver ya tangu mwanzo ya bodi mpya ni kuonyesha hatua ambayo itasababisha kigingi moja. Kwa sababu ni hupata suluhisho kwa Bodi yoyote, solver na unaweza kuchukua dakika chache kuja solution.\n\n na kutoa kujaribu! \n</string>
+</resources>

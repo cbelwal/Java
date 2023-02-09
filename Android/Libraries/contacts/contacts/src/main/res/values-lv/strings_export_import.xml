@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_reading_import_file">Lasot failu, tas var ilgt vairākas minūtes...</string>
+  <string name="message_exporting_contacts">Ieguves kontakts (i)...</string>
+  <string name="message_exporting_contacts_ready">Gatavojas eksportēt kontakts (i)...</string>
+  <string name="message_exporting_contacts_write_file">Rakstot failu (s)...</string>
+  <string name="text_import_file_name">Faila nosaukums:</string>
+  <string name="text_import_file_size">Failu Size(bytes):</string>
+  <string name="text_unknown_file_size">Nezināms</string>
+</resources>

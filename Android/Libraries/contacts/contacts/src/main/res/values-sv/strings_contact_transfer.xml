@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Bläddra</string>
+  <string name="backup_options_backupusing">Säkerhetskopiera med hjälp av</string>
+  <string name="transfer_address_home">Hem</string>
+  <string name="transfer_address_office">Office</string>
+  <string name="transfer_contact_office">(W).</string>
+  <string name="transfer_contact_home">(H)</string>
+  <string name="transfer_contact_mobile">(M)</string>
+  <string name="transfer_contact_other">(O)</string>
+  <string name="transfer_in_favorites">I favoriter</string>
+  <string name="transfer_not_in_favorites">Inte i favoriter</string>
+  <string name="transfer_times_contacted">Gånger kontaktat:</string>
+  <string name="transfer_last_time_contacted">Sista gången kontaktas:</string>
+  <string name="transfer_organization">Organisation</string>
+  <string name="transfer_title">Avdelning</string>
+  <string name="transfer_event_birthday">Födelsedag</string>
+  <string name="transfer_event_anniv">Årsdagen</string>
+  <string name="transfer_event_other">Andra</string>
+  <string name="check_phone">Telefonnummer</string>
+  <string name="check_email">E-post</string>
+  <string name="csv_header_name">Namn</string>
+  <string name="csv_header_phone">Telefonnummer</string>
+  <string name="csv_header_email">E-postadress(er)</string>
+  <string name="csv_header_postal">Postal adress</string>
+  <string name="csv_header_timescontacted">Gånger som kontaktade</string>
+  <string name="csv_header_lasttimecontact">Sista gången kontaktade</string>
+  <string name="csv_header_favorite">Favorit Status</string>
+  <string name="csv_header_organization">Organisation</string>
+  <string name="check_postaladdress">Postadress</string>
+  <string name="check_timescontacted">Antal gånger kontaktat</string>
+  <string name="check_lastcontact">Sista tid</string>
+  <string name="check_isfavorite">Favorit status</string>
+  <string name="share_options_ShareAs">Dela som:</string>
+  <string name="share_options_ShareUsing">Dela med:</string>
+  <string name="share_options_sms">Messaging</string>
+  <string name="share_options_allshare">Dela program (Cloud, Email,...)</string>
+  <string name="share_options_Clipboard">Kopiera till Urklipp</string>
+  <string name="share_options_plaintext">Oformaterad text</string>
+  <string name="share_options_vcf">Enskilda Vcard fil(er)</string>
+  <string name="share_options_combinedvcf">Kombinerade Vcard-fil</string>
+  <string name="export_options_textfile">Fil med oformaterad text</string>
+  <string name="export_options_combinedvcf_21">Kombinerade visitkortsfil 2.1</string>
+  <string name="export_options_individualvcf_21">Enskilda vCard 2.1 fil(er)</string>
+  <string name="export_options_combinedvcf_40">Kombinerade visitkortsfil 4.0</string>
+  <string name="export_options_individualvcf_40">Enskilda vCard 4.0 fil(er)</string>
+  <string name="export_options_csvfile">Fil Comma Separated (*.csv)</string>
+  <string name="export_options_externalStorage">Extern lagring av denna enhet</string>
+  <string name="export_options_ExportAs">Exportformat:</string>
+  <string name="export_options_ExportUsing">Spara filen i:</string>
+  <string name="message_import_invalid_file">Inte en giltig kontaktfilen
+        </string>
+  <string name="backup_options_using">Spara säkerhetskopian i:</string>
+  <string name="menu_import_help">Hjälp</string>
+  <string name="message_backup_options">Det rekommenderas att backningen i andel program som moln, Email etc.
+        Detta gör att du kan återställa kontakter om du tappar bort din telefon.
+        För att återställa kontakter från e-post molntjänster manuellt spara kontakter säkerhetskopian från kontot e-molntjänster till valfri plats i enheten. Importverktyget kommer automatiskt leta upp filen.</string>
+  <string name="message_restore_fail">
+        Kunde inte återställa från säkerhetskopia, säkerhetskopian är saknas eller är skadad
+                </string>
+  <string name="message_restore_refresh">Kontakter återställs från säkerhetskopian. Vänligen uppdatera visningen för att se alla importerade kontakter</string>
+  <string name="message_restore_selection_finish">Kontakter återställs från säkerhetskopian. Du kan nu stänga denna ruta eller importera från en annan Backup file</string>
+  <string name="message_restore_legacy_name">Säkerhetskopian hette \'BackupAllContacts.vcf\' i äldre versioner</string>
+</resources>

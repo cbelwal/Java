@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">新しいゲーム</string>
+  <string name="button_switch_board">スイッチ ボード</string>
+  <string name="button_custom_board">設定のカスタム ボード</string>
+  <string name="button_high_scores">高得点</string>
+  <string name="button_rate_app">このゲームを評価します。</string>
+  <string name="button_tell_a_friend">友達に教える</string>
+  <string name="button_paid_version">有料版</string>
+  <string name="button_help_documentation">ヘルプ ドキュメント</string>
+  <string name="button_demo_video">デモ ・ ビデオ</string>
+  <string name="button_ok">わかりました</string>
+  <string name="button_yes">[はい]</string>
+  <string name="button_no">違います</string>
+  <string name="button_start">スタート</string>
+  <string name="button_cancel">キャンセル</string>
+  <string name="button_abort">中止</string>
+  <string name="button_high_score_close">閉じる</string>
+  <string name="title_high_score">トップ 10 高得点します。</string>
+  <string name="text_high_score_none">いいえスコア</string>
+  <string name="text_high_score_pegs">残り peg(s)</string>
+  <string name="text_high_score_time">時間</string>
+</resources>

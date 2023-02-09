@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">شماره تلفن</string>
+  <string name="text_calllog_date">تاریخ</string>
+  <string name="text_calllog_time">زمان</string>
+  <string name="text_calllog_duration">Duration(s)</string>
+  <string name="text_calllog_type">نوع</string>
+  <string name="spinner_calllog_type_incoming">ورودی</string>
+  <string name="spinner_calllog_type_outgoing">خروجی</string>
+  <string name="spinner_calllog_type_missed">از دست رفته</string>
+  <string name="message_calllog_added">برای ورود به سیستم تماس با موفقیت</string>
+  <string name="message_calllog_added_error">شکست در افزودن به تماس ورود به سیستم</string>
+  <string name="message_calllog_edited">ورود به سیستم تماس با موفقیت به روز شده</string>
+  <string name="message_calllog_edited_error">عدم موفقیت در ورود به سیستم تماس به روز رسانی</string>
+</resources>

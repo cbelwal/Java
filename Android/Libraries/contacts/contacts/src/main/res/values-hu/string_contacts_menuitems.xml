@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Általános</string>
+  <string name="nav_menu_group_help">segítség</string>
+  <string name="nav_menu_group_viewoptions">Beállítások</string>
+  <string name="nav_menu_group_views">Megtekintés</string>
+  <string name="nav_menu_group_operations">Műveletek</string>
+  <string name="nav_menu_group_backup">Biztonsági mentés</string>
+  <string name="nav_menu_rate_this_app">Visszajelzés</string>
+  <string name="nav_menu_backup_contacts">Hát minden kapcsolatok</string>
+  <string name="nav_menu_restore_contacts">Névjegyek visszaállítása biztonsági másolatból</string>
+  <string name="nav_menu_upgrade">Feljavít-hoz Profi változat</string>
+  <string name="nav_menu_filter">A megjelenítési szűrő</string>
+  <string name="nav_menu_duplicates">Duplázik Toolkit</string>
+  <string name="nav_menu_tellafriend">Mondja el egy ismerősének</string>
+  <string name="nav_menu_feedback">Kapcsolattartó Dasmic</string>
+  <string name="nav_menu_demovideo">Tüntetés Video</string>
+  <string name="nav_menu_coju_outlook">A Microsoft Outlook Coju</string>
+  <string name="nav_menu_coju">Letöltés Coju</string>
+  <string name="display_options_all_TimesContacted">Alkalommal a kapcsolatot szerint rendezve</string>
+  <string name="display_options_all_last_contact">Utolsó behatási idő szerint rendezve</string>
+  <string name="display_options_all">Név szerint rendezve</string>
+  <string name="display_options_phonenumber">Rendezett számok</string>
+  <string name="display_options_email">Rendezett E-mail címek</string>
+  <string name="display_options_deleted">Törölt névjegyek</string>
+  <string name="display_options_refresh">Kijelző frissítése</string>
+  <string name="action_Operations">Tömeges frissítések</string>
+  <string name="action_Export">Export-partner</string>
+  <string name="action_delete">Partner törlése</string>
+  <string name="action_Import">Partner importálása</string>
+  <string name="action_edit">Kapcsolat szerkesztése</string>
+  <string name="action_add">Névjegy hozzáadása</string>
+  <string name="action_share">Ossza meg a partner</string>
+  <string name="action_bluetooth">Átvitel Bluetooth</string>
+</resources>

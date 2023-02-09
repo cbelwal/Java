@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">यदि अनुप्रयोग के साथ एक समस्या है, आप प्रकाशक ईमेल और समस्या को हल करने के लिए की तरह होगा?</string>
+  <string name="message_check_for_rating">आप इस अनुप्रयोग के लिए प्रतिक्रिया छोड़ने के लिए की तरह होगा?</string>
+  <string name="message_tellafriend_subject">इस app बाहर की जाँच करें</string>
+  <string name="message_email_send_error">ईमेल भेजने में त्रुटि</string>
+  <string name="message_tellafriend_body">अरे, इस शांत app:\n बाहर की जाँच करें</string>
+  <string name="message_start_activity_error">\N. गतिविधि शुरू करने में कोई समस्या थी</string>
+  <string name="message_demo_video">आप एक प्रदर्शन वीडियो देखने के लिए की तरह होगा।
+        (यह संदेश केवल एक बार दिखाया गया है)?</string>
+  <string name="message_help_documentation_fail">मदद दस्तावेज़ लोड नहीं कर सका।
+    कृपया http://www.dasmic.com पर जाएँ को देखने के लिए ब्राउज़र से मदद।</string>
+  <string name="message_rate_this_app">आप दूसरों की इस एप्लिकेशन रेटिंग द्वारा मदद कर सकते हैं?</string>
+  <string name="message_rate_this_app_error">रेटिंग पृष्ठ खोला नहीं जा सका। कृपया एक रेटिंग देने के लिए गूगल प्ले स्टोर का उपयोग करें</string>
+  <string name="message_feedback_subject">अनुप्रयोग प्रतिक्रिया के लिए</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">名前 + 番号が一致する WhatsApp</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">複数の名前で同じ WhatsApp 数</string>
+  <string name="duplicate_options_name_matches_email_phone">名前 + 電話/電子メールの一致</string>
+  <string name="duplicate_options_name_matches_phone">名前 + 電話マッチ</string>
+  <string name="duplicate_options_name_matches_email">名前 + メール マッチ</string>
+  <string name="duplicate_options_same_number_multi_name">複数の名前で同じ番号</string>
+  <string name="duplicate_options_same_email_multi_name">複数の名前で同じメール</string>
+  <string name="duplicate_options_none">どれも</string>
+  <string name="progressbar_sel_duplicates">重複データをスキャンしています.</string>
+  <string name="message_duplicates_selected">削除するのには、選択した duplicate(s) は、削除アイコンを押します。各複製の original(master) 値が選択されていないと、削除されません。</string>
+  <string name="choose_duplicate_option">重複を識別するための基準を選択します。
+        その original(master) 値と共に重複メイン画面に表示されます、削除の自動チェックになります。Original(master) の値はチェックされません。</string>
+  <string name="startup_message">右上で重複したアイコンを使用して、重複データの表示オプションを設定</string>
+  <string name="message_duplicates_backup">それらを削除する前に、連絡先をバックアップすることをお勧め</string>
+</resources>

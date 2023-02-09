@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">视频磨擦</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="activity_extract_pictures">提取图片</string>
+  <string name="button_Select_All">全部选择</string>
+  <string name="button_UnSelect_All">取消选择所有</string>
+  <string name="button_Delete">删除</string>
+  <string name="button_Update">更新</string>
+  <string name="button_Share">共享</string>
+  <string name="button_Yes">是的</string>
+  <string name="button_No">不</string>
+  <string name="button_apply">应用</string>
+  <string name="button_browse">浏览</string>
+  <string name="button_close">关闭</string>
+  <string name="button_Confirm">确认</string>
+  <string name="button_Ok">还行</string>
+  <string name="text_import_file_name">名字</string>
+  <string name="text_import_file_size">大小</string>
+  <string name="general_items">项 (s)</string>
+  <string name="general_selected_items">选择</string>
+  <string name="general_error">错误</string>
+  <string name="title_confirm">确认</string>
+  <string name="button_ok">还行</string>
+  <string name="button_cancel">取消</string>
+  <string name="free_space">总可用空间:</string>
+  <string name="title_share">共享使用:</string>
+  <string name="title_rename">输入新名称</string>
+  <string name="title_create_folder">输入文件夹名称</string>
+</resources>

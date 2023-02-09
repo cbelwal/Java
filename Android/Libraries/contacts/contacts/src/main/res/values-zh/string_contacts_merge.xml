@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">联系人合并</string>
+  <string name="action_merge">合并联系人</string>
+  <string name="message_merge_title">警告</string>
+  <string name="message_merge_confirm">请确认是否你想要合并选定的联系人？电话号码、 电子邮件地址、 邮政地址、 注意和事件的所有选定的联系人将合并为一个单一联系人名称︰</string>
+  <string name="message_merge_complete">已经合并选定的联系人</string>
+  <string name="progressbar_merge_data">合并联系人...</string>
+</resources>

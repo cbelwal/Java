@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Bla gjennom</string>
+  <string name="backup_options_backupusing">Sikkerhetskopiere bruke</string>
+  <string name="export_options_externalStorage">Ekstern lagring for denne enheten</string>
+  <string name="share_options_shareas">Del:</string>
+  <string name="share_options_allshare">Dele programmer (Sky, Email,...)</string>
+  <string name="share_options_share_using">Dele bruker:</string>
+  <string name="share_options_sms">Meldinger</string>
+  <string name="share_options_clipboard">Kopier til utklippstavlen</string>
+  <string name="export_options_ExportUsing">Lagre filen i:</string>
+  <string name="progressbar_prepare_data">Forbereder Logg samtalelisten...</string>
+  <string name="progressbar_backup">Sikkerhetskopiere samtaleloggen, kan dette ta flere minutter...</string>
+  <string name="backup_options_using">Lagre sikkerhetskopifilen i:</string>
+  <string name="menu_import_help">hjelp</string>
+  <string name="text_import_file_name">Valgte filnavn:</string>
+  <string name="text_import_file_size">Valgte filen Size(bytes):</string>
+  <string name="text_unknown_file_size">Ukjent</string>
+  <string name="message_backup_options">Det anbefales å sikkerhetskopien i dele programmer som Sky, e-post osv.
+        Dette vil tillate deg å gjenopprette anropsloggen hvis du mister telefonen.
+        Gjenopprette kontaktene fra Email/Sky manuelt lagre samtalen backup loggfilen fra kontoen e-post/Cloud helst i denne enheten. Verktøyet for import/gjenoppretting vil automatisk Finn filen.</string>
+  <string name="message_importing_contacts">Importerer samtale loggene...</string>
+  <string name="message_reading_import_file">Lese filen, kan dette ta flere minutter...</string>
+  <string name="export_options_plain_text">Ren tekst</string>
+  <string name="export_options_indv_clm">Individuelle CLM fil(er)</string>
+  <string name="export_options_combined_clm">Kombinert CLM fil </string>
+  <string name="export_generated_footer">Genererte via samtale loggbehandling Coju</string>
+  <string name="export_sent_footer">Generert via samtale loggbehandling</string>
+  <string name="export_generated_header">Ring logg detaljer</string>
+  <string name="message_clipboard_copy">Kopiert til utklippstavlen</string>
+  <string name="message_exporting_calllog">Trekker ut kontakter...</string>
+  <string name="message_exporting_calllog_ready">Klar til å eksportere kontakter...</string>
+  <string name="message_exporting_calllog_write_file">Skriver filer...</string>
+  <string name="message_import_help">Bare fil som er generert fra denne app (*. Du kan importere CLM filer)</string>
+  <string name="message_import_invalid_file">Ikke en gyldig kallet loggfil</string>
+  <string name="message_importing_complete">samtale loggene importert</string>
+  <string name="message_restore_complete">Ringe loggoppføringer gjenopprettet fra sikkerhetskopien</string>
+  <string name="message_restore_fail">
+        Kan ikke gjenopprette fra sikkerhetskopien, sikkerhetskopifilen mangler eller er skadet
+                </string>
+  <string name="message_backup_stored_freeversion">
+        Gratisversjonen kan bare backup av opptil 9 samtale loggene.
+        Samtale loggene har blitt sikkerhetskopiert i filen:
+    </string>
+  <string name="message_backup_failed">
+        Kan ikke lagre sikkerhetskopifilen, prøv igjen. Hvis problemet vedvarer kan du rapportere problemet til app utgiver alternativet tilbakemelding i denne app.
+    </string>
+  <string name="message_restore_selection_finish">
+        Backup Anropslister er gjenopprettet
+    </string>
+  <string name="message_clm_file_not_found">
+        Ingen samtale loggbehandling (*. CLM) filer som finnes i denne enheten
+    </string>
+  <string name="message_backup_file_not_found">
+        Ingen Sikkerhetskopifiler funnet i denne enheten
+    </string>
+  <string name="message_backup_stored">Kontakter har blitt sikkerhetskopiert i filen:</string>
+  <string name="message_save_external">Oppkall logg lagret i ekstern mappe: </string>
+  <string name="message_loading_files">Søker lokale mapper...</string>
+  <string name="message_loading_backup_files">Søke enhet for backup filer...</string>
+  <string name="message_backup_freeversion">
+        Maksimalt antall Anropslister som kan sikkerhetskopieres i denne gratis versjon er:
+    </string>
+  <string name="message_backup_paidversion">
+        Alle Anropslister har sikkerhetskopiert i en fil
+    </string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> contatto/i verranno aggiornati. Questa azione non può essere annullata. Procedere?</string>
+  <string name="message_update_complete"> contatto/i aggiornato</string>
+  <string name="message_save_external">Contatti archiviati nella cartella esterna: </string>
+  <string name="message_import">Solo file Vcard e CSV possono essere importati (utilizzare \'Browse\' per caricare i file da altre fonti</string>
+  <string name="message_loading_files">Ricerca cartelle locali...</string>
+  <string name="message_loading_backup_files">Dispositivo di ricerca per file di backup...</string>
+  <string name="message_importing_contacts_complete">contatti importati</string>
+  <string name="message_save_external_suffix">. Cartella può essere letta collegando il telefono al computer tramite USB, ecc. </string>
+  <string name="message_selectitems">Atleast 1 contatto deve essere selezionata</string>
+  <string name="message_delete_confirm">Selezionato il contatto/i dati verranno eliminati. Questa azione non può essere annullata. Procedere?</string>
+  <string name="message_delete_complete"> Contatti dettagli eliminati</string>
+  <string name="message_free_import_limit">File contiene più contatti quelli ammessi in versione gratuita</string>
+  <string name="message_rate_this_app_error">Impossibile aprire la pagina di voto. Si prega di goto Google Play e votare di conseguenza</string>
+  <string name="message_edit">Possa essere modificato solo 1 contatto alla volta. </string>
+  <string name="message_backup_stored">Contatti sono stati sottoposti a backup nel file:</string>
+  <string name="message_download_coju">Coju è un\'app di gestione integrata dei contatti. Ha tutte le caratteristiche di questa app oltre a funzionalità aggiuntive. Piacerebbe scaricare Coju?</string>
+  <string name="message_contact_permissions_missing">Contatti autorizzazioni sono necessarie per questo app per funzionare. App ora sarà chiudere, dare autorizzazioni e riprovare</string>
+  <string name="message_other_permissions_missing">Autorizzazioni richieste sono necessarie per utilizzare questa funzionalità di app.
+        Si prega di dare autorizzazioni richieste e riprovare</string>
+  <string name="message_backup_freeversion">
+        Numero massimo di contatti che possono essere sostenuti in questa versione gratuita è:
+    </string>
+  <string name="message_backup_paidversion">
+        Tutti i contatti avere stato correttamente eseguito il backup in un file
+    </string>
+  <string name="message_purchase_error">
+        Impossibile connettersi al server di Google. Si prega di riavviare app e riprovare
+    </string>
+</resources>

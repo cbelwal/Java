@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">Απεμπλοκή επαφές</string>
+  <string name="display_options_blocked">Αποκλεισμένες επαφές</string>
+  <string name="action_block">Μπλοκ</string>
+  <string name="action_unblock">Κατάργηση του αποκλεισμού</string>
+  <string name="message_blocking_contacts">Αποκλεισμός επαφών</string>
+  <string name="message_unblocking_contacts">Ξεβούλωμα επαφές</string>
+  <string name="message_block_unblock_complete">Ενημερώθηκε όλες τις επιλεγμένες επαφές </string>
+  <string name="message_block_unblock_error">Παρουσιάστηκε σφάλμα κατά την ενημέρωση ορισμένων επιλεγμένων επαφών</string>
+</resources>

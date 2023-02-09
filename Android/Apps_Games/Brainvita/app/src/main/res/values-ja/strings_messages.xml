@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">おめでとう、あなたは高得点を得た!</string>
+  <string name="message_game_end_new_game">現在のゲームは、アップです!新しいゲームを開始しますか?</string>
+  <string name="message_custom_board">ペグをペースに空いている穴をタップします。完了すると [ロック] ボタンをタップします。</string>
+  <string name="message_custom_board_done">セットアップは、カスタム ボード、再生を開始することができます。
+    カスタム ボードのハイスコアが記録されていないことに注意してください。</string>
+  <string name="message_intro_first">別のペグを飛び越えて直線で使用可能な穴にペグを移動します。</string>
+  <string name="message_intro_second">飛び越えたペグを削除します。</string>
+  <string name="message_intro_third">可能な限り多くのペグを削除しようとしました。</string>
+  <string name="message_intro_fourth">目標は、のみ 1 釘の残りを得ること</string>
+  <string name="message_board_reset_confirm">現在の理事会がキャンセルされます。続行しますか。</string>
+  <string name="message_game_over">これ以上の動きが可能です。ゲームはアップです!</string>
+  <string name="message_solver_complete">ボードに移動して、[進む] ボタン pegs.\n\nUse の最小数につながる動きを計算するソルバーがあります。</string>
+  <string name="message_solver_complete_free">ペグの最小数につながる動きを計算するソルバーがあります。これは、無料版は、ソルバーは最低 3 ペグのみにつながるソリューションを検索できます。有料版では、ソルバーで 1 peg.\n\nUse のソリューション ボードに移動して、[進む] ボタンを検索できます。
+    </string>
+  <string name="message_solver_complete_title">ペグと解決策を見つけた。</string>
+  <string name="message_solver_inprogress_title">解決策を探しています.</string>
+  <string name="message_solver_inprogress">現在最も低い peg カウント:</string>
+  <string name="message_solver_start_confirm">現在ボードによって、ソルバーはペグの最小数を使用してソリューションを計算で数分に数秒をかかることがあります。
+    ソルバーは計算の多くは、バッテリーの電力消耗されます。
+        ソルバーを開始する前に無料であなたの携帯電話を配置することをお勧めします。
+    いつでも停止できますソルバー実行中とペグの最新の結果になります。</string>
+  <string name="message_solver_mode_play_board">ソルバーのモードでゲームをプレイできません。新しいゲーム新しいゲームを開始するを選択します。</string>
+  <string name="message_confirm_switch_from_standard">現在の理事会が設定され、標準、フランス掲示板に変更しますか。</string>
+  <string name="message_confirm_switch_from_French">現在の委員会がフランス語に設定されて、標準ボードに変更しますか。</string>
+</resources>

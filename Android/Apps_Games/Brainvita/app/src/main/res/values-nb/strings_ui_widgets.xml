@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">Nytt spill</string>
+  <string name="button_switch_board">Bytte styret</string>
+  <string name="button_custom_board">Angi tilpassede brettet</string>
+  <string name="button_high_scores">Resultatlister</string>
+  <string name="button_rate_app">Ranger dette spillet</string>
+  <string name="button_tell_a_friend">Fortell en venn</string>
+  <string name="button_paid_version">Betalt versjon</string>
+  <string name="button_help_documentation">Hjelp</string>
+  <string name="button_demo_video">Demonstrasjon Video</string>
+  <string name="button_ok">ok</string>
+  <string name="button_yes">ja</string>
+  <string name="button_no">nei</string>
+  <string name="button_start">Start</string>
+  <string name="button_cancel">Avbryt</string>
+  <string name="button_abort">Avbryte</string>
+  <string name="button_high_score_close">Lukk</string>
+  <string name="title_high_score">Topp ti High score</string>
+  <string name="text_high_score_none">Ingen poeng</string>
+  <string name="text_high_score_pegs">Gjenstående peg(s)</string>
+  <string name="text_high_score_time">Tid</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">خوش آمدید، شما نمره بالا کردم!</string>
+  <string name="message_game_end_new_game">بازی است! شما دوست دارید برای شروع یک بازی جدید</string>
+  <string name="message_custom_board">در حفره های خالی به سرعت میخ را ضربه بزنید. دکمه قفل اتمام شیر</string>
+  <string name="message_custom_board_done">صفحه سفارشی نصب، شما می توانید شروع به بازی.
+    توجه داشته باشید که نمرات بالا برای تابلو های سفارشی ثبت نشده</string>
+  <string name="message_intro_first">
+        میخ را به سوراخ موجود در خط مستقیم پریدن از روی میخ دیگری حرکت می کند
+    </string>
+  <string name="message_intro_second">میخکوب کردن محکم کردن بیش از شروع به پریدن کرد حذف می شود</string>
+  <string name="message_intro_third">سعی کنید برای حذف گیره های بسیاری از که ممکن است</string>
+  <string name="message_intro_fourth">1 میخ باقیمانده هدف است</string>
+  <string name="message_board_reset_confirm">این هیئت مدیره فعلی را لغو خواهد کرد. می خواهید ادامه دهید؟</string>
+  <string name="message_game_over">حرکت دیگری امکان پذیر است. بازی است!</string>
+  <string name="message_solver_complete">حل قادر به محاسبه حرکت که منجر به حداقل تعداد pegs.\n\nUse دکمه رو به جلو به حرکت هیئت مدیره است.</string>
+  <string name="message_solver_complete_free">حل قادر به محاسبه حرکت که منجر به حداقل تعداد گیره است. از آنجایی که این نسخه رایگان حل قادر به پیدا کردن راه حل به حداقل 3 گیره تنها می تواند. در نسخه پرداخت حل راه حل با 1 peg.\n\nUse دکمه رو به جلو به حرکت هیئت مدیره می توانید پیدا کنید.
+    </string>
+  <string name="message_solver_complete_title">راه حل با گیره در بر داشت: </string>
+  <string name="message_solver_inprogress_title">جستجو برای راه حل...</string>
+  <string name="message_solver_inprogress">فعلی تعداد میخ پایین: </string>
+  <string name="message_solver_start_confirm">بسته به هیئت مدیره فعلی حل ممکن است چند ثانیه به چند دقیقه در محاسبات راه حل با حداقل تعداد گیره.
+    از آنجا که حل بسیاری از محاسبات می کند، آن باتری تهی خواهد شد.
+        توصیه شده است که شما گوشی خود را شارژ قبل از شروع حل قرار است.
+    در حالی که در حال اجرا حل می تواند در هر زمان متوقف و آخرین میخ نتیجه در دسترس باشد.</string>
+  <string name="message_solver_mode_play_board">
+        نمی تواند در حل کننده حالت بازی بازی. بازی جدید برای شروع یک بازی جدید را انتخاب کنید</string>
+  <string name="message_confirm_switch_from_standard">
+        هیئت مدیره فعلی در استاندارد تنظیم می شود، شما می خواهم به تغییر به صفحه اول فرانسه?</string>
+  <string name="message_confirm_switch_from_French">
+        هیئت مدیره فعلی فرانسه قرار است، می خواهید به هیئت مدیره استاندارد تغییر?</string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Nie można połączyć się serwerem Google. Uruchom ponownie aplikację i spróbuj ponownie
+    </string>
+  <string name="progressbar_load_data">Wyszukiwanie plików audio...</string>
+  <string name="message_selectitems">Wymagana jest conajmniej 1 wybór</string>
+  <string name="message_activity_load_fail">Nie można uruchomić aplikacji</string>
+  <string name="message_activity_loading">Uruchamianie aplikacji...</string>
+  <string name="message_other_permissions_missing">Wymagane uprawnienia są wymagane dla tej funkcji do pracy. Proszę podać żądane uprawnienia i spróbuj ponownie
+    </string>
+  <string name="message_no_read_permission">Nie uprawnienia do odczytu
+    </string>
+  <string name="message_cannot_go_in">Nie można przejść do wybranego folderu
+    </string>
+  <string name="message_delete_confirm">Wybranych plików (s) zostaną usunięte. Tej akcji nie można cofnąć. Kontynuować?</string>
+  <string name="progressbar_delete_data">
+        Usuwanie plików </string>
+  <string name="message_delete_complete"> plik / folder usunięte</string>
+  <string name="message_free_version_selection">
+        Maksymalna pliki, które można wybrać w wersji darmowej jest: </string>
+  <string name="message_max_allowed_one">
+        Ta opcja działa tylko dla pojedynczego wyboru  </string>
+  <string name="message_only_file">
+        Ta opcja działa tylko dla plików  </string>
+  <string name="message_copying_file">
+        Kopiowanie pliku...  </string>
+  <string name="message_copy_complete">
+        Kopiowanie plików jest pełna. Nazwy plików zajmie kilka minut, aby pokazać się w sklepie z multimediami.  </string>
+  <string name="message_copy_error">
+        Nie można utworzyć kopii niektórych plików. Upewnij się, istnieje wolna przestrzeń i masz dostęp do zapisu do folderu.</string>
+  <string name="message_share_error">
+        Napotkano błąd podczas kopiowania. Proszę sprawdzić, czy masz wystarczającą ilość miejsca w pamięci podręcznej plików udostępnionych  </string>
+  <string name="message_zipping_files">
+        Kompresowanie plików / folderów...  </string>
+  <string name="message_zipping_completed">
+        Wszystkie pliki / foldery przenoszone do archiwum zip  </string>
+  <string name="message_zipping_error">
+        Może nie zip pliki / foldery. Proszę sprawdzić, czy wybrane foldery nie są puste i masz wystarczającą przestrzeń</string>
+  <string name="message_rename_complete">
+        Zmiana nazwy pliku/folderu kompletny. Nowa nazwa będzie kilka minut, aby pokazać w sklepie z multimediami.  </string>
+  <string name="message_rename_error">
+        Nie można zmienić nazwy pliku/folderu  </string>
+  <string name="message_create_folder_complete">
+        Folder tworzony  </string>
+  <string name="message_create_folder_error">
+        Nie można utworzyć folderu  </string>
+  <string name="message_error_audio_play">
+        Nie można odtwarzać dźwięk </string>
+</resources>

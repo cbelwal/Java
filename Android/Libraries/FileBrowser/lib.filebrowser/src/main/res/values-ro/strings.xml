@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">element(e)</string>
+  <string name="general_selected_items">selectate</string>
+  <string name="general_error">Eroare</string>
+  <string name="title_confirm">Confirma</string>
+  <string name="button_ok">ok</string>
+  <string name="button_cancel">Revocare</string>
+  <string name="free_space">Total spațiu liber:</string>
+  <string name="title_share">Cota folosind:</string>
+  <string name="title_rename">Introduceţi noul nume  </string>
+  <string name="title_create_folder">Introduceţi numele folderului  </string>
+</resources>

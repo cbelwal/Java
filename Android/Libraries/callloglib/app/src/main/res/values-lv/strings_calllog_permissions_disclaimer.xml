@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">
+        Šajā app tagad pieprasīs atļauju, lai piekļūtu zvanu žurnālu un kontaktpersonas datiem.
+        Šīs atļaujas ir nepieciešamas šo app, lai strādātu, un nav paredzēts izmantot jebkādā citā veidā. Mēs ļoti nopietni jūsu privātumu, un zvanu žurnālu un kontaktpersonas dati netiks dalīta ar jebkuras puses, tostarp coju.mobi™, izdevēji šo app.
+    </string>
+  <string name="button_permissions_ack">
+        Apstiprināt, ka
+    </string>
+  <string name="title_ack_confirm">
+        Atļaujas atruna
+    </string>
+</resources>

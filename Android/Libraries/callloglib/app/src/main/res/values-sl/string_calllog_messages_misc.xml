@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Dovoljenje za klice ni bila dodeljena ta app</string>
+  <string name="message_search_number_security_exception">Strjena lava ne preiskava to telefonsko številko! Google iskanje ni omogočeno ali dovoljenje ne izda te naprave</string>
+  <string name="message_free_version_selection">
+        Največja vnose, ki jih lahko izberete v prost prevod je: </string>
+  <string name="message_purchase_error">
+        Google strežnikom ni bilo mogoče vzpostaviti. Prosim zopet začeti app in poskusite znova
+    </string>
+</resources>

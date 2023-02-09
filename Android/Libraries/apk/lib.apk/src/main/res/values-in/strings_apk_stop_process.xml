@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">Berhenti menjalankan</string>
+  <string name="message_stop_tasks">Berhenti menjalankan tugas.</string>
+  <string name="message_user_tasks_stopped">Tugas-tugas pengguna berhenti</string>
+  <string name="message_system_tasks_stopped">Tugas-tugas sistem berhenti</string>
+  <string name="message_process_still_running">Tugas-tugas yang masih berjalan</string>
+  <string name="message_stop_running_tasks">Menghentikan aplikasi yang sedang berjalan dan menutup Bluetooth Wireless?</string>
+  <string name="message_stopping_running_tasks">Menghentikan nirkabel Bluetooth dan</string>
+  <string name="message_battery_current_percentage">Saat ini % tingkat baterai:</string>
+  <string name="message_no_user_process">Tidak ada proses pengguna menjalankan yang ditemukan</string>
+</resources>

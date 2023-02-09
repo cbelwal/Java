@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Выбранные контакты будут восстановленные. Пожалуйста, подтвердите, если вы хотите продолжить?</string>
+  <string name="message_undelete_complete"> Восстановленные контакты</string>
+  <string name="message_undelete_notice">Эта опция будет список контактов, которые могут быть восстановленные и зависит от производителя вашего устройства или версию Android. Контакты не могут быть восстановлены, если устройство не позволяет этого, контакты были удалены несколько часов назад или контакты были удалены из SIM-карты.</string>
+  <string name="message_undelete_option_invalid">Этот параметр не является допустимым для удаленных контактов
+        </string>
+  <string name="message_undelete_help">Пожалуйста выберите контакты и использовать восстановить значок в верхнем правом восстановить их</string>
+  <string name="progressbar_undelete_data">Отмена удаления контакт(а) </string>
+  <string name="action_undelete">Восстановить контакт(а)</string>
+  <string name="button_understand">Я понимаю</string>
+  <string name="title_disclaimer">ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ</string>
+  <string name="title_no_undelete_found">Извините!</string>
+  <string name="message_no_undelete_found">
+        Приносим извинения, не для восстановления удаленных контактов были найдены! Вы можете попытаться восстановить их с помощью предложенных Google, разработчики Android ручным способом.
+        Вам понравится посетить поддержки Google веб-страницу, которая имеет ручного восстановления инструкции?
+    </string>
+</resources>

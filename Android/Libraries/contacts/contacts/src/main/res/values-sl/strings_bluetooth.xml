@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Število izbranih stikov: </string>
+  <string name="text_bt_paired_devices"> Seznanjene naprave (izberite Connect)</string>
+  <string name="text_bt_new_devices"> Nove naprave (izberite Connect)</string>
+  <string name="message_bt_scan_devices">Iskanje naprav...</string>
+  <string name="message_bt_scan_complete">Končni pregled za naprave</string>
+  <string name="message_bt_pair_devices">Seznanjanje naprav...</string>
+  <string name="message_bt_new_none">Ne nove naprave</string>
+  <string name="message_bt_pair_none">Ni seznanjenih naprav, najti</string>
+  <string name="message_bt_conn_lost">Povezava izgubil napravo</string>
+  <string name="message_bt_connecting">Povezuje: </string>
+  <string name="message_bt_not_enabled">Bluetooth ni omogočena, zapiranje Bluetooth prenos</string>
+  <string name="message_bt_status_listening">Poslušanje...</string>
+  <string name="message_bt_status_connecting">Vzpostavljanje povezave...</string>
+  <string name="message_bt_status_connected">Povezani</string>
+  <string name="message_bt_testdata_sent">Testdata, poslana</string>
+  <string name="message_bt_no_contacts">Nobenih stikov, izbrani za pošiljanje</string>
+  <string name="message_bt_recv_complete">Prejemanje podatkov popolno</string>
+  <string name="message_bt_not_connected">Ni priključen na napravo</string>
+  <string name="message_bt_adapter_error">Tam je bila napaka nastavitev Bluetooth.
+            Preverite, če vaš telefon je Bluetooth in vmesnik Bluetooth omogočena</string>
+  <string name="menu_bt_make_discoverable">Bo naprave mogoče odkriti</string>
+  <string name="progressbar_bt_recv_data">Pripravljen za prejemanje kontaktnih podatkov...</string>
+  <string name="message_bt_startup">Poskrbite, da izvaja isti app in ta zaslon odpre v drugo napravo</string>
+</resources>

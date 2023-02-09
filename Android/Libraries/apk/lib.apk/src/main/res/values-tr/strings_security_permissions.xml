@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permission_inapp_billing">Kredi kartınızı kullanabilirsiniz.</string>
+  <string name="permission_read_sms">İletilerinizi okuyabilir.</string>
+  <string name="permission_send_sms">İletileri diğer kullanıcılara gönderebilirsiniz.</string>
+  <string name="permission_mic">Mikrofonunuzun ses kaydedebilirsiniz.</string>
+  <string name="permission_camera">Fotoğraf makinenizden okuyabilirsiniz.</string>
+  <string name="permission_read_contacts">Kişiler listenizi okumak için.</string>
+  <string name="permission_write_contacts">Kişiler listenize yazabilirsiniz.</string>
+  <string name="permission_read_ext_storage">Dosyaları USB erişilebilir klasörlerden okuyabilir.</string>
+  <string name="permission_write_ext_storage">Dosyaları USB ile erişilebilir klasörler için yazabilirsiniz.</string>
+  <string name="permission_read_call_log">Kimin aradığına bulabilirsiniz ve ne zaman.</string>
+  <string name="permission_location_fine">Bulunduğunuz konumu tam olarak biliyor.</string>
+  <string name="permission_location_coarse">Yaklaşık konumunuzu biliyor.</string>
+  <string name="permission_read_calender">Senin takvim okuyabilirsiniz.</string>
+  <string name="permission_write_calender">Senin takvim için yazabilirsiniz.</string>
+  <string name="permission_call_phone">Sizin bilginiz dışında herhangi bir telefonu arayabilirsiniz.</string>
+  <string name="permission_call_privileged">Sizin bilginiz dışında acil durum da dahil olmak üzere herhangi bir telefonu arayabilirsiniz.</string>
+  <string name="permission_install_packages">Diğer apps yükleyebilirsiniz.</string>
+  <string name="permission_internet">Bilgileri Internet üzerinden gönderebilirsiniz.</string>
+  <string name="permission_wake_lock">Cihaz uyku moduna gitmekten engelleyebilirsiniz.</string>
+  <string name="permission_network_state">Ağ durumunu erişebilirsiniz.</string>
+  <string name="permission_read_voicemail">Sesli mesaj okuyabilir.</string>
+</resources>

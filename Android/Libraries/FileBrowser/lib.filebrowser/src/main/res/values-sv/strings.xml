@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">Item (s)</string>
+  <string name="general_selected_items">utvalda</string>
+  <string name="general_error">Fel</string>
+  <string name="title_confirm">Bekräfta</string>
+  <string name="button_ok">Okej</string>
+  <string name="button_cancel">Avbryt</string>
+  <string name="free_space">Totala utrymme:</string>
+  <string name="title_share">Dela med:</string>
+  <string name="title_rename">Ange nytt namn  </string>
+  <string name="title_create_folder">Ange mappnamn  </string>
+</resources>

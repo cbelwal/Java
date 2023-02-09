@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Google sunucusuna bağlanamadı. Lütfen app yeniden başlatın ve yeniden deneyin
+    </string>
+  <string name="progressbar_load_data">Klasör bilgileri yükleniyor...</string>
+  <string name="message_selectitems">En az 1 seçim gereklidir</string>
+  <string name="message_activity_load_fail">Uygulama başlatılamadı</string>
+  <string name="message_activity_loading">Uygulama başlatılıyor...</string>
+  <string name="message_other_permissions_missing">İstenen izinleri bu özelliğin çalışması için gereklidir. Lütfen istenen izinleri vermek ve yeniden deneyin
+    </string>
+  <string name="message_no_read_permission">Hayır okuma izni
+    </string>
+  <string name="message_cannot_go_in">Seçili klasörün içinde gidemedim
+    </string>
+  <string name="message_delete_confirm">Seçili dosya (s)-ecek var olmak silmek. Bu eylem geri alınamaz. Devam edilsin mi?</string>
+  <string name="progressbar_delete_data">
+        Dosyaları silme </string>
+  <string name="message_delete_complete"> dosya / klasör silindi</string>
+  <string name="message_free_version_selection">
+        Ücretsiz sürümünde seçilebilir en fazla dosya olduğunu: </string>
+  <string name="message_max_allowed_one">
+        Bu seçenek, yalnızca tek bir seçim için kullanılabilir  </string>
+  <string name="message_only_file">
+        Bu seçenek, yalnızca dosyalar için kullanılabilir  </string>
+  <string name="message_copying_file">
+        Dosya kopyalanıyor...  </string>
+  <string name="message_copy_complete">
+        Dosya kopyalama tamamlandı  </string>
+  <string name="message_copy_error">
+        Bazı dosyalar bir kopyasını oluşturamadı</string>
+  <string name="message_share_error">
+        Kopyalama sırasında bir hatayla karşılaşıldı. Eğer paylaşılan dosyaları önbelleğe almak için yeterli depolama alanı varsa lütfen kontrol  </string>
+  <string name="message_zipping_files">
+        Dosyaları sıkıştırma / klasörleri...  </string>
+  <string name="message_zipping_completed">
+        Tüm dosyaları / klasörleri arşiv zip taşındı  </string>
+  <string name="message_zipping_error">
+        Değil zip dosyaları / klasörleri. Seçili klasörleri boş olmayan ve yeterli depolama alanına sahip gözden geçirin</string>
+  <string name="message_rename_complete">
+        Dosya/klasör tamamlamak yeniden adlandırma  </string>
+  <string name="message_rename_error">
+        Dosya/klasör yeniden adlandırılamadı  </string>
+  <string name="message_create_folder_complete">
+        Klasör oluşturulur  </string>
+  <string name="message_create_folder_error">
+        Klasör oluşturulamadı  </string>
+  <string name="message_file_open_error">
+        Dosya açılamadı  </string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Atleast 1 lựa chọn là cần thiết</string>
+  <string name="message_save_external">APK (các) tệp được lưu trữ trong thư mục bên ngoài: </string>
+  <string name="message_free_version_selection">Chỉ có 3 ứng dụng có thể chọn một thời điểm trong các phiên bản miễn phí</string>
+  <string name="message_free_version_option">Tùy chọn này chỉ có sẵn cho phiên bản trả tiền</string>
+  <string name="message_activity_load_fail">Không thể chạy được ứng dụng</string>
+  <string name="message_activity_loading">Khởi động ứng dụng...</string>
+  <string name="message_loading_files">Đang tìm kiếm cặp cục bộ...</string>
+  <string name="message_deleting_files">Xin vui lòng xác nhận riêng lẻ cho mỗi gói được lựa chọn.
+    Hệ thống gói sẽ gỡ bỏ cài đặt chỉ từ tài khoản người dùng</string>
+  <string name="message_save_external_suffix">. Thư mục có thể được truy cập bằng cách kết nối điện thoại với máy tính thông qua USB vv. </string>
+  <string name="message_rate_this_app_error">Không thể mở trang đánh giá</string>
+  <string name="message_share_link_prefix">Hi, \r\n\r\nCheck này ra: </string>
+  <string name="message_share_link_suffix">Gửi qua APKit</string>
+  <string name="message_share_report_prefix">Gói báo cáo</string>
+  <string name="message_share_report_suffix">Tạo và gửi qua</string>
+  <string name="message_other_permissions_missing">Yêu cầu cấp phép được yêu cầu cho tính năng này để làm việc. Xin vui lòng cung cấp cho quyền được yêu cầu và thử lại
+    </string>
+  <string name="message_purchase_error">
+        Không thể kết nối đến máy chủ Google. Xin vui lòng khởi động lại ứng dụng và thử lại
+    </string>
+</resources>

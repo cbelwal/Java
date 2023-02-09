@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Tên tập tin:</string>
+  <string name="text_ep_file_size">Kích thước:</string>
+  <string name="text_ep_modified_date">Sửa đổi ngày:</string>
+  <string name="text_ep_duration">Thời gian:</string>
+  <string name="title_search_depth">Tìm kiếm sâu (giá trị lớn sẽ mất vài phút)</string>
+  <string name="progressbar_extracting_audio">Trích xuất âm thanh (có thể mất vài phút)...</string>
+  <string name="progressbar_loading_audio">Tải tập tin âm thanh chi tiết...</string>
+  <string name="text_ep_time_start">Bắt đầu time(seconds)</string>
+  <string name="text_ep_period">Thời gian của mỗi file(seconds) âm thanh</string>
+  <string name="text_ep_store">Lưu trữ các tệp âm thanh mới như:</string>
+  <string name="text_ep_share_external">Đặt trong thư mục bên ngoài</string>
+  <string name="text_ep_share_app">Chia sẻ bằng cách sử dụng ứng dụng</string>
+  <string name="message_extract_complete"> M4A tệp đã được tạo ra</string>
+  <string name="message_extract_error">Một lỗi bắt gặp trong việc tạo ra các tập tin âm thanh</string>
+  <string name="message_search_depth_updated">Độ sâu tìm kiếm đã được Cập Nhật</string>
+  <string name="message_search_depth_error">Lỗi trong việc Cập Nhật tìm sâu</string>
+  <string name="message_load_complete">Thông tin chi tiết tập tin âm thanh đã được nạp</string>
+  <string name="message_load_error">Đã có lỗi trong tải âm thanh</string>
+  <string name="message_extract_duration_reduced"> Trong thời gian cuối của tập tin âm thanh được giảm như đạt được kết thúc của âm thanh </string>
+  <string name="message_extract_incomplete"> %1$ d tệp âm thanh không thể tạo hoặc có thông tin không đầy đủ</string>
+  <string name="message_extract_signature">Gửi qua âm thanh vắt từ coju.mobi™</string>
+</resources>

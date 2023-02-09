@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_add_call_log">Додати</string>
+  <string name="activity_edit_call_log">Редагувати</string>
+  <string name="activity_share_call_log">Частка</string>
+  <string name="activity_export_call_log">Експорт</string>
+  <string name="activity_import_call_log">Імпорт</string>
+  <string name="activity_bluetooth_call_log">Bluetooth передачі</string>
+  <string name="activity_backup_call_log">Резервне копіювання</string>
+  <string name="activity_restore_call_log">Відновлення</string>
+  <string name="activity_filter_call_log">Фільтр відображення</string>
+</resources>

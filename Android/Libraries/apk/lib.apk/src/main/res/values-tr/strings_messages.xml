@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">En az 1 seçim gereklidir</string>
+  <string name="message_save_external">APK dosya (lar) dış klasörüne kaydedilir: </string>
+  <string name="message_free_version_selection">Sadece 3 apps ücretsiz sürümü bir anda seçili</string>
+  <string name="message_free_version_option">Bu seçenek yalnızca ücretli sürümü için kullanılabilir</string>
+  <string name="message_activity_load_fail">Uygulama başlatılamadı</string>
+  <string name="message_activity_loading">Uygulama başlatılıyor...</string>
+  <string name="message_loading_files">Yerel klasörler aranıyor...</string>
+  <string name="message_deleting_files">Lütfen tek tek seçilen her bir paket için onaylayın.
+    Sistem paketleri yalnızca kullanıcı hesabından kaldırır</string>
+  <string name="message_save_external_suffix">. Klasör telefonunuzu USB vb üzerinden bilgisayarınıza bağlama tarafından erişilebilir. </string>
+  <string name="message_rate_this_app_error">Beğeni sayfası açılamadı</string>
+  <string name="message_share_link_prefix">Merhaba, \r\n\r\nCheck bu dışarı: </string>
+  <string name="message_share_link_suffix">APKit gönderilen</string>
+  <string name="message_share_report_prefix">Paket rapor</string>
+  <string name="message_share_report_suffix">Oluşturulan ve üzerinden gönderilen</string>
+  <string name="message_other_permissions_missing">İstenen izinleri bu özelliğin çalışması için gereklidir. Lütfen istenen izinleri vermek ve yeniden deneyin
+    </string>
+  <string name="message_purchase_error">
+        Google sunucusuna bağlanamadı. Lütfen app yeniden başlatın ve yeniden deneyin
+    </string>
+</resources>

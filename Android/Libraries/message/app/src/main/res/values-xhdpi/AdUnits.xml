@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_banner" translatable="false">
+        ca-app-pub-9753635985824736/8710118714</string>
+    <string name="main_interstitial" translatable="false">
+        ca-app-pub-9753635985824736/4060427263</string>
+
+</resources>

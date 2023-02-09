@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_reading_import_file">फ़ाइल को पढ़ने, यह कई मिनट ले सकता है...</string>
+  <string name="message_exporting_contacts">संपर्कों निकाला जा रहा है...</string>
+  <string name="message_exporting_contacts_ready">संपर्कों को निर्यात करने के लिए तैयार हो रही...</string>
+  <string name="message_exporting_contacts_write_file">फ़ाइल (फ़ाइलें) लेखन...</string>
+  <string name="text_import_file_name">फ़ाइल नाम:</string>
+  <string name="text_import_file_size">Size(bytes) फ़ाइल:</string>
+  <string name="text_unknown_file_size">अज्ञात</string>
+</resources>

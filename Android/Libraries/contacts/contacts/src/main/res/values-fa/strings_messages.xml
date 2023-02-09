@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> مخاطب (مخاطبین) به روز نخواهد شد. این دستور قابل بازگشت نیست. ادامه می دهید؟</string>
+  <string name="message_update_complete"> مخاطب (مخاطبین) بروز رسانی</string>
+  <string name="message_save_external">مخاطبین ذخیره شده در پوشه های خارجی: </string>
+  <string name="message_import">تنها پرونده های کارت ویزیت و CSV می تواند وارد شود (استفاده از \'Browse\' به بارگذاری پرونده از منابع دیگر</string>
+  <string name="message_loading_files">جستجوی پوشه های محلی...</string>
+  <string name="message_loading_backup_files">در حال جستجوی دستگاه برای پرونده های پشتیبان...</string>
+  <string name="message_importing_contacts_complete">مخاطب (مخاطبین) وارد</string>
+  <string name="message_save_external_suffix">. پوشه را می توان با اتصال گوشی به رایانه از طریق USB و غیره دیده شده است. </string>
+  <string name="message_selectitems">تماس با حداقل 1 باید انتخاب شود</string>
+  <string name="message_delete_confirm">مخاطب (مخاطبین) انتخابی جزئیات حذف خواهد شد. این دستور قابل بازگشت نیست. ادامه می دهید؟</string>
+  <string name="message_delete_complete"> contact(s) جزئیات حذف شده</string>
+  <string name="message_free_import_limit">فایل شامل مخاطب (مخاطبین) بیشتر از حد مجاز در نسخه رایگان</string>
+  <string name="message_rate_this_app_error">رتبه صفحه را باز کند. لطفا برو به Google Play و بر این اساس میزان</string>
+  <string name="message_edit">1 تماس را می توان در زمان ویرایش شده است. </string>
+  <string name="message_backup_stored">تماس با ما حمایت در فایل بالا را شده:</string>
+  <string name="message_download_coju">Coju نرم افزار یکپارچه مدیریت تماس است. تمام ویژگی های این نرم افزار به همراه قابلیت های اضافی است. شما دوست دارید به صورت Coju</string>
+  <string name="message_contact_permissions_missing">اجازه تماس با ما برای این برنامه به کار مورد نیاز است. App خواهد شد، هم ببندید، اجازه می دهد و دوباره سعی کنید</string>
+  <string name="message_other_permissions_missing">درخواست مجوز برای استفاده از این ویژگی نرم افزار به کار مورد نیاز است.
+        دادن مجوز درخواست شده و دوباره سعی کنید</string>
+  <string name="message_backup_freeversion">
+        حداکثر تعداد تماس های که در این نسخه رایگان توان حمایت کردن است:
+    </string>
+  <string name="message_backup_paidversion">
+        همه مخاطبین شما با موفقیت در یک فایل پشتیبان گرفته شده است
+    </string>
+  <string name="message_purchase_error">
+        می تواند اتصال به سرور گوگل. لطفا برنامه را مجدداً راه اندازی کنید و دوباره امتحان کنید
+    </string>
+</resources>

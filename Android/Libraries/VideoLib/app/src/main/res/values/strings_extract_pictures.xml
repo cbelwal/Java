@@ -1,0 +1,28 @@
+<resources>
+    <string name="text_ep_file_name">File name:</string>
+    <string name="text_ep_file_size">Size:</string>
+    <string name="text_ep_modified_date">Modified date:</string>
+    <string name="text_ep_video_duration">Duration:</string>
+
+    <string name="title_search_depth">Search depth (large values will take several minutes)</string>
+
+    <string name="nav_menu_search_entire_phone">Search entire phone</string>
+    <string name="nav_menu_search_media_folders">Search media folder(s)</string>
+    <string name="nav_menu_search_external_folders">Search external folders</string>
+
+    <string name="progressbar_extracting_pictures">Extracting pictures...</string>
+    <string name="text_ep_time_start">Start time(seconds)</string>
+    <string name="text_ep_period">Interval between pictures(seconds)</string>
+    <string name="text_ep_no_of_pictures">Number of pictures</string>
+
+    <string name="text_ep_store">Store extracted images as:</string>
+    <string name="text_ep_share_external">Place in external folder</string>
+    <string name="text_ep_share_app">Share using applications</string>
+
+    <string name="message_extract_complete"> picture(s) have been extracted</string>
+    <string name="message_extract_error">An error was encountered in extracting pictures</string>
+    <string name="message_search_depth_updated">The search depth was updated</string>
+    <string name="message_search_depth_error">Error in updating search depth</string>
+
+
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Audio grattugia</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="activity_extract_pictures">Estrarre l\'Audio</string>
+  <string name="button_Select_All">Seleziona tutto</string>
+  <string name="button_UnSelect_All">ONU-Seleziona tutto</string>
+  <string name="button_Delete">Elimina</string>
+  <string name="button_Update">Aggiornamento</string>
+  <string name="button_Share">Condividi</string>
+  <string name="button_Yes">Sì</string>
+  <string name="button_No">No</string>
+  <string name="button_apply">Applicare</string>
+  <string name="button_browse">Sfoglia</string>
+  <string name="button_close">Chiudere</string>
+  <string name="button_play">Gioca</string>
+  <string name="button_stop">Fermata</string>
+  <string name="button_Confirm">Confermare</string>
+  <string name="button_Ok">Ok</string>
+  <string name="text_import_file_name">Nome</string>
+  <string name="text_import_file_size">Dimensioni</string>
+  <string name="general_items">Item (s)</string>
+  <string name="general_selected_items">selezionato</string>
+  <string name="general_error">Errore</string>
+  <string name="title_confirm">Confermare</string>
+  <string name="button_ok">Ok</string>
+  <string name="button_cancel">Annulla</string>
+  <string name="free_space">Totale spazio libero:</string>
+  <string name="title_share">Condividi utilizzando:</string>
+  <string name="title_rename">Immettere il nuovo nome  </string>
+  <string name="title_create_folder">Immettere il nome della cartella  </string>
+</resources>

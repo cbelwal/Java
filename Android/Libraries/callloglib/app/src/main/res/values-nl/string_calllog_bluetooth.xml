@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Het aantal geselecteerde gesprek logboekbestanden: </string>
+  <string name="text_bt_paired_devices"> Gepaarde apparaten (Selecteer verbinding)</string>
+  <string name="text_bt_new_devices"> Nieuwe apparaten (Selecteer verbinding)</string>
+  <string name="message_bt_scan_devices">Scannen voor apparaten...</string>
+  <string name="message_bt_scan_complete">Afgewerkte scannen voor apparaten</string>
+  <string name="message_bt_pair_devices">Pairing apparaten...</string>
+  <string name="message_bt_new_none">Geen nieuwe apparaten gevonden</string>
+  <string name="message_bt_pair_none">Geen gekoppelde apparaten gevonden</string>
+  <string name="message_bt_conn_lost">Verloor van apparaat verbinding</string>
+  <string name="message_bt_connecting">Verbinding maken met: </string>
+  <string name="message_bt_not_enabled">Bluetooth niet is ingeschakeld, sluiten Bluetooth Transfer</string>
+  <string name="message_bt_status_listening">Luisteren...</string>
+  <string name="message_bt_status_connecting">Bezig met verbinden...</string>
+  <string name="message_bt_status_connected">Aangesloten</string>
+  <string name="message_bt_testdata_sent">Testdata verzonden</string>
+  <string name="message_bt_no_contacts">Maakcontacten geselecteerd om te verzenden</string>
+  <string name="message_bt_recv_complete">Volledige gegevens ontvangen</string>
+  <string name="message_bt_not_connected">Niet verbonden met elk apparaat</string>
+  <string name="message_bt_adapter_error">Er was een fout instellen van Bluetooth.
+            Controleer of uw telefoon beschikt over Bluetooth en de Bluetooth-adapter is ingeschakeld</string>
+  <string name="menu_bt_make_discoverable">Apparaat detecteerbaar maken</string>
+  <string name="progressbar_bt_recv_data">Klaar om contact gegevens te ontvangen...</string>
+  <string name="message_bt_connected">Aangesloten op het apparaat.
+        Druk op \'Send\' oproep logboekbestanden naar overbrengen: </string>
+  <string name="message_bt_conn_failed">Verbinding mislukt naar apparaat.
+    Gelieve te verzekeren dat dit app is geïnstalleerd en de Bluetooth-scherm is geopend in: </string>
+  <string name="message_bt_sent_error">Kon niet overbrengen deze aantal oproep logboekbestanden: </string>
+  <string name="message_bt_recv_error">Deze aantal logboekbestanden oproep kan niet worden gemaakt: </string>
+  <string name="message_bt_create_complete">Ontvangen oproep logboekbestanden gemaakt: </string>
+  <string name="message_bt_sent_complete">Bel logboekbestanden naar apparaat verzonden: </string>
+  <string name="progressbar_bt_send_data">Overdracht van oproep-logboekbestanden </string>
+  <string name="progressbar_bt_bytes">bytes </string>
+  <string name="progressbar_bt_create_contacts">Oproep logboekbestanden maken</string>
+  <string name="progressbar_delete_data">
+        Oproep logboekbestanden verwijderen </string>
+  <string name="button_scan">Scan</string>
+  <string name="button_send">Verzenden</string>
+</resources>

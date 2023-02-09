@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Sorteret efter tid</string>
+  <string name="nav_view_outgoingcalls_cl">Udgående opkald</string>
+  <string name="nav_view_incomingcalls_cl">Indgående opkald</string>
+  <string name="nav_view_missedcalls_cl">Ubesvarede opkald</string>
+  <string name="nav_view_callduration_cl">Sorteret efter varighed</string>
+  <string name="nav_view_geocoded_location_cl">Sorteret efter sted</string>
+  <string name="nav_view_refresh_cl">Opdater</string>
+  <string name="nav_view_100_records">Op til 100</string>
+  <string name="nav_view_500_records">Op til 500</string>
+  <string name="nav_view_all_records">Alle tilgængelige</string>
+  <string name="nav_menu_group_general_cl">Generelle</string>
+  <string name="nav_menu_group_help_cl">Hjælp</string>
+  <string name="nav_menu_group_log_length">Se Grev</string>
+  <string name="nav_menu_group_viewoptions_cl">Indstillinger</string>
+  <string name="nav_menu_group_views_cl">Udsigt</string>
+  <string name="nav_menu_group_operations_cl">Operationer</string>
+  <string name="nav_menu_group_backup_cl">Backup</string>
+  <string name="nav_menu_rate_this_app_cl">Feedback</string>
+  <string name="nav_menu_backup_contacts_cl">Sikkerhedskopi alle opkald logposter</string>
+  <string name="nav_menu_restore_contacts_cl">Gendanne opkaldsloggen fra Backup</string>
+  <string name="nav_menu_upgrade_cl">Opgradering til Pro version</string>
+  <string name="nav_menu_filter_cl">Display Filter</string>
+  <string name="nav_menu_duplicates_cl">Dubletter Toolkit</string>
+  <string name="nav_menu_tellafriend_cl">Fortæl en ven</string>
+  <string name="nav_menu_feedback_cl">Kontakt Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Demo Video</string>
+  <string name="nav_menu_coju_cl">Download Coju</string>
+  <string name="menu_operations_cl">Bulk opdateringer</string>
+  <string name="menu_add_cl">Tilføje</string>
+  <string name="menu_edit_cl">Rediger</string>
+  <string name="menu_update_cl">Opdatering</string>
+  <string name="menu_share_cl">Andel</string>
+  <string name="menu_export_cl">Eksportere</string>
+  <string name="menu_import_cl">Import</string>
+  <string name="menu_delete_cl">Slet</string>
+  <string name="menu_bluetooth_cl">Bluetooth overførsel</string>
+</resources>

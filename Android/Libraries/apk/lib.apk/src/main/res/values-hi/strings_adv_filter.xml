@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">पिछले 30 दिनों में स्थापित</string>
+  <string name="filter_adv_options_security_inappbilling">इन-ऐप बिलिंग है</string>
+  <string name="filter_adv_options_security_readsms">SMS पढ़ सकते हैं</string>
+  <string name="filter_adv_options_security_sendsms">एसएमएस भेज सकते हैं</string>
+  <string name="filter_adv_options_security_readcontacts">संपर्क पढ़ें कर सकते हैं</string>
+  <string name="filter_adv_options_security_readcalllog">कॉल लॉग पढ़ सकते हैं</string>
+  <string name="filter_adv_options_security_readcalender">कैलेंडर पढ़ा सकते हैं</string>
+  <string name="filter_adv_options_security_writeexternalstorage">बाह्य संग्रह करने के लिए लिख सकते हैं</string>
+  <string name="filter_adv_options_security_camera">कैमरे का उपयोग कर सकते हैं</string>
+  <string name="filter_adv_options_security_mic">ऑडियो रिकॉर्ड कर सकते हैं</string>
+  <string name="filter_adv_options_security_location">आपके स्थान का उपयोग कर सकते हैं</string>
+  <string name="filter_adv_options_filter">सुरक्षा Filter(s) को सक्रिय करें</string>
+  <string name="filter_main_text">सुरक्षा फ़िल्टर विकल्प: (केवल Apps मेल खाते इन कसौटी से किसी भी एक प्रदर्शित किया जाएगा)</string>
+  <string name="activity_security_filter">मैलवेयर प्रदर्शन फ़िल्टर</string>
+</resources>

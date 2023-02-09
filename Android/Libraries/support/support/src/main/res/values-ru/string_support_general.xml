@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic, ООО</string>
+  <string name="feedback_no_email">Клиенты электронной почты, не найдено</string>
+  <string name="button_yes">Да</string>
+  <string name="button_no">Нет</string>
+  <string name="nav_menu_help_doc">Справочная документация</string>
+  <string name="button_rate_never">Никогда не</string>
+  <string name="button_rate_later">Позже</string>
+  <string name="button_rate_now">Теперь</string>
+  <string name="title_rate_this_app">Пожалуйста, оцените этот app</string>
+  <string name="title_feedback">Выберите параметр электронной почты...</string>
+  <string name="title_demo_video">Демо-видео</string>
+  <string name="title_tellafriend">Расскажите другу через...</string>
+  <string name="title_send_feedback">Свяжитесь с нами</string>
+  <string name="title_rate_app">Уровень приложения</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Вітаємо, ви отримали високий бал!</string>
+  <string name="message_game_end_new_game">Поточна гра вважається вгору! Ви хотіли, щоб почати нову гру?</string>
+  <string name="message_custom_board">Натисніть на порожні отвори темпами пиху. Натисніть кнопку блокування завершеним</string>
+  <string name="message_custom_board_done">Власну дошку налаштовано, ви можете почати грати.
+    Зверніть увагу, що високі бали для Користувальницькі рад не записано</string>
+  <string name="message_intro_first">
+        Перенести пиху доступні дірку в пряму лінію, перестрибуючи через інший Орієнтир
+    </string>
+  <string name="message_intro_second">Вішалка перестрибнув через видаляється</string>
+  <string name="message_intro_third">Спробуйте видалити стільки кілочки як можна швидше</string>
+  <string name="message_intro_fourth">Отримати тільки 1 вішалка залишилися є мета</string>
+  <string name="message_board_reset_confirm">Це буде скасувати поточну ради. Бажаєте продовжити?</string>
+  <string name="message_game_over">Ходів більше немає можливо. Це гра!</string>
+  <string name="message_solver_complete">Розв\'язувач обчислені ходи, які призводять до мінімальна кількість pegs.\n\nUse кнопку Далі щоб побачити Рада рухається.</string>
+  <string name="message_solver_complete_free">Розв\'язувач обчислені ходи, які призводять до мінімальну кількість кілочки. Так як це безкоштовна версія, пошуку розв\'язання можна знайти рішення, що веде до мінімум 3 кілочки тільки. У платній версії пошуку розв\'язання можна знайти рішення з 1 peg.\n\nUse кнопки вперед можна побачити, Рада рухається.
+    </string>
+  <string name="message_solver_complete_title">Знайшов рішення з кілочки: </string>
+  <string name="message_solver_inprogress_title">У пошуках рішення...</string>
+  <string name="message_solver_inprogress">Поточний Найнижчі кілочок лічильник: </string>
+  <string name="message_solver_start_confirm">Залежно від поточного ради пошуку розв\'язання може зайняти кілька секунд до декількох хвилин в обчислювальних рішення з найменшою кількістю кілочки.
+    Оскільки пошуку розв\'язання робить багато обчислень, це буде виснажувати батарею живлення.
+        Він повідомив, що ви покладете телефон на заряд перед початком пошуку розв\'язання.
+    Під час бігу пошуку розв\'язання можна зупинити у будь-який час і останнє peg результат буде доступна.</string>
+  <string name="message_solver_mode_play_board">
+        Не можу грати в гру в режимі розв\'язувач. Виберіть нову гру почати нову гру</string>
+  <string name="message_confirm_switch_from_standard">
+        Поточний ради має значення стандарт, які слід замінити на французького правління?</string>
+  <string name="message_confirm_switch_from_French">
+        Поточний ради встановити Французька, які слід змінити стандартні дошки?</string>
+</resources>

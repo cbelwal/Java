@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">Pare de correr</string>
+  <string name="message_stop_tasks">Parando a execução de tarefas...</string>
+  <string name="message_user_tasks_stopped">Tarefas do usuário paradas</string>
+  <string name="message_system_tasks_stopped">Tarefas de sistema paradas</string>
+  <string name="message_process_still_running">Ainda em execução de tarefas</string>
+  <string name="message_stop_running_tasks">Pare de correr de apps e fechar Bluetooth/Wireless?</string>
+  <string name="message_stopping_running_tasks">Parando o Bluetooth e Wireless</string>
+  <string name="message_battery_current_percentage">Atual nível % da bateria:</string>
+  <string name="message_no_user_process">Nenhum processo de usuário executando encontrado</string>
+</resources>

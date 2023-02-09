@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">Esto yhteystiedot</string>
+  <string name="display_options_blocked">Estetyt yhteystiedot</string>
+  <string name="action_block">Lohko</string>
+  <string name="action_unblock">Poista esto</string>
+  <string name="message_blocking_contacts">Estää yhteystiedot</string>
+  <string name="message_unblocking_contacts">Unblocking yhteystiedot</string>
+  <string name="message_block_unblock_complete">Päivitetty kaikki valitut yhteystiedot </string>
+  <string name="message_block_unblock_error">Virhe päivitettäessä valitut yhteystiedot</string>
+</resources>

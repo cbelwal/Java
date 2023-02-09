@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Seçili kişileri silinmemiş olacak. Lütfen devam etmek isteyip istemediğinizi onaylamak?</string>
+  <string name="message_undelete_complete"> silinmemiş kişileri</string>
+  <string name="message_undelete_notice">Bu seçenek silinmemiş olabilir ve cihazınız ya da Android versiyonunda üretici firmaya bağlı olan kişileri listeler. Kişiler olamaz cihaz izin vermiyorsa kurtarılan, kişiler bir kaç saat önce silinmiş veya kişileri SIM kartından silinmiş.</string>
+  <string name="message_undelete_option_invalid">Bu seçenek Silinen kişiler için geçerli değildir
+        </string>
+  <string name="message_undelete_help">Lütfen kişileri seçin ve onları undelete için sağ-üst undelete simgesini kullanın</string>
+  <string name="progressbar_undelete_data">Undeleting kişileri </string>
+  <string name="action_undelete">Kişileri silmeyi geri alma</string>
+  <string name="button_understand">Anlıyorum</string>
+  <string name="title_disclaimer">YASAL UYARI</string>
+  <string name="title_no_undelete_found">Özür dilerim!</string>
+  <string name="message_no_undelete_found">
+        Özür dileriz, kurtarılabilir silinmiş kişi bulunamadı! Android geliştiricileri Google tarafından önerilen a elle yapılan yol kullanarak bunları kurtarmayı deneyebilir.
+        El ile kurtarma talimatları vardır Google destek Web sayfasını ziyaret edin beğenir mi?
+    </string>
+</resources>

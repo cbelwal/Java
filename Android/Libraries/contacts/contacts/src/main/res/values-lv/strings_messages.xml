@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> kontakts (i) tiks atjaunināta. Šo darbību nevar atsaukt. Vai turpināt?</string>
+  <string name="message_update_complete"> kontakts (i) atjaunināts</string>
+  <string name="message_save_external">Saglabāti ārējā mapē Kontaktpersonas: </string>
+  <string name="message_import">Tikai var importēt Vcard un CSV faili (izmantot \'Browse\' ielādēt failu (s) no citiem avotiem</string>
+  <string name="message_loading_files">Lokālās mapes meklēšana...</string>
+  <string name="message_loading_backup_files">Meklē ierīci dublējuma faili...</string>
+  <string name="message_importing_contacts_complete">kontakts (i) ieved</string>
+  <string name="message_save_external_suffix">. Var piekļūt mapes, savienojot tālruni ar datoru, izmantojot USB utt. </string>
+  <string name="message_selectitems">Atleast 1 kontakts ir jābūt atlasītam</string>
+  <string name="message_delete_confirm">Izvēlēts kontakts (i) dati tiks dzēsti. Šo darbību nevar atsaukt. Vai turpināt?</string>
+  <string name="message_delete_complete"> izdzēst ziņas kontaktiem</string>
+  <string name="message_free_import_limit">Fails satur vairāk kontakts (i) nekā atļautās bezmaksas versija</string>
+  <string name="message_rate_this_app_error">Nevar atvērt lapu reitings. Lūdzu, goto Google spēlēt un attiecīgi novērtēt</string>
+  <string name="message_edit">Vienlaicīgi var rediģēt tikai 1 kontakts. </string>
+  <string name="message_backup_stored">Kontakti ir bijuši dublētos failā:</string>
+  <string name="message_download_coju">Coju ir integrēts kontaktu vadība app. Tā ir visas iespējas šo app plus papildu iespējas. Vai vēlaties lejupielādēt Coju?</string>
+  <string name="message_contact_permissions_missing">Kontaktpersonas atļaujas ir nepieciešamas šo app strādāt. App būs tagad aizvērt, lūdzu piešķirt atļaujas, un mēģiniet vēlreiz</string>
+  <string name="message_other_permissions_missing">Pieprasītais atļaujas ir nepieciešamas šo app līdzekli strādāt.
+        Lūdzu piešķirt pieprasītās atļaujas un mēģiniet vēlreiz</string>
+  <string name="message_backup_freeversion">
+        Kontaktpersonas, kas var dublēt šo bezmaksas versija maksimālais skaits ir:
+    </string>
+  <string name="message_backup_paidversion">
+        Viss, kas jums kontaktpersonas ir sekmīgi dublēts failā
+    </string>
+  <string name="message_purchase_error">
+        Nevar izveidot savienojumu ar Google serveri. Lūdzu, restartējiet app un mēģiniet vēlreiz
+    </string>
+</resources>

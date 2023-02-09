@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Ime datoteke:</string>
+  <string name="text_ep_file_size">Velikost:</string>
+  <string name="text_ep_modified_date">Datum spremembe:</string>
+  <string name="text_ep_video_duration">Trajanje:</string>
+  <string name="title_search_depth">Globina iskanja (velike vrednosti traja nekaj minut)</string>
+  <string name="nav_menu_search_entire_phone">Išči celotne telefonske</string>
+  <string name="nav_menu_search_media_folders">Išči medijev mape</string>
+  <string name="nav_menu_search_external_folders">Iskanje zunanjimi map</string>
+  <string name="progressbar_extracting_pictures">Pridobivanje slike...</string>
+  <string name="text_ep_time_start">Začetek time(seconds)</string>
+  <string name="text_ep_period">Interval med pictures(seconds)</string>
+  <string name="text_ep_no_of_pictures">Število slik</string>
+  <string name="text_ep_store">Shranjevanje izpisanih slike kot:</string>
+  <string name="text_ep_share_external">Mesto v zunanjih mapo</string>
+  <string name="text_ep_share_app">Omogočanje skupne rabe prek aplikacije</string>
+  <string name="message_extract_complete"> slike so bili pridobljeni</string>
+  <string name="message_extract_error">Prišlo je do napake v pridobivanje slike</string>
+  <string name="message_search_depth_updated">Globina iskanja je bila posodobljena</string>
+  <string name="message_search_depth_error">Napaka pri posodabljanju globina iskanja</string>
+</resources>

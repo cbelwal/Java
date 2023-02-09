@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Diurutkan berdasarkan waktu</string>
+  <string name="nav_view_outgoingcalls_cl">Panggilan keluar</string>
+  <string name="nav_view_incomingcalls_cl">Panggilan masuk</string>
+  <string name="nav_view_missedcalls_cl">Panggilan tidak terjawab</string>
+  <string name="nav_view_callduration_cl">Diurutkan berdasarkan durasi</string>
+  <string name="nav_view_geocoded_location_cl">Diurutkan berdasarkan lokasi</string>
+  <string name="nav_view_refresh_cl">Refresh</string>
+  <string name="nav_view_100_records">Upto 100</string>
+  <string name="nav_view_500_records">Upto 500</string>
+  <string name="nav_view_all_records">Semua tersedia</string>
+  <string name="nav_menu_group_general_cl">Umum</string>
+  <string name="nav_menu_group_help_cl">Tolong</string>
+  <string name="nav_menu_group_log_length">Jumlah tampilan</string>
+  <string name="nav_menu_group_viewoptions_cl">Pilihan</string>
+  <string name="nav_menu_group_views_cl">Pemandangan</string>
+  <string name="nav_menu_group_operations_cl">Operasi</string>
+  <string name="nav_menu_group_backup_cl">Cadangan</string>
+  <string name="nav_menu_rate_this_app_cl">Umpan balik</string>
+  <string name="nav_menu_backup_contacts_cl">Backup semua masukan dalam daftar penelepon</string>
+  <string name="nav_menu_restore_contacts_cl">Mengembalikan log panggilan dari cadangan</string>
+  <string name="nav_menu_upgrade_cl">Upgrade ke Pro versi</string>
+  <string name="nav_menu_filter_cl">Penyaring Display</string>
+  <string name="nav_menu_duplicates_cl">Duplikat Toolkit</string>
+  <string name="nav_menu_tellafriend_cl">Beritahu teman</string>
+  <string name="nav_menu_feedback_cl">Kontak Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Demo Video</string>
+  <string name="nav_menu_coju_cl">Download Coju</string>
+  <string name="menu_operations_cl">Sebagian besar pembaruan</string>
+  <string name="menu_add_cl">Tambahkan</string>
+  <string name="menu_edit_cl">Mengedit</string>
+  <string name="menu_update_cl">Update</string>
+  <string name="menu_share_cl">Berbagi</string>
+  <string name="menu_export_cl">Ekspor</string>
+  <string name="menu_import_cl">Impor</string>
+  <string name="menu_delete_cl">Hapus</string>
+  <string name="menu_bluetooth_cl">Bluetooth Transfer</string>
+</resources>

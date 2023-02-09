@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message_check_for_feedback">If there is a problem with the app,
+        will you like to email the publisher and resolve the issue ?</string>
+    <string name="message_check_for_rating">Will you like to leave feedback for this app ?</string>
+    <string name="message_tellafriend_subject">Check this app out</string>
+    <string name="message_email_send_error">Error in sending email</string>
+    <string name="message_tellafriend_body">Hey, check out this cool app:\n</string>
+    <string name="message_start_activity_error">There was a problem in starting the
+        activity.\n</string>
+    <string name="message_demo_video">Will you like to watch a demonstration video.
+        (This message is shown only once) ?</string>
+    <string name="message_help_documentation_fail">Could not load help documentation.
+    Please visit http://www.dasmic.com from the browser to see help.</string>
+    <string name="message_rate_this_app">Can you help others by rating this app ?</string>
+    <string name="message_rate_this_app_error">Could not open rating page. Please use
+        Google Play Store to give a rating</string>
+    <string name="message_feedback_subject">App Feedback for</string>
+
+</resources>

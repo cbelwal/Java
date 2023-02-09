@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Solver Peg Solitaire</string>
+  <string name="message_tellafriend">Este app é mentalmente challening jogo do Peg Solitaire também conhecido como solitário de mármore ou Brainvita. O objetivo do jogo é chegar ao número mínimo de estacas quanto possível. Pegs são movidas para um buraco vazio depois de saltar sobre um outro peg em linha reta. O peg pulou é removido, desta forma, após cada mover o número de pinos são reduzidos por uma. \n\n além de jogar o jogo padrão, este app permite que você defina sua própria placa personalizada para resolver. Há costas e frente botões que permitem que você volte para qualquer número de movimentos e o jogo também mantém alta scores.\n\n no entanto, o que torna este app verdadeiramente única é seu solucionador de solitário peg poderoso. O solver usa um \'state-space\ decoro \' algoritmo para resolver qualquer conselho dado. O solver virá com todos os movimentos necessários para vir ao mínimo número possível de pinos.
+        Se você executar o solver desde o início de uma nova diretoria que irá mostrar-lhe todos os movimentos que conduzirão a um peg. Como encontrar uma solução para toda a placa, o solver pode demorar alguns minutos para vir a um solution.\n\n dar-lhe uma tentativa! \n</string>
+</resources>

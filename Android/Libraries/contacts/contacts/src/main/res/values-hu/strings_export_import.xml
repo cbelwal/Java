@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_reading_import_file">Fájl olvasása, ez több percig is eltarthat...</string>
+  <string name="message_exporting_contacts">Kivonás partner...</string>
+  <string name="message_exporting_contacts_ready">Felkészülnek arra, hogy export-partner...</string>
+  <string name="message_exporting_contacts_write_file">Fájl(ok) írása...</string>
+  <string name="text_import_file_name">Fájl neve:</string>
+  <string name="text_import_file_size">Fájl Size(bytes):</string>
+  <string name="text_unknown_file_size">Ismeretlen</string>
+</resources>

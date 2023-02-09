@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">Kondisi</string>
+  <string name="filter_text_option">Pilihan</string>
+  <string name="filter_text_value_days">Hari</string>
+  <string name="filter_text_value_duration">Duration(s)</string>
+  <string name="filter_text_value_location">Lokasi</string>
+  <string name="filter_options_from_stored_contacts">Dari kontak yang disimpan</string>
+  <string name="filter_options_more_than_entered_days">Lebih dari hari</string>
+  <string name="filter_options_less_than_entered_days">Kurang dari hari</string>
+  <string name="filter_options_more_than_duration">Lebih dari durasi</string>
+  <string name="filter_options_less_than_duration">Kurang dari durasi</string>
+  <string name="filter_options_from_entered_location">Dari lokasi</string>
+  <string name="filter_options_none">Tidak ada Filter</string>
+  <string name="filter_show_show">Tampilkan</string>
+  <string name="filter_show_noshow">Jangan Tampilkan</string>
+</resources>

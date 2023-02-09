@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        รุ่นฟรีเพียงแต่ช่วยให้สำรองถึง 200 ราย
+        ติดต่อได้ถูกสำรองในแฟ้ม:
+    </string>
+  <string name="message_backup_failed">
+        การบันทึกแฟ้มสำรองข้อมูลล้มเหลว โปรดลองอีกครั้ง ถ้าปัญหายังคงอยู่ โปรดรายงานปัญหาการใช้ตัวเลือกคำติชมใน app นี้ผู้เผยแพร่แอป
+    </string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">Stoppe</string>
+  <string name="message_stop_tasks">Stoppe kjørende oppgaver.</string>
+  <string name="message_user_tasks_stopped">Brukeroppgaver stoppet</string>
+  <string name="message_system_tasks_stopped">Systemoppgaver stoppet</string>
+  <string name="message_process_still_running">Oppgaver som fortsatt kjører</string>
+  <string name="message_stop_running_tasks">Stoppe programmer og lukke Bluetooth/trådløs?</string>
+  <string name="message_stopping_running_tasks">Stoppe Bluetooth og trådløse</string>
+  <string name="message_battery_current_percentage">Gjeldende batteri nivå %:</string>
+  <string name="message_no_user_process">Ingen funnet brukeren prosess</string>
+</resources>

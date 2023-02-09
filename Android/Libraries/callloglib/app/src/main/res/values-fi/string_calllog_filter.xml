@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">Ehto</string>
+  <string name="filter_text_option">Asetukset</string>
+  <string name="filter_text_value_days">Päivää</string>
+  <string name="filter_text_value_duration">Duration(s)</string>
+  <string name="filter_text_value_location">Sijainti</string>
+  <string name="filter_options_from_stored_contacts">Tallennetut yhteystiedot</string>
+  <string name="filter_options_more_than_entered_days">Enemmän kuin päivää</string>
+  <string name="filter_options_less_than_entered_days">Alle päivää</string>
+  <string name="filter_options_more_than_duration">Yli</string>
+  <string name="filter_options_less_than_duration">Voimassa alle</string>
+  <string name="filter_options_from_entered_location">Sijainnista</string>
+  <string name="filter_options_none">Ei suodatinta</string>
+  <string name="filter_show_show">Näytä</string>
+  <string name="filter_show_noshow">Älä Näytä</string>
+</resources>

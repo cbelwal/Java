@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Felicitari, ai un scor mare!</string>
+  <string name="message_game_end_new_game">Jocul curent este de până! Va dori să înceapă un nou joc?</string>
+  <string name="message_custom_board">Atingeţi găuri goale să ritm un cuier. Atingeţi butonul de blocare atunci când completă</string>
+  <string name="message_custom_board_done">Bord personalizate este setup, poţi începe să joci.
+    Reţineţi că nu se înregistrează scoruri mari pentru placi personalizate</string>
+  <string name="message_intro_first">
+        Muta un cuier la o gaura disponibile în linie dreaptă sărind peste un alt peg
+    </string>
+  <string name="message_intro_second">Cuier a sărit peste este eliminat</string>
+  <string name="message_intro_third">Încercaţi să eliminaţi cât mai multe cuie posibil</string>
+  <string name="message_intro_fourth">Obtinerea numai 1 cuier rămase este obiectivul</string>
+  <string name="message_board_reset_confirm">Aceasta va anula placa curent. Doriţi să continuaţi?</string>
+  <string name="message_game_over">Sunt posibile mai multe mişcări. Jocul este de până!</string>
+  <string name="message_solver_complete">Rezolvitorul a calculat miscarile care duce la un număr minim de pegs.\n\nUse butonul înainte pentru a vedea bord se mişcă.</string>
+  <string name="message_solver_complete_free">Rezolvitorul a calculat miscarile care duce la un număr minim de cuie. Deoarece aceasta este o versiune gratuită, Rezolvitorul poate găsi o soluţie care să conducă la un minim de 3 picioare numai. În versiunea plătit Rezolvitorul poate găsi o soluţie cu 1 peg.\n\nUse butonul înainte pentru a vedea bord se mişcă.
+    </string>
+  <string name="message_solver_complete_title">Găsit soluţia cu cuie: </string>
+  <string name="message_solver_inprogress_title">Cercetare pentru solution...</string>
+  <string name="message_solver_inprogress">Curent mai mic cuier conta: </string>
+  <string name="message_solver_start_confirm">În funcţie de bord curent, Rezolvitorul poate dura câteva secunde la câteva minute în calcul o solutie cu cel mai mic număr de cuie.
+    Deoarece Solver are o mulţime de calcule, se diminuează puterea bateriei.
+        Este recomandabil că ai pus telefonul pe încărcare înainte de a începe Rezolvitor.
+    În timp ce rulează Rezolvitorul poate fi oprit în orice moment şi mai recente cuier rezultatul va fi disponibil.</string>
+  <string name="message_solver_mode_play_board">
+        Nu se poate juca jocul în modul de Rezolvitor. Selectaţi New Game pentru a începe un joc nou</string>
+  <string name="message_confirm_switch_from_standard">
+        Curent Consiliul este setată la Standard, vrei să schimbe placa de franceză?</string>
+  <string name="message_confirm_switch_from_French">
+        Curent Consiliul este setată la franceză, vrei să schimbe placa Standard?</string>
+</resources>

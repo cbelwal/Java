@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Kunde inte ansluta till Google-servern. Starta om appen och försök igen
+    </string>
+  <string name="progressbar_load_data">Laddar mappinformation...</string>
+  <string name="message_selectitems">Iallafall 1 urval krävs</string>
+  <string name="message_activity_load_fail">Ansökan kunde inte startas</string>
+  <string name="message_activity_loading">Startar programmet...</string>
+  <string name="message_other_permissions_missing">Önskade behörigheter som krävs för att funktionen ska fungera. Vänligen ge önskade behörigheter och försök igen
+    </string>
+  <string name="message_no_read_permission">Inte läsbehörighet
+    </string>
+  <string name="message_cannot_go_in">Kunde inte gå inuti vald mapp
+    </string>
+  <string name="message_delete_confirm">Valda filer (s) kommer att raderas. Denna åtgärd kan inte ångras. Vill du fortsätta?</string>
+  <string name="progressbar_delete_data">
+        Ta bort fil(er) </string>
+  <string name="message_delete_complete"> fil / mappar raderas</string>
+  <string name="message_free_version_selection">
+        Maximalt antal filer som kan väljas i den fria versionen är: </string>
+  <string name="message_max_allowed_one">
+        Det här alternativet fungerar bara för ett enda urval  </string>
+  <string name="message_only_file">
+        Det här alternativet fungerar bara för filer  </string>
+  <string name="message_copying_file">
+        Kopiera en fil...  </string>
+  <string name="message_copy_complete">
+        Fil kopia komplett  </string>
+  <string name="message_copy_error">
+        Gick inte att skapa en kopia av vissa fil(er)</string>
+  <string name="message_share_error">
+        Ett fel inträffade vid kopiering. Kontrollera om du har tillräckligt med lagringsutrymme för cachelagring av delade fil(er)  </string>
+  <string name="message_zipping_files">
+        Komprimera filer / mappar...  </string>
+  <string name="message_zipping_completed">
+        Alla filer / mappar flyttas till zip-arkiv  </string>
+  <string name="message_zipping_error">
+        Kunde inte zip-filen/filerna / mapparna. Kontrollera om markerad(e) mapp(ar) inte är tomma och du har tillräckligt med lagringsutrymme</string>
+  <string name="message_rename_complete">
+        Byta namn på filen/mappen komplett  </string>
+  <string name="message_rename_error">
+        Kunde inte byta namn på filen/mappen  </string>
+  <string name="message_create_folder_complete">
+        Mappen som skapades  </string>
+  <string name="message_create_folder_error">
+        Kan inte skapa mapp  </string>
+  <string name="message_file_open_error">
+        Kunde inte öppna filen  </string>
+</resources>

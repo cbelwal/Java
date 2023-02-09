@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_add_call_log">Ekle</string>
+  <string name="activity_edit_call_log">Düzenle</string>
+  <string name="activity_share_call_log">Paylaş</string>
+  <string name="activity_export_call_log">Dışa aktarma</string>
+  <string name="activity_import_call_log">Alma</string>
+  <string name="activity_bluetooth_call_log">Bluetooth aktarımı</string>
+  <string name="activity_backup_call_log">Yedekleme</string>
+  <string name="activity_restore_call_log">Geri yükleme</string>
+  <string name="activity_filter_call_log">Görüntü filtresi</string>
+</resources>

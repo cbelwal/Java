@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">Блокирани контакти</string>
+  <string name="display_options_blocked">Блокираните контакти</string>
+  <string name="action_block">Блок</string>
+  <string name="action_unblock">Деблокирай</string>
+  <string name="message_blocking_contacts">Блокиране на контакти</string>
+  <string name="message_unblocking_contacts">Деблокиращ контакта(ите)</string>
+  <string name="message_block_unblock_complete">Актуализиран всички избрани контакти </string>
+  <string name="message_block_unblock_error">Възникна грешка при актуализиране на някои избрани контакти</string>
+</resources>

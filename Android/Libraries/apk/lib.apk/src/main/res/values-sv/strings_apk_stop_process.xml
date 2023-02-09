@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">Sluta köra</string>
+  <string name="message_stop_tasks">Stoppa köra uppgifter...</string>
+  <string name="message_user_tasks_stopped">Användaruppgifter stoppas</string>
+  <string name="message_system_tasks_stopped">Systemaktiviteter stoppas</string>
+  <string name="message_process_still_running">Uppgifter som fortfarande kör</string>
+  <string name="message_stop_running_tasks">Sluta köra appar och stänga Bluetooth trådlösa?</string>
+  <string name="message_stopping_running_tasks">Stoppa Bluetooth och trådlösa</string>
+  <string name="message_battery_current_percentage">Nuvarande batteri nivå %:</string>
+  <string name="message_no_user_process">Ingen användarprocess som körs av hittade</string>
+</resources>

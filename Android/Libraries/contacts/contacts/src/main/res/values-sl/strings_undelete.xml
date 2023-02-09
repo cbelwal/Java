@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Izbrane stike bo izbrisana. Potrdite, če želite nadaljevati?</string>
+  <string name="message_undelete_complete"> undeleted stike</string>
+  <string name="message_undelete_notice">Ta možnost bo seznam stikov, ki lahko povrnete in je odvisna od proizvajalca naprave ali Android prevod. Stikov ni mogoče vrniti, če naprava ne omogoča, stiki so bili izbrisani več urami ali stiki so bili izbrisani iz SIM kartice.</string>
+  <string name="message_undelete_option_invalid">Ta možnost ni veljaven za izbrisani stiki
+        </string>
+  <string name="message_undelete_help">Izberite stike in uporabite neodložen ikono v zgornjem desnem za izbris jih</string>
+  <string name="progressbar_undelete_data">Povrnitev zbrisanih stike </string>
+  <string name="action_undelete">Izbris stike</string>
+  <string name="button_understand">razumem</string>
+  <string name="title_disclaimer">IZJAVA O OMEJITVI ODGOVORNOSTI</string>
+  <string name="title_no_undelete_found">oprosti!</string>
+  <string name="message_no_undelete_found">
+        Mi smo žal, ni mogoče obnoviti izbrisanih stikov ugotovilo! Vi moči začeti v zopet prejeti jih uporabljajo ročni način spodbuditi z Google, razvijalci Android.
+        Bodo želeli obisk podporo Google spletne strani, ki ima navodila za ročno obnovitev?
+    </string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Kapcsolatok egyesítése</string>
+  <string name="action_merge">Partner egyesítése</string>
+  <string name="message_merge_title">Figyelmeztetés</string>
+  <string name="message_merge_confirm">Kérjük, erősítse meg, hogy szeretné egyesíteni a kiválasztott névjegyek? A telefonszámot, e-mail címet, postai címet, Megjegyzés és események, a kijelölt kapcsolatok akarat bemerít-ba egy egységes kapcsolattartó neve: </string>
+  <string name="message_merge_complete">A kiválasztott névjegyek egyesített</string>
+  <string name="progressbar_merge_data">Egyesülő partnerek...</string>
+</resources>

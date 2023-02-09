@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Поздравляем вы получили высокий балл!</string>
+  <string name="message_game_end_new_game">Текущая игра является up! Понравится ли вам начать новую игру?</string>
+  <string name="message_custom_board">Нажмите на пустые отверстия ПАСЕ колышка. Нажмите кнопку блокировки, когда полная</string>
+  <string name="message_custom_board_done">Разовое пользовательские установки, вы можете начать играть.
+    Обратите внимание, что высокие баллы для пользовательских советов не регистрируются</string>
+  <string name="message_intro_first">
+        Переместить колышек в отверстие доступны в прямой линии, перепрыгивая через другой колышек
+    </string>
+  <string name="message_intro_second">Колышек, перепрыгнул через удаляется</string>
+  <string name="message_intro_third">Попробуйте удалить столько колышки как можно</string>
+  <string name="message_intro_fourth">Получение только 1 оставшиеся ПЭГ-цель</string>
+  <string name="message_board_reset_confirm">Это отменит текущий Совет. Вы хотите продолжить?</string>
+  <string name="message_game_over">Нет больше движется возможны. Игра закончена!</string>
+  <string name="message_solver_complete">Решатель вычисляемые ходы, которые приводят к минимальное количество pegs.\n\nUse кнопку вперед, чтобы увидеть, что Совет движется.</string>
+  <string name="message_solver_complete_free">Решатель вычисляемые ходы, которые приводят к минимальное количество колышки. Поскольку это бесплатная версия, поиск может найти решение, ведущее к минимум 3 колышки только. В платной версии Поиск может найти решения с 1 peg.\n\nUse кнопку вперед, чтобы увидеть, что Совет движется.
+    </string>
+  <string name="message_solver_complete_title">Найдено решение колышками: </string>
+  <string name="message_solver_inprogress_title">Поиск решения...</string>
+  <string name="message_solver_inprogress">Текущий низкий peg Счетчик: </string>
+  <string name="message_solver_start_confirm">В зависимости от текущей платы решатель может занять несколько секунд до нескольких минут в вычисления решения с наименьшее количество колышки.
+    Поскольку механизм расчета выполняет много вычислений, он будет истощать батареи.
+        Рекомендуется, что вы положили ваш телефон на заряд перед запуском решения.
+    Во время бега решатель может быть остановлено в любое время, и последний результат привязки будут доступны.</string>
+  <string name="message_solver_mode_play_board">
+        Нельзя играть игру в режиме поиска решения. Выберите новую игру, чтобы начать новую игру</string>
+  <string name="message_confirm_switch_from_standard">
+        Текущий Совет установлен стандарт, вы хотите изменить французский Совет?</string>
+  <string name="message_confirm_switch_from_French">
+        Текущий Совет выбран французский, вы хотите изменить стандартные платы?</string>
+</resources>

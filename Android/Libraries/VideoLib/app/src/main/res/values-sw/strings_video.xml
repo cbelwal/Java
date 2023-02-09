@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video Grater</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="activity_extract_pictures">Chopoa picha</string>
+  <string name="button_Select_All">Teua yote</string>
+  <string name="button_UnSelect_All">Teua Umoja wa mataifa yote</string>
+  <string name="button_Delete">Futa</string>
+  <string name="button_Update">Sasisha</string>
+  <string name="button_Share">Kushiriki</string>
+  <string name="button_Yes">Ndio</string>
+  <string name="button_No">La</string>
+  <string name="button_apply">Tekeleza</string>
+  <string name="button_browse">Vinjari</string>
+  <string name="button_close">Funga</string>
+  <string name="button_Confirm">Kuthibitisha</string>
+  <string name="button_Ok">Sawa kabisa</string>
+  <string name="text_import_file_name">Jina</string>
+  <string name="text_import_file_size">Ukubwa</string>
+  <string name="general_items">Kipengee (vi)</string>
+  <string name="general_selected_items">iliyoteuliwa</string>
+  <string name="general_error">Kosa</string>
+  <string name="title_confirm">Kuthibitisha</string>
+  <string name="button_ok">Sawa kabisa</string>
+  <string name="button_cancel">Katisha</string>
+  <string name="free_space">Jumla ya nafasi wazi:</string>
+  <string name="title_share">Shiriki kutumia:</string>
+  <string name="title_rename">Ingiza jina jipya  </string>
+  <string name="title_create_folder">Ingiza jina la folda  </string>
+</resources>

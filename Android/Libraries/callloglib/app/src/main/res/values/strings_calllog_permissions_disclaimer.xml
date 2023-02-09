@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message_permissions_disclaimer">
+        This app will now request permissions to access your call log and contacts data.
+        These permissions are required for this app to work and are not intended
+        to be used in any other way. We take your privacy very seriously, and your call log and contacts
+        data will NOT be shared with any party including coju.mobi™, the publishers of this app.
+    </string>
+    <string name="button_permissions_ack">
+        Acknowledge
+    </string>
+    <string name="title_ack_confirm">
+        Permissions Disclaimer
+    </string>
+</resources>

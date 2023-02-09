@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic، LLC</string>
+  <string name="feedback_no_email">هیچ سرویس گیرنده ایمیل در بر داشت</string>
+  <string name="button_yes">بله</string>
+  <string name="button_no">نه</string>
+  <string name="nav_menu_help_doc">راهنمای</string>
+  <string name="button_rate_never">هرگز</string>
+  <string name="button_rate_later">بعد</string>
+  <string name="button_rate_now">در حال حاضر</string>
+  <string name="title_rate_this_app">لطفا رای دادن به این برنامه</string>
+  <string name="title_feedback">گزینه های پست الکترونیکی را انتخاب کنید...</string>
+  <string name="title_demo_video">نسخه ی نمایشی کلیپ</string>
+  <string name="title_tellafriend">ارسال به دوستان از طریق...</string>
+  <string name="title_send_feedback">تماس با ما</string>
+  <string name="title_rate_app">برنامه نرخ</string>
+</resources>

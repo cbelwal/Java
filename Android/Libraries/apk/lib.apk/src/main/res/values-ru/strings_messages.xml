@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Требуется выбор atleast 1</string>
+  <string name="message_save_external">APK файлы, хранящиеся в внешней папке: </string>
+  <string name="message_free_version_selection">Только 3 приложения можно выбрать время в бесплатной версии</string>
+  <string name="message_free_version_option">Этот параметр доступен только для платной версии</string>
+  <string name="message_activity_load_fail">Не удалось запустить приложение</string>
+  <string name="message_activity_loading">Запуск приложения...</string>
+  <string name="message_loading_files">Поиск локальных папок...</string>
+  <string name="message_deleting_files">Пожалуйста, подтвердите индивидуально для каждого пакета, выбранного.
+    Системные пакеты будут удалены только из учетной записи пользователя</string>
+  <string name="message_save_external_suffix">. Можно получить доступ к папке при подключении телефона к компьютеру через USB и др. </string>
+  <string name="message_rate_this_app_error">Не удалось открыть страницу рейтинга</string>
+  <string name="message_share_link_prefix">Привет \r\n\r\nCheck это: </string>
+  <string name="message_share_link_suffix">Отправлено через APKit</string>
+  <string name="message_share_report_prefix">Отчет о пакете</string>
+  <string name="message_share_report_suffix">Создан и отправлен через</string>
+  <string name="message_other_permissions_missing">Запрошенные разрешения необходимы для работы этой функции. Просьба предоставить запрошенные разрешения и повторите попытку
+    </string>
+  <string name="message_purchase_error">
+        Не удалось подключиться к серверу Google. Перезапустите приложение и повторите попытку
+    </string>
+</resources>

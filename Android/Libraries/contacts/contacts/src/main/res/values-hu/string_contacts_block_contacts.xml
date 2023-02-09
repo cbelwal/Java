@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">Felszabadít partner</string>
+  <string name="display_options_blocked">Blokkolt partner</string>
+  <string name="action_block">Blokk</string>
+  <string name="action_unblock">Felszabadít</string>
+  <string name="message_blocking_contacts">Partner blokkolása</string>
+  <string name="message_unblocking_contacts">Feloldó partner</string>
+  <string name="message_block_unblock_complete">Minden kijelölt partnereket frissítve </string>
+  <string name="message_block_unblock_error">Volt egy hiba az egyes kijelölt partnereket frissítése</string>
+</resources>

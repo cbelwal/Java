@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> kontaktperson(er) bliver opdateret. Denne handling kan ikke fortrydes. Vil du fortsætte?</string>
+  <string name="message_update_complete"> kontaktpersoner opdateret</string>
+  <string name="message_save_external">Kontakter gemt i eksterne mappe: </string>
+  <string name="message_import">Kun eller-Vcard og CSV-filerne kan importeres (brug \'Browse\' at indlæse fil(er) fra andre kilder</string>
+  <string name="message_loading_files">Søger lokale mapper...</string>
+  <string name="message_loading_backup_files">Søger enhed til sikkerhedskopier filerne...</string>
+  <string name="message_importing_contacts_complete">kontaktperson(er) importeret</string>
+  <string name="message_save_external_suffix">. Mappen kan tilgås ved at tilslutte telefonen til din computer via USB osv. </string>
+  <string name="message_selectitems">Atleast 1 kontaktperson skal vælges</string>
+  <string name="message_delete_confirm">Valgt kontaktperson(er) detaljer vil blive slettet. Denne handling kan ikke fortrydes. Vil du fortsætte?</string>
+  <string name="message_delete_complete"> Contact(s) detaljer slettet</string>
+  <string name="message_free_import_limit">Fil indeholder flere kontaktpersoner end tilladt i gratis version</string>
+  <string name="message_rate_this_app_error">Kunne ikke åbne rating side. Venligst gåtil Google Play og sats i overensstemmelse hermed</string>
+  <string name="message_edit">Kun 1 kontakt kan redigeres på et tidspunkt. </string>
+  <string name="message_backup_stored">Kontaktpersoner er blevet sikkerhedskopieret i filen:</string>
+  <string name="message_download_coju">Coju er en integreret kontakt forvaltning app. Det har alle funktionerne af denne app plus yderligere kapaciteter. Vil du gerne downloade Coju?</string>
+  <string name="message_contact_permissions_missing">Kontakter tilladelser er nødvendige for denne app til at arbejde. App vil nu lukke, bedes du give tilladelser, og prøv igen</string>
+  <string name="message_other_permissions_missing">Ønskede tilladelser er nødvendige for denne app funktion til at arbejde.
+        Venligst give anmodede tilladelser, og prøv igen</string>
+  <string name="message_backup_freeversion">
+        Maksimale antal kontaktpersoner, der kan være bakkes op i denne gratis version er:
+    </string>
+  <string name="message_backup_paidversion">
+        Alle du kontakter er med held blevet bakket op i en fil
+    </string>
+  <string name="message_purchase_error">
+        Kunne ikke oprette forbindelse til Google-serveren. Venligst genstarte app og prøv igen
+    </string>
+</resources>

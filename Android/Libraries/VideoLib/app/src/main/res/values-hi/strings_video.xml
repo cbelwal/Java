@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">वीडियो घिसे</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="activity_extract_pictures">चित्र निकालें</string>
+  <string name="button_Select_All">सभी का चयन करें</string>
+  <string name="button_UnSelect_All">अन-सभी का चयन करें</string>
+  <string name="button_Delete">हटाएँ</string>
+  <string name="button_Update">अद्यतन</string>
+  <string name="button_Share">साझा</string>
+  <string name="button_Yes">हाँ</string>
+  <string name="button_No">नहीं</string>
+  <string name="button_apply">लागू</string>
+  <string name="button_browse">ब्राउज़</string>
+  <string name="button_close">बंद</string>
+  <string name="button_Confirm">पुष्टि</string>
+  <string name="button_Ok">ठीक है</string>
+  <string name="text_import_file_name">नाम</string>
+  <string name="text_import_file_size">आकार</string>
+  <string name="general_items">आइटम (आइटंस)</string>
+  <string name="general_selected_items">चयनित</string>
+  <string name="general_error">त्रुटि</string>
+  <string name="title_confirm">पुष्टि</string>
+  <string name="button_ok">ठीक है</string>
+  <string name="button_cancel">रद्द करना</string>
+  <string name="free_space">कुल मुक्त स्थान:</string>
+  <string name="title_share">का उपयोग कर साझा करें:</string>
+  <string name="title_rename">नया नाम दर्ज करें  </string>
+  <string name="title_create_folder">फ़ोल्डर का नाम दर्ज करें  </string>
+</resources>

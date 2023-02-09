@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_share">Предоставить общий доступ</string>
+  <string name="action_delete">Удалить</string>
+  <string name="action_filter">Фильтр</string>
+  <string name="action_copy">Копия</string>
+  <string name="action_rename">Переименование</string>
+  <string name="action_create_folder">Создать папку</string>
+  <string name="action_move">Перемещение</string>
+  <string name="action_share_zip">Поделитесь как Zip</string>
+  <string name="action_extract_pictures">Извлечение аудио</string>
+  <string name="action_zip">Индекс</string>
+  <string name="nav_menu_view_name">Просмотр по имени файла</string>
+  <string name="nav_menu_view_size">Просмотр по размеру</string>
+  <string name="nav_menu_view_modified">Просмотр по Дата изменения</string>
+  <string name="nav_menu_view_refresh">Обновить</string>
+  <string name="nav_menu_view_close">Закрыть</string>
+  <string name="nav_menu_search_default">СМИ хранилище Поиск (по умолчанию)</string>
+  <string name="nav_menu_search_entire_phone">Поиск весь телефон</string>
+  <string name="nav_menu_search_media_folders">Поиск Медиа папки</string>
+  <string name="nav_menu_search_external_folders">Внешние папки поиска</string>
+  <string name="nav_menu_group_general">Общие</string>
+  <string name="nav_menu_group_viewoptions">Параметры просмотра</string>
+  <string name="nav_menu_group_searchoptions">Параметры поиска</string>
+  <string name="nav_menu_rate_this_app">Обратная связь</string>
+  <string name="nav_menu_upgrade">Обновление до платной версии</string>
+  <string name="nav_menu_tellafriend">Рассказать другу</string>
+  <string name="nav_menu_feedback">Свяжитесь с нами</string>
+  <string name="nav_menu_group_help">Справка</string>
+  <string name="nav_menu_demovideo">Демо-видео</string>
+  <string name="nav_menu_help_doc">Справочная документация</string>
+</resources>

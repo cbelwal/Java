@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_delete_confirm_cl">Panggilan tertentu log(s) rincian akan dihapus. Tindakan ini tidak dapat dikembalikan. Melanjutkan?</string>
+  <string name="message_delete_complete_cl"> panggilan log(s) rincian dihapus</string>
+</resources>

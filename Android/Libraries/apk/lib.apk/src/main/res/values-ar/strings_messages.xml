@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Atleast 1 التحديد مطلوب</string>
+  <string name="message_save_external">أية بي كيه الملفات المخزنة في مجلد خارجي: </string>
+  <string name="message_free_version_selection">3 فقط يمكن تحديد تطبيقات في وقت واحد في نسخة مجانية</string>
+  <string name="message_free_version_option">هذا الخيار متوفر فقط للنسخة المدفوعة</string>
+  <string name="message_activity_load_fail">لا يمكن بدء تشغيل التطبيق</string>
+  <string name="message_activity_loading">بدء تشغيل تطبيق...</string>
+  <string name="message_loading_files">البحث في المجلدات المحلية...</string>
+  <string name="message_deleting_files">يرجى تأكيد فردياً لكل الحزمة المحددة.
+    سيتم إلغاء تثبيت حزم النظام فقط من حساب المستخدم</string>
+  <string name="message_save_external_suffix">. يمكن الوصول إلى مجلد عن طريق توصيل الهاتف الخاص بك إلى جهاز الكمبيوتر الخاص بك عن طريق USB إلخ. </string>
+  <string name="message_rate_this_app_error">تعذر فتح الصفحة تصنيف</string>
+  <string name="message_share_link_prefix">مرحبا، \r\n\r\nCheck ذلك: </string>
+  <string name="message_share_link_suffix">أرسلت عن طريق أبكيت</string>
+  <string name="message_share_report_prefix">تقرير حزمة</string>
+  <string name="message_share_report_suffix">التي تم إنشاؤها وإرسالها عبر</string>
+  <string name="message_other_permissions_missing">طلب أذونات مطلوبة من أجل هذه الميزة للعمل. الرجاء إعطاء الأذونات المطلوبة وحاول مرة أخرى
+    </string>
+  <string name="message_purchase_error">
+        تعذر الاتصال بخادم Google. الرجاء إعادة تشغيل التطبيق وحاول مرة أخرى
+    </string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Tallózás</string>
+  <string name="backup_options_backupusing">Biztonsági másolat használatával</string>
+  <string name="export_options_externalStorage">Külső tároló készülék</string>
+  <string name="share_options_shareas">Ossza meg, mint:</string>
+  <string name="share_options_allshare">Osztozik pályázatokat (felhő, E-mail,...)</string>
+  <string name="share_options_share_using">Ossza meg használ:</string>
+  <string name="share_options_sms">Üzenetküldés</string>
+  <string name="share_options_clipboard">Másolása a vágólapra</string>
+  <string name="export_options_ExportUsing">Mentse a fájlt:</string>
+  <string name="progressbar_prepare_data">Felkészülés a híváslista napló...</string>
+  <string name="progressbar_backup">Hátlap megjelöl hív fatörzs, ez több percig is eltarthat...</string>
+  <string name="backup_options_using">A biztonságimásolat-fájl mentése:</string>
+  <string name="menu_import_help">segítség</string>
+  <string name="text_import_file_name">A kijelölt fájl neve:</string>
+  <string name="text_import_file_size">A kiválasztott fájl Size(bytes):</string>
+  <string name="text_unknown_file_size">Ismeretlen</string>
+  <string name="message_backup_options">Ajánlott, hogy biztonsági mentés részesedése alkalmazások, mint a felhő, E-mail stb.
+        Ez lehetővé teszi, hogy visszaszerezze a hívásnapló, ha valaha elveszíti a telefont.
+        Vissza a névjegyek E-mail/Cloud kézzel menteni a hívás log biztonságimásolat-fájl E-mail/Cloud-fiókjából tetszőleges helyére a készülék. A behozatali/visszaállítási segédprogram lesz majd automatikusan keresse meg a fájlt.</string>
+  <string name="message_importing_contacts">Hívás naplók importálása...</string>
+  <string name="message_reading_import_file">Fájl olvasása, ez több percig is eltarthat...</string>
+  <string name="export_options_plain_text">Egyszerű szöveg</string>
+  <string name="export_options_indv_clm">Egyéni CLM fájl(ok)</string>
+  <string name="export_options_combined_clm">Kombinált CLM fájl </string>
+  <string name="export_generated_footer">Call Log Manager Coju-segítségével generált</string>
+  <string name="export_sent_footer">Call Log Manager keresztül generált</string>
+  <string name="export_generated_header">Hívja naplója-részletek</string>
+  <string name="message_clipboard_copy">Fénymásoló-hoz csipeszes írótábla</string>
+  <string name="message_exporting_calllog">Kivonás partner...</string>
+  <string name="message_exporting_calllog_ready">Felkészülnek arra, hogy export-partner...</string>
+  <string name="message_exporting_calllog_write_file">Fájl(ok) írása...</string>
+  <string name="message_import_help">Csak ez app generált fájl (*. CLM fájlokat)</string>
+  <string name="message_import_invalid_file">Nem egy érvényes hív fatörzs reszelő</string>
+  <string name="message_importing_complete">hívja naplók importált</string>
+  <string name="message_restore_complete">Hívja naplóbejegyzések biztonsági másolatból</string>
+  <string name="message_restore_fail">
+        Nem tudott visszaállítani biztonsági másolatból, a biztonságimásolat-fájl hiányzik vagy sérült
+                </string>
+  <string name="message_backup_stored_freeversion">
+        Ingyenes verzió csak lehetővé teszi, hogy akár 9 hívás naplók biztonsági másolatot.
+        Hívás naplók van már mentett fájl:
+    </string>
+  <string name="message_backup_failed">
+        Nem sikerült menteni a biztonságimásolat-fájl, kérjük próbálja meg újra. Ha a probléma továbbra is fennáll, jelentse a probléma használ a visszajelzés lehetőséget, ez App alkalmazás-közzétevő.
+    </string>
+  <string name="message_restore_selection_finish">
+        Hát a hívásnaplók helyreállították
+    </string>
+  <string name="message_clm_file_not_found">
+        Nincs hívás Log Manager (*. CLM) fájlokat alapít-ban ez a készülék
+    </string>
+  <string name="message_backup_file_not_found">
+        Nem található az eszköz biztonságimásolat-fájlok
+    </string>
+  <string name="message_backup_stored">Kapcsolatok van már mentett fájl:</string>
+  <string name="message_save_external">Hívásnaplóban külső mappában: </string>
+  <string name="message_loading_files">Helyi mappák keresése...</string>
+  <string name="message_loading_backup_files">Hát fájlokat() eszköz keresése...</string>
+  <string name="message_backup_freeversion">
+        Maximális száma hívásnaplók, hogy ez szabad változat lehet alátámasztani a:
+    </string>
+  <string name="message_backup_paidversion">
+        Összes hívás naplók sikeresen mentett fájl
+    </string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="share_options_ShareUsing">Cota folosind:</string>
+  <string name="share_options_allshare">E-mail/Wifi/nor de stocare (fişiere mari pot avea probleme)</string>
+  <string name="export_options_externalStorage">Stocare externă</string>
+  <string name="export_options_ExportAs">Format de export:</string>
+  <string name="export_options_ExportUsing">Partaja fișiere APK prin:</string>
+  <string name="progressbar_prepare_data">Pregătirea pachete... </string>
+</resources>

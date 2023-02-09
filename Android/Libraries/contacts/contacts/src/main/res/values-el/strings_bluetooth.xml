@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Αριθμός επιλεγμένων επαφών: </string>
+  <string name="text_bt_paired_devices"> Συζευγμένες συσκευές (επιλέξτε σύνδεση)</string>
+  <string name="text_bt_new_devices"> Νέες συσκευές (επιλέξτε σύνδεση)</string>
+  <string name="message_bt_scan_devices">Σάρωση για συσκευές...</string>
+  <string name="message_bt_scan_complete">Τελικού σάρωση για συσκευές</string>
+  <string name="message_bt_pair_devices">Αντιστοίχιση συσκευών...</string>
+  <string name="message_bt_new_none">Χωρίς νέες συσκευές που βρέθηκαν</string>
+  <string name="message_bt_pair_none">Καμία συζευγμένες συσκευές που βρέθηκαν</string>
+  <string name="message_bt_conn_lost">Σύνδεση χαθεί στη συσκευή</string>
+  <string name="message_bt_connecting">Σύνδεση με: </string>
+  <string name="message_bt_not_enabled">Bluetooth δεν είναι ενεργοποιημένο, κλείσιμο μεταφορά Bluetooth</string>
+  <string name="message_bt_status_listening">Ακρόαση...</string>
+  <string name="message_bt_status_connecting">Σύνδεση...</string>
+  <string name="message_bt_status_connected">Συνδεδεμένοι</string>
+  <string name="message_bt_testdata_sent">TestData αποστέλλονται</string>
+  <string name="message_bt_no_contacts">Χωρίς επαφές που έχετε επιλέξει για την αποστολή</string>
+  <string name="message_bt_recv_complete">Λήψη δεδομένων πλήρης</string>
+  <string name="message_bt_not_connected">Δεν συνδέεται με οποιαδήποτε συσκευή</string>
+  <string name="message_bt_adapter_error">Παρουσιάστηκε ένα σφάλμα εγκατάσταση Bluetooth.
+            Ελέγξτε αν το τηλέφωνό σας διαθέτει Bluetooth και τον προσαρμογέα Bluetooth είναι ενεργοποιημένη</string>
+  <string name="menu_bt_make_discoverable">Κάνετε τη συσκευή ορατή</string>
+  <string name="progressbar_bt_recv_data">Έτοιμοι να λάβετε τα στοιχεία επικοινωνίας...</string>
+  <string name="message_bt_startup">Βεβαιωθείτε ότι εκτελείται η ίδια εφαρμογή και ανοίξτε αυτήν την οθόνη σε άλλη συσκευή</string>
+</resources>

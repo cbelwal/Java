@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">¿Si hay un problema con la aplicación, se quieres el editor de correo electrónico y resolver el problema?</string>
+  <string name="message_check_for_rating">¿Se quieres votar para esta aplicación?</string>
+  <string name="message_tellafriend_subject">Echale un vistazo esta aplicación</string>
+  <string name="message_email_send_error">Error en el envío de correo electrónico</string>
+  <string name="message_tellafriend_body">Hola, revisa esta app:\n cool</string>
+  <string name="message_start_activity_error">Hubo un problema en el inicio de la actividad. \n</string>
+  <string name="message_demo_video">Gustará ver un video de demostración.
+        ¿(Este mensaje se muestra sólo una vez)?</string>
+  <string name="message_help_documentation_fail">No se pudo cargar la documentación de ayuda.
+    Visite http://www.dasmic.com desde el navegador para ver ayuda.</string>
+  <string name="message_rate_this_app">¿Puede usted ayudar a los demás por valorar esta aplicación?</string>
+  <string name="message_rate_this_app_error">No se pudo abrir la página de clasificación. Por favor use Google Play Store para dar una calificación</string>
+  <string name="message_feedback_subject">Retroalimentación de la aplicación de</string>
+</resources>

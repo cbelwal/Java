@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Gefeliciteerd, hebt je een hoge score!</string>
+  <string name="message_game_end_new_game">Huidige spel is! Zal u graag een nieuw spel start?</string>
+  <string name="message_custom_board">Kraan op lege gaten tempo een peg. Tik op de vergrendelknop wanneer voltooid</string>
+  <string name="message_custom_board_done">Gebruikersspecifieke is ingesteld, kunt u beginnen met spelen.
+    Merk op dat hoge scores voor aangepaste borden niet zijn opgenomen</string>
+  <string name="message_intro_first">
+        Een peg verplaatsen naar een beschikbare gat in een rechte lijn springen over een ander peg
+    </string>
+  <string name="message_intro_second">De sprong over peg wordt verwijderd</string>
+  <string name="message_intro_third">Probeert te verwijderen van zoveel pinnen mogelijk</string>
+  <string name="message_intro_fourth">Het krijgen van slechts 1 peg resterende is het doel</string>
+  <string name="message_board_reset_confirm">Dit zal het annuleren van de huidige Raad van bestuur. Wilt u doorgaan?</string>
+  <string name="message_game_over">Niet meer beweegt zijn mogelijk. Spel is!</string>
+  <string name="message_solver_complete">Oplosser heeft de bewegingen die leiden tot een minimum aantal pegs.\n\nUse de Forward knop om te zien dat het bord beweegt berekend.</string>
+  <string name="message_solver_complete_free">Oplosser heeft berekend de bewegingen die tot een minimum aantal pinnen leiden. Aangezien dit een gratis versie, vindt de Oplosser een oplossing die leidt tot een minimum van 3 haringen alleen. In de betaalde versie de Oplosser een oplossing kan vinden met 1 peg.\n\nUse de Forward knop om te zien dat het bord beweegt.
+    </string>
+  <string name="message_solver_complete_title">Oplossing met wasknijpers gevonden: </string>
+  <string name="message_solver_inprogress_title">Op zoek naar de oplossing...</string>
+  <string name="message_solver_inprogress">Huidige laagste peg tellen: </string>
+  <string name="message_solver_start_confirm">Afhankelijk van de huidige Raad van bestuur, kan de Oplosser een paar seconden duren om enkele minuten in de informatica een oplossing met het minst aantal pinnen.
+    Aangezien de Oplosser een heleboel berekeningen heeft, zal het accu uitputten.
+        Het is aangeraden dat u uw telefoon op lading zette voordat de Oplosser.
+    Tijdens het hardlopen de Oplosser op elk gewenst moment kan worden gestopt en laatste peg resultaat beschikbaar zal zijn.</string>
+  <string name="message_solver_mode_play_board">
+        Kan niet spelen spel in Oplosser modus. Selecteer New Game om te beginnen een nieuw spel</string>
+  <string name="message_confirm_switch_from_standard">
+        Huidige bestuur is ingesteld op standaard, wil je overstappen op Frans bestuur?</string>
+  <string name="message_confirm_switch_from_French">
+        Huidige bestuur is ingesteld op Frans, wil je overstappen op standaard bestuur?</string>
+</resources>

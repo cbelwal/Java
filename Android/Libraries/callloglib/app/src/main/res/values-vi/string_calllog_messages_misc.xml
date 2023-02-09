@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Sự cho phép để thực hiện cuộc gọi không đã được cấp cho ứng dụng này</string>
+  <string name="message_search_number_security_exception">Không thể tìm thấy số điện thoại này! Tìm kiếm của Google không được phép hoặc cho phép không đã được cấp trong thiết bị này</string>
+  <string name="message_free_version_selection">
+        Mục đăng nhập tối đa có thể được lựa chọn trong các phiên bản miễn phí là: </string>
+  <string name="message_purchase_error">
+        Không thể kết nối đến máy chủ Google. Xin vui lòng khởi động lại ứng dụng và thử lại
+    </string>
+</resources>

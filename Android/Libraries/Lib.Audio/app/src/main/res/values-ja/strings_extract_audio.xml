@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">ファイル名:</string>
+  <string name="text_ep_file_size">サイズ:</string>
+  <string name="text_ep_modified_date">最終更新日時:</string>
+  <string name="text_ep_duration">期間:</string>
+  <string name="title_search_depth">検索の深さ (大きな値には数分かかります)</string>
+  <string name="progressbar_extracting_audio">(数分かかります) 音声を抽出.</string>
+  <string name="progressbar_loading_audio">オーディオ ファイルの詳細を読み込んでいます.</string>
+  <string name="text_ep_time_start">開始時間 (秒)</string>
+  <string name="text_ep_period">各オーディオ file(seconds) の期間</string>
+  <string name="text_ep_store">新しいオーディオファイルとして保存します。</string>
+  <string name="text_ep_share_external">外部フォルダーに配置します。</string>
+  <string name="text_ep_share_app">共有するアプリケーションを使用して</string>
+  <string name="message_extract_complete">M4A ファイルが作成されています。</string>
+  <string name="message_extract_error">オーディオ ファイルの作成でエラーが発生しました</string>
+  <string name="message_search_depth_updated">検索の深さを更新しました</string>
+  <string name="message_search_depth_error">検索の深さを更新中のエラー</string>
+  <string name="message_load_complete">読み込まれているオーディオ ファイルの詳細</string>
+  <string name="message_load_error">オーディオの読み込みでエラーが発生しました</string>
+  <string name="message_extract_duration_reduced">オーディオの終わりに達しました、最後のオーディオ ファイル期間は短縮</string>
+  <string name="message_extract_incomplete">%1$ d のオーディオ ファイルを作成できませんでしたまたは不完全な情報を持っています。</string>
+  <string name="message_extract_signature">Coju.mobi™ からオーディオおろし金経由で送信</string>
+</resources>

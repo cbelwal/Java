@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_add_call_log">إضافة</string>
+  <string name="activity_edit_call_log">تحرير</string>
+  <string name="activity_share_call_log">حصة</string>
+  <string name="activity_export_call_log">تصدير</string>
+  <string name="activity_import_call_log">استيراد</string>
+  <string name="activity_bluetooth_call_log">نقل بلوتوث</string>
+  <string name="activity_backup_call_log">النسخ الاحتياطي</string>
+  <string name="activity_restore_call_log">استعادة</string>
+  <string name="activity_filter_call_log">عامل تصفية العرض</string>
+</resources>

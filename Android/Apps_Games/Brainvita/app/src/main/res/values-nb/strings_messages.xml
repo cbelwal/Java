@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Gratulerer, har du en høy score!</string>
+  <string name="message_game_end_new_game">Gjeldende spill er opp! Vil du starte et nytt spill?</string>
+  <string name="message_custom_board">Trykk på tomt hull til tempo en pinne. Trykk låseknappen når fullført</string>
+  <string name="message_custom_board_done">Tilpassede brettet er oppsett, kan du begynne å spille.
+    Merk at høy score for tilpassede styrene ikke er registrert</string>
+  <string name="message_intro_first">
+        Flytte en pinne til en tilgjengelig hull i en rett linje hoppe over en annen peg
+    </string>
+  <string name="message_intro_second">Pinnen hoppet over fjernes</string>
+  <string name="message_intro_third">Prøv å fjerne så mange knagger som mulig</string>
+  <string name="message_intro_fourth">Får bare 1 pinne gjenværende er målet</string>
+  <string name="message_board_reset_confirm">Dette vil avbryte det nåværende styret. Vil du fortsette?</string>
+  <string name="message_game_over">Ingen flere trekk er mulig. Spillet er opp!</string>
+  <string name="message_solver_complete">Problemløseren er beregnet trekk som fører til et minimum antall pegs.\n\nUse frem for å se styret trekk.</string>
+  <string name="message_solver_complete_free">Problemløseren er beregnet trekk som fører til et minimum antall pinnene. Siden dette er en gratis versjon, finner Problemløseren en løsning fører til minimum 3 plugger bare. I betalt versjon finner Problemløseren en løsning med 1 peg.\n\nUse frem for å se styret trekk.
+    </string>
+  <string name="message_solver_complete_title">Fant løsning med plugger: </string>
+  <string name="message_solver_inprogress_title">Forskende for løsning...</string>
+  <string name="message_solver_inprogress">Gjeldende laveste peg antall: </string>
+  <string name="message_solver_start_confirm">Avhengig av gjeldende styret, kan Problemløseren ta noen sekunder til flere minutter i databehandling en løsning med minst antall pinnene.
+    Siden Problemløseren gjør mye av beregninger, vil det tappe batteriet.
+        Det anbefales at du setter telefonen på opplading før du starter problemløseren.
+    Mens kjøre Problemløseren kan stoppes når som helst og siste peg resultatet blir tilgjengelig.</string>
+  <string name="message_solver_mode_play_board">
+        Kan ikke spille spill i Problemløseren-modus. Velg New Game å starte et nytt spill</string>
+  <string name="message_confirm_switch_from_standard">
+        Nåværende styret er satt til Standard, vil du endre franske styret?</string>
+  <string name="message_confirm_switch_from_French">
+        Nåværende styret er satt til fransk, vil du endre Standard styret?</string>
+</resources>

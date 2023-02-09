@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">Opri</string>
+  <string name="message_stop_tasks">Oprirea execută sarcini...</string>
+  <string name="message_user_tasks_stopped">Sarcini de utilizator oprit</string>
+  <string name="message_system_tasks_stopped">Sarcini de sistem a oprit</string>
+  <string name="message_process_still_running">Sarcinile încă rulează</string>
+  <string name="message_stop_running_tasks">Opri rulează aplicaţii şi aproape fără fir Bluetooth /?</string>
+  <string name="message_stopping_running_tasks">Oprirea Bluetooth si Wireless</string>
+  <string name="message_battery_current_percentage">Curent % nivel baterie:</string>
+  <string name="message_no_user_process">Nici un proces să fie difuzate de utilizator găsit</string>
+</resources>

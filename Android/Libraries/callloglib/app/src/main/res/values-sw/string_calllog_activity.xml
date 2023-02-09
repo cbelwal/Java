@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_add_call_log">Ongeza</string>
+  <string name="activity_edit_call_log">Hariri</string>
+  <string name="activity_share_call_log">Kushiriki</string>
+  <string name="activity_export_call_log">Hamisha</string>
+  <string name="activity_import_call_log">Leta</string>
+  <string name="activity_bluetooth_call_log">Uhamisho wa Bluetooth</string>
+  <string name="activity_backup_call_log">Chelezo</string>
+  <string name="activity_restore_call_log">Rejesha</string>
+  <string name="activity_filter_call_log">Onyesha Kichujio</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">Nếu có một vấn đề với các ứng dụng, bạn sẽ giống như gửi email cho nhà xuất bản và giải quyết các vấn đề?</string>
+  <string name="message_check_for_rating">Bạn sẽ muốn để lại phản hồi cho ứng dụng này?</string>
+  <string name="message_tellafriend_subject">Kiểm tra ứng dụng này</string>
+  <string name="message_email_send_error">Lỗi trong việc gửi email</string>
+  <string name="message_tellafriend_body">Hey, hãy kiểm tra này mát mẻ app:\n</string>
+  <string name="message_start_activity_error">Đã có một vấn đề bắt đầu \n hoạt động.</string>
+  <string name="message_demo_video">Bạn sẽ muốn xem một video trình diễn.
+        (Thông báo này được hiển thị chỉ một lần)?</string>
+  <string name="message_help_documentation_fail">Không thể nạp tài liệu trợ giúp.
+    Xin vui lòng truy cập vào http://www.dasmic.com từ trình duyệt để xem trợ giúp.</string>
+  <string name="message_rate_this_app">Bạn có thể giúp đỡ người khác theo xếp hạng ứng dụng này không?</string>
+  <string name="message_rate_this_app_error">Không thể mở trang đánh giá. Xin vui lòng sử dụng Google chơi lưu trữ để cung cấp cho một đánh giá</string>
+  <string name="message_feedback_subject">Ứng dụng thông tin phản hồi cho</string>
+</resources>

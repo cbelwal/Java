@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Nama file:</string>
+  <string name="text_ep_file_size">Ukuran:</string>
+  <string name="text_ep_modified_date">Tanggal dimodifikasi:</string>
+  <string name="text_ep_duration">Durasi:</string>
+  <string name="title_search_depth">Tingkatan pencarian (nilai-nilai besar akan mengambil beberapa menit)</string>
+  <string name="progressbar_extracting_audio">Mengekstrak audio (mungkin mengambil beberapa menit)...</string>
+  <string name="progressbar_loading_audio">Memuat rincian audio file...</string>
+  <string name="text_ep_time_start">Mulai time(seconds)</string>
+  <string name="text_ep_period">Durasi setiap file(seconds) audio</string>
+  <string name="text_ep_store">Menyimpan file audio baru sebagai:</string>
+  <string name="text_ep_share_external">Tempatkan dalam folder eksternal</string>
+  <string name="text_ep_share_app">Berbagi menggunakan aplikasi</string>
+  <string name="message_extract_complete"> File m4a telah dibuat</string>
+  <string name="message_extract_error">Kesalahan ditemukan dalam menciptakan file audio</string>
+  <string name="message_search_depth_updated">Tingkatan pencarian Diperbarui</string>
+  <string name="message_search_depth_error">Kesalahan dalam memperbarui kedalaman pencarian</string>
+  <string name="message_load_complete">Rincian audio file telah dimuat</string>
+  <string name="message_load_error">Ada kesalahan dalam memuat audio</string>
+  <string name="message_extract_duration_reduced"> Durasi audio file terakhir diturunkan sebagai akhir audio dicapai </string>
+  <string name="message_extract_incomplete"> %1$ d audio file tidak dapat diciptakan atau memiliki informasi yang tidak lengkap</string>
+  <string name="message_extract_signature">Dikirim via parutan Audio dari coju.mobi™</string>
+</resources>

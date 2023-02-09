@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permission_inapp_billing">Pot folosi cardul de credit.</string>
+  <string name="permission_read_sms">Puteţi citi mesajele.</string>
+  <string name="permission_send_sms">Puteţi trimite mesaje altora.</string>
+  <string name="permission_mic">Puteţi înregistra audio de la microfon.</string>
+  <string name="permission_camera">Puteţi citi imagini de pe camera.</string>
+  <string name="permission_read_contacts">Puteţi citi lista de contacte.</string>
+  <string name="permission_write_contacts">Puteţi scrie la lista de contacte.</string>
+  <string name="permission_read_ext_storage">Puteţi citi fişiere din folderele accesibile USB.</string>
+  <string name="permission_write_ext_storage">Poate scrie fişiere la foldere accesibile USB.</string>
+  <string name="permission_read_call_log">Afla cine ai sunat şi când.</string>
+  <string name="permission_location_fine">Ştie locaţia dumneavoastră exactă.</string>
+  <string name="permission_location_coarse">Ştie locaţia aproximativă.</string>
+  <string name="permission_read_calender">Puteţi citi calendarul dvs.</string>
+  <string name="permission_write_calender">Puteţi scrie la calendarul dvs.</string>
+  <string name="permission_call_phone">Pot suna la orice telefon fără știrea dvs.</string>
+  <string name="permission_call_privileged">Pot suna la orice telefon, inclusiv de urgenţă, fără știrea dvs.</string>
+  <string name="permission_install_packages">Pot instala alte aplicaţii.</string>
+  <string name="permission_internet">Pot trimite informaţii prin Internet.</string>
+  <string name="permission_wake_lock">Puteţi împiedica aparatul să merge la culcare modul.</string>
+  <string name="permission_network_state">Puteţi accesa starea de reţea.</string>
+  <string name="permission_read_voicemail">Puteţi citi mesageriei.</string>
+</resources>

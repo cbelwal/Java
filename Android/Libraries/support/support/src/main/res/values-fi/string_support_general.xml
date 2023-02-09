@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic, LLC</string>
+  <string name="feedback_no_email">Ei email asiakas löytyi</string>
+  <string name="button_yes">Kyllä</string>
+  <string name="button_no">Ei</string>
+  <string name="nav_menu_help_doc">Ohjeessa</string>
+  <string name="button_rate_never">Koskaan</string>
+  <string name="button_rate_later">Myöhemmin</string>
+  <string name="button_rate_now">Nyt</string>
+  <string name="title_rate_this_app">Luokittele tämä app</string>
+  <string name="title_feedback">Valitse sähköposti-vaihtoehto...</string>
+  <string name="title_demo_video">Mielenosoitus televisio</string>
+  <string name="title_tellafriend">Kerro kaverille kautta...</string>
+  <string name="title_send_feedback">Ota yhteyttä</string>
+  <string name="title_rate_app">Hinta app</string>
+</resources>

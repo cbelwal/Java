@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permission_inapp_billing">Használhatja a hitelkártya.</string>
+  <string name="permission_read_sms">Tudod olvassa el az üzeneteket.</string>
+  <string name="permission_send_sms">Lehet üzeneteket küldeni másoknak.</string>
+  <string name="permission_mic">A mikrofon hang rögzítheti.</string>
+  <string name="permission_camera">Tudja olvasni a képeket a fényképezőgépről.</string>
+  <string name="permission_read_contacts">Tudja olvasni a névjegyzék.</string>
+  <string name="permission_write_contacts">A névjegyzék írni.</string>
+  <string name="permission_read_ext_storage">Tudja olvasni a fájlokat USB elérhető mappákból.</string>
+  <string name="permission_write_ext_storage">Tud írni fájlokat USB elérhető mappák.</string>
+  <string name="permission_read_call_log">Lehet megtudni, kinek hívják és mikor.</string>
+  <string name="permission_location_fine">Ismeri a pontos helyét.</string>
+  <string name="permission_location_coarse">Ismeri a hozzávetőleges helyét.</string>
+  <string name="permission_read_calender">Tudja olvasni a mángorol.</string>
+  <string name="permission_write_calender">A naptár írni.</string>
+  <string name="permission_call_phone">Hívhatja a telefon nélkül-a tudás.</string>
+  <string name="permission_call_privileged">Hívja bármilyen telefonról, beleértve a sürgősségi, az Ön tudta nélkül.</string>
+  <string name="permission_install_packages">Tud felszerel más apps.</string>
+  <string name="permission_internet">Tud küld információkat az interneten.</string>
+  <string name="permission_wake_lock">Megakadályozhatja eszköz elalvás mód.</string>
+  <string name="permission_network_state">Hozzáférhet a és hálózat állapotát.</string>
+  <string name="permission_read_voicemail">Tudja olvasni a hangposta.</string>
+</resources>

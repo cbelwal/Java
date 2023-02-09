@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">免费版本只允许备份的达 200 联系人。
+        联系人有了备份文件中 ︰
+    </string>
+  <string name="message_backup_failed">保存备份文件失败，请再试一次。如果问题仍然存在请向应用程序发布服务器在此应用程序中使用反馈选项报告问题。
+    </string>
+</resources>

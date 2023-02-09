@@ -1,0 +1,18 @@
+<resources>
+    <string name="text_calllog_number">Phone Number</string>
+    <string name="text_calllog_date">Date</string>
+    <string name="text_calllog_time">Time</string>
+    <string name="text_calllog_duration">Duration(s)</string>
+    <string name="text_calllog_type">Type</string>
+
+    <string name="spinner_calllog_type_incoming">Incoming</string>
+    <string name="spinner_calllog_type_outgoing">Outgoing</string>
+    <string name="spinner_calllog_type_missed">Missed</string>
+
+
+    <string name="message_calllog_added">Successfully added to call log</string>
+    <string name="message_calllog_added_error">Failure in adding to call log</string>
+    <string name="message_calllog_edited">Successfully updated call log</string>
+    <string name="message_calllog_edited_error">Failure in updating call log</string>
+
+</resources>

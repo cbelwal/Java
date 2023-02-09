@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        Prost prevod samo omogoča varnostno kopiranje do 200 stikov.
+        Stiki so bile kopirane v datoteki:
+    </string>
+  <string name="message_backup_failed">
+        Ni bilo mogoče shraniti varnostno kopijo datoteke, poskusite znova. Če težave ne morete odpraviti sporočite težavo app založnik z možnostjo povratne informacije v to app.
+    </string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">未畅通的联系人</string>
+  <string name="display_options_blocked">阻止的联系人</string>
+  <string name="action_block">块</string>
+  <string name="action_unblock">疏通</string>
+  <string name="message_blocking_contacts">阻止联系人</string>
+  <string name="message_unblocking_contacts">解除阻塞的联系人</string>
+  <string name="message_block_unblock_complete">已更新所有选定的联系人</string>
+  <string name="message_block_unblock_error">更新某些选定的联系人时出错</string>
+</resources>

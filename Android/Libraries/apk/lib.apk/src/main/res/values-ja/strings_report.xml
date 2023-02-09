@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="report_app_name">アプリ名:</string>
+  <string name="report_package_name">パッケージ名:</string>
+  <string name="report_source_folder">ソース フォルダー:</string>
+  <string name="report_size">Size(MB):</string>
+  <string name="report_launch_intent">意図を起動します。</string>
+  <string name="report_installed_on">インストールされています。</string>
+  <string name="report_updated_on">更新日。</string>
+  <string name="report_system_app">システム アプリケーション:</string>
+  <string name="report_security_permission">セキュリティのアクセス許可:</string>
+  <string name="report_yes">[はい]</string>
+  <string name="report_no">違います</string>
+</resources>

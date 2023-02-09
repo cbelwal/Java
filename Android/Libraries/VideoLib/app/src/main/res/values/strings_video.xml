@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Video Grater</string>
+    <string name="app_name_small">VideoGrater</string>
+    <string name="activity_extract_pictures">Extract Pictures</string>
+
+    <string name="button_Select_All">Select All</string>
+    <string name="button_UnSelect_All">Un-Select All</string>
+    <string name="button_Delete">Delete</string>
+    <string name="button_Update">Update</string>
+    <string name="button_Share">Share</string>
+    <string name="button_Yes">Yes</string>
+    <string name="button_No">No</string>
+    <string name="button_apply">Apply</string>
+    <string name="button_browse">Browse</string>
+    <string name="button_close">Close</string>
+    <string name="button_Confirm">Confirm</string>
+    <string name="button_Ok">OK</string>
+
+    <string name="text_import_file_name">Name</string>
+    <string name="text_import_file_size">Size</string>
+
+    <string name="general_items">item(s)</string>
+    <string name="general_selected_items">selected</string>
+    <string name="general_error">Error</string>
+    <string name="title_confirm">Confirm</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="free_space">Total free space:</string>
+    <string name="title_share">Share using:</string>
+    <string name="title_rename">Enter new name  </string>
+    <string name="title_create_folder">Enter folder name  </string>
+
+</resources>

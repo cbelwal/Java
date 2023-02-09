@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Parabéns, você tem uma pontuação elevada!</string>
+  <string name="message_game_end_new_game">Atual jogo acabou! Gostaria de começar um novo jogo?</string>
+  <string name="message_custom_board">Toque em buracos vazios ao ritmo de um peg. Toque no botão de bloqueio quando completa</string>
+  <string name="message_custom_board_done">Placa personalizada está configurado, você pode começar a jogar.
+    Note-se que altas pontuações para placas personalizadas não são gravadas</string>
+  <string name="message_intro_first">
+        Mover um pino para um buraco disponível em uma linha reta, saltando sobre um outro peg
+    </string>
+  <string name="message_intro_second">O peg pulado é removido</string>
+  <string name="message_intro_third">Tente remover tantos pinos quanto possível</string>
+  <string name="message_intro_fourth">Ficar apenas 1 peg restante é o objetivo</string>
+  <string name="message_board_reset_confirm">Isto irá cancelar a atual diretoria. Você quer continuar?</string>
+  <string name="message_game_over">Movimentos não mais são possíveis. Acabou-se!</string>
+  <string name="message_solver_complete">Solver tem computados os movimentos que levam a um número mínimo de pegs.\n\nUse o botão Avançar para ver que a placa se move.</string>
+  <string name="message_solver_complete_free">Solver tem computados os movimentos que levam a um número mínimo de estacas. Pois esta é uma versão gratuita, o solver pode encontrar uma solução, levando a um mínimo de 3 pinos só. Na versão paga o solver pode encontrar uma solução com 1 peg.\n\nUse o botão Avançar para ver que a placa se move.
+    </string>
+  <string name="message_solver_complete_title">Encontrei a solução com pinos: </string>
+  <string name="message_solver_inprogress_title">Buscando a solução...</string>
+  <string name="message_solver_inprogress">Contagem atual de peg menor: </string>
+  <string name="message_solver_start_confirm">Dependendo da placa atual, o Solver pode demorar alguns segundos a vários minutos em uma solução com menor número de pinos de computação.
+    Desde que o Solver faz muitos cálculos, isso vai esgotar energia da bateria.
+        É aconselhável que você coloque seu telefone no comando antes de iniciar o solver.
+    Durante a execução, o Solver pode ser interrompido a qualquer momento e mais recente resultado de peg estará disponível.</string>
+  <string name="message_solver_mode_play_board">
+        Não pode jogar o jogo no modo de solver. Selecione novo jogo para começar um novo jogo</string>
+  <string name="message_confirm_switch_from_standard">
+        Atual diretoria é definida como padrão, você quer mudar a placa francês?</string>
+  <string name="message_confirm_switch_from_French">
+        Atual diretoria é definida como francês, que quer mudar a placa padrão?</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_permissions_disclaimer">このアプリは今、呼び出しログ、連絡先データにアクセスするためのアクセス許可を要求します。
+        これらのアクセス許可は、このアプリケーションが働くために必要なその他の方法で使用するものではありません。我々 は非常に真剣にあなたのプライバシーを取るし、通話ログ、連絡先データは coju.mobi™、このアプリのサイト運営者を含む第三者と共有されません。
+    </string>
+  <string name="button_permissions_ack">認める</string>
+  <string name="title_ack_confirm">アクセス許可の免責事項</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        Gratis versie kunt u alleen back-up van maximaal 200 contacten.
+        Contacten hebben is een back-up in een bestand:
+    </string>
+  <string name="message_backup_failed">
+        Back-upbestand opslaan mislukt, probeer opnieuw. Rapporteer probleem naar app publisher via de feedbackoptie in deze app als het probleem zich blijft voordoen.
+    </string>
+</resources>

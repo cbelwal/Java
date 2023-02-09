@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="duplicate_whatsapp_name_all_match">名称 + 与 WhatsApp 号相匹配</string>
+  <string name="duplicate_whatsapp_same_number_multi_name">在多个名称相同的 WhatsApp 号</string>
+  <string name="duplicate_options_name_matches_email_phone">名称 + 电话/电子邮件匹配</string>
+  <string name="duplicate_options_name_matches_phone">名称 + 电话匹配</string>
+  <string name="duplicate_options_name_matches_email">名称 + 电子邮件匹配</string>
+  <string name="duplicate_options_same_number_multi_name">相同数量的多个名称</string>
+  <string name="duplicate_options_same_email_multi_name">在多个名称相同的电子邮件</string>
+  <string name="duplicate_options_none">没有一个</string>
+  <string name="progressbar_sel_duplicates">正在扫描的重复项...</string>
+  <string name="message_duplicates_selected">要删除所选的 duplicate(s)，请按删除图标。每个重复的 original(master) 值不选择，并且不会被删除。</string>
+  <string name="choose_duplicate_option">选择的标准确定重复项。
+        重复他们的 original(master) 值将显示在主屏幕，并将自动检查为删除。不检查 Original(master) 值。</string>
+  <string name="startup_message">使用重复的图标在右上角设置视图选项重复项</string>
+  <string name="message_duplicates_backup">建议您在删除之前备份您的联系人</string>
+</resources>

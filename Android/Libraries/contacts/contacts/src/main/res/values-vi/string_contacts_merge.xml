@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Địa chỉ liên lạc hợp nhất</string>
+  <string name="action_merge">Nhập Contact(s)</string>
+  <string name="message_merge_title">Thận trọng</string>
+  <string name="message_merge_confirm">Xin vui lòng xác nhận nếu bạn muốn kết hợp địa chỉ liên hệ đã chọn? Số điện thoại, địa chỉ email, địa chỉ bưu điện, lưu ý và địa chỉ liên lạc đã chọn tất cả các sự kiện sẽ được sáp nhập vào một số liên lạc duy nhất có tên: </string>
+  <string name="message_merge_complete">Địa chỉ liên hệ đã chọn đã được sáp nhập</string>
+  <string name="progressbar_merge_data">Việc sáp nhập các địa chỉ liên lạc...</string>
+</resources>

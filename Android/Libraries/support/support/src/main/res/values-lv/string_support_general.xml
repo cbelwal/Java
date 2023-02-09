@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic, LLC</string>
+  <string name="feedback_no_email">Nav atrasta e-pasta klientiem</string>
+  <string name="button_yes">jā</string>
+  <string name="button_no">nē</string>
+  <string name="nav_menu_help_doc">Palīdzība dokumentācija</string>
+  <string name="button_rate_never">Nekad</string>
+  <string name="button_rate_later">Vēlāk</string>
+  <string name="button_rate_now">Tagad</string>
+  <string name="title_rate_this_app">Lūdzu, novērtējiet šo app</string>
+  <string name="title_feedback">Atlasiet e-pasta opcijas...</string>
+  <string name="title_demo_video">Demonstrācijas Video</string>
+  <string name="title_tellafriend">Pastāstīt draugam pa...</string>
+  <string name="title_send_feedback">Sazinieties ar mums</string>
+  <string name="title_rate_app">Kursa app</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">ไม่ได้รับสิทธิ์การโทรกับ app นี้</string>
+  <string name="message_search_number_security_exception">ไม่สามารถค้นหาหมายเลขโทรศัพท์นี้ ไม่มีการเปิดใช้งานค้นหาของ Google หรือไม่ได้รับสิทธิ์ในอุปกรณ์นี้</string>
+  <string name="message_free_version_selection">
+        รายการแฟ้มบันทึกสูงสุดที่สามารถเลือกได้ในรุ่นฟรีคือ: </string>
+  <string name="message_purchase_error">
+        ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ของ Google กรุณารีสตาร์ทแอ และลองอีกครั้ง
+    </string>
+</resources>

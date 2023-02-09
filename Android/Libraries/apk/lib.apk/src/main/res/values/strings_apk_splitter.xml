@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_split_apk">View Package (APK) Contents</string>
+    <string name="message_extract_contents_progress">Extracting package contents ...</string>
+    <string name="message_extract_contents_complete">Extracting package contents completed</string>
+    <string name="message_extract_contents_error">Error in extracting package contents. You have not have free space to extract contents.</string>
+</resources>

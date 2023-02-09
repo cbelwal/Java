@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Vispārējā</string>
+  <string name="nav_menu_group_help">palīgā</string>
+  <string name="nav_menu_group_viewoptions">Opcijas</string>
+  <string name="nav_menu_group_views">Viedokli</string>
+  <string name="nav_menu_group_operations">Operācijas</string>
+  <string name="nav_menu_group_backup">Rezerves</string>
+  <string name="nav_menu_rate_this_app">Atsauksmes</string>
+  <string name="nav_menu_backup_contacts">Dublēt visus kontaktus</string>
+  <string name="nav_menu_restore_contacts">Atjaunotu kontaktus no dublējuma</string>
+  <string name="nav_menu_upgrade">Jaunināšanas uz Pro versiju</string>
+  <string name="nav_menu_filter">Displejs filtrs</string>
+  <string name="nav_menu_duplicates">Dublikāti Toolkit</string>
+  <string name="nav_menu_tellafriend">Pastāsti draugam</string>
+  <string name="nav_menu_feedback">Kontakti Dasmic</string>
+  <string name="nav_menu_demovideo">Demonstrācijas Video</string>
+  <string name="nav_menu_coju_outlook">Coju Microsoft Outlook</string>
+  <string name="nav_menu_coju">Lejupielādēt Coju</string>
+  <string name="display_options_all_TimesContacted">Kārtots pēc sazināšanās reizes</string>
+  <string name="display_options_all_last_contact">Kārtots pēc pēdējā kontakta laiks</string>
+  <string name="display_options_all">Kārtot pēc nosaukuma</string>
+  <string name="display_options_phonenumber">Sakārtotā tālruņu numurus</string>
+  <string name="display_options_email">Kārtot e-pasta adreses</string>
+  <string name="display_options_deleted">Dzēst kontaktpersonu</string>
+  <string name="display_options_refresh">Atsvaidzinātu displeju</string>
+  <string name="action_Operations">Lielākā daļa atjauninājumu</string>
+  <string name="action_Export">Kontakts (i) eksporta</string>
+  <string name="action_delete">Dzēst kontaktu (s)</string>
+  <string name="action_Import">Importētu kontakts (i)</string>
+  <string name="action_edit">Labot kontaktpersonu</string>
+  <string name="action_add">Pievienot kontaktu</string>
+  <string name="action_share">Kontakts (i daļa)</string>
+  <string name="action_bluetooth">Bluetooth pārsūtīšana</string>
+</resources>

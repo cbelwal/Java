@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">елемент(а)</string>
+  <string name="general_selected_items">избрани</string>
+  <string name="general_error">Грешка</string>
+  <string name="title_confirm">Потвърдете</string>
+  <string name="button_ok">OK</string>
+  <string name="button_cancel">Отказ</string>
+  <string name="free_space">Общо свободно пространство:</string>
+  <string name="title_share">Споделяне с помощта на:</string>
+  <string name="title_rename">Въведете ново име  </string>
+  <string name="title_create_folder">Въведете име на папка  </string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic, LLC</string>
+  <string name="feedback_no_email">Ingen e-mail-klienter, der er fundet</string>
+  <string name="button_yes">Ja</string>
+  <string name="button_no">Nej</string>
+  <string name="nav_menu_help_doc">Hjælp-dokumentation</string>
+  <string name="button_rate_never">Aldrig</string>
+  <string name="button_rate_later">Senere</string>
+  <string name="button_rate_now">Nu</string>
+  <string name="title_rate_this_app">Vurder denne app</string>
+  <string name="title_feedback">Vælg indstilling for e-mail...</string>
+  <string name="title_demo_video">Demo Video</string>
+  <string name="title_tellafriend">Fortæl en ven via...</string>
+  <string name="title_send_feedback">Kontakt os</string>
+  <string name="title_rate_app">Sats app</string>
+</resources>

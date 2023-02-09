@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="20dp"
+    xmlns:ads="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btnCancel"
+            android:text="@string/button_Close"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="-4dp"
+            android:layout_marginLeft="-5dp"
+            />
+
+
+        <Button
+            android:id="@+id/btnSend"
+            android:text="@string/button_Apply"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="-4dp"
+            android:layout_marginRight="-5dp"/>
+
+        <!--android:layout_marginLeft="-5dp"-->
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp">
+
+        <ScrollView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp">
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+                    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:text="@string/filter_text_condition"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="2"
+                        android:orientation="vertical"
+                        android:layout_marginTop="0dp"
+                        android:textSize="18sp"
+                        android:textStyle="bold">
+                    </TextView>
+
+                    <Spinner xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:id="@+id/spinnerFilterShow"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:layout_marginTop="0dp"
+                        android:textSize="18sp">
+                    </Spinner>
+                </LinearLayout>
+                <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+                    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:id="@+id/tvFilterOption"
+                        android:text=""
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="2"
+                        android:orientation="vertical"
+                        android:layout_marginTop="0dp"
+                        android:textSize="18sp"
+                        android:textStyle="bold">
+                    </TextView>
+
+                    <EditText xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:id="@+id/textFilterOptionValue"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:layout_marginTop="0dp"
+                        android:textSize="18sp">
+                    </EditText>
+                </LinearLayout>
+                <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+                    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:text="@string/filter_text_option"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="2"
+                        android:orientation="vertical"
+                        android:layout_marginTop="0dp"
+                        android:textSize="18sp"
+                        android:textStyle="bold">
+                    </TextView>
+
+                    <Spinner xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:id="@+id/spinnerFilterOptions"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:layout_marginTop="0dp"
+                        android:textSize="18sp">
+                    </Spinner>
+                </LinearLayout>
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</LinearLayout>

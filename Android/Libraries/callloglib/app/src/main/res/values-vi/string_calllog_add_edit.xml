@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_calllog_number">Số điện thoại</string>
+  <string name="text_calllog_date">Ngày</string>
+  <string name="text_calllog_time">Thời gian</string>
+  <string name="text_calllog_duration">Duration(s)</string>
+  <string name="text_calllog_type">Loại hình</string>
+  <string name="spinner_calllog_type_incoming">Cuoäc goïi ñeán</string>
+  <string name="spinner_calllog_type_outgoing">Gửi đi</string>
+  <string name="spinner_calllog_type_missed">Bỏ qua</string>
+  <string name="message_calllog_added">Thêm vào cuộc gọi đăng nhập thành công</string>
+  <string name="message_calllog_added_error">Thất bại trong việc thêm gọi đăng nhập</string>
+  <string name="message_calllog_edited">Cập Nhật thành công cuộc gọi đăng nhập</string>
+  <string name="message_calllog_edited_error">Thất bại trong việc Cập Nhật Nhật ký cuộc gọi</string>
+</resources>

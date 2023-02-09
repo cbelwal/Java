@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Razvrščenih po času</string>
+  <string name="nav_view_outgoingcalls_cl">Odhodne klice</string>
+  <string name="nav_view_incomingcalls_cl">Dohodne klice</string>
+  <string name="nav_view_missedcalls_cl">Neodgovorjeni klici</string>
+  <string name="nav_view_callduration_cl">Razvrščeni po trajanju</string>
+  <string name="nav_view_geocoded_location_cl">Razvrščenih po lokaciji</string>
+  <string name="nav_view_refresh_cl">Osveži</string>
+  <string name="nav_view_100_records">Upto 100</string>
+  <string name="nav_view_500_records">Upto 500</string>
+  <string name="nav_view_all_records">Vse na voljo</string>
+  <string name="nav_menu_group_general_cl">Splošna</string>
+  <string name="nav_menu_group_help_cl">pomoč</string>
+  <string name="nav_menu_group_log_length">Namenom Count</string>
+  <string name="nav_menu_group_viewoptions_cl">Možnosti</string>
+  <string name="nav_menu_group_views_cl">Ogledov</string>
+  <string name="nav_menu_group_operations_cl">Operacije</string>
+  <string name="nav_menu_group_backup_cl">Varnostno kopiranje</string>
+  <string name="nav_menu_rate_this_app_cl">Povratne informacije</string>
+  <string name="nav_menu_backup_contacts_cl">Varnostno kopiranje vse vnose v dnevnik klicev</string>
+  <string name="nav_menu_restore_contacts_cl">Dnevnik klicev obnoviti iz varnostne kopije</string>
+  <string name="nav_menu_upgrade_cl">Vzpenjajoč se v zagovornik predloga prevod</string>
+  <string name="nav_menu_filter_cl">Filter prikaza</string>
+  <string name="nav_menu_duplicates_cl">Dvojnike Toolkit</string>
+  <string name="nav_menu_tellafriend_cl">Povej prijatelju</string>
+  <string name="nav_menu_feedback_cl">Obrnite Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Demonstracija televizija</string>
+  <string name="nav_menu_coju_cl">Travnato gričevje Coju</string>
+  <string name="menu_operations_cl">Množične posodobitve</string>
+  <string name="menu_add_cl">Dodaj</string>
+  <string name="menu_edit_cl">Urejanje</string>
+  <string name="menu_update_cl">Posodobitev</string>
+  <string name="menu_share_cl">Delež</string>
+  <string name="menu_export_cl">Izvoz</string>
+  <string name="menu_import_cl">Uvoz</string>
+  <string name="menu_delete_cl">Izbrisati</string>
+  <string name="menu_bluetooth_cl">Bluetooth prenos</string>
+</resources>

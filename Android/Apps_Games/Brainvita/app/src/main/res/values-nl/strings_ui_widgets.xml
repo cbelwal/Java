@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">Nieuw spel</string>
+  <string name="button_switch_board">Overschakelen van de Raad van bestuur</string>
+  <string name="button_custom_board">Set gebruikersspecifieke</string>
+  <string name="button_high_scores">Hoge Scores</string>
+  <string name="button_rate_app">Stem op dit spel</string>
+  <string name="button_tell_a_friend">Vertel een vriend</string>
+  <string name="button_paid_version">Betaalde versie</string>
+  <string name="button_help_documentation">Help-documentatie</string>
+  <string name="button_demo_video">Video van de manifestatie</string>
+  <string name="button_ok">OK</string>
+  <string name="button_yes">Ja</string>
+  <string name="button_no">No</string>
+  <string name="button_start">Start</string>
+  <string name="button_cancel">Annuleren</string>
+  <string name="button_abort">Afbreken</string>
+  <string name="button_high_score_close">Sluiten</string>
+  <string name="title_high_score">Top tien High Scores</string>
+  <string name="text_high_score_none">Geen Score</string>
+  <string name="text_high_score_pegs">Overige peg(s)</string>
+  <string name="text_high_score_time">Tijd</string>
+</resources>

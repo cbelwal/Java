@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Hívásnaplózás megjelenítése</string>
+  <string name="app_folder">CallLogManager</string>
+  <string name="call_from_unknown">Ismeretlen</string>
+  <string name="button_Yes">igen</string>
+  <string name="button_No">nem</string>
+  <string name="button_Apply">Alkalmazása</string>
+  <string name="button_Close">Zár</string>
+  <string name="general_not_Available">Nem áll rendelkezésre</string>
+  <string name="general_items">eszköz (ök)</string>
+  <string name="general_selected_items">a kiválasztott</string>
+  <string name="title_confirm">Győződjön meg arról</string>
+  <string name="title_dialog_coju">Letöltés Coju</string>
+  <string name="message_selectitems">Atleast 1 naplóbejegyzést kell kiválasztani</string>
+  <string name="message_download_coju">Coju egy integrált kapcsolat vezetés app. Ez birtokol minden a jellegét meghatározza-ból ez app plusz további lehetőségeket. Majd kíván letölteni Coju?</string>
+  <string name="message_contact_permissions_missing">Ez app, hogy a munka kapcsolatok engedélyek szükségesek. App most zárja be, kérjük adjon, és próbálja újra</string>
+  <string name="message_other_permissions_missing">Ez app vonás-hoz dolgozik kért engedélyek szükségesek.
+        Kérjük adja meg a kért engedélyeket, majd próbálkozzon újra</string>
+</resources>

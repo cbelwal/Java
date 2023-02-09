@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">Atbloķēta kontakts (i)</string>
+  <string name="display_options_blocked">Bloķēto kontaktu (s)</string>
+  <string name="action_block">Block</string>
+  <string name="action_unblock">Atbloķēt</string>
+  <string name="message_blocking_contacts">Bloķēt kontaktu (s)</string>
+  <string name="message_unblocking_contacts">Atbloķēšanas kontakts (i)</string>
+  <string name="message_block_unblock_complete">Atjaunināt visas atlasītajai kontakts (i) </string>
+  <string name="message_block_unblock_error">Radās kļūda, atjauninot dažu izvēlēto kontaktu (s)</string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Kan ikke koble til Google-server. Vennligst start programmet og prøv på nytt
+    </string>
+  <string name="progressbar_load_data">Søker etter lydfiler...</string>
+  <string name="message_selectitems">Atleast 1 valg kreves</string>
+  <string name="message_activity_load_fail">Programmet kan ikke startes</string>
+  <string name="message_activity_loading">Starter programmet...</string>
+  <string name="message_other_permissions_missing">Forespurte tillatelser kreves for funksjonen. Vennligst gi forespurte tillatelsene og prøv på nytt
+    </string>
+  <string name="message_no_read_permission">Lesebeskyttet
+    </string>
+  <string name="message_cannot_go_in">Kunne ikke gå i valgt mappe
+    </string>
+  <string name="message_delete_confirm">Valgte filer (s) slettes. Denne handlingen kan ikke angres. Vil du fortsette?</string>
+  <string name="progressbar_delete_data">
+        Slette filer </string>
+  <string name="message_delete_complete"> fil / mappe(r) slettet</string>
+  <string name="message_free_version_selection">
+        Maksimal filer som kan velges i gratis versjon er: </string>
+  <string name="message_max_allowed_one">
+        Dette alternativet fungerer bare for et enkelt utvalg  </string>
+  <string name="message_only_file">
+        Dette alternativet fungerer bare for fil(er)  </string>
+  <string name="message_copying_file">
+        Kopiere filen...  </string>
+  <string name="message_copy_complete">
+        Filkopiering er fullført. Filnavn vil ta flere minutter å dukke opp i media butikken.  </string>
+  <string name="message_copy_error">
+        Kan ikke opprette en kopi av noen filer. Kontroller at det er ledig plass og du har skrivetilgang til mappen.</string>
+  <string name="message_share_error">
+        Det oppstod en feil under kopi. Kontroller om du har nok lagringsplass cache delte filer  </string>
+  <string name="message_zipping_files">
+        Komprimere filer / mapper...  </string>
+  <string name="message_zipping_completed">
+        Alle filer / mapper flyttet zip-arkiv  </string>
+  <string name="message_zipping_error">
+        Kunne ikke zip filene / mappene. Kontroller om merkede mapper er ikke tom, og du har tilstrekkelig lagringsplass</string>
+  <string name="message_rename_complete">
+        Endre navn på filen/mappen fullstendig. Nytt navn vil ta flere minutter i mediabutikk.  </string>
+  <string name="message_rename_error">
+        Kan ikke gi nytt navn fil/mappe  </string>
+  <string name="message_create_folder_complete">
+        Mappen opprettet  </string>
+  <string name="message_create_folder_error">
+        Kan ikke opprette mappe  </string>
+  <string name="message_error_audio_play">
+        Kan ikke spille av lyd </string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">समय द्वारा सॉर्ट किया गया</string>
+  <string name="nav_view_outgoingcalls_cl">आउटगोइंग कॉल</string>
+  <string name="nav_view_incomingcalls_cl">इनकमिंग कॉल</string>
+  <string name="nav_view_missedcalls_cl">छूटी कॉलें</string>
+  <string name="nav_view_callduration_cl">समयावधि द्वारा सॉर्ट किया गया</string>
+  <string name="nav_view_geocoded_location_cl">स्थान द्वारा सॉर्ट किया गया</string>
+  <string name="nav_view_refresh_cl">ताज़ा करें</string>
+  <string name="nav_view_100_records">तक 100</string>
+  <string name="nav_view_500_records">तक 500</string>
+  <string name="nav_view_all_records">सभी उपलब्ध</string>
+  <string name="nav_menu_group_general_cl">सामान्य</string>
+  <string name="nav_menu_group_help_cl">मदद</string>
+  <string name="nav_menu_group_log_length">दृश्य गणना</string>
+  <string name="nav_menu_group_viewoptions_cl">विकल्प</string>
+  <string name="nav_menu_group_views_cl">विचारों</string>
+  <string name="nav_menu_group_operations_cl">संचालन</string>
+  <string name="nav_menu_group_backup_cl">बैकअप</string>
+  <string name="nav_menu_rate_this_app_cl">प्रतिक्रिया</string>
+  <string name="nav_menu_backup_contacts_cl">सभी कॉल लॉग प्रविष्टियों बैकअप</string>
+  <string name="nav_menu_restore_contacts_cl">कॉल लॉग बैकअप से पुनर्स्थापित करें</string>
+  <string name="nav_menu_upgrade_cl">नवीनीकरण करने के लिए प्रो संस्करण</string>
+  <string name="nav_menu_filter_cl">फ़िल्टर प्रदर्शित करें</string>
+  <string name="nav_menu_duplicates_cl">डुप्लिकेट टूलकिट</string>
+  <string name="nav_menu_tellafriend_cl">एक मित्र को बताएँ</string>
+  <string name="nav_menu_feedback_cl">संपर्क Dasmic</string>
+  <string name="nav_menu_demovideo_cl">डेमो वीडियो</string>
+  <string name="nav_menu_coju_cl">Coju डाउनलोड</string>
+  <string name="menu_operations_cl">अद्यतनों का एकमुश् त</string>
+  <string name="menu_add_cl">जोड़ें</string>
+  <string name="menu_edit_cl">संपादित करें</string>
+  <string name="menu_update_cl">अद्यतन</string>
+  <string name="menu_share_cl">साझा करें</string>
+  <string name="menu_export_cl">निर्यात करें</string>
+  <string name="menu_import_cl">आयात</string>
+  <string name="menu_delete_cl">हटाएँ</string>
+  <string name="menu_bluetooth_cl">ब्लूटूथ स्थानांतरण</string>
+</resources>

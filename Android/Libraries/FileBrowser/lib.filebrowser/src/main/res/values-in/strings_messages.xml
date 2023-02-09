@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Tidak dapat menyambung ke Google server. Silakan restart aplikasi dan coba lagi
+    </string>
+  <string name="progressbar_load_data">Memuat informasi folder...</string>
+  <string name="message_selectitems">Atleast 1 pilihan diperlukan</string>
+  <string name="message_activity_load_fail">Aplikasi tidak dapat dimulai</string>
+  <string name="message_activity_loading">Mulai aplikasi...</string>
+  <string name="message_other_permissions_missing">Diminta izin diperlukan untuk fitur ini untuk bekerja. Silakan memberikan izin yang diminta dan coba lagi
+    </string>
+  <string name="message_no_read_permission">Tidak membaca izin
+    </string>
+  <string name="message_cannot_go_in">Tidak bisa pergi di dalam Folder yang dipilih
+    </string>
+  <string name="message_delete_confirm">File yang dipilih (s) akan dihapus. Tindakan ini tidak dapat dikembalikan. Melanjutkan?</string>
+  <string name="progressbar_delete_data">
+        Menghapus file </string>
+  <string name="message_delete_complete"> file / folder dihapus</string>
+  <string name="message_free_version_selection">
+        File maksimum yang dapat dipilih dalam versi gratis adalah: </string>
+  <string name="message_max_allowed_one">
+        Pilihan ini hanya bekerja untuk sebuah pilihan single  </string>
+  <string name="message_only_file">
+        Pilihan ini hanya bekerja untuk file  </string>
+  <string name="message_copying_file">
+        Menyalin file...  </string>
+  <string name="message_copy_complete">
+        Copy file lengkap  </string>
+  <string name="message_copy_error">
+        Tidak dapat membuat salinan file beberapa</string>
+  <string name="message_share_error">
+        Kesalahan ditemukan selama salinan. Silakan periksa jika Anda memiliki ruang penyimpanan yang cukup untuk men-cache bersama file  </string>
+  <string name="message_zipping_files">
+        Mengompresi file / folder...  </string>
+  <string name="message_zipping_completed">
+        Semua file / folder dipindahkan ke zip Arsip  </string>
+  <string name="message_zipping_error">
+        Tidak bisa zip file / folder. Periksa jika folder tidak kosong dan Anda memiliki ruang penyimpanan yang cukup</string>
+  <string name="message_rename_complete">
+        Mengubah nama file/folder yang lengkap  </string>
+  <string name="message_rename_error">
+        Tidak dapat mengubah nama file/folder yang  </string>
+  <string name="message_create_folder_complete">
+        Folder yang dibuat  </string>
+  <string name="message_create_folder_error">
+        Tidak dapat membuat folder  </string>
+  <string name="message_file_open_error">
+        Tidak dapat membuka file  </string>
+</resources>

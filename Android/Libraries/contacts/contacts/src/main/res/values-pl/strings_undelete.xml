@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Wybrane kontakty zostaną cofnięte. Proszę o potwierdzenie, czy chcesz kontynuować?</string>
+  <string name="message_undelete_complete"> Kontakty odzyskany</string>
+  <string name="message_undelete_notice">Ta opcja będzie lista kontaktów, które mogą być cofnięte i zależy od producenta urządzenia lub wersja dla systemu Android. Styki nie mogą być odzyskane, jeśli urządzenie nie pozwala na to, kilka godzin temu zostały usunięte kontakty lub kontakty zostały usunięte z karty SIM.</string>
+  <string name="message_undelete_option_invalid">Ta opcja nie jest prawidłowy dla usunięte kontakty
+        </string>
+  <string name="message_undelete_help">Wybierz kontakty i je przywrócić za pomocą ikony undelete w prawym górnym rogu</string>
+  <string name="progressbar_undelete_data">Odzyskiwanie kontaktów </string>
+  <string name="action_undelete">Przywrócić kontakty</string>
+  <string name="button_understand">Rozumiem</string>
+  <string name="title_disclaimer">WYŁĄCZENIE ODPOWIEDZIALNOŚCI</string>
+  <string name="title_no_undelete_found">Przepraszamy!</string>
+  <string name="message_no_undelete_found">
+        Przykro nam, nie można odzyskać usunięte kontakty zostały znalezione! Możesz spróbować odzyskać je za pomocą instrukcji sposób sugerowane przez Google, twórcy Android.
+        Czy chcesz odwiedzić stronę internetową pomocy technicznej Google, który ma instrukcje ręcznego odzyskiwania?
+    </string>
+</resources>

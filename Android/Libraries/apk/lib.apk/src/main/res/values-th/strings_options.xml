@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="share_options_ShareUsing">แบ่งปันโดยใช้:</string>
+  <string name="share_options_allshare">จัดเก็บอี เมล/Wifi/เมฆ (แฟ้มขนาดใหญ่อาจมีปัญหา)</string>
+  <string name="export_options_externalStorage">เก็บข้อมูลภายนอก</string>
+  <string name="export_options_ExportAs">รูปแบบการส่งออก:</string>
+  <string name="export_options_ExportUsing">แบ่งปันไฟล์ APK ผ่าน:</string>
+  <string name="progressbar_prepare_data">กำลังเตรียมชุดโปรแกรม... </string>
+</resources>

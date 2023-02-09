@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">Zapora tekmovanje v teku</string>
+  <string name="message_stop_tasks">Ustavljanje, izvaja naloge.</string>
+  <string name="message_user_tasks_stopped">Naloge uporabnika ustavil</string>
+  <string name="message_system_tasks_stopped">Sistem naloge ustavil</string>
+  <string name="message_process_still_running">Naloge, ki še vedno teče</string>
+  <string name="message_stop_running_tasks">Zapora tekmovanje v teku apps in zaprite Bluetooth/Wireless?</string>
+  <string name="message_stopping_running_tasks">Ustavitev Bluetooth ter brezžično telegrafirati</string>
+  <string name="message_battery_current_percentage">Trenutne baterije ravni %:</string>
+  <string name="message_no_user_process">Ne tekmovanje v teku proces uporabnik našel</string>
+</resources>

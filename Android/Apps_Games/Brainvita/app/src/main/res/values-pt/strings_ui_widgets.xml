@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">Novo jogo</string>
+  <string name="button_switch_board">Placa do interruptor</string>
+  <string name="button_custom_board">Conjunto de placa personalizada</string>
+  <string name="button_high_scores">Pontuações mais altas</string>
+  <string name="button_rate_app">Taxa de jogo</string>
+  <string name="button_tell_a_friend">Indique a um amigo</string>
+  <string name="button_paid_version">Versão paga</string>
+  <string name="button_help_documentation">Documentação de ajuda</string>
+  <string name="button_demo_video">Vídeo de demonstração</string>
+  <string name="button_ok">Okey</string>
+  <string name="button_yes">Sim</string>
+  <string name="button_no">Não</string>
+  <string name="button_start">Início</string>
+  <string name="button_cancel">Cancelar</string>
+  <string name="button_abort">Abort</string>
+  <string name="button_high_score_close">Fechar</string>
+  <string name="title_high_score">Top dez elevado contagens</string>
+  <string name="text_high_score_none">Sem Pontuação</string>
+  <string name="text_high_score_pegs">Peg(s) restantes</string>
+  <string name="text_high_score_time">Tempo</string>
+</resources>

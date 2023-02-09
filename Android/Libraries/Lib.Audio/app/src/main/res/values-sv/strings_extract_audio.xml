@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Filnamn:</string>
+  <string name="text_ep_file_size">Storlek:</string>
+  <string name="text_ep_modified_date">Ändringsdatum:</string>
+  <string name="text_ep_duration">Spellängd:</string>
+  <string name="title_search_depth">Sök djup (stora värden kommer att ta flera minuter)</string>
+  <string name="progressbar_extracting_audio">Extrahera ljud (kan ta flera minuter)...</string>
+  <string name="progressbar_loading_audio">Laddar ljud Fildetaljer...</string>
+  <string name="text_ep_time_start">Starta time(seconds)</string>
+  <string name="text_ep_period">Varaktigheten av varje ljud file(seconds)</string>
+  <string name="text_ep_store">Lagra nya ljud filer som:</string>
+  <string name="text_ep_share_external">Placera i externa mapp</string>
+  <string name="text_ep_share_app">Dela med hjälp av program</string>
+  <string name="message_extract_complete"> M4A filer har skapats</string>
+  <string name="message_extract_error">Ett fel uppstod i att skapa ljudfiler</string>
+  <string name="message_search_depth_updated">Sök djup uppdaterades</string>
+  <string name="message_search_depth_error">Fel i uppdatering Sök djup</string>
+  <string name="message_load_complete">Ljudfil detaljer har lästs</string>
+  <string name="message_load_error">Ett fel uppstod vid inläsning av ljud</string>
+  <string name="message_extract_duration_reduced"> Senaste ljudfil varaktighet reducerades som slutet av ljud nåddes </string>
+  <string name="message_extract_incomplete"> %1$ d ljud fil(er) kunde inte skapas eller har ofullständiga uppgifter</string>
+  <string name="message_extract_signature">Skickas via Audio rivjärn från coju.mobi™</string>
+</resources>

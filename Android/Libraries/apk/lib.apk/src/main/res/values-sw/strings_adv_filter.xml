@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">Imewekwa katika siku za mwisho 30</string>
+  <string name="filter_adv_options_security_inappbilling">Ana katika programu bili</string>
+  <string name="filter_adv_options_security_readsms">Unaweza kusoma SMS</string>
+  <string name="filter_adv_options_security_sendsms">Unaweza kutuma SMS</string>
+  <string name="filter_adv_options_security_readcontacts">Unaweza kusoma wawasiliani</string>
+  <string name="filter_adv_options_security_readcalllog">Unaweza kusoma logi wito</string>
+  <string name="filter_adv_options_security_readcalender">Unaweza kusoma calender</string>
+  <string name="filter_adv_options_security_writeexternalstorage">Unaweza kuandika kwenye Hifadhi ya nje</string>
+  <string name="filter_adv_options_security_camera">Unaweza kufikia kamera</string>
+  <string name="filter_adv_options_security_mic">Kurekodi sikizi</string>
+  <string name="filter_adv_options_security_location">Kufikia eneo lako</string>
+  <string name="filter_adv_options_filter">Kuamilisha usalama Filter(s)</string>
+  <string name="filter_main_text">Usalama Machaguo ya Kichujio (tu programu vinavyolingana mmoja kigezo haya itakuwa visas):</string>
+  <string name="activity_security_filter">Onyesha programu hasidi Kichujio</string>
+</resources>

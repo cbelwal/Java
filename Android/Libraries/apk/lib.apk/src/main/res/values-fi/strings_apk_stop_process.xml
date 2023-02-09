@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">Lopetetaan</string>
+  <string name="message_stop_tasks">Pysäyttäminen suoritettavat tehtävät...</string>
+  <string name="message_user_tasks_stopped">Käyttäjän tehtävät pysähtyi</string>
+  <string name="message_system_tasks_stopped">Järjestelmätehtävien pysähtyi</string>
+  <string name="message_process_still_running">Tehtäviä käynnissä</string>
+  <string name="message_stop_running_tasks">Seis jatkuva apps ja sulkea langaton Bluetooth?</string>
+  <string name="message_stopping_running_tasks">Pysäyttäminen Bluetooth ja langaton</string>
+  <string name="message_battery_current_percentage">Nykyinen akun tasolla %:</string>
+  <string name="message_no_user_process">Ei käynnissä käyttäjäprosessi löytyy</string>
+</resources>

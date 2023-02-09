@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Selamat, Anda punya Skor tinggi!</string>
+  <string name="message_game_end_new_game">Permainan saat ini terserah! Apakah Anda ingin memulai permainan baru?</string>
+  <string name="message_custom_board">Tekan pada lubang-lubang yang kosong untuk kecepatan pasak. Ketuk tombol kunci ketika lengkap</string>
+  <string name="message_custom_board_done">Dewan kustom setup, Anda dapat mulai bermain.
+    Perhatikan bahwa nilai yang tinggi untuk kustom papan tidak tercatat</string>
+  <string name="message_intro_first">
+        Memindahkan pasak ke lubang tersedia dalam garis lurus melompati pasak lain
+    </string>
+  <string name="message_intro_second">Pasak melompati dihapus</string>
+  <string name="message_intro_third">Mencoba untuk menghapus pasak sebanyak mungkin</string>
+  <string name="message_intro_fourth">Mendapatkan hanya 1 pasak tersisa adalah tujuan</string>
+  <string name="message_board_reset_confirm">Ini akan membatalkan Dewan saat ini. Apakah Anda ingin melanjutkan?</string>
+  <string name="message_game_over">Bergerak lagi mungkin. Permainan terserah!</string>
+  <string name="message_solver_complete">Solver telah dihitung gerakan yang menyebabkan jumlah minimum pegs.\n\nUse tombol Forward untuk melihat Dewan bergerak.</string>
+  <string name="message_solver_complete_free">Solver telah dihitung gerakan yang menyebabkan jumlah minimum pasak. Karena ini adalah versi gratis, solver dapat menemukan solusi yang mengarah ke minimal 3 pasak hanya. Dalam versi dibayar solver dapat menemukan solusi dengan 1 peg.\n\nUse tombol Forward untuk melihat Dewan bergerak.
+    </string>
+  <string name="message_solver_complete_title">Menemukan solusi dengan pasak: </string>
+  <string name="message_solver_inprogress_title">Mencari solusi...</string>
+  <string name="message_solver_inprogress">Saat ini terendah pasak count: </string>
+  <string name="message_solver_start_confirm">Tergantung pada Dewan saat ini, Solver mungkin mengambil beberapa detik hingga beberapa menit dalam komputasi solusi dengan sedikitnya jumlah pasak.
+    Karena Solver tidak banyak perhitungan, ini akan menguras daya baterai.
+        Disarankan bahwa Anda menempatkan telepon Anda pada biaya sebelum memulai solver.
+    Sementara menjalankan Solver dapat dihentikan setiap saat dan hasil pasak terbaru akan tersedia.</string>
+  <string name="message_solver_mode_play_board">
+        Tidak bisa memainkan permainan mode solver. Pilih Game baru untuk memulai permainan baru</string>
+  <string name="message_confirm_switch_from_standard">
+        Dewan saat ini diatur ke standar, Apakah Anda ingin mengubah ke papan Perancis?</string>
+  <string name="message_confirm_switch_from_French">
+        Dewan saat ini diatur ke Perancis, Apakah Anda ingin mengubah ke Villa?</string>
+</resources>

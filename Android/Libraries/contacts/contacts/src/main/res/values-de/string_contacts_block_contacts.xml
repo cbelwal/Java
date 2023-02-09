@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_options_non_blocked">Entsperrte Kontakt(e)</string>
+  <string name="display_options_blocked">Blockierte Kontakte</string>
+  <string name="action_block">Block</string>
+  <string name="action_unblock">Entsperren</string>
+  <string name="message_blocking_contacts">Kontakte blockieren</string>
+  <string name="message_unblocking_contacts">Aufheben der Blockierung Kontakt(e)</string>
+  <string name="message_block_unblock_complete">Alle ausgewählten Kontakte aktualisiert </string>
+  <string name="message_block_unblock_error">Gab es ein Fehler bei der Aktualisierung einige ausgewählte Kontakte</string>
+</resources>

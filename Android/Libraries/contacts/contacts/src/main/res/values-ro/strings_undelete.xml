@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Persoana de contact selectată va fi anulată. Vă rugăm să confirmaţi dacă doriţi să continuaţi?</string>
+  <string name="message_undelete_complete"> persoana de contact restabili</string>
+  <string name="message_undelete_notice">Această opţiune va lista de contacte care poate fi anulată şi depinde de producător de dispozitiv sau de versiunea de Android. Persoane de contact nu pot fi recuperate în cazul în care aparatul nu permite aceasta, persoane de contact s-au şters câteva ore în urmă sau contacte au fost şterse de pe cartela SIM.</string>
+  <string name="message_undelete_option_invalid">Această opţiune nu este valabilă pentru contacte şterse
+        </string>
+  <string name="message_undelete_help">Vă rugăm să selectaţi persoanele de contact şi de a folosi pictograma undelete în dreapta sus la spre undelete le</string>
+  <string name="progressbar_undelete_data">Persoana de contact undeleting </string>
+  <string name="action_undelete">Undelete contactele</string>
+  <string name="button_understand">înţeleg</string>
+  <string name="title_disclaimer">TERMENI DE UTILIZARE</string>
+  <string name="title_no_undelete_found">îmi pare rău!</string>
+  <string name="message_no_undelete_found">
+        Ne cerem scuze, s-au găsit nici un contact recuperabile şterse! Puteţi încerca să recupereze-le folosind un mod manual sugerate de Google, dezvoltatorii de Android.
+        Va place sa vizitati pagina de Google suport care are instrucţiuni manual de recuperare?
+    </string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_check_for_feedback">มีปัญหากับแอป จะคุณต้องการส่งอีเมลถึงผู้เผยแพร่ และแก้ไขปัญหา</string>
+  <string name="message_check_for_rating">คุณจะต้องการแสดงความคิดเห็นสำหรับ app นี้</string>
+  <string name="message_tellafriend_subject">เช็คนี้</string>
+  <string name="message_email_send_error">ข้อผิดพลาดในการส่งอีเมล</string>
+  <string name="message_tellafriend_body">เฮ้ เช็ค app:\n เย็นนี้</string>
+  <string name="message_start_activity_error">เกิดปัญหาขึ้นในการเริ่มต้นกิจกรรมด้วย \n</string>
+  <string name="message_demo_video">คุณจะต้องการดูวิดีโอสาธิต
+        (ข้อความนี้จะแสดงเพียงครั้งเดียว)</string>
+  <string name="message_help_documentation_fail">ไม่สามารถโหลดเอกสารวิธีใช้
+    กรุณาเยี่ยมชม http://www.dasmic.com ในเบราว์เซอร์เพื่อดูความช่วยเหลือ</string>
+  <string name="message_rate_this_app">คุณสามารถช่วยผู้อื่นจากการจัดอันดับ app นี้</string>
+  <string name="message_rate_this_app_error">ไม่สามารถเปิดหน้าคะแนน กรุณาใช้ร้านค้า Google Play เพื่อให้การจัดอันดับ</string>
+  <string name="message_feedback_subject">ความคิดเห็น app สำหรับ</string>
+</resources>

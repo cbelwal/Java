@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Îmbinare contacte</string>
+  <string name="action_merge">Îmbinare contactele</string>
+  <string name="message_merge_title">Atenţie</string>
+  <string name="message_merge_confirm">Vă rugăm să confirmaţi dacă doriţi să le fuzionaţi contactelor selectate? Numărul de telefon, adresa de e-mail, adresa poştală, Notă şi evenimente de toate contactele se vor îmbina într-un singur contact cu numele: </string>
+  <string name="message_merge_complete">Contactelor selectate au fost fuzionat</string>
+  <string name="progressbar_merge_data">Persoane de contact care fuzionează...</string>
+</resources>

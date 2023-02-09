@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic LLC</string>
+  <string name="feedback_no_email">发现没有电子邮件客户端</string>
+  <string name="button_yes">是的</string>
+  <string name="button_no">不</string>
+  <string name="nav_menu_help_doc">帮助文档</string>
+  <string name="button_rate_never">永远不会</string>
+  <string name="button_rate_later">后来</string>
+  <string name="button_rate_now">现在</string>
+  <string name="title_rate_this_app">请评价此应用程序</string>
+  <string name="title_feedback">选择电子邮件选项...</string>
+  <string name="title_demo_video">演示视频</string>
+  <string name="title_tellafriend">告诉你的朋友通过......</string>
+  <string name="title_send_feedback">联系我们</string>
+  <string name="title_rate_app">率的应用程序</string>
+</resources>

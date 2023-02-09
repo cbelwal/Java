@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">Contato (s) selecionados serão recuperados. Por favor, confirme se quer prosseguir?</string>
+  <string name="message_undelete_complete"> contato (s) não excluída</string>
+  <string name="message_undelete_notice">Esta opção irá listar os contatos que podem ser recuperados e varia de acordo com o fabricante de seu dispositivo ou a versão do Android. Contatos não podem ser recuperados se o dispositivo não permite isso, contatos foram excluídos há várias horas ou contatos foram excluídos do cartão SIM.</string>
+  <string name="message_undelete_option_invalid">Esta opção não é válida para contatos excluídos
+        </string>
+  <string name="message_undelete_help">Por favor selecione o contato (s) e usar o ícone desfazer exclusão no canto superior direito para undelete-los</string>
+  <string name="progressbar_undelete_data">Contato (s) desfazendo exclusão </string>
+  <string name="action_undelete">Undelete contato (s)</string>
+  <string name="button_understand">Eu entendo</string>
+  <string name="title_disclaimer">DISCLAIMER</string>
+  <string name="title_no_undelete_found">Sinto muito!</string>
+  <string name="message_no_undelete_found">
+        Pedimos desculpas, não recuperáveis contatos excluídos foram encontrados! Você pode tentar recuperá-los usando uma forma manual sugerida pelo Google, os desenvolvedores do Android.
+        Você vai gostar de visitar a página da Web de suporte do Google que tem recuperação manual de instruções?
+    </string>
+</resources>

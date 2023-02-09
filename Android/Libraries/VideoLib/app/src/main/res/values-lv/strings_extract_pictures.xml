@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Faila nosaukums:</string>
+  <string name="text_ep_file_size">Izmērs:</string>
+  <string name="text_ep_modified_date">Modificēšanas datums:</string>
+  <string name="text_ep_video_duration">Ilgums:</string>
+  <string name="title_search_depth">Meklēšanas dziļums (lielām vērtībām var aizņemt vairākas minūtes)</string>
+  <string name="nav_menu_search_entire_phone">Meklēt visu tālruņa</string>
+  <string name="nav_menu_search_media_folders">Meklēt multivides /mapi (es)</string>
+  <string name="nav_menu_search_external_folders">Ārējās meklēšanas mapes</string>
+  <string name="progressbar_extracting_pictures">Izgūt attēlus...</string>
+  <string name="text_ep_time_start">Sākums time(seconds)</string>
+  <string name="text_ep_period">Intervāls starp pictures(seconds)</string>
+  <string name="text_ep_no_of_pictures">Vairāki attēli</string>
+  <string name="text_ep_store">Saglabātu izgūtās attēlus kā:</string>
+  <string name="text_ep_share_external">Ievietojiet ārējās mapē</string>
+  <string name="text_ep_share_app">Koplietot lietojumprogrammas, izmantojot</string>
+  <string name="message_extract_complete"> attēlus ir atspiests</string>
+  <string name="message_extract_error">Izgūt attēlu, radās kļūda</string>
+  <string name="message_search_depth_updated">Tika apjaunota servera programmatūra: meklēšanas dziļums</string>
+  <string name="message_search_depth_error">Kļūda, atjauninot meklēšanas dziļums</string>
+</resources>

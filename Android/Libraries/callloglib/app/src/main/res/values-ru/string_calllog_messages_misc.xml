@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">К этому app не предоставлено разрешение совершать звонки</string>
+  <string name="message_search_number_security_exception">Не удается выполнить поиск этот номер телефона! Поиск Google не включен или разрешение не было предоставлено в этом устройстве</string>
+  <string name="message_free_version_selection">
+        Максимум записей, которые могут быть выбраны в бесплатной версии является: </string>
+  <string name="message_purchase_error">
+        Не удалось подключиться к серверу Google. Перезапустите приложение и повторите попытку
+    </string>
+</resources>

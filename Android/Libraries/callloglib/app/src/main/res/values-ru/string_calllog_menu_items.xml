@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Сортировка по времени</string>
+  <string name="nav_view_outgoingcalls_cl">Исходящие звонки</string>
+  <string name="nav_view_incomingcalls_cl">Входящие звонки</string>
+  <string name="nav_view_missedcalls_cl">Пропущенные звонки</string>
+  <string name="nav_view_callduration_cl">Сортировка по продолжительности</string>
+  <string name="nav_view_geocoded_location_cl">Сортировка по местоположению</string>
+  <string name="nav_view_refresh_cl">Обновить</string>
+  <string name="nav_view_100_records">До 100</string>
+  <string name="nav_view_500_records">До 500</string>
+  <string name="nav_view_all_records">Все имеющиеся</string>
+  <string name="nav_menu_group_general_cl">Общие</string>
+  <string name="nav_menu_group_help_cl">Справка</string>
+  <string name="nav_menu_group_log_length">Число представлений</string>
+  <string name="nav_menu_group_viewoptions_cl">Параметры</string>
+  <string name="nav_menu_group_views_cl">Представления</string>
+  <string name="nav_menu_group_operations_cl">Операции</string>
+  <string name="nav_menu_group_backup_cl">Резервное копирование</string>
+  <string name="nav_menu_rate_this_app_cl">Обратная связь</string>
+  <string name="nav_menu_backup_contacts_cl">Резервное копирование всех записей журнала вызовов</string>
+  <string name="nav_menu_restore_contacts_cl">Восстановление из резервной копии журнала вызовов</string>
+  <string name="nav_menu_upgrade_cl">Обновление до Pro версии</string>
+  <string name="nav_menu_filter_cl">Фильтр отображения</string>
+  <string name="nav_menu_duplicates_cl">Дубликаты Инструментарий</string>
+  <string name="nav_menu_tellafriend_cl">Рассказать другу</string>
+  <string name="nav_menu_feedback_cl">Контактная Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Демо-видео</string>
+  <string name="nav_menu_coju_cl">Скачать Coju</string>
+  <string name="menu_operations_cl">Массового обновления</string>
+  <string name="menu_add_cl">Добавить</string>
+  <string name="menu_edit_cl">Редактировать</string>
+  <string name="menu_update_cl">Обновление</string>
+  <string name="menu_share_cl">Предоставить общий доступ</string>
+  <string name="menu_export_cl">Экспорт</string>
+  <string name="menu_import_cl">Импорт</string>
+  <string name="menu_delete_cl">Удалить</string>
+  <string name="menu_bluetooth_cl">Передача по Bluetooth</string>
+</resources>

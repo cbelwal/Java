@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="share_options_ShareUsing">Поделиться с помощью:</string>
+  <string name="share_options_allshare">Электронной почты/Wifi/облако хранения (большие файлы могут иметь проблемы)</string>
+  <string name="export_options_externalStorage">Внешние системы хранения данных</string>
+  <string name="export_options_ExportAs">Формат экспорта:</string>
+  <string name="export_options_ExportUsing">Доля АПК файлов через:</string>
+  <string name="progressbar_prepare_data">Подготовка пакетов... </string>
+</resources>

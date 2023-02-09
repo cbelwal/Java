@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">Koşul</string>
+  <string name="filter_text_option">Seçenekler</string>
+  <string name="filter_text_value_days">Gün</string>
+  <string name="filter_text_value_duration">Duration(s)</string>
+  <string name="filter_text_value_location">Konumu</string>
+  <string name="filter_options_from_stored_contacts">Saklı Rehber\'den</string>
+  <string name="filter_options_more_than_entered_days">Daha fazla gün</string>
+  <string name="filter_options_less_than_entered_days">Gün daha az</string>
+  <string name="filter_options_more_than_duration">Daha fazla süre</string>
+  <string name="filter_options_less_than_duration">Süre daha az</string>
+  <string name="filter_options_from_entered_location">Konumdan</string>
+  <string name="filter_options_none">Hiçbir filtre</string>
+  <string name="filter_show_show">Göster</string>
+  <string name="filter_show_noshow">Gösterme</string>
+</resources>

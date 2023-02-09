@@ -1,0 +1,5 @@
+include ':lib.apk'
+include ':support'
+project(':support').projectDir=new File("C:\\Users\\Chaitanya Belwal\\AndroidStudioProjects\\Libraries\\support\\support")
+
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">elemente</string>
+  <string name="general_selected_items">izbrani</string>
+  <string name="general_error">Napaka</string>
+  <string name="title_confirm">Potrditev</string>
+  <string name="button_ok">v redu</string>
+  <string name="button_cancel">Prekliči</string>
+  <string name="free_space">Vsota prost prostor:</string>
+  <string name="title_share">Omogočanje skupne rabe prek:</string>
+  <string name="title_rename">Vnesite novo ime  </string>
+  <string name="title_create_folder">Vnesite ime mape  </string>
+</resources>

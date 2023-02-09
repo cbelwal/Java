@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_merge_contacts">Sammanfoga kontakter</string>
+  <string name="action_merge">Sammanfoga kontakter</string>
+  <string name="message_merge_title">Försiktighet</string>
+  <string name="message_merge_confirm">Bekräfta om du vill sammanfoga markerade kontakter? Telefonnumret, e-postadress, postadress, notering och evenemang av alla markerade kontakter kommer att slås samman till en enda kontakt med namn: </string>
+  <string name="message_merge_complete">Markerade kontakter har slagits samman</string>
+  <string name="progressbar_merge_data">Slå samman kontakter...</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">Új játék</string>
+  <string name="button_switch_board">Kapcsolótábla</string>
+  <string name="button_custom_board">Meghatározott egyéni Board</string>
+  <string name="button_high_scores">Magas pontszámokat</string>
+  <string name="button_rate_app">Osztályozd ezt a játékot</string>
+  <string name="button_tell_a_friend">Mondja el egy ismerősének</string>
+  <string name="button_paid_version">Fizetett változat</string>
+  <string name="button_help_documentation">Súgó, dokumentáció</string>
+  <string name="button_demo_video">Tüntetés Video</string>
+  <string name="button_ok">oké</string>
+  <string name="button_yes">igen</string>
+  <string name="button_no">nem</string>
+  <string name="button_start">Start</string>
+  <string name="button_cancel">Mégse</string>
+  <string name="button_abort">Megszakítás</string>
+  <string name="button_high_score_close">Zár</string>
+  <string name="title_high_score">Top Ten magas pontszám</string>
+  <string name="text_high_score_none">Nincs pontszám</string>
+  <string name="text_high_score_pegs">Fennmaradó peg(s)</string>
+  <string name="text_high_score_time">Idő</string>
+</resources>

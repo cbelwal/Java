@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        무료 버전 최대 200 연락처의 백업 있습니다.
+        연락처가 되어 백업 파일:
+    </string>
+  <string name="message_backup_failed">
+        다시 시도 하십시오 백업 파일을 저장 하지 못했습니다. 문제가 지속 되 면 응용 프로그램 게시자이 애플 리 케이이 션에서 사용자 의견 옵션을 사용 하 여 문제를 보고 하십시오.
+    </string>
+</resources>

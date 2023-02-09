@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="share_options_ShareUsing">Shiriki kutumia:</string>
+  <string name="share_options_allshare">Barua pepe/Wifi/wingu uhifadhi (faili kubwa inaweza kuwa na matatizo)</string>
+  <string name="export_options_externalStorage">Hifadhi ya nje</string>
+  <string name="export_options_ExportAs">Hamisha umbizo:</string>
+  <string name="export_options_ExportUsing">Shiriki faili APK kupitia:</string>
+  <string name="progressbar_prepare_data">Kuandaa package(s)... </string>
+</resources>

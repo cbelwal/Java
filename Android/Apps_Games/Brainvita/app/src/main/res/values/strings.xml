@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Peg Solitaire Solver</string>
+    <string name="message_tellafriend">This app is the mentally challening game of
+        Peg Solitaire also known as Marble solitaire or Brainvita. The goal of the game is
+        to get to the minimum number of pegs as possible. Pegs are moved to an empty hole after jumping over
+        another peg in a straight line. The peg jumped over is removed, this way
+        after each move the number of pegs are reduced by one.\n\n
+        Apart from playing the standard game, this app allows you to set your own
+        custom board to solve. There are Back and Forward buttons which allow you go back to
+        any number of moves and the game also keeps high scores.\n\n
+        However, what makes this app truely unique is its powerful peg solitaire solver. The solver
+        uses a propriety \'state-space\' algorithm to solve any given board. The solver will
+        come up with all the moves that are required to come to the minimum possible number of pegs.
+        If you run the solver from the beginning on a new board it will show you all the moves that will
+        lead to one peg. Because it finds a solution to any board, the solver can take a few minutes to come to
+        a solution.\n\n
+        Give it a try !\n</string>
+
+</resources>

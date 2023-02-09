@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Filnavn:</string>
+  <string name="text_ep_file_size">Størrelse:</string>
+  <string name="text_ep_modified_date">Ændringsdato:</string>
+  <string name="text_ep_duration">Varighed:</string>
+  <string name="title_search_depth">Søgedybde (store værdier vil tage flere minutter)</string>
+  <string name="progressbar_extracting_audio">Udtrække lyd (kan tage flere minutter)...</string>
+  <string name="progressbar_loading_audio">Lastning lyd fildetaljer...</string>
+  <string name="text_ep_time_start">Start time(seconds)</string>
+  <string name="text_ep_period">Varigheden af hver lyd file(seconds)</string>
+  <string name="text_ep_store">Gemme nye audio fil(er) som:</string>
+  <string name="text_ep_share_external">Sted i eksterne mappe</string>
+  <string name="text_ep_share_app">Dele ved hjælp af programmer</string>
+  <string name="message_extract_complete"> M4A fil(er) er blevet oprettet</string>
+  <string name="message_extract_error">Der opstod en fejl i at oprette lydfiler</string>
+  <string name="message_search_depth_updated">Søgedybde blev opdateret</string>
+  <string name="message_search_depth_error">Fejl i opdatering søgedybde</string>
+  <string name="message_load_complete">Lydfil detaljer er blevet indlæst</string>
+  <string name="message_load_error">Der opstod en fejl under indlæsning af lyd</string>
+  <string name="message_extract_duration_reduced"> Den sidste lydfil varighed blev reduceret da nåede til slutningen af lyd </string>
+  <string name="message_extract_incomplete"> %1$ d audio fil(er) kunne ikke oprettes eller har ufuldstændige oplysninger</string>
+  <string name="message_extract_signature">Sendt via Audio Rivejern fra coju.mobi™</string>
+</resources>

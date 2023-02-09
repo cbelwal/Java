@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        Ilmainen versio mahdollistaa vain varmuuskopio 200 yhteystiedot.
+        Yhteystiedot on ollut varmuuskopioitu tiedosto:
+    </string>
+  <string name="message_backup_failed">
+        Tiedostoa ei voi tallentaa varmuuskopio, yritä uudelleen. Jos ongelma toistuu ilmoita asiasta app kustantaja nyt kuluva app palaute-toiminnolla.
+    </string>
+</resources>

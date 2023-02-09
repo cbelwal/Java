@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Gözat</string>
+  <string name="backup_options_backupusing">Yedekleme\'yi kullanarak</string>
+  <string name="export_options_externalStorage">Bu cihazın harici depolama</string>
+  <string name="share_options_shareas">Paylaşım:</string>
+  <string name="share_options_allshare">Uygulamaları (bulut, e-posta,...)</string>
+  <string name="share_options_share_using">Kullanarak paylaşmak:</string>
+  <string name="share_options_sms">İleti gönderme</string>
+  <string name="share_options_clipboard">Panoya kopyala</string>
+  <string name="export_options_ExportUsing">Dosyaya kaydedin:</string>
+  <string name="progressbar_prepare_data">Arama kütüğü listesi hazırlanıyor...</string>
+  <string name="progressbar_backup">Arama günlüğünü yedekleme, bu işlem birkaç dakika sürebilir...</string>
+  <string name="backup_options_using">Yedekleme dosyası Kaydet:</string>
+  <string name="menu_import_help">Yardım</string>
+  <string name="text_import_file_name">Seçili dosya adı:</string>
+  <string name="text_import_file_size">Seçili dosya boyutu(bayt):</string>
+  <string name="text_unknown_file_size">Bilinmiyor</string>
+  <string name="message_backup_options">Bu önerilir yedek paylaşım uygulamaları bulut, e-posta vb gibi.
+        Bu şimdiye kadar telefonunuzun kaybolması durumunda arama kaydı kurtarmanıza olanak sağlayacaktır.
+        Kişileri e-posta/bulut el ile arama günlük yedek dosyayı e-posta/bulut hesabınızdan bu cihazda herhangi bir konuma geri yüklemek için. Alma/geri yükleme yardımcı programı, dosya otomatik olarak bulur.</string>
+  <string name="message_importing_contacts">Arama günlükleri alınıyor...</string>
+  <string name="message_reading_import_file">Dosya okuma, bu işlem birkaç dakika sürebilir...</string>
+  <string name="export_options_plain_text">Düz metin</string>
+  <string name="export_options_indv_clm">Bireysel CLM dosya (lar)</string>
+  <string name="export_options_combined_clm">Birleşik CLM dosya </string>
+  <string name="export_generated_footer">Çağrı günlük Yöneticisi Coju yolu ile oluşturulan</string>
+  <string name="export_sent_footer">Çağrı günlüğü Yöneticisi ile oluşturulan</string>
+  <string name="export_generated_header">Çağrı ayrıntılarını günlüğe yaz</string>
+  <string name="message_clipboard_copy">Panoya kopyalanan</string>
+  <string name="message_exporting_calllog">Ayıklanan kişileri...</string>
+  <string name="message_exporting_calllog_ready">Kişileri vermek hazırlanıyor...</string>
+  <string name="message_exporting_calllog_write_file">Dosyalar yazılıyor...</string>
+  <string name="message_import_help">Bu app oluşturulan dosyası (*. CLM dosyaları) içe aktarılabilir</string>
+  <string name="message_import_invalid_file">Geçerli arama günlük dosyası</string>
+  <string name="message_importing_complete">ithal arama günlükleri</string>
+  <string name="message_restore_complete">Yedekten geri/arayan No kaydı</string>
+  <string name="message_restore_fail">
+        Yedekten geri yüklenemedi, yedek dosya eksik veya bozuk
+                </string>
+  <string name="message_backup_stored_freeversion">
+        Ücretsiz sürümü sadece 9 arama günlükleri yedekleme sağlar.
+        Arama günlükleri dosyasında yedeği:
+    </string>
+  <string name="message_backup_failed">
+        Yedekleme dosyası kaydedilemedi, lütfen yeniden deneyin. Sorun devam ederse lütfen bu app yorum seçeneğini kullanarak app yayımcı için sorunu bildirin.
+    </string>
+  <string name="message_restore_selection_finish">
+        Yedekleme arama günlükleri geri yüklendi
+    </string>
+  <string name="message_clm_file_not_found">
+        Hiçbir çağrı günlük Yöneticisi (*. Bu aygıtın CLM) dosyaları
+    </string>
+  <string name="message_backup_file_not_found">
+        Bu aygıtın hiçbir yedekleme dosya
+    </string>
+  <string name="message_backup_stored">Kişiler dosyasında yedeği:</string>
+  <string name="message_save_external">Dış klasöründe depolanan günlük arayın: </string>
+  <string name="message_loading_files">Yerel klasörler aranıyor...</string>
+  <string name="message_loading_backup_files">Aygıt için yedekleme dosyalar aranıyor...</string>
+  <string name="message_backup_freeversion">
+        Bu ücretsiz sürümünde yedeklenebilir arama günlükleri en fazla sayısıdır:
+    </string>
+  <string name="message_backup_paidversion">
+        Tüm arama günlükleri bir dosyada başarıyla yedeklendi
+    </string>
+</resources>

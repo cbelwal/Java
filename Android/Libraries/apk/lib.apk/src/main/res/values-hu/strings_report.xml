@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="report_app_name">Alkalmazás neve: </string>
+  <string name="report_package_name">Csomag neve: </string>
+  <string name="report_source_folder">Forrás mappa: </string>
+  <string name="report_size">Méret (MB): </string>
+  <string name="report_launch_intent">Indítsa el a szándék: </string>
+  <string name="report_installed_on">Telepített: </string>
+  <string name="report_updated_on">Frissítve: </string>
+  <string name="report_system_app">Rendszer App: </string>
+  <string name="report_security_permission">Biztonsági jogokkal: </string>
+  <string name="report_yes">igen</string>
+  <string name="report_no">nem</string>
+</resources>

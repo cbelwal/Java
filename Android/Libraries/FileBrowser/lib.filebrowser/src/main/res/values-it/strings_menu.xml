@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_share">Condividi</string>
+  <string name="action_delete">Elimina</string>
+  <string name="action_filter">Filtro</string>
+  <string name="action_copy">Copia</string>
+  <string name="action_rename">Rinominare</string>
+  <string name="action_create_folder">Creare la cartella</string>
+  <string name="action_move">Spostare</string>
+  <string name="action_share_zip">Condividere come Zip</string>
+  <string name="action_zip">Zip</string>
+  <string name="nav_menu_view_name">Vista con nome</string>
+  <string name="nav_menu_view_size">Vista di dimensioni</string>
+  <string name="nav_menu_view_modified">Visualizza per data modifica</string>
+  <string name="nav_menu_view_refresh">Aggiornamento</string>
+  <string name="nav_menu_view_close">Chiudere</string>
+  <string name="nav_menu_group_general">Generale</string>
+  <string name="nav_menu_group_viewoptions">Opzioni di visualizzazione</string>
+  <string name="nav_menu_rate_this_app">Feedback</string>
+  <string name="nav_menu_upgrade">Aggiornare alla versione a pagamento</string>
+  <string name="nav_menu_tellafriend">Dillo a un amico</string>
+  <string name="nav_menu_feedback">Contattaci</string>
+  <string name="nav_menu_group_help">Guida</string>
+  <string name="nav_menu_demovideo">Video demo</string>
+  <string name="nav_menu_help_doc">Documentazione di aiuto</string>
+</resources>

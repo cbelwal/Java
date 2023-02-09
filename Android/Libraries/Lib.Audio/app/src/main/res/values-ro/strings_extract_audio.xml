@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Nume fişier:</string>
+  <string name="text_ep_file_size">Dimensiune:</string>
+  <string name="text_ep_modified_date">Data modificării:</string>
+  <string name="text_ep_duration">Durata:</string>
+  <string name="title_search_depth">Adâncimea de căutare (valori mari va dura câteva minute)</string>
+  <string name="progressbar_extracting_audio">Extragerea audio (poate dura câteva minute)...</string>
+  <string name="progressbar_loading_audio">Încărcare fişier audio detalii...</string>
+  <string name="text_ep_time_start">Începe time(seconds)</string>
+  <string name="text_ep_period">Durata de fiecare file(seconds) audio</string>
+  <string name="text_ep_store">Stochează fișierele audio noi ca:</string>
+  <string name="text_ep_share_external">Plasaţi în folderul externe</string>
+  <string name="text_ep_share_app">Cota folosind aplicaţii</string>
+  <string name="message_extract_complete"> M4A fişiere au fost create</string>
+  <string name="message_extract_error">A apărut o eroare în crearea de fişiere audio</string>
+  <string name="message_search_depth_updated">Adâncimea de căutare a fost actualizată</string>
+  <string name="message_search_depth_error">Eroare la actualizarea adâncimea de căutare</string>
+  <string name="message_load_complete">Detalii fişier audio au fost încărcate</string>
+  <string name="message_load_error">Eroare la încărcarea audio</string>
+  <string name="message_extract_duration_reduced"> Durata ultimului fişier audio a fost redusă ca s-a atins sfârșitul audio </string>
+  <string name="message_extract_incomplete"> %1$ d fișierele audio nu s-a creat sau au informaţii incomplete</string>
+  <string name="message_extract_signature">Trimis prin răzătoare de Audio de la coju.mobi™</string>
+</resources>

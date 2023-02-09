@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">به دستگاه متصل.
+        \'Send\ را فشار دهید \"تماس با ما برای انتقال: </string>
+  <string name="message_bt_conn_failed">اتصال به دستگاه ناموفق بود.
+    لطفا مطمئن باشید که این برنامه نصب شده است و صفحه بلوتوث در باز است: </string>
+  <string name="message_bt_sent_error">قادر به انتقال این تعداد مخاطب (مخاطبین) نیست: </string>
+  <string name="message_bt_recv_error">قادر به ایجاد این تعداد مخاطب (مخاطبین) نیست: </string>
+  <string name="message_bt_create_complete">ایجاد مخاطب (مخاطبین) دریافت شده: </string>
+  <string name="message_bt_sent_complete">تماس با ما ارسال به دستگاه: </string>
+  <string name="progressbar_bt_send_data">انتقال منحصر به فرد مخاطب (مخاطبین) </string>
+  <string name="progressbar_bt_bytes">کلمه در ادامه متن </string>
+  <string name="progressbar_bt_create_contacts">ایجاد مخاطب (مخاطبین) (ارتباط با تصویر نیاز به زمان بیشتر)</string>
+  <string name="message_free_version_selection">
+        تماس با ما حداکثر است که می تواند انتخاب شده در نسخه رایگان است: </string>
+  <string name="progressbar_delete_data">
+        حذف منحصر به فرد مخاطب (مخاطبین) </string>
+</resources>

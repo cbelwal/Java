@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Ordinati per tempo di</string>
+  <string name="nav_view_outgoingcalls_cl">Chiamate in uscita</string>
+  <string name="nav_view_incomingcalls_cl">Chiamate in arrivo</string>
+  <string name="nav_view_missedcalls_cl">Chiamate perse</string>
+  <string name="nav_view_callduration_cl">Filtrate la durata</string>
+  <string name="nav_view_geocoded_location_cl">Ordinati per posizione</string>
+  <string name="nav_view_refresh_cl">Aggiornamento</string>
+  <string name="nav_view_100_records">Fino a 100</string>
+  <string name="nav_view_500_records">Fino a 500</string>
+  <string name="nav_view_all_records">Tutti disponibili</string>
+  <string name="nav_menu_group_general_cl">Generale</string>
+  <string name="nav_menu_group_help_cl">Guida</string>
+  <string name="nav_menu_group_log_length">View Count</string>
+  <string name="nav_menu_group_viewoptions_cl">Opzioni</string>
+  <string name="nav_menu_group_views_cl">Visualizzazioni</string>
+  <string name="nav_menu_group_operations_cl">Operazioni di</string>
+  <string name="nav_menu_group_backup_cl">Backup</string>
+  <string name="nav_menu_rate_this_app_cl">Feedback</string>
+  <string name="nav_menu_backup_contacts_cl">Backup di tutte le voci di registro chiamate</string>
+  <string name="nav_menu_restore_contacts_cl">Registro chiamate di ripristinare da Backup</string>
+  <string name="nav_menu_upgrade_cl">Versione di aggiornamento a Pro</string>
+  <string name="nav_menu_filter_cl">Filtro di visualizzazione</string>
+  <string name="nav_menu_duplicates_cl">Toolkit di duplicati</string>
+  <string name="nav_menu_tellafriend_cl">Dillo a un amico</string>
+  <string name="nav_menu_feedback_cl">Contattare Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Video demo</string>
+  <string name="nav_menu_coju_cl">Scarica Coju</string>
+  <string name="menu_operations_cl">Aggiornamenti di massa</string>
+  <string name="menu_add_cl">Aggiungere</string>
+  <string name="menu_edit_cl">Modifica</string>
+  <string name="menu_update_cl">Aggiornamento</string>
+  <string name="menu_share_cl">Condividi</string>
+  <string name="menu_export_cl">Esportazione</string>
+  <string name="menu_import_cl">Importazione</string>
+  <string name="menu_delete_cl">Elimina</string>
+  <string name="menu_bluetooth_cl">Trasferimento Bluetooth</string>
+</resources>

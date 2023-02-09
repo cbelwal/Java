@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">Iallafall 1 urval krävs</string>
+  <string name="message_save_external">APK filer lagras i externa mapp: </string>
+  <string name="message_free_version_selection">Endast 3 appar kan väljas i taget i den fria versionen</string>
+  <string name="message_free_version_option">Detta alternativ är endast tillgängligt för den betalda versionen</string>
+  <string name="message_activity_load_fail">Ansökan kunde inte startas</string>
+  <string name="message_activity_loading">Startar programmet...</string>
+  <string name="message_loading_files">Söker lokala mappar...</string>
+  <string name="message_deleting_files">Vänligen bekräfta individuellt för varje paket som valts.
+    System-paket kommer att avinstallera bara från användarkonto</string>
+  <string name="message_save_external_suffix">. Mappen kan nås genom att ansluta telefonen till datorn via USB etc. </string>
+  <string name="message_rate_this_app_error">Värdering Sidan kunde inte öppnas</string>
+  <string name="message_share_link_prefix">Hej, \r\n\r\nCheck här ute: </string>
+  <string name="message_share_link_suffix">Skickas via APKit</string>
+  <string name="message_share_report_prefix">Paketet Report</string>
+  <string name="message_share_report_suffix">Skapas och skickas</string>
+  <string name="message_other_permissions_missing">Önskade behörigheter som krävs för att funktionen ska fungera. Vänligen ge önskade behörigheter och försök igen
+    </string>
+  <string name="message_purchase_error">
+        Kunde inte ansluta till Google-servern. Starta om appen och försök igen
+    </string>
+</resources>

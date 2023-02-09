@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Nazwa pliku:</string>
+  <string name="text_ep_file_size">Rozmiar:</string>
+  <string name="text_ep_modified_date">Data modyfikacji:</string>
+  <string name="text_ep_duration">Czas trwania:</string>
+  <string name="title_search_depth">Głębokość Szukaj (duże wartości może potrwać kilka minut)</string>
+  <string name="progressbar_extracting_audio">Wydobywania dźwięku (może potrwać kilka minut)...</string>
+  <string name="progressbar_loading_audio">Ładowanie pliku audio szczegóły...</string>
+  <string name="text_ep_time_start">Start (sekundy)</string>
+  <string name="text_ep_period">Czas trwania każdego dźwięku file(seconds)</string>
+  <string name="text_ep_store">Przechowuj pliki audio jako:</string>
+  <string name="text_ep_share_external">Umieść w folderze zewnętrznych</string>
+  <string name="text_ep_share_app">Podziel się za pomocą aplikacji</string>
+  <string name="message_extract_complete"> Zostały utworzone pliki M4A</string>
+  <string name="message_extract_error">Napotkano błąd w tworzeniu plików audio</string>
+  <string name="message_search_depth_updated">Zaktualizowano głębokość Szukaj</string>
+  <string name="message_search_depth_error">Błąd aktualizacji głębokość Szukaj</string>
+  <string name="message_load_complete">Szczegóły pliku audio zostały załadowane</string>
+  <string name="message_load_error">Wystąpił błąd podczas ładowania dźwięku</string>
+  <string name="message_extract_duration_reduced"> Ostatni długość pliku audio została zmniejszona, ponieważ osiągnięto koniec audio </string>
+  <string name="message_extract_incomplete"> %1$ d plik(i) audio nie może być utworzony lub posiadają niepełne informacje</string>
+  <string name="message_extract_signature">Wysyłane za pośrednictwem Audio Tarka z coju.mobi™</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">Berechtigung zum Telefonieren wurde nicht auf diese app gewährt</string>
+  <string name="message_search_number_security_exception">Diese Telefonnummer konnte nicht gesucht werden! Google-Suche ist nicht aktiviert oder Erlaubnis nicht erteilt wurde in diesem Gerät</string>
+  <string name="message_free_version_selection">
+        Maximale Log-Einträge, die in der kostenlosen Version ausgewählt werden können ist: </string>
+  <string name="message_purchase_error">
+        Die Verbindung zum Google-Server konnte nicht hergestellt werden. Bitte starten Sie die app und versuchen Sie es erneut
+    </string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">سيتم إلغاء حذف جهات الاتصال المحددة. يرجى تأكيد إذا كنت ترغب في المتابعة؟</string>
+  <string name="message_undelete_complete"> جهات الاتصال undeleted</string>
+  <string name="message_undelete_notice">هذا الخيار سوف قائمة جهات الاتصال التي يمكن أن أعيد ويعتمد على الشركة المصنعة للجهاز الخاص بك أو إصدار الروبوت. جهات الاتصال التي لا يمكن استردادها إذا كان الجهاز لا تسمح بذلك، تم حذف جهات الاتصال قبل عدة ساعات، أو تم حذف جهات الاتصال من بطاقة SIM.</string>
+  <string name="message_undelete_option_invalid">هذا الخيار غير صالحة لجهات الاتصال المحذوفة
+        </string>
+  <string name="message_undelete_help">الرجاء تحديد جهات الاتصال واستخدام أيقونة الحذف في أعلى اليمين للحذف منها</string>
+  <string name="progressbar_undelete_data">إلغاء حذف جهات الاتصال </string>
+  <string name="action_undelete">إلغاء حذف جهات الاتصال</string>
+  <string name="button_understand">أفهم</string>
+  <string name="title_disclaimer">إخلاء مسؤولية</string>
+  <string name="title_no_undelete_found">معذرة!</string>
+  <string name="message_no_undelete_found">
+        أننا نأسف، تم العثور على أية جهات الاتصال المحذوفة القابلة للاسترداد! يمكنك محاولة لاستعادتها باستخدام طريقة يدوية اقترح جوجل، ومطورين الروبوت.
+        وسوف ترغب في زيارة صفحة دعم Google الذي لديه تعليمات استرداد يدوية؟
+    </string>
+</resources>

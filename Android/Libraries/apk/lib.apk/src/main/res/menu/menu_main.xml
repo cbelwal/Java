@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:title="Search"
+        app:showAsAction="always"
+        app:actionLayout="@layout/ui_searchview"
+        android:orderInCategory="1"/>
+    <item android:id="@+id/action_filter" android:title="@string/action_Filters"
+        android:orderInCategory="3" app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_filter_list_black_48dp"/>
+    <item android:id="@+id/action_delete" android:title="@string/action_delete"
+        android:orderInCategory="5" app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_delete_black_48dp" />
+    <item android:id="@+id/action_split_apk"
+        android:title="@string/action_split_apk"
+        android:orderInCategory="10" app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_details_black_48dp" />
+    <item android:id="@+id/action_share_apk"
+        android:title="@string/action_share_apk"
+        android:orderInCategory="12" app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_attach_file_black_48dp" />
+    <item android:id="@+id/action_share_report"
+        android:title="@string/action_share_report"
+        android:orderInCategory="14" app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_details_black_48dp" />
+    <item android:id="@+id/action_share_link"
+        android:title="@string/action_share_link"
+        android:orderInCategory="16" app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_share_black_48dp" />
+
+</menu>

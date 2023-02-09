@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_delete_confirm_cl">Cuộc gọi đã chọn log(s) thông tin chi tiết sẽ bị xóa. Hành động này không thể hoàn tác. Tiến hành không?</string>
+  <string name="message_delete_complete_cl"> gọi log(s) thông tin chi tiết đã bị xóa</string>
+</resources>

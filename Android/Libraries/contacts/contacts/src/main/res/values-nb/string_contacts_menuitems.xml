@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_menu_group_general">Generelt</string>
+  <string name="nav_menu_group_help">hjelp</string>
+  <string name="nav_menu_group_viewoptions">Alternativer</string>
+  <string name="nav_menu_group_views">Visninger</string>
+  <string name="nav_menu_group_operations">Operasjoner</string>
+  <string name="nav_menu_group_backup">Sikkerhetskopiering</string>
+  <string name="nav_menu_rate_this_app">Tilbakemeldinger</string>
+  <string name="nav_menu_backup_contacts">Sikkerhetskopiere alle kontakter</string>
+  <string name="nav_menu_restore_contacts">Gjenopprette kontaktene fra sikkerhetskopi</string>
+  <string name="nav_menu_upgrade">Oppgradere til Pro versjon</string>
+  <string name="nav_menu_filter">Vis Filter</string>
+  <string name="nav_menu_duplicates">Duplikater Toolkit</string>
+  <string name="nav_menu_tellafriend">Fortell en venn</string>
+  <string name="nav_menu_feedback">Kontakt Dasmic</string>
+  <string name="nav_menu_demovideo">Demonstrasjon Video</string>
+  <string name="nav_menu_coju_outlook">Coju for Microsoft Outlook</string>
+  <string name="nav_menu_coju">Last ned Coju</string>
+  <string name="display_options_all_TimesContacted">Sortert etter ganger kontaktet</string>
+  <string name="display_options_all_last_contact">Sortert etter kontakt sist</string>
+  <string name="display_options_all">Sortert etter navn</string>
+  <string name="display_options_phonenumber">Sorterte telefonnumre</string>
+  <string name="display_options_email">Sorterte e-postadresser</string>
+  <string name="display_options_deleted">Slettede kontakter</string>
+  <string name="display_options_refresh">Oppdater skjerm</string>
+  <string name="action_Operations">Masseoppdateringer</string>
+  <string name="action_Export">Eksporter kontakter</string>
+  <string name="action_delete">Slett kontakt(er)</string>
+  <string name="action_Import">Importere kontakter</string>
+  <string name="action_edit">Rediger kontakt</string>
+  <string name="action_add">Legg til kontakt</string>
+  <string name="action_share">Dele kontakter</string>
+  <string name="action_bluetooth">Bluetooth-overføring</string>
+</resources>

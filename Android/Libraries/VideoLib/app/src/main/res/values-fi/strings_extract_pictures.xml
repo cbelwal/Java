@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Tiedostonimi:</string>
+  <string name="text_ep_file_size">Pinta-ala:</string>
+  <string name="text_ep_modified_date">Muokkauspäivämäärä:</string>
+  <string name="text_ep_video_duration">Kesto:</string>
+  <string name="title_search_depth">Haun syvyys (suuret arvot kestää useita minuutteja)</string>
+  <string name="nav_menu_search_entire_phone">Etsi koko Puhelin</string>
+  <string name="nav_menu_search_media_folders">Etsi media kansiot</string>
+  <string name="nav_menu_search_external_folders">Etsi ulkoiset kansiot</string>
+  <string name="progressbar_extracting_pictures">Puretaan kuvia...</string>
+  <string name="text_ep_time_start">Käynnistä time(seconds)</string>
+  <string name="text_ep_period">Pictures(seconds) väli</string>
+  <string name="text_ep_no_of_pictures">Kuvien määrä</string>
+  <string name="text_ep_store">Tallenna uutettu kuvia:</string>
+  <string name="text_ep_share_external">Lisää ulkoinen</string>
+  <string name="text_ep_share_app">Jaa sovelluksilla</string>
+  <string name="message_extract_complete"> Picture (t) on purettu</string>
+  <string name="message_extract_error">Virhe talteen kuvia</string>
+  <string name="message_search_depth_updated">Haun syvyys päivitettiin</string>
+  <string name="message_search_depth_error">Virhe päivitettäessä haun syvyys</string>
+</resources>

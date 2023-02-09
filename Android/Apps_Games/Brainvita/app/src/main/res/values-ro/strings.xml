@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">PEG Solitaire Rezolvitor</string>
+  <string name="message_tellafriend">Acest app este mental challening joc de Peg Solitaire, de asemenea, cunoscut sub numele de marmura solitaire sau Brainvita. Scopul acestui joc este de a ajunge la numărul minim de cuie ca posibil. Cuiere sunt mutate la o gaura gol după sari peste un alt peg în linie dreaptă. Cuier a sărit peste este eliminat, astfel după fiecare mutare numărul de cuiere sunt reduse una. \n\n în afară de joc standard, acest app vă permite să setaţi placa personalizat pentru a rezolva. Există spate şi înainte nasture, care vă permite du-te înapoi la orice număr de mutări şi jocul, de asemenea, ţine mare scores.\n\n cu toate acestea, ceea ce face acest app cu adevărat unică este sale puternic peg solitaire Rezolvitor. Solver utilizează o proprietate \'state-space\' algoritm pentru a rezolva orice bord dat. Rezolvitorul va veni cu toate miscarile pe care trebuie să vină la numărul minim posibil de cuie.
+        Dacă executați solver la început pe o placă nouă vă va arăta toate miscarile care va duce la un cuier. Deoarece se gaseste o solutie la orice bord, Rezolvitorul poate dura câteva minute pentru a ajunge la o solution.\n\n da it un try! \n</string>
+</resources>

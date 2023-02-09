@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Аудио ренде</string>
+  <string name="app_name_small">AudioGrater</string>
+  <string name="activity_extract_pictures">Извличане на аудио</string>
+  <string name="button_Select_All">Избери всички</string>
+  <string name="button_UnSelect_All">Un-Избери всички</string>
+  <string name="button_Delete">Изтриване</string>
+  <string name="button_Update">Актуализация</string>
+  <string name="button_Share">Дял</string>
+  <string name="button_Yes">Да</string>
+  <string name="button_No">Не</string>
+  <string name="button_apply">Приложи</string>
+  <string name="button_browse">Преглед</string>
+  <string name="button_close">Затвори</string>
+  <string name="button_play">Игра</string>
+  <string name="button_stop">Стоп</string>
+  <string name="button_Confirm">Потвърдете</string>
+  <string name="button_Ok">OK</string>
+  <string name="text_import_file_name">Име</string>
+  <string name="text_import_file_size">Размер</string>
+  <string name="general_items">елемент(а)</string>
+  <string name="general_selected_items">избрани</string>
+  <string name="general_error">Грешка</string>
+  <string name="title_confirm">Потвърдете</string>
+  <string name="button_ok">OK</string>
+  <string name="button_cancel">Отказ</string>
+  <string name="free_space">Общо свободно пространство:</string>
+  <string name="title_share">Споделяне с помощта на:</string>
+  <string name="title_rename">Въведете ново име  </string>
+  <string name="title_create_folder">Въведете име на папка  </string>
+</resources>

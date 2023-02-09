@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> Contact(s) akan diperbarui. Tindakan ini tidak dapat dikembalikan. Melanjutkan?</string>
+  <string name="message_update_complete"> Contact(s) Diperbarui</string>
+  <string name="message_save_external">Kontak yang tersimpan dalam folder eksternal: </string>
+  <string name="message_import">Hanya dapat impor Vcard dan CSV file (menggunakan \'Browse\' untuk memuat file dari sumber lain</string>
+  <string name="message_loading_files">Mencari folder lokal...</string>
+  <string name="message_loading_backup_files">Mencari perangkat untuk file cadangan...</string>
+  <string name="message_importing_contacts_complete">Contact(s) diimpor</string>
+  <string name="message_save_external_suffix">. Folder dapat diakses dengan menghubungkan telepon Anda ke komputer Anda melalui USB dll. </string>
+  <string name="message_selectitems">Hubungi atleast 1 perlu dipilih</string>
+  <string name="message_delete_confirm">Dipilih contact(s) rincian akan dihapus. Tindakan ini tidak dapat dikembalikan. Melanjutkan?</string>
+  <string name="message_delete_complete"> multipel kontak rincian yang dihapus</string>
+  <string name="message_free_import_limit">File berisi lebih contact(s) daripada diperbolehkan dalam versi gratis</string>
+  <string name="message_rate_this_app_error">Tidak dapat membuka halaman peringkat. Harap goto Google Play dan menilai sesuai</string>
+  <string name="message_edit">Hanya 1 kontak dapat diedit sekaligus. </string>
+  <string name="message_backup_stored">Kontak telah telah didukung dalam file:</string>
+  <string name="message_download_coju">Coju adalah aplikasi manajemen kontak yang terintegrasi. Ia memiliki semua fitur ini app ditambah kemampuan tambahan. Apakah Anda ingin men-download Coju?</string>
+  <string name="message_contact_permissions_missing">Kontak izin diperlukan untuk aplikasi ini untuk bekerja. App akan sekarang menutup, silakan memberikan izin dan coba lagi</string>
+  <string name="message_other_permissions_missing">Diminta izin diperlukan untuk fitur aplikasi ini untuk bekerja.
+        Silakan memberikan izin yang diminta dan coba lagi</string>
+  <string name="message_backup_freeversion">
+        Jumlah maksimum kontak yang dapat didukung dalam versi gratis ini adalah:
+    </string>
+  <string name="message_backup_paidversion">
+        Semua kontak Anda telah berhasil didukung dalam file
+    </string>
+  <string name="message_purchase_error">
+        Tidak dapat menyambung ke Google server. Silakan restart aplikasi dan coba lagi
+    </string>
+</resources>

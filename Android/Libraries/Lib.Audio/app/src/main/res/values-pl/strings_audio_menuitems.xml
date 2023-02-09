@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_share">Udostępnij</string>
+  <string name="action_delete">Usuń</string>
+  <string name="action_filter">Filtr</string>
+  <string name="action_copy">Kopiowanie</string>
+  <string name="action_rename">Zmień nazwę</string>
+  <string name="action_create_folder">Tworzenie folderu</string>
+  <string name="action_move">Przenieść</string>
+  <string name="action_share_zip">Podziel się jako Zip</string>
+  <string name="action_extract_pictures">Wyodrębnić Audio</string>
+  <string name="action_zip">Zip</string>
+  <string name="nav_menu_view_name">Widok według nazwy pliku</string>
+  <string name="nav_menu_view_size">Widok według rozmiaru</string>
+  <string name="nav_menu_view_modified">Widok przez Data modyfikacji</string>
+  <string name="nav_menu_view_refresh">Odświeżania</string>
+  <string name="nav_menu_view_close">Zamknij</string>
+  <string name="nav_menu_search_default">Szukaj sklepu Media (domyślnie)</string>
+  <string name="nav_menu_search_entire_phone">Przeszukiwanie całego telefonu</string>
+  <string name="nav_menu_search_media_folders">Foldery wyszukiwania multimediów</string>
+  <string name="nav_menu_search_external_folders">Zewnętrznych foldery wyszukiwania</string>
+  <string name="nav_menu_group_general">Ogólne</string>
+  <string name="nav_menu_group_viewoptions">Opcje widoku</string>
+  <string name="nav_menu_group_searchoptions">Opcje wyszukiwania</string>
+  <string name="nav_menu_rate_this_app">Sprzężenie zwrotne</string>
+  <string name="nav_menu_upgrade">Uaktualnienie do wersji płatnej</string>
+  <string name="nav_menu_tellafriend">Powiadom znajomego</string>
+  <string name="nav_menu_feedback">Skontaktuj się z nami</string>
+  <string name="nav_menu_group_help">Pomoc</string>
+  <string name="nav_menu_demovideo">Film demonstracyjny</string>
+  <string name="nav_menu_help_doc">Dokumentacja pomocy</string>
+</resources>

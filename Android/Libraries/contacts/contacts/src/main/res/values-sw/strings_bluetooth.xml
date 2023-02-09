@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">Idadi ya wawasiliani walioteuliwa: </string>
+  <string name="text_bt_paired_devices"> Paired vifaa (Teua kwa kuunganisha)</string>
+  <string name="text_bt_new_devices"> Vifaa vipya (Teua kwa kuunganisha)</string>
+  <string name="message_bt_scan_devices">Inatambazia vifaa...</string>
+  <string name="message_bt_scan_complete">Scan kumaliza kwa vifaa</string>
+  <string name="message_bt_pair_devices">Vifaa jozi...</string>
+  <string name="message_bt_new_none">Hakuna vifaa mpya kupatikana</string>
+  <string name="message_bt_pair_none">Hakuna vifaa paired kupatikana</string>
+  <string name="message_bt_conn_lost">Muunganisho alipoteza kwenye kifaa</string>
+  <string name="message_bt_connecting">Kuunganisha kwenye: </string>
+  <string name="message_bt_not_enabled">Bluetooth haijawezeshwa, kufunga Hamisho wa Bluetooth</string>
+  <string name="message_bt_status_listening">Kusikiliza...</string>
+  <string name="message_bt_status_connecting">Inaunganisha...</string>
+  <string name="message_bt_status_connected">Kushikamana</string>
+  <string name="message_bt_testdata_sent">Testdata alimtuma</string>
+  <string name="message_bt_no_contacts">Hakuna wawasiliani kilichoteuliwa kupeleka</string>
+  <string name="message_bt_recv_complete">Kupokea data kamili</string>
+  <string name="message_bt_not_connected">Haijaunganishwa kwenye kifaa chochote</string>
+  <string name="message_bt_adapter_error">Kulikuwa na kosa la kuweka Bluetooth.
+            Tafadhali kagua kama simu yako ina Bluetooth na adapta ya Bluetooth umewezeshwa</string>
+  <string name="menu_bt_make_discoverable">Kufanya kifaa discoverable</string>
+  <string name="progressbar_bt_recv_data">Tayari kupokea data ya wawasiliani...</string>
+  <string name="message_bt_startup">Kuhakikisha kuwa programu hiyo inaendeshwa na hii screen kufungua katika kifaa kingine</string>
+</resources>

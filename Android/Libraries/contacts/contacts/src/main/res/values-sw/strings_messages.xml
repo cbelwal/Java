@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_update_confirm"> mwasiliani unayetaka kusasishwa. Kitendo hiki hakiwezi kutenduliwa. Kuendelea?</string>
+  <string name="message_update_complete"> mwasiliani unayetaka kusasaishwa</string>
+  <string name="message_save_external">Mawasiliano zilizohifadhiwa katika kabrasha nje: </string>
+  <string name="message_import">Tu vKadi na CSV faili inaweza kuwa nje (Tumia \'Browse\' kupakia faili kutoka vyanzo vingine</string>
+  <string name="message_loading_files">Inatafutiza kabrasha ndani...</string>
+  <string name="message_loading_backup_files">Inatafutiza kifaa kwa ajili ya faili chelezo...</string>
+  <string name="message_importing_contacts_complete">waliletwa</string>
+  <string name="message_save_external_suffix">. Folda zinaweza kufikiwa na kuunganisha simu yako kwenye tarakilishi yako kupitia USB nk. </string>
+  <string name="message_selectitems">Mwasiliani atleast 1 inahitaji kuchaguliwa</string>
+  <string name="message_delete_confirm">Kuchaguliwa mwasiliani unayetaka maelezo itafutwa. Kitendo hiki hakiwezi kutenduliwa. Kuendelea?</string>
+  <string name="message_delete_complete"> contact(s) maelezo kufutwa</string>
+  <string name="message_free_import_limit">Faili ina mwasiliani unayetaka zaidi kuliko ruhusiwa katika toleo bure</string>
+  <string name="message_rate_this_app_error">Haikuweza kufungua ukurasa wa binafsi. Tafadhali nenda kwenye Google Play na kiwango cha ipasavyo</string>
+  <string name="message_edit">Mwasiliani 1 tu inaweza kuhaririwa kwa wakati mmoja. </string>
+  <string name="message_backup_stored">Wawasiliani kuwa wamekuwa wakisaidiwa-hadi katika faili:</string>
+  <string name="message_download_coju">Coju ni app usimamizi jumuishi wa mawasiliano. Ina vipengele vyote vya programu hii pamoja na uwezo wa ziada. Je, ungependa kupakua Coju?</string>
+  <string name="message_contact_permissions_missing">Ruhusa ya wawasiliani zinahitajika kwa programu hii kufanya kazi. Programu itakuwa sasa Funga, tafadhali kutoa vibali na jaribu tena</string>
+  <string name="message_other_permissions_missing">Ruhusa iliyoombwa zinahitajika kwa kipengele hiki programu kufanya kazi.
+        Tafadhali kutoa ruhusa iliyoombwa na jaribu tena</string>
+  <string name="message_backup_freeversion">
+        Namba ya juu ya wawasiliani ambao inaweza kuchelezwa katika toleo hili bure ni:
+    </string>
+  <string name="message_backup_paidversion">
+        Wewe wawasiliani kwa ufanisi zimechelezwa katika faili
+    </string>
+  <string name="message_purchase_error">
+        Haiwezi kuunganisha kwa seva za Google. Tafadhali anzisha upya programu na jaribu tena
+    </string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_backup_stored_freeversion">
+        Versión gratuita sólo permite backup de contactos hasta 200.
+        Contactos han sido respaldados en archivo:
+    </string>
+  <string name="message_backup_failed">
+        No se pudo guardar la copia de seguridad, por favor vuelva a intentarlo. Si el problema persiste por favor informar problema a editor de la aplicación utilizando la opción de comentarios en esta aplicación.
+    </string>
+</resources>

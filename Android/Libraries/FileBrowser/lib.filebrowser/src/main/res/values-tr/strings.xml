@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">Ürün (ler)</string>
+  <string name="general_selected_items">Seçili</string>
+  <string name="general_error">Hata</string>
+  <string name="title_confirm">Onayla</string>
+  <string name="button_ok">Tamam</string>
+  <string name="button_cancel">İptal</string>
+  <string name="free_space">Toplam boş alan:</string>
+  <string name="title_share">Kullanarak paylaşmak:</string>
+  <string name="title_rename">Yeni bir ad girin  </string>
+  <string name="title_create_folder">Klasör adı girin  </string>
+</resources>

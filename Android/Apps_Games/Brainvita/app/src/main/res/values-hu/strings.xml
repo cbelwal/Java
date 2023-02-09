@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">PEG Solitaire Solver</string>
+  <string name="message_tellafriend">Ez app az értelmi challening játék Peg Solitaire is ismert, mint a márvány pasziánsz, vagy Brainvita. A cél a játék az, hogy a csapok a lehető legkevesebb. Csapok kerülnek egy üres lyuk után ugrott át egy másik peg-ban egy egyenes vonal. A leértékelés ugrott át eltávolítják, ily módon, miután minden mozog a szám a csapok csökkent egy. \n\n eltekintve a szokásos játék, ez az app lehetővé teszi, hogy a saját egyéni fórumon, hogy oldja meg. Vissza és előre gombok, amely lehetővé teszi, menj vissza tetszőleges számú mozog és a játék is tartja nagy scores.\n\n mi teszi ezt app igazán egyedi azonban az erős peg solitaire solver. A solver használja a magaviselet \'state-space\ \"algoritmus megoldására bármely adott fórumon. A solver jön fel minden mozog, hogy kell jönni a legkisebb lehetséges szám a csapok.
+        Ha ön fuss a solver az elején egy új testület, ez akarat mutat ön minden mozog, hogy vezet egy kampóra. Mert úgy találja, hogy egy oldat-hoz minden fórumon, a solver is eltarthat néhány percig, hogy jön egy solution.\n\n ad ez egy megpróbál! \n</string>
+</resources>

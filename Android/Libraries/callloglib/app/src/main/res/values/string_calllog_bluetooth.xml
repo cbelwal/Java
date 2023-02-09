@@ -1,0 +1,45 @@
+<resources>
+    <string name="text_bt_number_of_contacts">Number of selected call log(s): </string>
+    <string name="text_bt_paired_devices"> Paired Devices (select to Connect)</string>
+    <string name="text_bt_new_devices"> New Devices (select to Connect)</string>
+    <string name="message_bt_scan_devices">Scanning for devices ...</string>
+    <string name="message_bt_scan_complete">Finished scan for devices</string>
+    <string name="message_bt_pair_devices">Pairing devices ...</string>
+    <string name="message_bt_new_none">No new devices found</string>
+    <string name="message_bt_pair_none">No paired devices found</string>
+    <string name="message_bt_conn_lost">Connection lost to device</string>
+    <string name="message_bt_connecting">Connecting to: </string>
+    <string name="message_bt_not_enabled">Bluetooth not enabled, closing Bluetooth Transfer</string>
+    <string name="message_bt_status_listening">Listening ...</string>
+    <string name="message_bt_status_connecting">Connecting ...</string>
+    <string name="message_bt_status_connected">Connected</string>
+    <string name="message_bt_testdata_sent">Testdata Sent</string>
+    <string name="message_bt_no_contacts">No contacts selected to send</string>
+    <string name="message_bt_recv_complete">Receive data complete</string>
+    <string name="message_bt_not_connected">Not connected to any device</string>
+    <string name="message_bt_adapter_error">There was an error setting up Bluetooth.
+            Please check if your phone has Bluetooth and the Bluetooth adapter is enabled</string>
+    <string name="menu_bt_make_discoverable">Make device discoverable</string>
+    <string name="progressbar_bt_recv_data">Ready to receive contact data ...</string>
+
+
+
+     <string name="message_bt_connected">Connected to device.
+        Press \'Send\' to transfer call log(s) to: </string>
+       <string name="message_bt_conn_failed">Connection failed to device.
+    Please insure that this app is installed and Bluetooth screen is open in: </string>
+    <string name="message_bt_sent_error">Could not transfer these number of call log(s): </string>
+    <string name="message_bt_recv_error">Could not create these number of call log(s): </string>
+    <string name="message_bt_create_complete">Received call log(s) created: </string>
+    <string name="message_bt_sent_complete">Call log(s) sent to device: </string>
+    <string name="progressbar_bt_send_data">Transferring call log(s) </string>
+    <string name="progressbar_bt_bytes">bytes </string>
+    <string name="progressbar_bt_create_contacts">Creating call log(s)</string>
+
+    <string name="progressbar_delete_data">
+        Deleting call log(s) </string>
+
+    <string name="button_scan">Scan</string>
+    <string name="button_send">Send</string>
+
+</resources>

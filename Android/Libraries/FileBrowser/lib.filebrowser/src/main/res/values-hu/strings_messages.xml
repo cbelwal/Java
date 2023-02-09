@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Nem sikerült csatlakozni a Google szolgál. Indítsa újra a app, és próbálja újra
+    </string>
+  <string name="progressbar_load_data">Betöltése a mappa adatai...</string>
+  <string name="message_selectitems">Atleast 1 választás</string>
+  <string name="message_activity_load_fail">Alkalmazás nem indítható</string>
+  <string name="message_activity_loading">Alkalmazás indítása...</string>
+  <string name="message_other_permissions_missing">Ez a funkció működik kért engedélyek szükségesek. Kérjük adja meg a kért engedélyeket, majd próbálkozzon újra
+    </string>
+  <string name="message_no_read_permission">Nincs olvasási
+    </string>
+  <string name="message_cannot_go_in">Nem lehet bemenni a kijelölt mappa
+    </string>
+  <string name="message_delete_confirm">Törli a kijelölt fájlokat (s). Ez a művelet nem vonható vissza. Folytatja?</string>
+  <string name="progressbar_delete_data">
+        Fájl(ok) törlése </string>
+  <string name="message_delete_complete"> fájl / mappa törölve</string>
+  <string name="message_free_version_selection">
+        Maximális fájlokat lehet kiválasztani a szabad változat van: </string>
+  <string name="message_max_allowed_one">
+        Ez a beállítás csak akkor működik, egyetlen beállítással  </string>
+  <string name="message_only_file">
+        Ez a beállítás csak akkor működik a fájl (ok)  </string>
+  <string name="message_copying_file">
+        Fájl másolása...  </string>
+  <string name="message_copy_complete">
+        Reszelő másol teljes  </string>
+  <string name="message_copy_error">
+        Nem sikerült létrehozni egy másol-ból néhány fájl</string>
+  <string name="message_share_error">
+        Hiba történt, másolás során. Kérjük, ellenőrizze, ha van elegendő szabad hellyel, a gyorsítótár megosztott fájl (ok)  </string>
+  <string name="message_zipping_files">
+        Fájl(ok) tömörítése / mappák...  </string>
+  <string name="message_zipping_completed">
+        Minden fájlok / mappák költözött, zip archívum  </string>
+  <string name="message_zipping_error">
+        Nem sikerült zip a fájl / mappa. Kérjük, ellenőrizze, ha kijelölt mappák nem üres, és van elegendő tárhellyel</string>
+  <string name="message_rename_complete">
+        Átnevez a reszelő/dosszié teljes  </string>
+  <string name="message_rename_error">
+        Fájl/mappa átnevezése  </string>
+  <string name="message_create_folder_complete">
+        Létrehozott mappát  </string>
+  <string name="message_create_folder_error">
+        Nem sikerült létrehozni a mappát  </string>
+  <string name="message_file_open_error">
+        Nem sikerült megnyitni a fájlt  </string>
+</resources>

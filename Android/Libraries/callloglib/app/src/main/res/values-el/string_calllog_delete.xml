@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_delete_confirm_cl">Επιλεγμένο κλήση λεπτομέρειες καταγραφές θα διαγραφούν. Αυτή η ενέργεια δεν μπορεί να αναιρεθεί. Προχωρήσει;</string>
+  <string name="message_delete_complete_cl"> κλήση καταγραφές καταχώρηση διαγράφεται</string>
+</resources>

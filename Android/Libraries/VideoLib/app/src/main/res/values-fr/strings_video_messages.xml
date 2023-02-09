@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        Pas pu se connecter au serveur de Google. S’il vous plaît redémarrer l’application et essayez à nouveau
+    </string>
+  <string name="progressbar_load_data">Recherche de fichiers vidéo...</string>
+  <string name="message_selectitems">Il faut au moins 1 sélection</string>
+  <string name="message_activity_load_fail">Application n’a pas pu être démarrée</string>
+  <string name="message_activity_loading">Démarrage de l’application...</string>
+  <string name="message_other_permissions_missing">Autorisations demandées sont nécessaires pour cette fonctionnalité. S’il vous plaît donner les autorisations demandées et essayez à nouveau
+    </string>
+  <string name="message_no_read_permission">Aucune autorisation de lecture
+    </string>
+  <string name="message_cannot_go_in">Ne pouvait pas aller à l’intérieur du dossier sélectionné
+    </string>
+  <string name="message_delete_confirm">Les fichiers sélectionnés (s) seront supprimés. Cette action ne peut pas être annulée. Aller de l’avant ?</string>
+  <string name="progressbar_delete_data">
+        Suppression de fichier (s) </string>
+  <string name="message_delete_complete"> fichiers / dossiers supprimés</string>
+  <string name="message_free_version_selection">
+        Les fichiers maximales pouvant être sélectionné dans la version gratuite est : </string>
+  <string name="message_max_allowed_one">
+        Cette option ne fonctionne que pour une seule sélection  </string>
+  <string name="message_only_file">
+        Cette option ne fonctionne que pour les fichier (s)  </string>
+  <string name="message_copying_file">
+        Copie des fichiers...  </string>
+  <string name="message_copy_complete">
+        Copie de fichier complet  </string>
+  <string name="message_copy_error">
+        Pas pu créer une copie de certains fichiers. Assurez-vous que l’espace libre est et vous avez accès en écriture au dossier.</string>
+  <string name="message_share_error">
+        Une erreur s’est produite pendant la copie. S’il vous plaît vérifiez si vous avez un espace de stockage suffisant pour mettre en cache ou les fichiers partagés  </string>
+  <string name="message_zipping_files">
+        Compression de fichiers / dossiers...  </string>
+  <string name="message_zipping_completed">
+        Tout fichier / dossier (s) s’installe à l’archive zip  </string>
+  <string name="message_zipping_error">
+        Pouvait pas zip les fichiers / dossiers. Veuillez vérifier si l’ou les dossiers sélectionnés ne sont pas vides et vous avez suffisamment d’espace mémoire</string>
+  <string name="message_rename_complete">
+        Changement de nom de fichier/dossier complet  </string>
+  <string name="message_rename_error">
+        Pouvait pas renommer le fichier/dossier  </string>
+  <string name="message_create_folder_complete">
+        Dossier créé  </string>
+  <string name="message_create_folder_error">
+        Pas pu créer dossier  </string>
+</resources>

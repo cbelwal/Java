@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">اسم الملف:</string>
+  <string name="text_ep_file_size">الحجم:</string>
+  <string name="text_ep_modified_date">تاريخ التعديل:</string>
+  <string name="text_ep_duration">المدة:</string>
+  <string name="title_search_depth">عمق البحث (قيم كبيرة سوف يستغرق عدة دقائق)</string>
+  <string name="progressbar_extracting_audio">استخراج الصوت (قد يستغرق عدة دقائق)...</string>
+  <string name="progressbar_loading_audio">تحميل تفاصيل ملف الصوت...</string>
+  <string name="text_ep_time_start">زمن البدء</string>
+  <string name="text_ep_period">مدة كل file(seconds) الصوتية</string>
+  <string name="text_ep_store">تخزين ملفات الصوت الجديد ك:</string>
+  <string name="text_ep_share_external">وضع في مجلد خارجي</string>
+  <string name="text_ep_share_app">مشاركة التطبيقات باستخدام</string>
+  <string name="message_extract_complete"> وقد تم إنشاء ملفات M4A</string>
+  <string name="message_extract_error">حدث خطأ في إنشاء ملفات صوتية</string>
+  <string name="message_search_depth_updated">تم تحديث عمق البحث</string>
+  <string name="message_search_depth_error">خطأ في تحديث عمق البحث</string>
+  <string name="message_load_complete">وقد تم تحميل تفاصيل ملف الصوت</string>
+  <string name="message_load_error">حدث خطأ في تحميل الصوت</string>
+  <string name="message_extract_duration_reduced"> تم تخفيض مدة الملف الصوتي الأخير كما تم التوصل إلى نهاية للصوت </string>
+  <string name="message_extract_incomplete"> %1$ ملفات الصوت د تعذر إنشاء أو الحصول على معلومات غير كاملة</string>
+  <string name="message_extract_signature">أرسلت عن طريق \"المبشاره الصوت\" من coju.mobi™</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_call_security_exception">इस अनुप्रयोग के लिए कॉल करने के लिए अनुमति नहीं दी गई है</string>
+  <string name="message_search_number_security_exception">इस फोन नंबर खोज नहीं सका! गूगल खोज सक्षम नहीं है या इस डिवाइस में अनुमति नहीं दी गई है</string>
+  <string name="message_free_version_selection">
+        अधिकतम लॉग प्रविष्टियाँ, जो नि: शुल्क संस्करण में चुना जा सकता है: </string>
+  <string name="message_purchase_error">
+        Google सर्वर से कनेक्ट नहीं हो सका। कृपया अनुप्रयोग को पुनरारंभ करें और पुन: प्रयास करें
+    </string>
+</resources>

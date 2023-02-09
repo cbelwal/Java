@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Sortare după dată</string>
+  <string name="nav_view_outgoingcalls_cl">Apeluri efectuate</string>
+  <string name="nav_view_incomingcalls_cl">Apelurile primite</string>
+  <string name="nav_view_missedcalls_cl">Apeluri nepreluate</string>
+  <string name="nav_view_callduration_cl">Sortate în funcţie de durata</string>
+  <string name="nav_view_geocoded_location_cl">Sortate în funcţie de locaţie</string>
+  <string name="nav_view_refresh_cl">Reîmprospătare</string>
+  <string name="nav_view_100_records">Pana la 100</string>
+  <string name="nav_view_500_records">Pana la 500</string>
+  <string name="nav_view_all_records">Toate disponibile</string>
+  <string name="nav_menu_group_general_cl">Generale</string>
+  <string name="nav_menu_group_help_cl">ajutor</string>
+  <string name="nav_menu_group_log_length">Vezi conta</string>
+  <string name="nav_menu_group_viewoptions_cl">Opţiuni</string>
+  <string name="nav_menu_group_views_cl">Vizualizari</string>
+  <string name="nav_menu_group_operations_cl">Operaţiuni</string>
+  <string name="nav_menu_group_backup_cl">Copie de rezervă</string>
+  <string name="nav_menu_rate_this_app_cl">Feedback-ul</string>
+  <string name="nav_menu_backup_contacts_cl">Copie de rezervă toate intrările de jurnal de apel</string>
+  <string name="nav_menu_restore_contacts_cl">Restabili Jurnal apeluri la spate</string>
+  <string name="nav_menu_upgrade_cl">Versiune de upgrade la Pro</string>
+  <string name="nav_menu_filter_cl">Filtrul de afisare</string>
+  <string name="nav_menu_duplicates_cl">Duplicate Toolkit</string>
+  <string name="nav_menu_tellafriend_cl">Spuneţi-i unui prieten</string>
+  <string name="nav_menu_feedback_cl">Contact Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Demo Video</string>
+  <string name="nav_menu_coju_cl">Download Coju</string>
+  <string name="menu_operations_cl">Actualizări în vrac</string>
+  <string name="menu_add_cl">Adauga</string>
+  <string name="menu_edit_cl">Editare</string>
+  <string name="menu_update_cl">Actualizare</string>
+  <string name="menu_share_cl">Cota</string>
+  <string name="menu_export_cl">Export</string>
+  <string name="menu_import_cl">Import</string>
+  <string name="menu_delete_cl">Şterge</string>
+  <string name="menu_bluetooth_cl">Transferul Bluetooth</string>
+</resources>

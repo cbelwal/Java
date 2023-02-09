@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Parcourir</string>
+  <string name="backup_options_backupusing">À l’aide de sauvegarde</string>
+  <string name="export_options_externalStorage">Stockage externe de ce dispositif</string>
+  <string name="share_options_shareas">Partager en tant que :</string>
+  <string name="share_options_allshare">Partager des applications (nuage, Email,...)</string>
+  <string name="share_options_share_using">Partagez à l’aide de :</string>
+  <string name="share_options_sms">La messagerie</string>
+  <string name="share_options_clipboard">Copier dans le presse-papiers</string>
+  <string name="export_options_ExportUsing">Enregistrez le fichier dans :</string>
+  <string name="progressbar_prepare_data">Préparer la liste de journal d’appels...</string>
+  <string name="progressbar_backup">Sauvegardez le journal des appels, cela peut prendre quelques minutes...</string>
+  <string name="backup_options_using">Enregistrez le fichier de sauvegarde dans :</string>
+  <string name="menu_import_help">Aide</string>
+  <string name="text_import_file_name">Nom du fichier sélectionné :</string>
+  <string name="text_import_file_size">Size(bytes) fichier sélectionné :</string>
+  <string name="text_unknown_file_size">Inconnu</string>
+  <string name="message_backup_options">Il est recommandé de sauvegarde dans les applications de partage comme le nuage, E-mail etc.
+        Cela vous permettra de récupérer le journal d’appel si jamais vous perdez votre téléphone.
+        Pour restaurer les contacts d’Email/nuage manuellement enregistrer l’appel journal fichier de sauvegarde de votre compte Email/Cloud n’importe où dans ce dispositif. L’utilitaire import/restaurer ensuite automatiquement apparaître le fichier.</string>
+  <string name="message_importing_contacts">Importation d’appel ou les journaux...</string>
+  <string name="message_reading_import_file">Lecture de fichier, cela peut prendre plusieurs minutes...</string>
+  <string name="export_options_plain_text">Texte brut</string>
+  <string name="export_options_indv_clm">Fichiers CLM individuels</string>
+  <string name="export_options_combined_clm">Fichier CLM combiné </string>
+  <string name="export_generated_footer">Généré via Call Log Manager Coju</string>
+  <string name="export_sent_footer">Générés par le gestionnaire de journal appel</string>
+  <string name="export_generated_header">Détails de journal des appels</string>
+  <string name="message_clipboard_copy">Copié dans le presse-papiers</string>
+  <string name="message_exporting_calllog">Extraction de contacts...</string>
+  <string name="message_exporting_calllog_ready">S’apprête à exporter des contacts...</string>
+  <string name="message_exporting_calllog_write_file">Fichier (s) d’écriture...</string>
+  <string name="message_import_help">Seulement les fichiers générés par ce soft (*. CLM fichiers) peuvent être importés</string>
+  <string name="message_import_invalid_file">Pas un fichier de journal d’appel valide</string>
+  <string name="message_importing_complete">Appelez ou les journaux importés</string>
+  <string name="message_restore_complete">Entrées du journal d’appel restaurées à partir d’une sauvegarde</string>
+  <string name="message_restore_fail">
+        Ne peut pas restaurer de sauvegarde, le fichier de sauvegarde est absent ou corrompu.
+                </string>
+  <string name="message_backup_stored_freeversion">
+        Version gratuite seulement permet la sauvegarde de jusqu\'à 9 appel ou les journaux.
+        Appel ou les journaux ont été sauvegardés dans le fichier :
+    </string>
+  <string name="message_backup_failed">
+        Impossible d’enregistrer le fichier de sauvegarde, s’il vous plaît essayer à nouveau. Si le problème persiste Veuillez signaler problème éditeur app à l’aide de l’option de retour dans cette application.
+    </string>
+  <string name="message_restore_selection_finish">
+        Journaux d’appels de sauvegarde ont été restaurés
+    </string>
+  <string name="message_clm_file_not_found">
+        Aucun gestionnaire de journal d’appels (*. Fichiers du CLM) cet appareil
+    </string>
+  <string name="message_backup_file_not_found">
+        Aucun fichier de sauvegarde dans ce dispositif
+    </string>
+  <string name="message_backup_stored">Contacts ont été sauvegardés dans le fichier :</string>
+  <string name="message_save_external">Composez le journal stocké dans le dossier externe : </string>
+  <string name="message_loading_files">La recherche des dossiers locaux...</string>
+  <string name="message_loading_backup_files">Dispositif de sauvegarde ou les fichiers à la recherche...</string>
+  <string name="message_backup_freeversion">
+        Nombre maximal de journaux d’appels qui peuvent être sauvegardés dans cette version gratuite est :
+    </string>
+  <string name="message_backup_paidversion">
+        Tous les journaux d’appels ont été correctement sauvegardées dans un fichier
+    </string>
+</resources>

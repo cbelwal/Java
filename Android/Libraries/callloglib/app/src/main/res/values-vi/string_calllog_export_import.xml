@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Trình duyệt</string>
+  <string name="backup_options_backupusing">Bằng cách sử dụng sao lưu</string>
+  <string name="export_options_externalStorage">Các lưu trữ bên ngoài của thiết bị này</string>
+  <string name="share_options_shareas">Chia sẻ như:</string>
+  <string name="share_options_allshare">Chia sẻ ứng dụng (đám mây, Email,...)</string>
+  <string name="share_options_share_using">Chia sẻ bằng cách sử dụng:</string>
+  <string name="share_options_sms">Nhắn tin</string>
+  <string name="share_options_clipboard">Sao chép vào Clipboard</string>
+  <string name="export_options_ExportUsing">Lưu các tập tin trong:</string>
+  <string name="progressbar_prepare_data">Chuẩn bị danh sách cuộc gọi đăng nhập...</string>
+  <string name="progressbar_backup">Sao lưu Nhật ký cuộc gọi, điều này có thể mất vài phút...</string>
+  <string name="backup_options_using">Lưu các tập tin sao lưu trong:</string>
+  <string name="menu_import_help">Trợ giúp</string>
+  <string name="text_import_file_name">Chọn tên tập tin:</string>
+  <string name="text_import_file_size">Tệp đã chọn Size(bytes):</string>
+  <string name="text_unknown_file_size">Chưa biết</string>
+  <string name="message_backup_options">Đó là khuyến cáo sao lưu trong các ứng dụng chia sẻ giống như đám mây, Email vv.
+        Điều này sẽ cho phép bạn khôi phục Nhật ký cuộc gọi nếu bạn đã bao giờ mất điện thoại của bạn.
+        Để khôi phục danh bạ từ Email/Cloud tự lưu cuộc gọi đăng nhập tệp sao lưu từ tài khoản Email/đám mây của bạn đến bất kỳ vị trí nào trong thiết bị này. Tiện ích nhập khẩu/khôi phục lại sẽ sau đó sẽ tự động xác định vị trí các tập tin.</string>
+  <string name="message_importing_contacts">Đang chuyển nhập cuộc gọi log(s)...</string>
+  <string name="message_reading_import_file">Đọc tập tin, điều này có thể mất vài phút...</string>
+  <string name="export_options_plain_text">Văn bản thuần</string>
+  <string name="export_options_indv_clm">Cá nhân (các) tệp CLM</string>
+  <string name="export_options_combined_clm">Kết hợp các tập tin CLM </string>
+  <string name="export_generated_footer">Được tạo ra thông qua cuộc gọi đăng nhập quản lý Coju</string>
+  <string name="export_sent_footer">Được tạo ra thông qua quản lý Nhật ký cuộc gọi</string>
+  <string name="export_generated_header">Thông tin chi tiết cuộc gọi đăng nhập</string>
+  <string name="message_clipboard_copy">Sao chép vào clipboard</string>
+  <string name="message_exporting_calllog">Giải nén contact(s)...</string>
+  <string name="message_exporting_calllog_ready">Chuẩn bị sẵn sàng để xuất khẩu contact(s)...</string>
+  <string name="message_exporting_calllog_write_file">Tệp văn bản...</string>
+  <string name="message_import_help">Chỉ các tập tin được tạo ra từ này ứng dụng (*. CLM file) có thể được nhập khẩu</string>
+  <string name="message_import_invalid_file">Không hợp lệ cuộc gọi đăng nhập tập tin</string>
+  <string name="message_importing_complete">gọi log(s) nhập khẩu</string>
+  <string name="message_restore_complete">Gọi đăng nhập mục được khôi phục từ bản sao lưu</string>
+  <string name="message_restore_fail">
+        Không thể khôi phục từ bản sao lưu, sao lưu tệp bị thiếu hoặc hỏng
+                </string>
+  <string name="message_backup_stored_freeversion">
+        Phiên bản miễn phí chỉ cho phép sao lưu của lên đến 9 gọi log(s).
+        Gọi Log(s) đã được đã sao lưu trong tập tin:
+    </string>
+  <string name="message_backup_failed">
+        Không thể lưu tập tin sao lưu, hãy thử một lần nữa. Nếu vấn đề vẫn còn xin vui lòng báo cáo vấn đề cho nhà phát hành ứng dụng bằng cách sử dụng các thông tin phản hồi tùy chọn trong ứng dụng này.
+    </string>
+  <string name="message_restore_selection_finish">
+        Nhật ký sao lưu cuộc gọi đã được khôi phục
+    </string>
+  <string name="message_clm_file_not_found">
+        Không có người quản lý Nhật ký cuộc gọi (*. CLM) các tập tin được tìm thấy trong thiết bị này
+    </string>
+  <string name="message_backup_file_not_found">
+        Không tìm thấy thiết bị này sao lưu tệp
+    </string>
+  <string name="message_backup_stored">Địa chỉ liên hệ đã được đã sao lưu trong tập tin:</string>
+  <string name="message_save_external">Gọi đăng nhập được lưu trữ trong thư mục bên ngoài: </string>
+  <string name="message_loading_files">Đang tìm kiếm cặp cục bộ...</string>
+  <string name="message_loading_backup_files">Đang tìm thiết bị sao lưu tệp...</string>
+  <string name="message_backup_freeversion">
+        Tối đa số các bản ghi cuộc gọi có thể được sao lưu trong phiên bản miễn phí này là:
+    </string>
+  <string name="message_backup_paidversion">
+        Tất cả các bản ghi cuộc gọi đã được sao lưu thành công trong một tập tin
+    </string>
+</resources>

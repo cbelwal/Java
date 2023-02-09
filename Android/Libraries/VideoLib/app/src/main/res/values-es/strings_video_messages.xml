@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_purchase_error">
+        No se pudo conectar al servidor de Google. Reinicie la aplicación y vuelva a intentarlo
+    </string>
+  <string name="progressbar_load_data">Búsqueda de archivos de vídeo...</string>
+  <string name="message_selectitems">Se requiere la selección de al menos 1</string>
+  <string name="message_activity_load_fail">No se pudo iniciar la aplicación</string>
+  <string name="message_activity_loading">A partir de aplicación...</string>
+  <string name="message_other_permissions_missing">Permisos solicitados se requieren para esta función a trabajar. Por favor dar permisos solicitados e inténtelo de nuevo
+    </string>
+  <string name="message_no_read_permission">Permiso de lectura no
+    </string>
+  <string name="message_cannot_go_in">No podía ir dentro de la carpeta seleccionada
+    </string>
+  <string name="message_delete_confirm">Se borrarán los archivos seleccionados (s). Esta acción no se puede deshacer. ¿Proceder?</string>
+  <string name="progressbar_delete_data">
+        Eliminar archivo (s) </string>
+  <string name="message_delete_complete"> archivo / elimina carpeta (s)</string>
+  <string name="message_free_version_selection">
+        Archivos máximo que se pueden seleccionar en la versión gratuita es: </string>
+  <string name="message_max_allowed_one">
+        Esta opción sólo funciona para una sola selección  </string>
+  <string name="message_only_file">
+        Esta opción sólo funciona para archivos  </string>
+  <string name="message_copying_file">
+        Copiar el archivo...  </string>
+  <string name="message_copy_complete">
+        Copia de archivo completo  </string>
+  <string name="message_copy_error">
+        No se puede crear una copia de algunos archivos. Asegúrese que hay espacio libre y tener acceso de escritura a la carpeta.</string>
+  <string name="message_share_error">
+        Se ha producido un error durante la copia. Por favor, compruebe si tiene suficiente espacio de almacenamiento en caché de archivos compartidos  </string>
+  <string name="message_zipping_files">
+        Comprimir archivos / carpetas...  </string>
+  <string name="message_zipping_completed">
+        Todos los archivo (s) / carpetas se trasladó a cierre relámpago archivo  </string>
+  <string name="message_zipping_error">
+        No podría zip los archivos / carpetas. Por favor, compruebe si las carpetas no están vacías y tienes suficiente espacio de almacenamiento</string>
+  <string name="message_rename_complete">
+        Cambio de nombre de archivo y carpeta completa  </string>
+  <string name="message_rename_error">
+        No puede renombrar archivo/carpeta  </string>
+  <string name="message_create_folder_complete">
+        Carpeta creada  </string>
+  <string name="message_create_folder_error">
+        No se puede crear carpeta  </string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_add_call_log">Добавяне</string>
+  <string name="activity_edit_call_log">Редактиране</string>
+  <string name="activity_share_call_log">Дял</string>
+  <string name="activity_export_call_log">Износ</string>
+  <string name="activity_import_call_log">Импортиране</string>
+  <string name="activity_bluetooth_call_log">Bluetooth прехвърляне</string>
+  <string name="activity_backup_call_log">Архивиране</string>
+  <string name="activity_restore_call_log">Възстановяване</string>
+  <string name="activity_filter_call_log">Дисплей филтър</string>
+</resources>

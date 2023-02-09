@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">नया खेल</string>
+  <string name="button_switch_board">स्विच बोर्ड</string>
+  <string name="button_custom_board">सेट कस्टम बोर्ड</string>
+  <string name="button_high_scores">उच्च स्कोर</string>
+  <string name="button_rate_app">दर इस खेल</string>
+  <string name="button_tell_a_friend">एक मित्र को बताएँ</string>
+  <string name="button_paid_version">भुगतान किया संस्करण</string>
+  <string name="button_help_documentation">मदद दस्तावेज़ीकरण</string>
+  <string name="button_demo_video">डेमो वीडियो</string>
+  <string name="button_ok">ठीक है</string>
+  <string name="button_yes">हाँ</string>
+  <string name="button_no">नहीं</string>
+  <string name="button_start">प्रारंभ करें</string>
+  <string name="button_cancel">रद्द करें</string>
+  <string name="button_abort">निरस्त करें</string>
+  <string name="button_high_score_close">बंद करें</string>
+  <string name="title_high_score">शीर्ष दस उच्च स्कोर</string>
+  <string name="text_high_score_none">कोई स्कोर</string>
+  <string name="text_high_score_pegs">शेष peg(s)</string>
+  <string name="text_high_score_time">समय</string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Durchsuchen</string>
+  <string name="backup_options_backupusing">Backup mit</string>
+  <string name="export_options_externalStorage">Externen Speicher des Gerätes</string>
+  <string name="share_options_shareas">Geben Sie als:</string>
+  <string name="share_options_allshare">Anwendungen Sie (Cloud, Email,...)</string>
+  <string name="share_options_share_using">Teilen Sie mit:</string>
+  <string name="share_options_sms">Messaging-</string>
+  <string name="share_options_clipboard">In Zwischenablage kopieren</string>
+  <string name="export_options_ExportUsing">Speichern Sie die Datei in:</string>
+  <string name="progressbar_prepare_data">Anrufliste Log wird vorbereitet...</string>
+  <string name="progressbar_backup">Anrufliste sichern, kann dies einige Minuten dauern...</string>
+  <string name="backup_options_using">Speichern Sie die backup-Datei in:</string>
+  <string name="menu_import_help">Hilfe</string>
+  <string name="text_import_file_name">Gewählte Dateiname:</string>
+  <string name="text_import_file_size">Ausgewählte Datei Size(bytes):</string>
+  <string name="text_unknown_file_size">Unbekannt</string>
+  <string name="message_backup_options">Es wird empfohlen, backup in Anwendungen wie Cloud, E-Mail usw. freigeben.
+        Diese können Sie die Anrufliste wiederherstellen, wenn Sie schon einmal Ihr Handy verlieren.
+        Kontakte aus E-Mail/Cloud manuell speichern die Call Log backup-Datei von Ihrem e-Mail-/ Cloud-Konto an eine beliebige Stelle in diesem Gerät wiederherstellen. Das Import/Wiederherstellung-Dienstprogramm wird dann automatisch die Datei suchen.</string>
+  <string name="message_importing_contacts">Anruf-Protokolle werden importiert...</string>
+  <string name="message_reading_import_file">Lesen die Datei, kann dies einige Minuten dauern...</string>
+  <string name="export_options_plain_text">Nur-text</string>
+  <string name="export_options_indv_clm">Einzelnen CLM Datei(en)</string>
+  <string name="export_options_combined_clm">Kombinierte CLM-Datei </string>
+  <string name="export_generated_footer">Über Call Log Manager Coju erzeugt</string>
+  <string name="export_sent_footer">Über Call Log Manager generiert</string>
+  <string name="export_generated_header">Rufen Sie Protokolldetails</string>
+  <string name="message_clipboard_copy">In Zwischenablage kopiert</string>
+  <string name="message_exporting_calllog">Kontakte werden extrahiert...</string>
+  <string name="message_exporting_calllog_ready">Immer bereit, Kontakte zu exportieren...</string>
+  <string name="message_exporting_calllog_write_file">Schreiben von Dateien...</string>
+  <string name="message_import_help">Nur von dieser app generierten Datei (*. CLM-Dateien) können importiert werden</string>
+  <string name="message_import_invalid_file">Keine gültige Call-Log-Datei</string>
+  <string name="message_importing_complete">Anruf-Protokolle nicht importiert</string>
+  <string name="message_restore_complete">Rufen Sie Protokolleinträge, die aus einer Sicherung wiederhergestellt</string>
+  <string name="message_restore_fail">
+        Konnte nicht aus einer Sicherung wiederherstellen, ist die backup-Datei fehlt oder beschädigt
+                </string>
+  <string name="message_backup_stored_freeversion">
+        Kostenlose Version erlaubt nur backup von bis zu 9 Anruf-Protokolle.
+        Anruf-Protokolle haben in Datei gesichert worden:
+    </string>
+  <string name="message_backup_failed">
+        Sicherungsdatei Speichern fehlgeschlagen, bitte versuchen Sie es erneut. Wenn das Problem weiterhin besteht melden Sie bitte Problem app-Herausgeber über die Feedback-Option in dieser app.
+    </string>
+  <string name="message_restore_selection_finish">
+        Backup Anrufprotokolle wurden restauriert und
+    </string>
+  <string name="message_clm_file_not_found">
+        Kein Call Log Manager (*. CLM) Dateien, die in diesem Gerät gefunden
+    </string>
+  <string name="message_backup_file_not_found">
+        Keine Backup-Dateien in diesem Gerät gefunden
+    </string>
+  <string name="message_backup_stored">Kontakte haben in Datei gesichert worden:</string>
+  <string name="message_save_external">Anrufliste in externen Ordner gespeichert: </string>
+  <string name="message_loading_files">Suchen lokale Ordner...</string>
+  <string name="message_loading_backup_files">Gerät für backup Dateien suchen...</string>
+  <string name="message_backup_freeversion">
+        Maximale Anzahl von Anruflisten, die in dieser kostenlosen Version gesichert ist:
+    </string>
+  <string name="message_backup_paidversion">
+        Alle Anruflisten wurden erfolgreich in einer Datei gesichert
+    </string>
+</resources>

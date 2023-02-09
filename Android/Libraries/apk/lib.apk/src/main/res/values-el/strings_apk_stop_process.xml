@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_stop_process">Διακοπή λειτουργίας</string>
+  <string name="message_stop_tasks">Σταματώντας να εκτελούν εργασίες στο...</string>
+  <string name="message_user_tasks_stopped">Εργασίες του χρήστη σταμάτησε</string>
+  <string name="message_system_tasks_stopped">Εργασίες συστήματος που σταμάτησε</string>
+  <string name="message_process_still_running">Καθήκοντα εξακολουθούν να εκτελούνται</string>
+  <string name="message_stop_running_tasks">Σταματήσει να τρέχει εφαρμογές και κλείστε/ασύρματο Bluetooth;</string>
+  <string name="message_stopping_running_tasks">Διακοπή Bluetooth και ασύρματες</string>
+  <string name="message_battery_current_percentage">Τρέχον επίπεδο % μπαταρία:</string>
+  <string name="message_no_user_process">Καμία διεργασία που εκτελείται χρήστη βρέθηκαν</string>
+</resources>

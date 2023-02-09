@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">फ़ाइल का नाम:</string>
+  <string name="text_ep_file_size">आकार:</string>
+  <string name="text_ep_modified_date">संशोधित तिथि:</string>
+  <string name="text_ep_video_duration">अवधि:</string>
+  <string name="title_search_depth">खोज गहराई (बड़े मानों में कई मिनट लगेंगे)</string>
+  <string name="nav_menu_search_entire_phone">संपूर्ण फ़ोन खोजें</string>
+  <string name="nav_menu_search_media_folders">खोज मीडिया फ़ोल्डर (s)</string>
+  <string name="nav_menu_search_external_folders">बाहरी फ़ोल्डर खोजें</string>
+  <string name="progressbar_extracting_pictures">चित्र निकाल रहा है.. ।</string>
+  <string name="text_ep_time_start">प्रारंभ समय (सेकंड्स)</string>
+  <string name="text_ep_period">चित्रों के बीच अंतराल (सेकंड्स)</string>
+  <string name="text_ep_no_of_pictures">चित्रों की संख्या</string>
+  <string name="text_ep_store">के रूप में निकाले छवियों स्टोर:</string>
+  <string name="text_ep_share_external">बाहरी फ़ोल्डर में रखें</string>
+  <string name="text_ep_share_app">अनुप्रयोगों का उपयोग करके साझा करें</string>
+  <string name="message_extract_complete"> चित्र (ओं) को निकाल दिया गया है</string>
+  <string name="message_extract_error">चित्रों को निकालने में कोई त्रुटि आई</string>
+  <string name="message_search_depth_updated">खोज गहराई अद्यतन किया गया था</string>
+  <string name="message_search_depth_error">खोज गहराई अद्यतन करने में त्रुटि</string>
+</resources>

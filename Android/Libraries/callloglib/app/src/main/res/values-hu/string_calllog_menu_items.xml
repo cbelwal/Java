@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Idő szerint rendezve</string>
+  <string name="nav_view_outgoingcalls_cl">Kimenő hívások</string>
+  <string name="nav_view_incomingcalls_cl">Bejövő hívások</string>
+  <string name="nav_view_missedcalls_cl">Nem fogadott hívások</string>
+  <string name="nav_view_callduration_cl">Időtartam szerint rendezve</string>
+  <string name="nav_view_geocoded_location_cl">Hely szerint rendezve</string>
+  <string name="nav_view_refresh_cl">Frissítés</string>
+  <string name="nav_view_100_records">Felvégi 100</string>
+  <string name="nav_view_500_records">Felvégi 500</string>
+  <string name="nav_view_all_records">Összes, rendelkezésre álló</string>
+  <string name="nav_menu_group_general_cl">Általános</string>
+  <string name="nav_menu_group_help_cl">segítség</string>
+  <string name="nav_menu_group_log_length">Száma megtekintése</string>
+  <string name="nav_menu_group_viewoptions_cl">Beállítások</string>
+  <string name="nav_menu_group_views_cl">Megtekintés</string>
+  <string name="nav_menu_group_operations_cl">Műveletek</string>
+  <string name="nav_menu_group_backup_cl">Biztonsági mentés</string>
+  <string name="nav_menu_rate_this_app_cl">Visszajelzés</string>
+  <string name="nav_menu_backup_contacts_cl">Hát az összes hívás log bejegyzés</string>
+  <string name="nav_menu_restore_contacts_cl">Hívásnapló visszaállítása biztonsági másolatból</string>
+  <string name="nav_menu_upgrade_cl">Feljavít-hoz Profi változat</string>
+  <string name="nav_menu_filter_cl">A megjelenítési szűrő</string>
+  <string name="nav_menu_duplicates_cl">Duplázik Toolkit</string>
+  <string name="nav_menu_tellafriend_cl">Mondja el egy ismerősének</string>
+  <string name="nav_menu_feedback_cl">Kapcsolattartó Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Tüntetés Video</string>
+  <string name="nav_menu_coju_cl">Letöltés Coju</string>
+  <string name="menu_operations_cl">Tömeges frissítések</string>
+  <string name="menu_add_cl">Add hozzá</string>
+  <string name="menu_edit_cl">Szerkesztése</string>
+  <string name="menu_update_cl">Frissítés</string>
+  <string name="menu_share_cl">Részvény</string>
+  <string name="menu_export_cl">Export</string>
+  <string name="menu_import_cl">Import</string>
+  <string name="menu_delete_cl">Törlése</string>
+  <string name="menu_bluetooth_cl">Átvitel Bluetooth</string>
+</resources>

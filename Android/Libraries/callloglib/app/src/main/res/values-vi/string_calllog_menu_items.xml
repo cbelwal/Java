@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nav_view_all_cl">Sắp xếp theo thời gian</string>
+  <string name="nav_view_outgoingcalls_cl">Cuộc gọi đi</string>
+  <string name="nav_view_incomingcalls_cl">Các cuộc gọi đến</string>
+  <string name="nav_view_missedcalls_cl">Cuộc gọi nhỡ</string>
+  <string name="nav_view_callduration_cl">Sắp xếp theo thời gian</string>
+  <string name="nav_view_geocoded_location_cl">Sắp xếp theo địa điểm</string>
+  <string name="nav_view_refresh_cl">Làm mới</string>
+  <string name="nav_view_100_records">Tối đa 100</string>
+  <string name="nav_view_500_records">Tối đa 500</string>
+  <string name="nav_view_all_records">Tất cả sẵn</string>
+  <string name="nav_menu_group_general_cl">Tổng quát</string>
+  <string name="nav_menu_group_help_cl">Trợ giúp</string>
+  <string name="nav_menu_group_log_length">Xem Count</string>
+  <string name="nav_menu_group_viewoptions_cl">Tùy chọn</string>
+  <string name="nav_menu_group_views_cl">Lượt xem</string>
+  <string name="nav_menu_group_operations_cl">Hoạt động</string>
+  <string name="nav_menu_group_backup_cl">Sao lưu</string>
+  <string name="nav_menu_rate_this_app_cl">Thông tin phản hồi</string>
+  <string name="nav_menu_backup_contacts_cl">Sao lưu tất cả các mục Nhật ký cuộc gọi</string>
+  <string name="nav_menu_restore_contacts_cl">Khôi phục Nhật ký cuộc gọi từ bản sao lưu</string>
+  <string name="nav_menu_upgrade_cl">Phiên bản nâng cấp cho Pro</string>
+  <string name="nav_menu_filter_cl">Màn hình hiển thị bộ lọc</string>
+  <string name="nav_menu_duplicates_cl">Bộ công cụ tính trùng</string>
+  <string name="nav_menu_tellafriend_cl">Nói cho một người bạn</string>
+  <string name="nav_menu_feedback_cl">Liên hệ Dasmic</string>
+  <string name="nav_menu_demovideo_cl">Demo Video</string>
+  <string name="nav_menu_coju_cl">Tải về Coju</string>
+  <string name="menu_operations_cl">Cập Nhật số lượng lớn</string>
+  <string name="menu_add_cl">Thêm</string>
+  <string name="menu_edit_cl">Chỉnh sửa</string>
+  <string name="menu_update_cl">Cập Nhật</string>
+  <string name="menu_share_cl">Chia sẻ</string>
+  <string name="menu_export_cl">Xuất khẩu</string>
+  <string name="menu_import_cl">Nhập khẩu</string>
+  <string name="menu_delete_cl">Xóa bỏ</string>
+  <string name="menu_bluetooth_cl">Bluetooth chuyển</string>
+</resources>

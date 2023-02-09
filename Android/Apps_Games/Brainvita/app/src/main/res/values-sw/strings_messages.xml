@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">Hongera, wewe got alama ya juu!</string>
+  <string name="message_game_end_new_game">Sasa mchezo ni juu! Je, ungependa kuanza mchezo mpya?</string>
+  <string name="message_custom_board">Bomba kwenye mashimo tupu kwa kasi kigingi. Bonyeza kitufe cha Funga wakati kamili</string>
+  <string name="message_custom_board_done">Bodi maalum ni muundo, unaweza kuanza kucheza.
+    Kumbuka kuwa alama za juu kwa ajili ya bodi maalum si kumbukumbu</string>
+  <string name="message_intro_first">
+        Sogeza kigingi kwenye shimo inapatikana katika mstari mnyoofu kuruka juu ya kigingi kingine
+    </string>
+  <string name="message_intro_second">Kigingi akaruka juu ni kuondolewa</string>
+  <string name="message_intro_third">Jaribu kuondoa pini nyingi kama iwezekanavyo</string>
+  <string name="message_intro_fourth">Kupata 1 tu kigingi iliyobaki ni lengo</string>
+  <string name="message_board_reset_confirm">Hii kukatisha bodi sasa. Je, unataka kuendelea?</string>
+  <string name="message_game_over">Hakuna Hamisho zaidi yanawezekana. Mchezo ni juu!</string>
+  <string name="message_solver_complete">Solver ina kuhesabiwa hatua yanayoelekeza idadi chini ya pegs.\n\nUse kitufe cha mbele kuona ubao hatua.</string>
+  <string name="message_solver_complete_free">Solver ina kuhesabiwa hatua ambayo kusababisha idadi chini ya pini. Tangu hii ni toleo la bure, solver ya kupata suluhisho la kuongoza kwa kiwango cha chini cha pini 3 tu. Katika toleo la kulipwa solver ya kupata suluhisho na 1 peg.\n\nUse kitufe mbele kuona ubao hatua.
+    </string>
+  <string name="message_solver_complete_title">Kupatikana ufumbuzi na pini: </string>
+  <string name="message_solver_inprogress_title">Kwa ajili ya kutafuta ufumbuzi...</string>
+  <string name="message_solver_inprogress">Sasa chini kigingi hesabu: </string>
+  <string name="message_solver_start_confirm">Kutegemea bodi sasa, Solver na inaweza kuchukua sekunde chache kwa dakika kadhaa katika kompyuta suluhisho na angalau idadi ya pini.
+    Tangu Solver ya haina nyingi computations, ni kupunguza nguvu za betri.
+        Inashauriwa kwamba unaweza kuweka simu yako kwa malipo kabla ya kuanza solver ya.
+    Wakati mbio Solver ya unaweza kusimamishwa wakati wowote na matokeo ya kigingi hivi karibuni utapatikana.</string>
+  <string name="message_solver_mode_play_board">
+        Haiwezi kucheza mchezo hali ya solver. Teua mchezo mpya Anzisha mchezo mpya</string>
+  <string name="message_confirm_switch_from_standard">
+        Bodi ya sasa ni kuweka kiwango, Je, unataka kubadilisha kwa Bodi ya Kifaransa?</string>
+  <string name="message_confirm_switch_from_French">
+        Bodi ya sasa ni kuweka kwa Kifaransa, Je, unataka kubadilisha kwa Bodi ya kiwango?</string>
+</resources>

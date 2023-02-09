@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_selectitems">انتخاب حداقل 1 مورد نیاز می باشد.</string>
+  <string name="message_save_external">APK پرونده های ذخیره شده در پوشه های خارجی: </string>
+  <string name="message_free_version_selection">تنها 3 برنامه ها می تواند در یک زمان در نسخه رایگان انتخاب</string>
+  <string name="message_free_version_option">این گزینه فقط برای نسخه پرداخت شده است</string>
+  <string name="message_activity_load_fail">برنامه شروع</string>
+  <string name="message_activity_loading">شروع برنامه...</string>
+  <string name="message_loading_files">جستجوی پوشه های محلی...</string>
+  <string name="message_deleting_files">به صورت جداگانه برای هر بسته انتخاب تایید کنید.
+    بسته های سیستم تنها از حساب کاربری حذف خواهد شد</string>
+  <string name="message_save_external_suffix">. پوشه را می توان با اتصال گوشی به رایانه از طریق USB و غیره دیده شده است. </string>
+  <string name="message_rate_this_app_error">رتبه صفحه را باز کند</string>
+  <string name="message_share_link_prefix">سلام \r\n\r\nCheck این از: </string>
+  <string name="message_share_link_suffix">ارسال از طریق APKit</string>
+  <string name="message_share_report_prefix">گزارش بسته</string>
+  <string name="message_share_report_suffix">تولید شده و از طریق ارسال</string>
+  <string name="message_other_permissions_missing">درخواست مجوز برای این ویژگی به کار مورد نیاز است. دادن مجوز درخواست شده و دوباره سعی کنید
+    </string>
+  <string name="message_purchase_error">
+        می تواند اتصال به سرور گوگل. لطفا برنامه را مجدداً راه اندازی کنید و دوباره امتحان کنید
+    </string>
+</resources>

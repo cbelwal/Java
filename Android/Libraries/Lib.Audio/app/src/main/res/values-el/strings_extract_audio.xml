@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Όνομα αρχείου:</string>
+  <string name="text_ep_file_size">Μέγεθος:</string>
+  <string name="text_ep_modified_date">Ημερομηνία τροποποίησης:</string>
+  <string name="text_ep_duration">Διάρκεια:</string>
+  <string name="title_search_depth">Βάθος αναζήτησης (μεγάλες τιμές θα διαρκέσει αρκετά λεπτά.)</string>
+  <string name="progressbar_extracting_audio">Εξαγωγή ήχου (μπορεί να διαρκέσει αρκετά λεπτά)...</string>
+  <string name="progressbar_loading_audio">Φόρτωση αρχείου ήχου λεπτομέρειες...</string>
+  <string name="text_ep_time_start">Έναρξη (δευτερόλεπτα)</string>
+  <string name="text_ep_period">Διάρκεια του κάθε ήχου file(seconds)</string>
+  <string name="text_ep_store">Αποθηκεύσετε νέα αρχεία ήχου ως:</string>
+  <string name="text_ep_share_external">Στον εξωτερικό φάκελο</string>
+  <string name="text_ep_share_app">Κοινή χρήση με εφαρμογές</string>
+  <string name="message_extract_complete"> M4A αρχείο (ες) έχουν δημιουργηθεί</string>
+  <string name="message_extract_error">Παρουσιάστηκε σφάλμα στη δημιουργία αρχείων ήχου</string>
+  <string name="message_search_depth_updated">Ενημερώθηκε το βάθος αναζήτησης</string>
+  <string name="message_search_depth_error">Σφάλμα κατά την ενημέρωση βάθος αναζήτησης</string>
+  <string name="message_load_complete">Αρχείο ήχου λεπτομέρειες έχουν φορτωθεί</string>
+  <string name="message_load_error">Παρουσιάστηκε σφάλμα κατά τη φόρτωση του ήχου</string>
+  <string name="message_extract_duration_reduced"> Μειώθηκε η τελευταία διάρκεια του αρχείου ήχου, καθώς είχε φτάσει το τέλος του ήχου </string>
+  <string name="message_extract_incomplete"> %1$ d αρχεία ήχου δεν θα μπορούσε να δημιουργηθεί ή έχουν ελλιπείς πληροφορίες</string>
+  <string name="message_extract_signature">Αποστέλλονται μέσω ήχου Τρίφτης από coju.mobi™</string>
+</resources>

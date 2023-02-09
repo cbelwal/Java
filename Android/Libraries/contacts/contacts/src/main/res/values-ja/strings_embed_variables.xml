@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_bt_connected">デバイスに接続されています。
+        \'Send\ を押して \' に連絡先を転送します。</string>
+  <string name="message_bt_conn_failed">デバイスへの接続が失敗しました。
+    このアプリがインストールされ、Bluetooth の画面で開いていることを確認してください。</string>
+  <string name="message_bt_sent_error">連絡先のこれらの数を転送できませんでした。</string>
+  <string name="message_bt_recv_error">これらの数の連絡先を作成できませんでした。</string>
+  <string name="message_bt_create_complete">受信した連絡先が作成されます。</string>
+  <string name="message_bt_sent_complete">デバイスに送信される連絡先:</string>
+  <string name="progressbar_bt_send_data">ユニークな連絡先を転送します。</string>
+  <string name="progressbar_bt_bytes">バイト</string>
+  <string name="progressbar_bt_create_contacts">作成する連絡先 (画像との接触より多くの時間を要求する)</string>
+  <string name="message_free_version_selection">無料版で選択できる連絡先の上限は次のとおりです。</string>
+  <string name="progressbar_delete_data">ユニークな連絡先を削除します。</string>
+</resources>

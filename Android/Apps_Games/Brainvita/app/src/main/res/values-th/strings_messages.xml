@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">ขอแสดงความยินดี คุณได้รับคะแนนสูง</string>
+  <string name="message_game_end_new_game">เกมปัจจุบันขึ้นอยู่ คุณจะต้องการเริ่มเกมใหม่</string>
+  <string name="message_custom_board">แตะบนหลุมที่ว่างเปล่าเพื่อก้าวหมุดตอก แตะปุ่มล็อคเมื่อเสร็จสมบูรณ์</string>
+  <string name="message_custom_board_done">กระดานแบบกำหนดเองมีการติดตั้ง คุณสามารถเริ่มเล่น
+    หมายเหตุให้คะแนนสูงสำหรับบอร์ดแบบกำหนดเองจะไม่ถูกบันทึก</string>
+  <string name="message_intro_first">
+        ย้ายหมุดตอกไปที่หลุมพร้อมใช้งานเป็นเส้นตรงที่กระโดดผ่านหมุดอีก
+    </string>
+  <string name="message_intro_second">เอาหมุดฝอ</string>
+  <string name="message_intro_third">พยายามที่จะเอาครูมากที่สุด</string>
+  <string name="message_intro_fourth">ได้รับหมุด 1 เท่านั้นที่เหลือเป็นเป้าหมาย</string>
+  <string name="message_board_reset_confirm">นี้จะยกเลิกคณะกรรมการปัจจุบัน คุณต้องการดำเนินการ</string>
+  <string name="message_game_over">ไม่มีการเคลื่อนไหวที่เป็นไปได้ เกมขึ้นอยู่</string>
+  <string name="message_solver_complete">Solver ได้คำนวณการเคลื่อนไหวที่นำไปสู่จำนวนขั้นต่ำ pegs.\n\nUse ปุ่มไปข้างหน้าเพื่อดูย้ายคณะ</string>
+  <string name="message_solver_complete_free">Solver ได้คำนวณการเคลื่อนไหวที่นำไปสู่จำนวนขั้นต่ำของครู ตั้งแต่นี้เป็นรุ่นฟรี solver สามารถหาทางแก้ไขที่นำไปสู่อย่างน้อย 3 ตัวเท่านั้น ในรุ่นจ่าย solver สามารถค้นหาวิธีการแก้ปัญหา ด้วย 1 peg.\n\nUse ปุ่มไปข้างหน้าเพื่อดูย้ายคณะ
+    </string>
+  <string name="message_solver_complete_title">พบโซลูชันกับครู: </string>
+  <string name="message_solver_inprogress_title">ค้นหาโซลูชัน...</string>
+  <string name="message_solver_inprogress">จำนวน: peg ต่ำสุดปัจจุบัน </string>
+  <string name="message_solver_start_confirm">ขึ้นอยู่กับคณะกรรมการปัจจุบัน Solver อาจใช้เวลาหลายนาทีในการคำนวณการแก้ปัญหากับครูน้อยจำนวนไม่กี่วินาที
+    เนื่องจาก Solver ไม่ประมวลผลจำนวนมาก มันจะใช้พลังงานแบตเตอรี่
+        ขอแนะนำว่า คุณวางโทรศัพท์บนค่าธรรมเนียมก่อนเริ่ม solver
+    ขณะเรียกใช้ Solver สามารถหยุดได้ทุกเมื่อ และตรึงแล้วจะใช้ได้</string>
+  <string name="message_solver_mode_play_board">
+        ไม่สามารถเล่นเกมในโหมด solver เลือกใหม่เกมเริ่มต้นเกมใหม่</string>
+  <string name="message_confirm_switch_from_standard">
+        คณะกรรมการปัจจุบันถูกกำหนดเป็นมาตรฐาน คุณต้องการเปลี่ยนคณะกรรมการฝรั่งเศส</string>
+  <string name="message_confirm_switch_from_French">
+        ตั้งคณะกรรมการปัจจุบันเป็นฝรั่งเศส คุณต้องการเปลี่ยนคณะกรรมการมาตรฐาน</string>
+</resources>

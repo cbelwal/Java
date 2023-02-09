@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">Permainan baru</string>
+  <string name="button_switch_board">Beralih papan</string>
+  <string name="button_custom_board">Mengatur papan kustom</string>
+  <string name="button_high_scores">Skor tinggi</string>
+  <string name="button_rate_app">Tingkat ini permainan</string>
+  <string name="button_tell_a_friend">Beritahu teman</string>
+  <string name="button_paid_version">Versi dibayar</string>
+  <string name="button_help_documentation">Dokumentasi Bantuan</string>
+  <string name="button_demo_video">Demo Video</string>
+  <string name="button_ok">Oke</string>
+  <string name="button_yes">Ya</string>
+  <string name="button_no">Tidak</string>
+  <string name="button_start">Mulai</string>
+  <string name="button_cancel">Batal</string>
+  <string name="button_abort">Batalkan</string>
+  <string name="button_high_score_close">Tutup</string>
+  <string name="title_high_score">Atas sepuluh tinggi Skor</string>
+  <string name="text_high_score_none">Skor tidak</string>
+  <string name="text_high_score_pegs">Peg(s) tersisa</string>
+  <string name="text_high_score_time">Waktu</string>
+</resources>

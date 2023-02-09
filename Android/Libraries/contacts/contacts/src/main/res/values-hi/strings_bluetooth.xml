@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">चयनित संपर्कों की संख्या: </string>
+  <string name="text_bt_paired_devices"> युग्मित डिवाइस (कनेक्ट करने के लिए चयन करें)</string>
+  <string name="text_bt_new_devices"> नए डिवाइस (कनेक्ट करने के लिए चयन करें)</string>
+  <string name="message_bt_scan_devices">डिवाइसेज़ के लिए स्कैनिंग.. ।</string>
+  <string name="message_bt_scan_complete">डिवाइस के लिए स्कैन समाप्त</string>
+  <string name="message_bt_pair_devices">डिवाइस पेयर कर रहा है.. ।</string>
+  <string name="message_bt_new_none">कोई नया डिवाइस नहीं मिला</string>
+  <string name="message_bt_pair_none">नहीं जोड़े गए डिवाइस मिले</string>
+  <string name="message_bt_conn_lost">डिवाइस के लिए कनेक्शन खो गया</string>
+  <string name="message_bt_connecting">इससे कनेक्ट हो रहा है: </string>
+  <string name="message_bt_not_enabled">ब्लूटूथ सक्षम नहीं, ब्लूटूथ स्थानांतरण बंद</string>
+  <string name="message_bt_status_listening">सुन...</string>
+  <string name="message_bt_status_connecting">जोड़ने...</string>
+  <string name="message_bt_status_connected">जुड़ा</string>
+  <string name="message_bt_testdata_sent">Testdata भेजा</string>
+  <string name="message_bt_no_contacts">कोई संपर्क भेजने के लिए चयनित नहीं</string>
+  <string name="message_bt_recv_complete">डेटा पूर्ण प्राप्त करें</string>
+  <string name="message_bt_not_connected">किसी भी डिवाइस से कनेक्टेड नहीं</string>
+  <string name="message_bt_adapter_error">ब्लूटूथ सेट करने में कोई त्रुटि थी ।
+            अपने फोन ब्लूटूथ है और ब्लूटूथ एडाप्टर सक्षम है, तो कृपया जाँच करें</string>
+  <string name="menu_bt_make_discoverable">डिवाइस खोज योग्य बनाएं</string>
+  <string name="progressbar_bt_recv_data">संपर्क डेटा प्राप्त करने के लिए तैयार.. ।</string>
+  <string name="message_bt_startup">सुनिश्चित करें कि एक ही अनुप्रयोग चल रहा है और यह स्क्रीन अन्य डिवाइस में खुला</string>
+</resources>

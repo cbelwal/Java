@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_ep_file_name">Nama file:</string>
+  <string name="text_ep_file_size">Ukuran:</string>
+  <string name="text_ep_modified_date">Tanggal dimodifikasi:</string>
+  <string name="text_ep_video_duration">Durasi:</string>
+  <string name="title_search_depth">Tingkatan pencarian (nilai-nilai besar akan mengambil beberapa menit)</string>
+  <string name="nav_menu_search_entire_phone">Cari seluruh telepon</string>
+  <string name="nav_menu_search_media_folders">Cari media folder</string>
+  <string name="nav_menu_search_external_folders">Folder pencarian eksternal</string>
+  <string name="progressbar_extracting_pictures">Mengekstrak gambar...</string>
+  <string name="text_ep_time_start">Mulai time(seconds)</string>
+  <string name="text_ep_period">Interval antara pictures(seconds)</string>
+  <string name="text_ep_no_of_pictures">Jumlah gambar</string>
+  <string name="text_ep_store">Menyimpan gambar yang diambil sebagai:</string>
+  <string name="text_ep_share_external">Tempatkan dalam folder eksternal</string>
+  <string name="text_ep_share_app">Berbagi menggunakan aplikasi</string>
+  <string name="message_extract_complete"> gambar yang telah diekstrak</string>
+  <string name="message_extract_error">Kesalahan ditemukan dalam penggalian gambar</string>
+  <string name="message_search_depth_updated">Tingkatan pencarian Diperbarui</string>
+  <string name="message_search_depth_error">Kesalahan dalam memperbarui kedalaman pencarian</string>
+</resources>

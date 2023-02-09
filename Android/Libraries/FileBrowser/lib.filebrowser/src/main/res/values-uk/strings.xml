@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="general_items">пункт (и)</string>
+  <string name="general_selected_items">вибрані</string>
+  <string name="general_error">Помилка</string>
+  <string name="title_confirm">Підтвердити</string>
+  <string name="button_ok">Гаразд</string>
+  <string name="button_cancel">\"Скасувати\"</string>
+  <string name="free_space">Всього вільного місця:</string>
+  <string name="title_share">Спільний доступ за допомогою:</string>
+  <string name="title_rename">Введіть нове ім\'я  </string>
+  <string name="title_create_folder">Введіть ім\'я папки  </string>
+</resources>

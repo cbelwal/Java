@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">Starea</string>
+  <string name="filter_text_option">Opţiuni</string>
+  <string name="filter_text_value_days">Zile</string>
+  <string name="filter_text_value_duration">Duration(s)</string>
+  <string name="filter_text_value_location">Locaţie</string>
+  <string name="filter_options_from_stored_contacts">La contactele stocate</string>
+  <string name="filter_options_more_than_entered_days">Mai mult de zile</string>
+  <string name="filter_options_less_than_entered_days">La mai puţin de zile</string>
+  <string name="filter_options_more_than_duration">Durată mai mare</string>
+  <string name="filter_options_less_than_duration">Mai mică decât durata</string>
+  <string name="filter_options_from_entered_location">La locatie</string>
+  <string name="filter_options_none">Nici un filtru</string>
+  <string name="filter_show_show">Arată</string>
+  <string name="filter_show_noshow">Nu prezintă</string>
+</resources>

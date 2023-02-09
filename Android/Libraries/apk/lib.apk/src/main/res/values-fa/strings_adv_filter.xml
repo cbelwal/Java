@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">نصب شده در 30 روز گذشته</string>
+  <string name="filter_adv_options_security_inappbilling">در نرم افزار صدور صورت حساب است</string>
+  <string name="filter_adv_options_security_readsms">اس ام اس می توانید بخوانید</string>
+  <string name="filter_adv_options_security_sendsms">اس ام اس ارسال می</string>
+  <string name="filter_adv_options_security_readcontacts">مخاطبین می توانید بخوانید</string>
+  <string name="filter_adv_options_security_readcalllog">ورود به سیستم تماس می توانید بخوانید</string>
+  <string name="filter_adv_options_security_readcalender">تقویم می توانید بخوانید</string>
+  <string name="filter_adv_options_security_writeexternalstorage">می توانید نوشتن به ذخیره سازی خارجی</string>
+  <string name="filter_adv_options_security_camera">می توانید دسترسی به دوربین</string>
+  <string name="filter_adv_options_security_mic">می توانید صدا را ضبط</string>
+  <string name="filter_adv_options_security_location">می توانید دسترسی به محل شما</string>
+  <string name="filter_adv_options_filter">فعال کردن امنیت Filter(s)</string>
+  <string name="filter_main_text">فیلتر گزینه های امنیتی (تنها برنامه تطبیق هر یک از این معیار را نمایش داده شود):</string>
+  <string name="activity_security_filter">نمایش نرم افزارهای مخرب فیلتر</string>
+</resources>

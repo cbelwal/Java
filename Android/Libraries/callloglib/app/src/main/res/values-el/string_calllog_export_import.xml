@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_browse">Αναζήτηση</string>
+  <string name="backup_options_backupusing">Backup χρησιμοποιώντας</string>
+  <string name="export_options_externalStorage">Εξωτερική συσκευή αποθήκευσης της συσκευής αυτής</string>
+  <string name="share_options_shareas">Κοινή χρήση ως:</string>
+  <string name="share_options_allshare">Κοινή χρήση εφαρμογών (Cloud, Email,...)</string>
+  <string name="share_options_share_using">Μοιραστείτε χρησιμοποιώντας:</string>
+  <string name="share_options_sms">Ανταλλαγή μηνυμάτων</string>
+  <string name="share_options_clipboard">Αντιγραφή στο Πρόχειρο</string>
+  <string name="export_options_ExportUsing">Αποθηκεύστε το αρχείο:</string>
+  <string name="progressbar_prepare_data">Προετοιμασία λίστα καταγραφής κλήσεων...</string>
+  <string name="progressbar_backup">Δημιουργία αντιγράφων ασφαλείας αρχείο καταγραφής κλήσεων, αυτό μπορεί να διαρκέσει αρκετά λεπτά...</string>
+  <string name="backup_options_using">Αποθηκεύστε το αρχείο αντιγράφου ασφαλείας στο:</string>
+  <string name="menu_import_help">Βοήθεια</string>
+  <string name="text_import_file_name">Επιλεγμένες όνομα του αρχείου:</string>
+  <string name="text_import_file_size">Επιλεγμένο αρχείο Size(bytes):</string>
+  <string name="text_unknown_file_size">Άγνωστο</string>
+  <string name="message_backup_options">Συνιστάται η δημιουργία αντιγράφων ασφαλείας σε κοινόχρηστο στοιχείο εφαρμογές σαν σύννεφο, Email κλπ.
+        Αυτό θα σας επιτρέψει να ανακτήσετε το αρχείο καταγραφής κλήσεων, εάν χάσετε το τηλέφωνό σας.
+        Για να επαναφέρετε τις επαφές από Email/Cloud με μη αυτόματο τρόπο Αποθήκευση το κλήση αντιγράφων ασφαλείας αρχείο καταγραφής από το λογαριασμό σας ηλεκτρονικού ταχυδρομείου/Cloud σε οποιαδήποτε θέση σε αυτήν τη συσκευή. Το βοηθητικό πρόγραμμα εισαγωγής/επαναφορά τότε θα εντοπίσει αυτόματα το αρχείο.</string>
+  <string name="message_importing_contacts">Εισαγωγή καταγραφές κλήσεων...</string>
+  <string name="message_reading_import_file">Ανάγνωση αρχείου, αυτό μπορεί να διαρκέσει αρκετά λεπτά...</string>
+  <string name="export_options_plain_text">Απλού κειμένου</string>
+  <string name="export_options_indv_clm">Επιμέρους CLM αρχείου(ων)</string>
+  <string name="export_options_combined_clm">Συνδυασμένο αρχείο CLM </string>
+  <string name="export_generated_footer">Που παράγεται μέσω Coju διαχείριση αρχείου καταγραφής κλήσεων</string>
+  <string name="export_sent_footer">Δημιουργείται μέσω Διαχείριση αρχείου καταγραφής κλήσεων</string>
+  <string name="export_generated_header">Καταχώρηση αρχείου καταγραφής κλήσεων</string>
+  <string name="message_clipboard_copy">Αντιγράφονται στο Πρόχειρο</string>
+  <string name="message_exporting_calllog">Εξαγωγή επαφών...</string>
+  <string name="message_exporting_calllog_ready">Ετοιμάζεται για να εξαγάγετε επαφές...</string>
+  <string name="message_exporting_calllog_write_file">Γράφοντας αρχείου(ων)...</string>
+  <string name="message_import_help">Μόνο το αρχείο που δημιουργείται από αυτήν την εφαρμογή (*. Αρχεία CLM) μπορούν να εισαχθούν</string>
+  <string name="message_import_invalid_file">Όχι ένα αρχείο καταγραφής κλήσεων ισχύει</string>
+  <string name="message_importing_complete">καταγραφές κλήσεων που εισάγονται</string>
+  <string name="message_restore_complete">Καλέστε καταχωρήσεις του αρχείου καταγραφής επαναφορά από αντίγραφο ασφαλείας</string>
+  <string name="message_restore_fail">
+        Δεν θα μπορούσε να επαναφορά από αντίγραφο ασφαλείας, το αρχείο αντιγράφου ασφαλείας είναι λείπει ή είναι κατεστραμμένο
+                </string>
+  <string name="message_backup_stored_freeversion">
+        Ελεύθερη έκδοση επιτρέπει μόνο στήριγμα μέχρι 9 κλήση καταγραφές.
+        Κλήση καταγραφές έχουν ήδη αντίγραφα σε αρχείο:
+    </string>
+  <string name="message_backup_failed">
+        Απέτυχε η αποθήκευση αντιγράφων ασφαλείας αρχείων, παρακαλώ προσπαθήστε ξανά. Εάν δεν επιλυθεί το πρόβλημα, αναφέρετε πρόβλημα σε εκδότης της εφαρμογής χρησιμοποιώντας την επιλογή ανάδραση σε αυτό το app.
+    </string>
+  <string name="message_restore_selection_finish">
+        Κούτσουρα κλήσης αντιγράφων ασφαλείας έχουν αποκατασταθεί
+    </string>
+  <string name="message_clm_file_not_found">
+        Καμία διαχείριση αρχείου καταγραφής κλήσεων (*. CLM) αρχεία που βρίσκονται σε αυτήν τη συσκευή
+    </string>
+  <string name="message_backup_file_not_found">
+        Χωρίς δημιουργία αντιγράφων ασφαλείας αρχείων, βρέθηκαν σε αυτή τη συσκευή
+    </string>
+  <string name="message_backup_stored">Επαφές έχουν ήδη αντίγραφα σε αρχείο:</string>
+  <string name="message_save_external">Κλήσεων αποθηκεύονται σε εξωτερικό φάκελο: </string>
+  <string name="message_loading_files">Αναζήτηση τοπικών φακέλων...</string>
+  <string name="message_loading_backup_files">Αναζήτηση συσκευής αντιγράφων ασφαλείας αρχείων...</string>
+  <string name="message_backup_freeversion">
+        Μέγιστος αριθμός αρχείων καταγραφής κλήσεων που μπορούν να αντιγραφούν σε αυτή την δωρεάν έκδοση είναι:
+    </string>
+  <string name="message_backup_paidversion">
+        Όλα τα αρχεία καταγραφής κλήσεων έχουν δημιουργηθεί αντίγραφα με επιτυχία σε ένα αρχείο
+    </string>
+</resources>

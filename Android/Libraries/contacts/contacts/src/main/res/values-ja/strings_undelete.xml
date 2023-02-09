@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_undelete_confirm">選択した連絡先は削除されません。続行するかどうかを確認してください。</string>
+  <string name="message_undelete_complete">連絡先の削除の取り消し</string>
+  <string name="message_undelete_notice">このオプションは、連絡先を削除することができ、お使いのデバイスや Android のバージョンの製造元に依存を一覧表示されます。連絡先はできません連絡先が数時間前に削除されたデバイスが許可されていない場合は復元、または SIM カードから連絡先が削除されました。</string>
+  <string name="message_undelete_option_invalid">このオプションは削除された連絡先を無効</string>
+  <string name="message_undelete_help">連絡先を選択して右上で削除の取り消しアイコンを使用して、それらを元に戻す</string>
+  <string name="progressbar_undelete_data">削除の取り消しの連絡先</string>
+  <string name="action_undelete">連絡先を元に戻す</string>
+  <string name="button_understand">分かりました</string>
+  <string name="title_disclaimer">免責事項</string>
+  <string name="title_no_undelete_found">すみません！</string>
+  <string name="message_no_undelete_found">我々 は申し訳ありませんが、回復可能な削除された連絡先が見つかりませんでした!Android の開発者は、Google によって提案された手動の方法を使用してそれらを回復しようとすることができます。
+        手動リカバリの指示を持っている Google のサポート web ページを訪問するでしょうか?
+    </string>
+</resources>

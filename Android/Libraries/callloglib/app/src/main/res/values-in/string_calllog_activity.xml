@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_add_call_log">Tambahkan</string>
+  <string name="activity_edit_call_log">Mengedit</string>
+  <string name="activity_share_call_log">Berbagi</string>
+  <string name="activity_export_call_log">Ekspor</string>
+  <string name="activity_import_call_log">Impor</string>
+  <string name="activity_bluetooth_call_log">Bluetooth Transfer</string>
+  <string name="activity_backup_call_log">Cadangan</string>
+  <string name="activity_restore_call_log">Mengembalikan</string>
+  <string name="activity_filter_call_log">Penyaring Display</string>
+</resources>

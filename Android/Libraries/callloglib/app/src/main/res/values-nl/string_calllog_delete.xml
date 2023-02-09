@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_delete_confirm_cl">Geselecteerde gespreksdetails logboekbestanden worden verwijderd. Deze actie kan niet ongedaan worden gemaakt. Wilt u doorgaan?</string>
+  <string name="message_delete_complete_cl"> Call logboekbestanden gegevens verwijderd</string>
+</resources>

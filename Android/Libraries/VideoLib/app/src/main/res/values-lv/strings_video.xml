@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Video rīve</string>
+  <string name="app_name_small">VideoGrater</string>
+  <string name="activity_extract_pictures">Izgūt attēlus</string>
+  <string name="button_Select_All">Atlasīt visu</string>
+  <string name="button_UnSelect_All">Un atlasiet visas</string>
+  <string name="button_Delete">Dzēst</string>
+  <string name="button_Update">Atjaunināšana</string>
+  <string name="button_Share">Akciju</string>
+  <string name="button_Yes">jā</string>
+  <string name="button_No">nē</string>
+  <string name="button_apply">Piemērot</string>
+  <string name="button_browse">Pārlūkot</string>
+  <string name="button_close">Aizveriet</string>
+  <string name="button_Confirm">Apstipriniet</string>
+  <string name="button_Ok">labi</string>
+  <string name="text_import_file_name">vārds</string>
+  <string name="text_import_file_size">Lielums</string>
+  <string name="general_items">vienumu (s)</string>
+  <string name="general_selected_items">atlasīts</string>
+  <string name="general_error">Kļūda</string>
+  <string name="title_confirm">Apstipriniet</string>
+  <string name="button_ok">labi</string>
+  <string name="button_cancel">Atcelt</string>
+  <string name="free_space">Kopējais brīvās vietas:</string>
+  <string name="title_share">Koplietot, izmantojot:</string>
+  <string name="title_rename">Ievadiet jauno nosaukumu  </string>
+  <string name="title_create_folder">Ievadiet mapes nosaukumu  </string>
+</resources>

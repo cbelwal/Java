@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_new_game">Nouveau jeu</string>
+  <string name="button_switch_board">Carte de commutateur</string>
+  <string name="button_custom_board">Conseil personnalisé Set</string>
+  <string name="button_high_scores">Meilleurs Scores</string>
+  <string name="button_rate_app">Noter le jeu</string>
+  <string name="button_tell_a_friend">Dites-le à un ami</string>
+  <string name="button_paid_version">Version payante</string>
+  <string name="button_help_documentation">La documentation d’aide</string>
+  <string name="button_demo_video">Vidéo de démonstration</string>
+  <string name="button_ok">Bien</string>
+  <string name="button_yes">Oui</string>
+  <string name="button_no">Non</string>
+  <string name="button_start">Début</string>
+  <string name="button_cancel">Annuler</string>
+  <string name="button_abort">Abandonner.</string>
+  <string name="button_high_score_close">Fermer</string>
+  <string name="title_high_score">Top Ten High Scores</string>
+  <string name="text_high_score_none">Aucun Score</string>
+  <string name="text_high_score_pegs">Peg(s) restants</string>
+  <string name="text_high_score_time">Temps</string>
+</resources>

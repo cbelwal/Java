@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_text_condition">Villkor</string>
+  <string name="filter_text_option">Alternativ</string>
+  <string name="filter_text_value_days">Dagar</string>
+  <string name="filter_text_value_duration">Duration(s)</string>
+  <string name="filter_text_value_location">Läge</string>
+  <string name="filter_options_from_stored_contacts">Från lagrade kontakter</string>
+  <string name="filter_options_more_than_entered_days">Mer än dagar</string>
+  <string name="filter_options_less_than_entered_days">Mindre än dagar</string>
+  <string name="filter_options_more_than_duration">Mer än varaktighet</string>
+  <string name="filter_options_less_than_duration">Kortare löptid än</string>
+  <string name="filter_options_from_entered_location">Från läge</string>
+  <string name="filter_options_none">Inget Filter</string>
+  <string name="filter_show_show">Visa</string>
+  <string name="filter_show_noshow">Visa inte</string>
+</resources>

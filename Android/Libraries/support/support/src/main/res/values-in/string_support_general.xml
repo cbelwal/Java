@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="company_name">Dasmic, LLC</string>
+  <string name="feedback_no_email">Klien email tidak ditemukan</string>
+  <string name="button_yes">Ya</string>
+  <string name="button_no">Tidak</string>
+  <string name="nav_menu_help_doc">Dokumentasi Bantuan</string>
+  <string name="button_rate_never">Tidak pernah</string>
+  <string name="button_rate_later">Kemudian</string>
+  <string name="button_rate_now">Sekarang</string>
+  <string name="title_rate_this_app">Silahkan menilai aplikasi ini</string>
+  <string name="title_feedback">Pilih pilihan email...</string>
+  <string name="title_demo_video">Demo Video</string>
+  <string name="title_tellafriend">Beritahu teman melalui...</string>
+  <string name="title_send_feedback">Hubungi kami</string>
+  <string name="title_rate_app">Tingkat app</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_high_score">बधाई हो, तुम एक उच्च स्कोर मिल गया!</string>
+  <string name="message_game_end_new_game">ऊपर वर्तमान खेल है! आप एक नया खेल शुरू करने के लिए पसंद करेंगे?</string>
+  <string name="message_custom_board">एक पेग गति करने के लिए खाली छेद पर टैप करें। जब पूरा लॉक बटन टैप करें</string>
+  <string name="message_custom_board_done">कस्टम बोर्ड सेटअप है, तुम खेल शुरू कर सकते हैं।
+    ध्यान दें कि कस्टम बोर्डों के लिए उच्च स्कोर दर्ज नहीं कर रहे हैं</string>
+  <string name="message_intro_first">
+        एक उपलब्ध छेद में एक सीधी रेखा पर एक और खूंटी कूद करने के लिए एक खूंटी ले जाएँ
+    </string>
+  <string name="message_intro_second">खूंटी पर कूद निकाल दिया जाता है</string>
+  <string name="message_intro_third">संभव के रूप में रूप में कई खूंटे को निकालने के लिए प्रयास करें</string>
+  <string name="message_intro_fourth">हो रही है केवल 1 खूंटी शेष लक्ष्य है</string>
+  <string name="message_board_reset_confirm">यह वर्तमान बोर्ड रद्द हो जाएगा। क्या आप आगे बढ़ना चाहते हैं?</string>
+  <string name="message_game_over">और अधिक चालें नहीं संभव हो रहे हैं। ऊपर खेल है!</string>
+  <string name="message_solver_complete">सॉल्वर को कदमों कि बोर्ड ले जाता है, यह देखने के लिए आगे बटन करने के लिए pegs.\n\nUse की एक न्यूनतम संख्या नेतृत्व परिकलित है।</string>
+  <string name="message_solver_complete_free">सॉल्वर चलता है कि नेतृत्व करने के लिए खूंटे की एक न्यूनतम संख्या परिकलित है। चूंकि यह एक मुक्त संस्करण है, सॉल्वर केवल 3 खूंटे की एक न्यूनतम करने के लिए अग्रणी समाधान ढूँढ सकते हैं। भुगतान किया संस्करण में सॉल्वर बोर्ड ले जाता है, यह देखने के लिए आगे बटन 1 peg.\n\nUse के साथ एक समाधान ढूँढ सकते हैं।
+    </string>
+  <string name="message_solver_complete_title">खूंटे के साथ समाधान पाया: </string>
+  <string name="message_solver_inprogress_title">समाधान के लिए खोज...</string>
+  <string name="message_solver_inprogress">वर्तमान न्यूनतम खूंटी गणना: </string>
+  <string name="message_solver_start_confirm">वर्तमान बोर्ड के आधार पर, सॉल्वर कुछ सेकंड के लिए कम से कम संख्या के खूंटे के साथ एक समाधान कंप्यूटिंग में कई मिनट लग सकते हैं।
+    के बाद से सॉल्वर संगणना की एक बहुत कुछ करता है, यह बैटरी पावर गिरेगा।
+        यह सलाह दी जाती है कि सॉल्वर शुरू करने से पहले आरोप पर अपने फ़ोन रखा।
+    जबकि सॉल्वर चलने किसी भी समय बंद कर सकते हैं और नवीनतम खूंटी परिणाम उपलब्ध हो जाएगा।</string>
+  <string name="message_solver_mode_play_board">
+        सॉल्वर मोड में खेल खेल सकते हैं। नया खेल एक नया खेल शुरू करने के लिए का चयन करें</string>
+  <string name="message_confirm_switch_from_standard">
+        वर्तमान बोर्ड करने के लिए मानक निर्धारित किया है, क्या आप फ्रेंच बोर्ड करने के लिए परिवर्तित करने के लिए चाहते हैं?</string>
+  <string name="message_confirm_switch_from_French">
+        वर्तमान बोर्ड फ्रेंच के लिए सेट है, आप मानक बोर्ड करने के लिए परिवर्तित करने के लिए चाहते हैं?</string>
+</resources>

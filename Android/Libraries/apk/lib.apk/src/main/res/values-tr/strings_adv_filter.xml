@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="filter_adv_options_installed_last_30_days">Son 30 gün içinde yüklenmiş</string>
+  <string name="filter_adv_options_security_inappbilling">In-uygulama fatura vardır</string>
+  <string name="filter_adv_options_security_readsms">SMS okuyabilirsiniz</string>
+  <string name="filter_adv_options_security_sendsms">SMS gönderebilirsiniz</string>
+  <string name="filter_adv_options_security_readcontacts">Kişiler okuyabilirsiniz</string>
+  <string name="filter_adv_options_security_readcalllog">Arama kaydı okuyabilirsiniz</string>
+  <string name="filter_adv_options_security_readcalender">Takvim okuyabilirsiniz</string>
+  <string name="filter_adv_options_security_writeexternalstorage">Harici depolama için yazabilirsiniz</string>
+  <string name="filter_adv_options_security_camera">Kamera erişebilirsiniz</string>
+  <string name="filter_adv_options_security_mic">Ses kaydedebilirsiniz</string>
+  <string name="filter_adv_options_security_location">Konumunuzu erişebilirsiniz</string>
+  <string name="filter_adv_options_filter">Güvenlik filtreleri etkinleştirme</string>
+  <string name="filter_main_text">Güvenlik Filtresi seçenekleri (sadece Apps bu ölçütü herhangi biri-ecek var olmak göstermek eşleme):</string>
+  <string name="activity_security_filter">Kötü amaçlı yazılım görüntü filtresi</string>
+</resources>

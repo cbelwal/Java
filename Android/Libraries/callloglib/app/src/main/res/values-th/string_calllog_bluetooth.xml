@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="text_bt_number_of_contacts">จำนวนล็อกโทรที่เลือก: </string>
+  <string name="text_bt_paired_devices"> อุปกรณ์ที่จับคู่ (เลือกการเชื่อมต่อ)</string>
+  <string name="text_bt_new_devices"> อุปกรณ์ใหม่ (เลือกการเชื่อมต่อ)</string>
+  <string name="message_bt_scan_devices">การสแกนอุปกรณ์...</string>
+  <string name="message_bt_scan_complete">การสแกนเสร็จสิ้นแล้วสำหรับอุปกรณ์</string>
+  <string name="message_bt_pair_devices">จับคู่อุปกรณ์...</string>
+  <string name="message_bt_new_none">ไม่พบอุปกรณ์ใหม่</string>
+  <string name="message_bt_pair_none">ไม่พบอุปกรณ์ที่จับคู่</string>
+  <string name="message_bt_conn_lost">การเชื่อมต่อกับอุปกรณ์</string>
+  <string name="message_bt_connecting">การเชื่อมต่อ: </string>
+  <string name="message_bt_not_enabled">ไม่เปิดใช้งาน Bluetooth ปิด Bluetooth โอน</string>
+  <string name="message_bt_status_listening">ฟัง...</string>
+  <string name="message_bt_status_connecting">การเชื่อมต่อ...</string>
+  <string name="message_bt_status_connected">การเชื่อมต่อ</string>
+  <string name="message_bt_testdata_sent">ส่ง Testdata</string>
+  <string name="message_bt_no_contacts">ไม่มีผู้ติดต่อที่เลือกการส่ง</string>
+  <string name="message_bt_recv_complete">ได้รับข้อมูลที่สมบูรณ์</string>
+  <string name="message_bt_not_connected">ไม่เชื่อมต่อกับอุปกรณ์ใด ๆ</string>
+  <string name="message_bt_adapter_error">มีข้อผิดพลาดการตั้งค่าบลูทูธได้
+            โปรดตรวจสอบว่า โทรศัพท์ของคุณมีบลูทูธ และเปิดใช้งานอะแดปเตอร์ Bluetooth</string>
+  <string name="menu_bt_make_discoverable">ทำให้อุปกรณ์สามารถค้นพบได้</string>
+  <string name="progressbar_bt_recv_data">พร้อมที่จะรับข้อมูลติดต่อ...</string>
+  <string name="message_bt_connected">เชื่อมต่อกับอุปกรณ์
+        กด \'Send\' การถ่ายโอนล็อกโทรไป: </string>
+  <string name="message_bt_conn_failed">การอุปกรณ์การเชื่อมต่อล้มเหลว
+    โปรดมั่นใจว่า มีการติดตั้ง app นี้ และหน้าจอ Bluetooth เปิดอยู่: </string>
+  <string name="message_bt_sent_error">สามารถโอนจำนวนเหล่านี้เรียกล็อก: </string>
+  <string name="message_bt_recv_error">ไม่สามารถสร้างล็อกโทรเลขเหล่านี้: </string>
+  <string name="message_bt_create_complete">ล็อกการโทรได้รับสร้างขึ้น: </string>
+  <string name="message_bt_sent_complete">ส่งไปยังอุปกรณ์ล็อกโทร: </string>
+  <string name="progressbar_bt_send_data">ถ่ายโอนล็อกโทร </string>
+  <string name="progressbar_bt_bytes">ไบต์ </string>
+  <string name="progressbar_bt_create_contacts">สร้างล็อกโทร</string>
+  <string name="progressbar_delete_data">
+        ลบล็อกการโทร </string>
+  <string name="button_scan">การสแกน</string>
+  <string name="button_send">ส่ง</string>
+</resources>
